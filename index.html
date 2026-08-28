@@ -80,7 +80,7 @@ a:hover { color:var(--red); text-decoration:underline; }
 @keyframes ringIn { from {opacity:0; transform:scale(.6);} to {opacity:1; transform:scale(1);} }
 @keyframes growBarX { from {transform:scaleX(0);} to {transform:scaleX(1);} }
 .fade-up { animation:fadeUp .7s cubic-bezier(.16,1,.3,1) both; }
-.d1{animation-delay:.05s} .d2{animation-delay:.15s} .d3{animation-delay:.25s} .d4{animation-delay:.35s} .d5{animation-delay:.45s} .d6{animation-delay:.55s} .d7{animation-delay:.65s}
+.d1{animation-delay:.05s} .d2{animation-delay:.15s} .d3{animation-delay:.25s} .d4{animation-delay:.35s} .d5{animation-delay:.45s} .d6{animation-delay:.55s} .d7{animation-delay:.65s} .d8{animation-delay:.75s}
 .bubble-in { transform-box:fill-box; transform-origin:center; animation:bubbleIn .85s cubic-bezier(.22,1.4,.36,1) both; }
 .draw-in { stroke-dasharray:2400; stroke-dashoffset:2400; animation:drawLine 1.8s cubic-bezier(.16,1,.3,1) forwards; }
 .grow-bar { transform-box:fill-box; transform-origin:bottom; animation:growBar .7s cubic-bezier(.22,1,.36,1) both; }
@@ -164,6 +164,10 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
 .crm-legend-item.is-off { opacity:.42; }
 .crm-legend-item.is-off .crm-legend-swatch { background:var(--text-muted) !important; }
 .crm-legend-swatch { width:10px; height:10px; border-radius:50%; flex:none; transition:background-color .2s ease; }
+.crm-two-col { display:grid; grid-template-columns:1fr 1fr; gap:20px; margin-top:12px; }
+@media (max-width:860px) { .crm-two-col { grid-template-columns:1fr; } }
+.crm-subsection-label { font-size:11.5px; text-transform:uppercase; letter-spacing:.05em; color:var(--text-muted); font-weight:600; padding:16px 28px 4px; }
+.crm-yt-meta { font-size:12.5px; color:var(--text-muted); margin-top:4px; }
 .crm-limits { padding:16px 22px; margin-top:36px; display:flex; gap:12px; align-items:flex-start; }
 .crm-limits p { font-size:12.5px; line-height:1.6; color:var(--text-muted); margin:0; }
 .crm-limits strong { color:var(--text-secondary); }
@@ -179,7 +183,7 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
       <h1 class="crm-title crm-serif">Cambodia Reputation Monitor</h1>
       <p class="crm-subtitle">Cambodia's reputation as seen from outside — aggregated from world press coverage and search trends, not a domestic opinion barometer.</p>
     </div>
-    <div class="crm-updated">Last updated<br><strong>Aug 28, 2026, 14:59</strong></div>
+    <div class="crm-updated">Last updated<br><strong>Aug 28, 2026, 16:32</strong></div>
   </div>
   <div class="crm-wrap">
 
@@ -293,13 +297,27 @@ Tourism-related sentiment, specifically concerning &quot;Angkor Wat / Tourism,&q
       <div class="crm-card"><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--text-muted)"></span><div><div class="crm-feed-title">尺素跨山海 情义连家国 - 新华网</div><div class="crm-feed-meta"><span class="crm-pill">Cambodia</span><span>news.cn</span><span>·</span><span>08/28/2026</span></div></div></div><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--text-muted)"></span><div><div class="crm-feed-title">DTC World Repositions as a Creative Merchandise Company , Putting Campaign Objectives Before Product</div><div class="crm-feed-meta"><span class="crm-pill">Cambodia</span><span>portal.sina.com.hk</span><span>·</span><span>08/28/2026</span></div></div></div><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--text-muted)"></span><div><div class="crm-feed-title">中国绿色农药首登柬埔寨 ： 稻浪翻滚处 ， 竖起  一带一路  的大拇指</div><div class="crm-feed-meta"><span class="crm-pill">Chinese-language coverage</span><span>sxdaily.com.cn</span><span>·</span><span>08/28/2026</span></div></div></div><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--text-muted)"></span><div><div class="crm-feed-title">LUCY คอนเสิร์ต เตรียมพา WalWalE ไทยกลับสู่ LUCY ISLAND</div><div class="crm-feed-meta"><span class="crm-pill">Angkor Wat / Tourism</span><span>musicstation.kapook.com</span><span>·</span><span>08/28/2026</span></div></div></div><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--text-muted)"></span><div><div class="crm-feed-title">Thailand , Japan or Australia ? The travel destinations dividing Gen Z and Millennials</div><div class="crm-feed-meta"><span class="crm-pill">Angkor Wat / Tourism</span><span>euronews.com</span><span>·</span><span>08/27/2026</span></div></div></div></div>
     </div>
 
-    <div class="crm-limits fade-up d7">
-      <p><strong>Known limits.</strong> This score measures Cambodia's perception as seen from outside (world press + Google search) plus the Chinese state narrative — it does not capture domestic Khmer public opinion or domestic Chinese sentiment (Baidu, Weibo, WeChat). Local English-language press (Khmer Times, Phnom Penh Post) is out of scope by design. The pipeline started collecting recently, so history depth is still limited on some series — shown honestly rather than padded with placeholder data.</p>
+    <div class="crm-section fade-up d7">
+      <div class="crm-section-head"><h2 class="crm-h2 crm-serif">What people are saying</h2><span class="crm-section-note">r/cambodia + travel vlogs — spontaneous chatter, not press</span></div>
+      <div class="crm-two-col">
+        <div class="crm-card">
+          <div class="crm-subsection-label">r/cambodia, newest posts</div>
+          <div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--text-muted)"></span><div><div class="crm-feed-title"><a href="https://www.reddit.com/r/cambodia/comments/1w0itz6/where_to_find_original_cambodian_army_uniform/" target="_blank" rel="noopener">Where to find original Cambodian army uniform?</a></div><div class="crm-feed-meta"><span class="crm-pill">r/cambodia</span><span>08/28/2026</span></div></div></div><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--text-muted)"></span><div><div class="crm-feed-title"><a href="https://www.reddit.com/r/cambodia/comments/1w0ehnm/photographer_needed/" target="_blank" rel="noopener">Photographer needed!</a></div><div class="crm-feed-meta"><span class="crm-pill">r/cambodia</span><span>08/28/2026</span></div></div></div><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--red)"></span><div><div class="crm-feed-title"><a href="https://www.reddit.com/r/cambodia/comments/1w00dqn/anyone_else_tired_or_asean_racism/" target="_blank" rel="noopener">Anyone else tired or ASEAN racism?</a></div><div class="crm-feed-meta"><span class="crm-pill">r/cambodia</span><span>08/27/2026</span></div></div></div><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--text-muted)"></span><div><div class="crm-feed-title"><a href="https://www.reddit.com/r/cambodia/comments/1vzz9rs/cambodia_trip_2_weeks_advice_needed/" target="_blank" rel="noopener">Cambodia trip 2 weeks – advice needed</a></div><div class="crm-feed-meta"><span class="crm-pill">r/cambodia</span><span>08/27/2026</span></div></div></div><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--text-muted)"></span><div><div class="crm-feed-title"><a href="https://www.reddit.com/r/cambodia/comments/1vzx5xu/looking_to_move_from_us_to_live_and_work_in_phnom/" target="_blank" rel="noopener">Looking to move from US to live and work in Phnom Penh or Siem Reap with a wife, and two daughters. I have a Masters in Public Administration from San Jose State University and am interested in working for an international school or something similar.</a></div><div class="crm-feed-meta"><span class="crm-pill">r/cambodia</span><span>08/27/2026</span></div></div></div><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--text-muted)"></span><div><div class="crm-feed-title"><a href="https://www.reddit.com/r/cambodia/comments/1vzwz8u/khmer_letter_do_you_think_it_is_hard_to_learn/" target="_blank" rel="noopener">Khmer letter ,do you think it is hard to learn ?😁</a></div><div class="crm-feed-meta"><span class="crm-pill">r/cambodia</span><span>08/27/2026</span></div></div></div>
+        </div>
+        <div class="crm-card">
+          <div class="crm-subsection-label">Most-viewed "Cambodia travel" videos this week</div>
+          <div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--text-muted)"></span><div><div class="crm-feed-title">CAMBODIA TRAVEL | 10 Fascinating Places To Visit In Cambodia (+ Travel Tips &amp; Itineraries)</div><div class="crm-yt-meta">World Wild Hearts · 600,168 views · 2 years ago</div></div></div><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--text-muted)"></span><div><div class="crm-feed-title">🇰🇭 10 DAYS IN CAMBODIA! (Mega Cambodian travel vlog)</div><div class="crm-yt-meta">Jordan and Emily · 254,855 views · 1 year ago</div></div></div><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--text-muted)"></span><div><div class="crm-feed-title">Travelling Cambodia! Everything you NEED to know! The Ultimate Guide!</div><div class="crm-yt-meta">Justin Bainbridge · 193,525 views · 4 years ago</div></div></div><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--blue)"></span><div><div class="crm-feed-title">We LOVE it here in PHNOM PENH, CAMBODIA! 🇰🇭 [Best Things We Did for Cheap]</div><div class="crm-yt-meta">The Detour Duo · 190,019 views · 1 year ago</div></div></div><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--blue)"></span><div><div class="crm-feed-title">CAMBODIA Travel Guide 2025 - Angkor Wat, Best Places, Costs &amp; Essential Tips</div><div class="crm-yt-meta">Travel Tribe Tours · 137,629 views · 2 years ago</div></div></div><div class="crm-feed-row"><span class="crm-tone-dot" style="background:var(--blue)"></span><div><div class="crm-feed-title">Here&#x27;s Why I Love Cambodia 🇰🇭</div><div class="crm-yt-meta">Travelwithchris · 102,567 views · 1 year ago</div></div></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="crm-limits fade-up d8">
+      <p><strong>Known limits.</strong> This score measures Cambodia's perception as seen from outside (world press + Google search + Reddit/YouTube chatter) plus the Chinese state narrative — it does not capture domestic Khmer public opinion or domestic Chinese sentiment. Baidu and WeChat were tested as sources for the latter and rejected: SerpApi's Baidu engine has no news-specific mode, only a general search dominated by static reference pages, and WeChat has no public search API — a real gap, not a placeholder. Local English-language press (Khmer Times, Phnom Penh Post) is out of scope by design. The Reddit/YouTube valence uses a small hand-built word list, not GDELT's tone field — intentionally coarse, shown as a supplementary signal rather than folded into the calibrated score above. The pipeline started collecting recently, so history depth is still limited on some series — shown honestly rather than padded with placeholder data.</p>
     </div>
 
     <div class="crm-footer">
-      <span>Sources: GDELT DOC 2.0 · Wikipedia Pageviews · Ministry of Tourism · World Bank Open Data</span>
-      <span>Live — generated Aug 28, 2026, 14:59 from real collected data</span>
+      <span>Sources: GDELT DOC 2.0 · Wikipedia Pageviews · Ministry of Tourism · World Bank Open Data · NBC · Reddit · YouTube (SerpApi)</span>
+      <span>Live — generated Aug 28, 2026, 16:32 from real collected data</span>
     </div>
   </div>
 </div>

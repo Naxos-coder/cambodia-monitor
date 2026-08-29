@@ -133,8 +133,7 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
 .crm-section-note { font-size:13px; color:var(--text-muted); }
 .crm-section-body { padding:22px 28px 18px; margin-top:12px; }
 .crm-badge-live { font-size:10.5px; font-weight:700; letter-spacing:.03em; fill:var(--text-secondary); }
-.bub-label-title { font-size:12.5px; font-weight:600; fill:var(--text-primary); }
-.bub-label-sub { font-size:11px; fill:var(--text-muted); }
+.crm-bubble-legend { font-size:12px; color:var(--text-muted); margin-top:10px; }
 .axis-text { font-size:11px; fill:var(--text-muted); }
 .axis-text-strong { font-size:11.5px; fill:var(--text-secondary); font-weight:600; }
 .tl-end-label { font-size:14px; font-weight:700; fill:var(--red); }
@@ -184,7 +183,7 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
       <h1 class="crm-title crm-serif">Cambodia Reputation Monitor</h1>
       <p class="crm-subtitle">Cambodia's reputation as seen from outside — aggregated from world press coverage and search trends, not a domestic opinion barometer.</p>
     </div>
-    <div class="crm-updated">Last updated<br><strong>Aug 29, 2026, 10:28</strong></div>
+    <div class="crm-updated">Last updated<br><strong>Aug 29, 2026, 10:34</strong></div>
   </div>
   <div class="crm-wrap">
 
@@ -216,7 +215,7 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
     <div class="crm-section fade-up d2">
       <div class="crm-section-head"><h2 class="crm-h2 crm-serif">What's moving the score</h2><span class="crm-section-note">Position = tone · size = attention</span></div>
       <div class="crm-card crm-section-body" style="position:relative">
-        <svg viewBox="0 0 1080 290" width="100%" style="display:block;overflow:visible" role="img" aria-label="Active topics by tone and attention"><line x1="540.0" y1="20" x2="540.0" y2="250" stroke="var(--gridline)" stroke-width="1" stroke-dasharray="3 4"/><line x1="60" y1="250" x2="1020" y2="250" stroke="var(--baseline)" stroke-width="1"/><text x="60" y="272" class="axis-text-strong">← Negative</text><text x="540.0" y="272" class="axis-text" text-anchor="middle">Neutral (50)</text><text x="1020" y="272" class="axis-text-strong" text-anchor="end">Positive →</text><line x1="560.0450490501171" y1="250" x2="560.0450490501171" y2="70" stroke="var(--neutral-fill)" stroke-width="1" opacity="0.35"/><g class="bubble-in" style="animation-delay:0.2s"><circle class="bub-circle" cx="560.0450490501171" cy="70" r="41.0" fill="var(--neutral-fill)" stroke="var(--surface-1)" stroke-width="2" ></circle></g><g class="fade-late"><text x="560.0450490501171" y="19.0" text-anchor="middle" class="bub-label-title">Tourism</text><text x="560.0450490501171" y="34.0" text-anchor="middle" class="bub-label-sub">tone 52 · attention 25</text></g><line x1="540.2902764496332" y1="250" x2="540.2902764496332" y2="220" stroke="var(--neutral-fill)" stroke-width="1" opacity="0.35"/><g class="bubble-in" style="animation-delay:0.35s"><circle class="bub-circle" cx="540.2902764496332" cy="220" r="41.0" fill="var(--neutral-fill)" stroke="var(--surface-1)" stroke-width="2" ></circle></g><g class="fade-late"><text x="540.2902764496332" y="169.0" text-anchor="middle" class="bub-label-title">Investment</text><text x="540.2902764496332" y="184.0" text-anchor="middle" class="bub-label-sub">tone 50 · attention 25</text></g><line x1="509.73333478496755" y1="250" x2="509.73333478496755" y2="150" stroke="var(--neutral-fill)" stroke-width="1" opacity="0.35"/><g class="bubble-in" style="animation-delay:0.5s"><circle class="bub-circle" cx="509.73333478496755" cy="150" r="41.0" fill="var(--neutral-fill)" stroke="var(--surface-1)" stroke-width="2" ></circle></g><g class="fade-late"><text x="509.73333478496755" y="99.0" text-anchor="middle" class="bub-label-title">Geopolitics</text><text x="509.73333478496755" y="114.0" text-anchor="middle" class="bub-label-sub">tone 47 · attention 25</text></g></svg>
+        <svg viewBox="0 0 1080 290" width="100%" style="display:block;overflow:visible" role="img" aria-label="Active topics by tone and attention"><line x1="540.0" y1="20" x2="540.0" y2="250" stroke="var(--gridline)" stroke-width="1" stroke-dasharray="3 4"/><line x1="60" y1="250" x2="1020" y2="250" stroke="var(--baseline)" stroke-width="1"/><text x="60" y="272" class="axis-text-strong">← Negative</text><text x="540.0" y="272" class="axis-text" text-anchor="middle">Neutral (50)</text><text x="1020" y="272" class="axis-text-strong" text-anchor="end">Positive →</text><line x1="560.0450490501171" y1="250" x2="560.0450490501171" y2="70" stroke="var(--neutral-fill)" stroke-width="1" opacity="0.35"/><g class="bubble-in" style="animation-delay:0.2s"><circle class="bub-circle" cx="560.0450490501171" cy="70" r="41.0" fill="var(--neutral-fill)" stroke="var(--surface-1)" stroke-width="2"  data-name="Tourism" data-tone="52" data-attention="25"/></g><line x1="540.2902764496332" y1="250" x2="540.2902764496332" y2="220" stroke="var(--neutral-fill)" stroke-width="1" opacity="0.35"/><g class="bubble-in" style="animation-delay:0.35s"><circle class="bub-circle" cx="540.2902764496332" cy="220" r="41.0" fill="var(--neutral-fill)" stroke="var(--surface-1)" stroke-width="2"  data-name="Investment" data-tone="50" data-attention="25"/></g><line x1="509.73333478496755" y1="250" x2="509.73333478496755" y2="150" stroke="var(--neutral-fill)" stroke-width="1" opacity="0.35"/><g class="bubble-in" style="animation-delay:0.5s"><circle class="bub-circle" cx="509.73333478496755" cy="150" r="41.0" fill="var(--neutral-fill)" stroke="var(--surface-1)" stroke-width="2"  data-name="Geopolitics" data-tone="47" data-attention="25"/></g></svg><div class="crm-bubble-legend">Topics shown: Tourism, Investment, Geopolitics — hover or tap a bubble for its exact tone/attention.</div>
         <div class="crm-spectrum-tip" id="crm-bubble-tip"></div>
       </div>
     </div>
@@ -363,7 +362,7 @@ Tourism-related sentiment, specifically concerning &quot;Angkor Wat / Tourism,&q
 
     <div class="crm-footer">
       <span>Sources: GDELT DOC 2.0 · Wikipedia Pageviews · Ministry of Tourism · World Bank Open Data · NBC · Reddit · YouTube (SerpApi)</span>
-      <span>Live — generated Aug 29, 2026, 10:28 from real collected data</span>
+      <span>Live — generated Aug 29, 2026, 10:34 from real collected data</span>
     </div>
   </div>
 </div>
@@ -481,20 +480,29 @@ function crmPositionTip(tip, evt) {
   });
 })();
 
-// "Hot Topic" bubble(s): the visible label is deliberately generic (burst
-// topics are conjunctural, not named permanently on the chart) — hover or
-// click reveals what burst_detection.py actually found, e.g. "Prince Group".
+// Bubble chart: no permanent labels (they collided whenever topics clustered
+// near the same valence — see render_bubble_chart's docstring), so every
+// bubble's name/tone/attention lives in a hover/click tooltip instead, and
+// hovering brings that bubble to the front (re-appending it as the last SVG
+// child — paint order in SVG is DOM order, there's no z-index) so an
+// overlapped circle is still fully readable once focused.
 (function () {
   var tip = document.getElementById('crm-bubble-tip');
   if (!tip) return;
-  document.querySelectorAll('.bub-circle.is-hot').forEach(function (el) {
-    var real = el.getAttribute('data-real-title');
+  document.querySelectorAll('.bub-circle').forEach(function (el) {
+    var color = el.getAttribute('fill');
     function reveal(evt) {
-      tip.innerHTML = '<div class="tip-series"><span class="tip-dot" style="background:var(--red)"></span>Hot topic: ' + real + '</div><div class="tip-month">Detected by burst analysis, not a permanent pillar</div>';
+      var name = el.getAttribute('data-real-title') ? 'Hot topic: ' + el.getAttribute('data-real-title')
+                                                      : el.getAttribute('data-name');
+      tip.innerHTML = '<div class="tip-series"><span class="tip-dot" style="background:' + color + '"></span>' + name + '</div>' +
+        '<div class="tip-month">tone ' + el.getAttribute('data-tone') + ' · attention ' + el.getAttribute('data-attention') + '</div>';
       tip.classList.add('is-visible');
       crmPositionTip(tip, evt);
     }
-    el.addEventListener('mouseenter', reveal);
+    el.addEventListener('mouseenter', function (evt) {
+      el.parentNode.parentNode.appendChild(el.parentNode); // bring this bubble's <g> to the front
+      reveal(evt);
+    });
     el.addEventListener('mousemove', reveal);
     el.addEventListener('mouseleave', function () { tip.classList.remove('is-visible'); });
     el.addEventListener('click', reveal);

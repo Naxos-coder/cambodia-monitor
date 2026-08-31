@@ -208,6 +208,27 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
 .crm-limits p { font-size:12.5px; line-height:1.6; color:var(--text-muted); margin:0; }
 .crm-limits strong { color:var(--text-secondary); }
 .crm-footer { margin-top:28px; padding-top:18px; border-top:1px solid var(--gridline); font-size:12px; color:var(--text-muted); display:flex; justify-content:space-between; flex-wrap:wrap; gap:8px; }
+.crm-contact-link { color:var(--text-muted); text-decoration:underline; text-underline-offset:2px; text-decoration-color:var(--border); }
+.crm-contact-link:hover { color:var(--text-secondary); }
+.crm-modal-overlay { position:fixed; inset:0; background:rgba(0,0,0,.45); display:flex; align-items:center; justify-content:center; padding:20px; z-index:100; }
+.crm-modal-overlay[hidden] { display:none; }
+.crm-modal { position:relative; width:100%; max-width:420px; background:var(--surface-1); border:1px solid var(--border); border-radius:8px; padding:26px 26px 22px; box-shadow:0 12px 40px rgba(0,0,0,.22); }
+.crm-modal-close { position:absolute; top:14px; right:14px; width:26px; height:26px; border:none; background:none; color:var(--text-muted); font-size:20px; line-height:1; cursor:pointer; border-radius:5px; }
+.crm-modal-close:hover { color:var(--text-primary); background:var(--neutral-fill); }
+.crm-modal h3 { margin:0 0 4px; font-size:19px; font-weight:600; color:var(--text-primary); }
+.crm-modal-sub { margin:0 0 18px; font-size:13px; color:var(--text-muted); line-height:1.5; }
+.crm-form-row { margin-bottom:14px; }
+.crm-form-row label { display:block; font-size:12px; font-weight:600; color:var(--text-secondary); margin-bottom:5px; }
+.crm-form-optional { font-weight:400; color:var(--text-muted); }
+.crm-form-row input, .crm-form-row textarea { width:100%; box-sizing:border-box; font:inherit; font-size:13.5px; color:var(--text-primary); background:var(--page-plane); border:1px solid var(--border); border-radius:6px; padding:9px 11px; resize:vertical; }
+.crm-form-row input:focus, .crm-form-row textarea:focus { outline:2px solid var(--red); outline-offset:1px; }
+.crm-form-honeypot { position:absolute; left:-9999px; width:1px; height:1px; opacity:0; pointer-events:none; }
+.crm-form-submit { font:inherit; font-size:13.5px; font-weight:600; color:#fff; background:var(--red); border:none; border-radius:6px; padding:9px 18px; cursor:pointer; }
+.crm-form-submit:hover { opacity:.92; }
+.crm-form-submit:disabled { opacity:.6; cursor:default; }
+.crm-form-status { margin:14px 0 0; font-size:13px; line-height:1.5; }
+.crm-form-status.is-success { color:var(--aqua); }
+.crm-form-status.is-error { color:var(--red); }
 @media (prefers-reduced-motion:reduce) { .fade-up,.bubble-in,.draw-in,.grow-bar,.crm-meter-fill,.fade-late { animation:none!important; opacity:1!important; transform:none!important; stroke-dashoffset:0!important; } }
 </style>
 </head>
@@ -233,7 +254,7 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
       <h1 class="crm-title crm-serif">Cambodia Reputation Monitor</h1>
       <p class="crm-subtitle">Cambodia's reputation as seen from outside — aggregated from world press coverage and search trends, not a domestic opinion barometer.</p>
     </div>
-    <div class="crm-updated">Last updated<br><strong>Aug 31, 2026, 09:14</strong></div>
+    <div class="crm-updated">Last updated<br><strong>Aug 31, 2026, 09:47</strong></div>
   </div>
   <div class="crm-wrap">
 
@@ -582,8 +603,33 @@ Investment sentiment remains steady at 51.9, bolstered by optimistic regional de
 
     <div class="crm-footer">
       <span>Sources: GDELT DOC 2.0 · Wikipedia Pageviews · Ministry of Tourism · World Bank Open Data · NBC · Reddit · YouTube (SerpApi)</span>
-      <span>Live — generated Aug 31, 2026, 09:14 from real collected data</span>
-      <span><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#99;&#97;&#109;&#98;&#111;&#100;&#105;&#97;&#109;&#111;&#110;&#105;&#116;&#111;&#114;&#46;&#99;&#111;&#109;">&#105;&#110;&#102;&#111;&#64;&#99;&#97;&#109;&#98;&#111;&#100;&#105;&#97;&#109;&#111;&#110;&#105;&#116;&#111;&#114;&#46;&#99;&#111;&#109;</a></span>
+      <span>Live — generated Aug 31, 2026, 09:47 from real collected data</span>
+      <span><a href="#" id="crm-contact-open" class="crm-contact-link">Contact</a></span>
+    </div>
+  </div>
+
+  <div class="crm-modal-overlay" id="crm-contact-overlay" hidden>
+    <div class="crm-modal" role="dialog" aria-modal="true" aria-labelledby="crm-contact-title">
+      <button type="button" class="crm-modal-close" id="crm-contact-close" aria-label="Close">&times;</button>
+      <h3 id="crm-contact-title" class="crm-serif">Contact</h3>
+      <p class="crm-modal-sub">Questions, corrections, or data sourcing — send a note.</p>
+      <form id="crm-contact-form" action="https://formspree.io/f/xeaqeakj" method="POST">
+        <div class="crm-form-row">
+          <label for="crm-cf-name">Name <span class="crm-form-optional">(optional)</span></label>
+          <input type="text" id="crm-cf-name" name="name" autocomplete="name">
+        </div>
+        <div class="crm-form-row">
+          <label for="crm-cf-email">Email</label>
+          <input type="email" id="crm-cf-email" name="email" required autocomplete="email">
+        </div>
+        <div class="crm-form-row">
+          <label for="crm-cf-message">Message</label>
+          <textarea id="crm-cf-message" name="message" rows="4" required></textarea>
+        </div>
+        <input type="text" name="_gotcha" id="crm-cf-hp" class="crm-form-honeypot" tabindex="-1" autocomplete="off">
+        <button type="submit" class="crm-form-submit">Send</button>
+      </form>
+      <p class="crm-form-status" id="crm-contact-status" role="status" aria-live="polite" hidden></p>
     </div>
   </div>
 </div>
@@ -849,6 +895,71 @@ document.querySelectorAll('svg[id^="spectrum-"], svg[id^="tl-"]').forEach(crmEna
     el.addEventListener('mousemove', reveal);
     el.addEventListener('mouseleave', function () { tip.classList.remove('is-visible'); });
     el.addEventListener('click', reveal);
+  });
+})();
+
+// Contact modal — Formspree AJAX submit, honeypot field name '_gotcha'
+// (Formspree's own convention: a filled honeypot silently discards the
+// submission server-side, so no extra spam logic is needed here).
+(function () {
+  var openLink = document.getElementById('crm-contact-open');
+  var overlay = document.getElementById('crm-contact-overlay');
+  var closeBtn = document.getElementById('crm-contact-close');
+  var form = document.getElementById('crm-contact-form');
+  var status = document.getElementById('crm-contact-status');
+  if (!openLink || !overlay || !form) return;
+
+  function openModal(evt) {
+    if (evt) evt.preventDefault();
+    overlay.hidden = false;
+    document.body.style.overflow = 'hidden';
+    var nameField = document.getElementById('crm-cf-name');
+    if (nameField) nameField.focus();
+  }
+  function closeModal() {
+    overlay.hidden = true;
+    document.body.style.overflow = '';
+  }
+
+  openLink.addEventListener('click', openModal);
+  closeBtn.addEventListener('click', closeModal);
+  overlay.addEventListener('click', function (evt) { if (evt.target === overlay) closeModal(); });
+  document.addEventListener('keydown', function (evt) { if (evt.key === 'Escape' && !overlay.hidden) closeModal(); });
+
+  form.addEventListener('submit', function (evt) {
+    evt.preventDefault();
+    var honeypot = document.getElementById('crm-cf-hp');
+    if (honeypot && honeypot.value) return;
+
+    var btn = form.querySelector('.crm-form-submit');
+    btn.disabled = true;
+    btn.textContent = 'Sending…';
+    status.hidden = true;
+    status.className = 'crm-form-status';
+
+    fetch(form.action, {
+      method: 'POST',
+      headers: { 'Accept': 'application/json' },
+      body: new FormData(form)
+    }).then(function (resp) {
+      if (resp.ok) {
+        form.hidden = true;
+        status.textContent = "Message sent — thank you, we'll get back to you soon.";
+        status.className = 'crm-form-status is-success';
+        status.hidden = false;
+      } else {
+        return resp.json().then(function (data) {
+          var msg = (data && data.errors && data.errors.map(function (e) { return e.message; }).join(', ')) || 'Send failed';
+          throw new Error(msg);
+        });
+      }
+    }).catch(function () {
+      status.textContent = 'Could not send your message — please try again in a moment.';
+      status.className = 'crm-form-status is-error';
+      status.hidden = false;
+      btn.disabled = false;
+      btn.textContent = 'Send';
+    });
   });
 })();
 </script>

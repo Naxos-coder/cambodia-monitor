@@ -261,16 +261,40 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
   <div class="crm-masthead">
     <div>
       <h1 class="crm-title crm-serif">Cambodia Reputation Monitor</h1>
-      <p class="crm-subtitle">Cambodia's reputation as seen from outside — aggregated from world press coverage and search trends, not a domestic opinion barometer.</p>
+      <p class="crm-subtitle">Tracking coverage of Cambodia — experimental press tone, historical trends and economic context. Not a public-opinion poll.</p>
     </div>
-    <div class="crm-updated">Page generated<br><strong>Oct 14, 2026, 03:22</strong></div>
+    <div class="crm-updated">Page generated<br><strong>Oct 14, 2026, 13:19</strong></div>
   </div>
   <div class="crm-wrap">
 
+    <section class="crm-card" id="press-tone-snapshot" aria-labelledby="press-tone-title" style="padding:28px;margin-bottom:24px;border-top:4px solid var(--blue)">
+      <div class="crm-hero-label">Experimental · fixed snapshot · collection paused</div>
+      <h2 id="press-tone-title" class="crm-h2 crm-serif">Observed press tone score</h2>
+      <div class="crm-hero-figure" style="color:var(--blue)">84<sup>/ 100</sup></div>
+      <p><strong>2026-10-07 to 2026-10-12 UTC</strong> · 6 observed days · 778 selected URLs · 593 title groups</p>
+      <p>496 positive · 84 negative · 13 zero-tone groups.</p>
+      <p><strong>Meaning:</strong> 83.6% of the selected title groups have positive document tone.
+      50 means half the groups are positive, not “neutral reputation”. This is not a public-opinion poll or the legacy reputation index.</p>
+      <p><strong>Limits:</strong> Automated title selection, approximate duplicate grouping and incomplete publisher verification.
+      Document tone may concern subjects other than Cambodia. This dated snapshot is not live coverage.</p>
+      <details><summary>Method, coverage and limitations</summary>
+        <p>GDELT GKG, English and translated streams. Known domestic publishers and .kh domains are excluded.
+        Remaining publishers may still be domestic: 768 of 778 selected URLs have unverified publisher locations.</p>
+        <p>Selection: a Cambodia-related title signal or a substantive-content review; reviewed peripheral/context-only articles are excluded.
+        Each normalized-title group receives one vote over the whole period. Generic publisher titles never merge distinct URLs.
+        Each group’s tone is the median of its available document tones.</p>
+        <p>Score = 100 × groups with median tone greater than zero ÷ all scored groups.
+        Exact zero remains in the denominator. Tone intensity is not measured by this score.
+        Without title grouping, the positive share is 84.7%; this is a sensitivity check, not a confidence interval.</p>
+        <p>No weighting for population, language or media market. Precision, completeness and comparability with the legacy index are unvalidated.
+        The historical series and its calibration are unchanged. Method: press-positive-share-v1.</p>
+        <p><a href="/press-tone-snapshot.json">Download the score and group-level audit data</a></p>
+      </details>
+    </section>
     <div class="crm-hero fade-up d1">
       <div class="crm-card crm-hero-main">
         <div>
-          <div class="crm-hero-label">Reputation index</div>
+          <div class="crm-hero-label">Legacy reputation index</div>
           <div class="crm-hero-figure">—</div>
         </div>
         <div>
@@ -298,11 +322,7 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
       <div class="crm-section-head"><h2 class="crm-h2 crm-serif">Latest briefing</h2></div>
       <div class="crm-card crm-briefing">
         <div class="crm-briefing-kicker"><span class="crm-llm-dot"></span>Auto-generated · 2026-10-12</div>
-        <p>**Editorial Briefing - October 12, 2026**
-
-This week&#x27;s data indicates a notable positive shift in Cambodia&#x27;s external perception, with the overall global valence increasing by 18.6 points to 30.3. This upward trend is significantly influenced by positive sentiment surrounding investment, which saw its valence rise by 18.8 points to 52.2. Reporting highlighted Cambodia&#x27;s agricultural sector, with one headline noting a threefold increase in exports of a key commodity to the US, indicating positive economic development. Tourism also received positive coverage, with reports showcasing diverse attractions beyond Angkor Wat.
-
-Further contributing to a positive external image, a major drug and gun case was reported to have been cracked by Cambodian authorities, leading to arrests and the seizure of substantial illicit materials. This concrete action in law enforcement positively reflects on the country&#x27;s efforts to maintain security. Meanwhile, Chinese-language coverage experienced a decrease in valence by 13.8 points to 25.1; however, this divergence was not deemed significant when compared to overall press coverage.</p>
+        <p>Legacy briefing withheld: its press-tone inputs are stale. It does not describe the experimental snapshot above.</p>
       </div>
     </div>
 
@@ -619,12 +639,12 @@ Further contributing to a positive external image, a major drug and gun case was
     </div>
 
     <div class="crm-limits fade-up d8">
-      <p><strong>Known limits.</strong> This score measures Cambodia's perception as seen from outside (world press + Google search + Reddit/YouTube chatter) plus the Chinese state narrative — it does not capture domestic Khmer public opinion or domestic Chinese sentiment, and it is not an assessment of government policy or institutional performance. A move in the score reflects how Cambodia is covered, searched, and discussed abroad that week — not necessarily how well any institution is actually performing on the ground. Baidu and WeChat were tested as sources for the latter and rejected: SerpApi's Baidu engine has no news-specific mode, only a general search dominated by static reference pages, and WeChat has no public search API — a real gap, not a placeholder. Local English-language press (Khmer Times, Phnom Penh Post) is out of scope by design. The Reddit/YouTube valence uses a small hand-built word list, not GDELT's tone field — intentionally coarse, shown as a supplementary signal rather than folded into the calibrated score above. The pipeline started collecting recently, so history depth is still limited on some series — shown honestly rather than padded with placeholder data.</p>
+      <p><strong>Known limits.</strong> The experimental score above is the share of selected GKG title groups with positive document tone, for the explicitly dated pilot period. It is not a calibrated reputation index, a public-opinion poll or a measure of government performance. Publisher locations and article relevance are only partly verified; unknown publishers may be domestic. The legacy charts use a different method and cannot be compared directly with this snapshot. Search interest, economic indicators and social-media samples provide separate context; they do not enter the experimental score.</p>
     </div>
 
     <div class="crm-footer">
-      <span>Sources: GDELT DOC 2.0 · Wikipedia Pageviews · Ministry of Tourism · World Bank Open Data · NBC · Reddit · YouTube (SerpApi)</span>
-      <span>Page generated Oct 14, 2026, 03:22 from real collected data</span>
+      <span>Sources: GDELT GKG (experimental snapshot) · GDELT DOC 2.0 (legacy) · Wikipedia Pageviews · Ministry of Tourism · World Bank Open Data · NBC · Reddit · YouTube (SerpApi)</span>
+      <span>Page generated Oct 14, 2026, 13:19 from real collected data</span>
       <span><a href="#" id="crm-contact-open" class="crm-contact-link">Contact</a></span>
     </div>
   </div>

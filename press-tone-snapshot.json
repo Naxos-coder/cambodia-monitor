@@ -1,0 +1,4373 @@
+{
+  "method": "press-positive-share-v1",
+  "status": "fixed_experimental_snapshot",
+  "score": 83.6424957841484,
+  "formula": "100 × groups with median GKG tone > 0 / all scored title groups",
+  "period_start": "2026-10-07",
+  "period_end": "2026-10-12",
+  "observed_days": 6,
+  "scored_days": 6,
+  "input_candidates": 2513,
+  "selected_urls": 778,
+  "title_groups": 593,
+  "positive_groups": 496,
+  "negative_groups": 84,
+  "zero_tone_groups": 13,
+  "excluded": {
+    "insufficient_relevance_signal": 1611,
+    "domestic_publisher_or_domain": 121,
+    "peripheral_or_contextual": 3
+  },
+  "selected_source_scopes": {
+    "unknown": 768,
+    "foreign_verified": 10
+  },
+  "ungrouped_positive_share": 84.70437017994858,
+  "group_members": [
+    {
+      "group_id": "00f63688be64a6987e97df1dfddf62bd13a8f3ec7c9d268d5cfdfd8c97867a8c",
+      "urls": [
+        "https://lecourrier.vn/le-pm-le-minh-hung-reaffirme-son-soutien-a-la-diaspora-vietnamienne-au-cambodge/1357104.html"
+      ],
+      "tone_median": 3.6480686695279
+    },
+    {
+      "group_id": "01077b7e5bc2d9b5c8fa364bc0ac7be1c7ee0d94590d12e0b4600332ffecbcc6",
+      "urls": [
+        "https://lecourrier.vn/le-pm-le-minh-hung-visite-le-projet-angkormilk-de-vinamilk-au-cambodge/1357102.html"
+      ],
+      "tone_median": 1.35440180586907
+    },
+    {
+      "group_id": "02f086489fe0b877ca0e571b50a9b9bec5c9fb6846bd06cd0e1e3258456390a9",
+      "urls": [
+        "https://baovanhoa.vn/dan-toc-ton-giao/gin-giu-net-dep-van-hoa-khmer-qua-tro-choi-dan-gian-272931.html"
+      ],
+      "tone_median": 9.3984962406015
+    },
+    {
+      "group_id": "03fe2bd24d7b705d7e17f5e52433fa6d7e3e17c846b6aba127f19347ca81bc53",
+      "urls": [
+        "https://english.news.cn/20261013/301df7562b59413798fc40ddf428fe2b/c.html"
+      ],
+      "tone_median": 3.42465753424658
+    },
+    {
+      "group_id": "046fea37667b5d90efe5efba6d32119d4e519b76f1418d826de537c577c0082a",
+      "urls": [
+        "https://anspress.com/kambocanin-bash-naziri-azerbaycana-resmi-sefere-gelib",
+        "https://az.trend.az/azerbaijan/politics/4233417.html",
+        "https://serqqapisi.az/butun-xeberler/kambocanin-bas-naziri-azerbaycana-resmi-sefere-gelib"
+      ],
+      "tone_median": 0.0
+    },
+    {
+      "group_id": "048d8fa25936740483c96abdf07d43695fad5ce8f0a7cd78d715e3a49d846a81",
+      "urls": [
+        "https://thanhnien.vn/chuyen-tham-lao-campuchia-cua-thu-tuong-le-minh-hung-dat-nhieu-ket-qua-thuc-chat-185261011034601896.htm"
+      ],
+      "tone_median": 3.16666666666667
+    },
+    {
+      "group_id": "04c236d592c535dbdbf27f80a461f2dd35a9266fe8497a39f69f46c9709533d5",
+      "urls": [
+        "https://baomoi.com/thu-tuong-le-minh-hung-tham-chinh-thuc-campuchia-cung-co-tin-cay-nang-tam-hop-tac-c56245074.epi"
+      ],
+      "tone_median": 4.50191570881226
+    },
+    {
+      "group_id": "0593fe171fd69e283a65a9fbaf7fd52fab1d51c6a2f88b5e2854d6d59feda863",
+      "urls": [
+        "https://variety.com/2026/film/markets-festivals/cambodian-wedding-dress-remake-abnormal-studios-busan-slate-1236907311/"
+      ],
+      "tone_median": -1.49253731343283
+    },
+    {
+      "group_id": "05d0b06170a36acf6654929f4e37d21254d88daeaf7964e94090389a630ac444",
+      "urls": [
+        "https://www.globaltimes.cn/page/202610/1372019.shtml"
+      ],
+      "tone_median": 3.83480825958702
+    },
+    {
+      "group_id": "05d5a2737438579f8e1a8ab51e0f27806b25c1eedc3fa1fee1b5a1a8275976ff",
+      "urls": [
+        "https://www.gloucesteradvocate.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "061789f18e00b6242b703cc7cb8ce287940883dcd4ee1f9410324035be919c90",
+      "urls": [
+        "https://www.trend.az/azerbaijan/4233606.html"
+      ],
+      "tone_median": 4.8780487804878
+    },
+    {
+      "group_id": "0649f670e61139d0d43c517fb005b06dd0661f53c0119ebc45cf9f68bba0fece",
+      "urls": [
+        "http://www.bignewsnetwork.com/news/279361135/cambodia-garment-related-exports-rise-77-pct-to-over-13-bln-usd-in-jan-sept",
+        "http://www.cambodiantimes.com/news/279361135/cambodia-garment-related-exports-rise-77-pct-to-over-13-bln-usd-in-jan-sept",
+        "http://www.laosnews.net/news/279361135/cambodia-garment-related-exports-rise-77-pct-to-over-13-bln-usd-in-jan-sept",
+        "http://www.nepalnational.com/news/279361135/cambodia-garment-related-exports-rise-77-pct-to-over-13-bln-usd-in-jan-sept"
+      ],
+      "tone_median": 2.23880597014925
+    },
+    {
+      "group_id": "06ccf81eebc2387d6b0d80c88a765bfc30d28c64845c790981c8d9d1e8c45eba",
+      "urls": [
+        "http://www.merkur.de/boulevard/sie-besitzt-die-staatsbuergerschaft-angelina-jolie-gehoeren-39-hektar-land-in-kambodscha-und-94515575.html",
+        "http://www.tz.de/stars/sie-besitzt-die-staatsbuergerschaft-angelina-jolie-gehoeren-39-hektar-land-in-kambodscha-und-94529168.html",
+        "http://www.tz.de/stars/und-sie-besitzt-die-staatsbuergerschaft-angelina-jolie-gehoeren-39-hektar-land-in-kambodscha-94529168.html"
+      ],
+      "tone_median": 1.06571936056838
+    },
+    {
+      "group_id": "06e68190638de22732dfd0a0ef489040acff0e924ceaefb20ebc74d50fd8c9c1",
+      "urls": [
+        "https://vietnam.vnanet.vn/spanish/tin-van/camboya-reafirma-su-prioridad-al-fortalecimiento-de-las-relaciones-con-vietnam-471369.html"
+      ],
+      "tone_median": 7.47474747474747
+    },
+    {
+      "group_id": "0703ae89715ea65aacadf268c545256021a82ba521a954cdbef3ba1a7f8eb7bb",
+      "urls": [
+        "https://vietnamnews.vn/economy/1801432/official-highlights-three-areas-to-focus-on-to-achieve-20-billion-in-viet-nam-cambodia-trade.html"
+      ],
+      "tone_median": 5.79710144927536
+    },
+    {
+      "group_id": "0743165bf41b544182ed2c551f939f95abdf1642a2d78c986b134720669ba698",
+      "urls": [
+        "https://vietnamnews.vn/opinion/1801501/vietnamese-pm-s-visit-opens-new-phase-of-cooperation-between-viet-nam-cambodia.html"
+      ],
+      "tone_median": 2.24852071005917
+    },
+    {
+      "group_id": "0b18b08b23ab88d7e3038a7e5b9d826fcf3a57fb77aa4966940803363802d6d7",
+      "urls": [
+        "https://www.tip-online.at/news/60892/suntrips-laedt-zum-kambodscha-webinar-ein/"
+      ],
+      "tone_median": 0.930232558139535
+    },
+    {
+      "group_id": "0be3922ea673d7e9364b6ea69d648be3189ac211df47c11069c2d32124f7372c",
+      "urls": [
+        "http://vov.vn/chinh-tri/thu-tuong-le-minh-hung-khang-dinh-uu-tien-cao-nhat-cho-quan-he-viet-nam-campuchia-post1340111.vov"
+      ],
+      "tone_median": 5.13219284603421
+    },
+    {
+      "group_id": "0c97a976a8009236418b9ee85bec58340d5803c088a14b102f462af0cb0c52ac",
+      "urls": [
+        "https://prachatai.com/journal/2026/10/119050"
+      ],
+      "tone_median": 0.710659898477158
+    },
+    {
+      "group_id": "0ca1d4d8a5112e4f0a5753c41eb30b1d92e360c10b16a9f4d91ab940fc7f4dbb",
+      "urls": [
+        "https://www.mudgeeguardian.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "0caeeefa210662b50ceff1df63f825894bacee88e8a674b7db95b20c3247c9c0",
+      "urls": [
+        "https://www.chinatimes.com/realtimenews/20261008002730-260405"
+      ],
+      "tone_median": -4.89296636085627
+    },
+    {
+      "group_id": "0cd303d3597e0c6077f7dca1317f75d89d1000baa1786e9abdee37a1deba0761",
+      "urls": [
+        "https://vietnamnews.vn/politics-laws/1801666/pm-hung-meets-with-cambodian-people-s-party-senate-leader-hun-sen.html"
+      ],
+      "tone_median": 5.32915360501567
+    },
+    {
+      "group_id": "0d071ef30e7dbd29ad2013355a2b814d55e1b163a10d3f6c52d62b52c52a0071",
+      "urls": [
+        "https://baomoi.com/bo-doi-bien-phong-tp-can-tho-tham-tang-qua-cac-chua-khmer-dip-le-sene-dolta-c56217316.epi"
+      ],
+      "tone_median": 8.93470790378007
+    },
+    {
+      "group_id": "0d165e7f4efdcf9ed08ec16d3b5cc0d6b8e48777e2645ab778b189cb535fd94f",
+      "urls": [
+        "https://en.apa.az/foreign-policy/azerbaijan-and-cambodia-to-sign-framework-agreement-to-improve-trade-relations-529483"
+      ],
+      "tone_median": 5.30973451327434
+    },
+    {
+      "group_id": "0e41fc166d940b15163982087815e8a65951fe9b320c162b1a400088350cb1cf",
+      "urls": [
+        "https://www.qdnd.vn/tu-lieu-ho-so/van-kien-tu-lieu/ban-tin-tong-hop-tuan-xung-luc-moi-thuc-day-hop-tac-giua-viet-nam-voi-lao-campuchia-1060088"
+      ],
+      "tone_median": 5.33333333333333
+    },
+    {
+      "group_id": "0e9fcf21a85c0eeddf69b9b2d81baf0f4f86e4cc8ea3838001cadf72bd3887de",
+      "urls": [
+        "https://baomoi.com/dong-bao-khmer-don-mung-le-sene-dolta-vui-tuoi-dam-am-hanh-phuc-c56235255.epi"
+      ],
+      "tone_median": 5.92783505154639
+    },
+    {
+      "group_id": "0ee5ea4bc5612230080393ca80802052fe87ae94716290e030c10fef98b3b950",
+      "urls": [
+        "http://www.bignewsnetwork.com/news/279367907/cambodia-trade-with-asean-eu-posts-double-digit-growth-during-jan-sept",
+        "http://www.cambodiantimes.com/news/279367907/cambodia-trade-with-asean-eu-posts-double-digit-growth-during-jan-sept",
+        "http://www.laosnews.net/news/279367907/cambodia-trade-with-asean-eu-posts-double-digit-growth-during-jan-sept",
+        "http://www.nepalnational.com/news/279367907/cambodia-trade-with-asean-eu-posts-double-digit-growth-during-jan-sept"
+      ],
+      "tone_median": 1.71232876712329
+    },
+    {
+      "group_id": "0f676718255a675b09ad6cc2ff3009e6a3d5ae4098f39590f664e26117f6a5bd",
+      "urls": [
+        "https://baomoi.com/campuchia-khong-khoan-nhuong-voi-co-bac-truc-tuyen-va-lua-dao-qua-mang-c56245991.epi"
+      ],
+      "tone_median": -5.63380281690141
+    },
+    {
+      "group_id": "0f884900564a71cda51bc2196f627d117cd3dd6d6ba219aaa230bc4190f5da4a",
+      "urls": [
+        "http://vov.vn/van-hoa/an-giang-64-doi-bo-tranh-tai-tai-hoi-dua-bo-bay-nui-post1340184.vov"
+      ],
+      "tone_median": 6.3768115942029
+    },
+    {
+      "group_id": "1011c0cd6c1015a213d52513c24be5c67b572317b5f5d045c9a75cc2992fc999",
+      "urls": [
+        "https://www.yasstribune.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "10fd314ea68f4476f6fdf6a43d0381e166283269f31f63e6f604bf781ea61e55",
+      "urls": [
+        "https://1news.az/news/20261012115013449-Ilkham-Aliev-i-Premer-ministr-Kambodzhi-vystupili-s-zayavleniyami-dlya-pressy-FOTO"
+      ],
+      "tone_median": 4.27682737169518
+    },
+    {
+      "group_id": "1141b28cdedc39b1016c17c9b47a5b84121b59bb31340f20ac8e3e44e9b64fe5",
+      "urls": [
+        "https://vietbao.vn/thuc-day-hop-tac-giua-viet-nam-voi-lao-campuchia-610244.html"
+      ],
+      "tone_median": 4.84913793103448
+    },
+    {
+      "group_id": "1189f34b6229425c41d1f5028cb8f96abd15bb6fd50953d1b4adb33c16026c6a",
+      "urls": [
+        "https://ru.apa.az/oficialniye-novosti/prezident-ilxam-aliev-obsudil-minnuyu-problemu-s-premer-ministrom-kambodzi-677681"
+      ],
+      "tone_median": -3.8961038961039
+    },
+    {
+      "group_id": "1300c2b166932f6e5340cfec5ab6c3578035ddc84fc172473219809634849ee2",
+      "urls": [
+        "https://vietbao.vn/thu-tuong-le-minh-hung-tham-campuchia-thuc-day-muc-tieu-thuong-mai-20-ty-usd-610711.html"
+      ],
+      "tone_median": 5.4673721340388
+    },
+    {
+      "group_id": "137983c78c62c667266c0eeea0f524141531f8fe5921d1a7e6d2c1bb2930819d",
+      "urls": [
+        "https://en.apa.az/foreign-policy/cambodian-prime-minister-we-have-had-diplomatic-relations-with-azerbaijan-for-30-years-529466"
+      ],
+      "tone_median": 4.05405405405405
+    },
+    {
+      "group_id": "138bcf696b90435164742932301e25468808b9d614dbb1fc0b9a81d02e9efec2",
+      "urls": [
+        "https://baodongnai.com.vn/chinh-tri/luc-luong-vu-trang/202610/doi-k72-dong-nai-da-tim-kiem-va-quy-tap-duoc-49-hai-cot-liet-si-tai-campuchia-e4b2683/"
+      ],
+      "tone_median": 0.921658986175116
+    },
+    {
+      "group_id": "154348cd3b9a9e917b3ef2b2161c419111c05e8a1ea91e2d368f3ffc17f5b32d",
+      "urls": [
+        "https://kienthuc.net.vn/thu-tuong-le-minh-hung-tham-lao-campuchia-tao-xung-luc-hop-tac-thuc-chat-post1637609.html"
+      ],
+      "tone_median": 5.31400966183575
+    },
+    {
+      "group_id": "15443bed5be123fe59ff6a414409ef657158b2c0f2b427cfd06cd65f5102fbea",
+      "urls": [
+        "https://baomoi.com/dam-da-ban-sac-van-hoa-khmer-tai-dem-van-nghe-mung-le-sene-dolta-2026-c56227574.epi"
+      ],
+      "tone_median": 10.1190476190476
+    },
+    {
+      "group_id": "15625bbb866b547f88328253fef81c7a5b57d5f2d1e1be1ee7a83047ec1d8a44",
+      "urls": [
+        "https://vietnam.vnanet.vn/spanish/tin-van/primer-ministro-vietnamita-rinde-homenaje-en-tres-monumentos-de-phnom-penh-471371.html"
+      ],
+      "tone_median": 2.76923076923077
+    },
+    {
+      "group_id": "15e28a5caf0c6f0c50edb4689172a214f4f226de931dcbfe1a9f121987a1f5c1",
+      "urls": [
+        "https://www.naroomanewsonline.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "1655eb222d4961ca80818289c5ce6c739a9e9acc5f81ee4652abe07aba02363d",
+      "urls": [
+        "https://www.hkcna.hk/hk/content/s6ac9e8e9e4b0694847f1b7c0.html"
+      ],
+      "tone_median": 2.75862068965517
+    },
+    {
+      "group_id": "168529102a1cd9d4e16ee743d8ebcf33daed809466cf47118f9637c4e1b48ae3",
+      "urls": [
+        "https://www.inverelltimes.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "168dfa4ce45661d06d923178aba505a2babf77e6fbfe2b2e63688fbc5fd25f0f",
+      "urls": [
+        "https://baomoi.com/vinh-long-net-dep-trong-van-hoa-dang-com-bao-hieu-to-tien-mua-sene-dolta-cua-dong-bao-khmer-c56239495.epi"
+      ],
+      "tone_median": 10.7023411371237
+    },
+    {
+      "group_id": "175dbc350aeb9102efe6a4e73f5232000ef36e562907b4757496d28a349efac3",
+      "urls": [
+        "https://baomoi.com/sene-dolta-them-vui-tu-nhung-doi-thay-o-vung-dong-bao-khmer-c56221822.epi"
+      ],
+      "tone_median": 3.55932203389831
+    },
+    {
+      "group_id": "188e9b22dac0571a4e7078b56fcbf6e0c6acd6be3110c1073fe4f64a468e5536",
+      "urls": [
+        "https://ru.apa.az/oficialniye-novosti/sostoyalas-vstreca-prezidenta-ilxama-alieva-s-premer-ministrom-kambodzi-v-rassirennom-sostave-obnovleno-677673"
+      ],
+      "tone_median": 7.8125
+    },
+    {
+      "group_id": "18b35c82cdf60672e93b3de11e7c45676e45bfc64f3eec219aa1cfe5ab42f2db",
+      "urls": [
+        "https://tuoitre.vn/thu-tuong-campuchia-tiet-lo-so-tien-tro-gia-xang-dau-va-dien-100261007174535582.htm"
+      ],
+      "tone_median": -0.4
+    },
+    {
+      "group_id": "1952ee884c8c706517d8c723b7c5a38d9ff9e7f5d46c0779e4b5eeaaf8c46aab",
+      "urls": [
+        "http://vov.vn/chinh-tri/chuyen-tham-campuchia-cua-thu-tuong-mo-ra-xung-luc-moi-cho-quan-he-song-phuong-post1339050.vov",
+        "https://vietbao.vn/chuyen-tham-campuchia-cua-thu-tuong-mo-ra-xung-luc-moi-cho-quan-he-song-phuong-610247.html"
+      ],
+      "tone_median": 4.40940698070236
+    },
+    {
+      "group_id": "1b52d5eb141fc12a1efd9a57366411137e3499b3e7f9ffa09df7fdbe7b1d33d7",
+      "urls": [
+        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/09/post-flood-rehabilitation-top-priority-for-cambodia-hun-manet"
+      ],
+      "tone_median": -3.00751879699248
+    },
+    {
+      "group_id": "1b9b487a2f4961e10b01f6a9ab9946b3d0130e9abc78e0f9aba48b2f1afc52f5",
+      "urls": [
+        "https://news.tuoitre.vn/vietnam-laos-cambodia-rehearse-joint-civil-defense-drill-103261012211849198.htm"
+      ],
+      "tone_median": 1.2531328320802
+    },
+    {
+      "group_id": "1c622b8e69cb3d92a2710b65bffe937bd7d76cfed1531dd647cad8a2ae4562d7",
+      "urls": [
+        "http://vov.vn/doanh-nghiep/vietnam-airlines-ky-hai-thoa-thuan-moi-thuc-day-du-lich-viet-nam-lao-campuchia-post1340057.vov",
+        "https://vietbao.vn/vietnam-airlines-ky-hai-thoa-thuan-moi-thuc-day-du-lich-viet-nam-lao-campuchia-610865.html"
+      ],
+      "tone_median": 2.00309307184811
+    },
+    {
+      "group_id": "1d79cd9aeca84af58298713c55ec1d013a58cf35744d581189e9141274fb424e",
+      "urls": [
+        "https://baomoi.com/thu-tuong-le-minh-hung-den-phnom-penh-bat-dau-chuyen-tham-chinh-thuc-campuchia-c56234646.epi",
+        "https://www.sggp.org.vn/thu-tuong-le-minh-hung-den-phnom-penh-bat-dau-chuyen-tham-chinh-thuc-campuchia-post875788.html"
+      ],
+      "tone_median": 6.768096695344225
+    },
+    {
+      "group_id": "1d9b1f41fba4fd039ce4b746c42b1944c52a9b21cc99a01e02b5f1202a63429a",
+      "urls": [
+        "https://baophapluat.vn/chu-tich-hdnd-tinh-ca-mau-tham-chuc-mung-cac-chua-khmer-dip-le-sen-dolta.html"
+      ],
+      "tone_median": 8.53658536585366
+    },
+    {
+      "group_id": "1db03d3a3cd68aa86f8b65f2f1fc95df59713fa0d58a5fcf59bbcf34e654ba06",
+      "urls": [
+        "https://kienthuc.net.vn/thu-tuong-le-minh-hung-bat-dau-chuyen-tham-chinh-thuc-vuong-quoc-campuchia-post1637747.html"
+      ],
+      "tone_median": 4.62633451957295
+    },
+    {
+      "group_id": "1df5cb14fd89a799bff1bd9a591f0411ddda1dd0eaafcc89bdcbf6d622b6aacb",
+      "urls": [
+        "https://news.az/news/baku-welcomes-azerbaijan-cambodia-business-talks"
+      ],
+      "tone_median": 2.71186440677966
+    },
+    {
+      "group_id": "1e28473bdad653da94f02697c362e19922c39b2746fb2b5b2345e100cc2df5fd",
+      "urls": [
+        "https://vietnamnews.vn/economy/1801699/pm-calls-angkormilk-project-proof-of-vietnamese-businesses-success-in-cambodia.html"
+      ],
+      "tone_median": 4.30327868852459
+    },
+    {
+      "group_id": "1efa228fa27b1e6fefb0d0e9380ca6e6f8e0887bb08f7aff29458e1ca42eff22",
+      "urls": [
+        "https://www.braidwoodtimes.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "204943b8384d9d56911f2efaf1baefeb82599513e8baa6982a2b2b590ea6f3d4",
+      "urls": [
+        "https://thanhnien.vn/dai-tuong-phan-van-giang-hoi-kien-pho-thu-tuong-bo-truong-quoc-phong-campuchia-185261010165638303.htm"
+      ],
+      "tone_median": 4.44444444444444
+    },
+    {
+      "group_id": "20dcf625d0d12a814e35785b4b5bf4e506df5ed44c0503ab6db65e26e961e748",
+      "urls": [
+        "http://vov.vn/van-hoa/le-sene-dolta-2026-boi-dap-net-dep-van-hoa-tinh-doan-ket-post1339194.vov"
+      ],
+      "tone_median": 5.82362728785358
+    },
+    {
+      "group_id": "223f5930c36b0df67ff1437a50e98d2b6adc6a8ba433535af88a99c0caa356a5",
+      "urls": [
+        "https://www.camdencourier.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "227a4e6cce8103f4f0ef9c8e967b2391ee5f845c1ad18d6ef52aa50670c21ed6",
+      "urls": [
+        "https://baoxaydung.vn/tay-ninh-tim-thay-quy-tap-duoc-388-hai-cot-liet-si-tu-campuchia-192261009192336524.htm"
+      ],
+      "tone_median": -2.1978021978022
+    },
+    {
+      "group_id": "227c9a729e90d601ba353ddd750ae6436cf87502dd213a2a5b8abe0e7925a4be",
+      "urls": [
+        "https://www.qdnd.vn/chinh-tri/tin-tuc/thu-tuong-le-minh-hung-hoi-kien-chu-tich-dang-nhan-dan-campuchia-chu-tich-thuong-vien-campuchia-hun-sen-1060045"
+      ],
+      "tone_median": 5.58252427184466
+    },
+    {
+      "group_id": "231819a1c580bbc3085d8e389e13b4c55469d22574e95fbcdf1687eb7d023c9e",
+      "urls": [
+        "https://www.centralwesterndaily.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "2363798953a9d51cc2fcbfafa3759555bc49d7f6d01b0fe2c2bdbd1058c3a09a",
+      "urls": [
+        "https://baomoi.com/truyen-thong-campuchia-phan-anh-dam-net-ve-chuyen-tham-cua-thu-tuong-le-minh-hung-c56246312.epi"
+      ],
+      "tone_median": 3.5230352303523
+    },
+    {
+      "group_id": "237815253780819297ec824f43a1bbba41d504880dc53697a26d5c7bcd6033ec",
+      "urls": [
+        "https://vietnamnews.vn/politics-laws/1801638/cambodian-pm-hun-manet-chairs-welcome-ceremony-for-vietnamese-counterpart-le-minh-hung-in-phnom-penh.html"
+      ],
+      "tone_median": 5.35714285714286
+    },
+    {
+      "group_id": "237a5323efd71db86c883418b6dc075c206a1cba2690667f260765415cf821a6",
+      "urls": [
+        "https://lecourrier.vn/le-pm-le-minh-hung-conclut-avec-succes-sa-visite-officielle-au-cambodge/1357106.html"
+      ],
+      "tone_median": 5.05952380952381
+    },
+    {
+      "group_id": "24269008decb1f01d2cdbfaacd1cec54fff68bca6e350ad6bc18e06124200725",
+      "urls": [
+        "http://www.bignewsnetwork.com/news/279357604/cambodia-bourse-sees-active-trading-in-september-amid-rising-investor-interest",
+        "http://www.cambodiantimes.com/news/279357604/cambodia-bourse-sees-active-trading-in-september-amid-rising-investor-interest",
+        "http://www.laosnews.net/news/279357604/cambodia-bourse-sees-active-trading-in-september-amid-rising-investor-interest"
+      ],
+      "tone_median": 1.65289256198347
+    },
+    {
+      "group_id": "2446ed178d31e916cbcbd425286952e9f3dcd77107337af18f2bcbd75ba93e46",
+      "urls": [
+        "https://congan.com.vn/doi-song/vietnam-airlines-bat-tay-voi-cac-doi-tac-lao-campuchia-thuc-day-phat-trien-du-lich_198637.html"
+      ],
+      "tone_median": 4.44015444015444
+    },
+    {
+      "group_id": "24b1c6a9ddcac95f9a3dcf71e9079e73e1b64a5f419ef00561f1294b0943d588",
+      "urls": [
+        "http://vov.vn/van-hoa/le-dat-bat-hoi-net-dep-bao-hieu-cua-dong-bao-khmer-post1340110.vov"
+      ],
+      "tone_median": 5.14075887392901
+    },
+    {
+      "group_id": "25803a07d8be09cb6bc3bdbe68a00d4406ed0ab893570eb5acc6dfa3f7943dd0",
+      "urls": [
+        "https://baomoi.com/campuchia-tang-cuong-xuat-khau-hat-dieu-c56231652.epi"
+      ],
+      "tone_median": 1.31578947368421
+    },
+    {
+      "group_id": "25ceca8c2a597df351c4a8aa2b5a9ecf043e35436267c96b3dea23c52b6ef230",
+      "urls": [
+        "https://vietnamnews.vn/politics-laws/1801399/viet-nam-seeks-stronger-more-substantive-ties-with-laos-cambodia.html"
+      ],
+      "tone_median": 3.80090497737557
+    },
+    {
+      "group_id": "263788d914a83cd912ffa8c98d24f61d845f8dbd7c0a01b8d947d3703688f092",
+      "urls": [
+        "http://vov.vn/xa-hoi/dong-bao-khmer-don-le-sen-don-ta-am-ap-niem-vui-post1340377.vov"
+      ],
+      "tone_median": 4.51467268623025
+    },
+    {
+      "group_id": "2675a6eb0a127fdf5fd190cddb8c73fd508b33d59a6de29a962b8d1eadadc8d7",
+      "urls": [
+        "https://vietnamnews.vn/opinion/1801500/vietnamese-origin-community-seeks-stronger-support-to-contribute-to-cambodia-s-development.html"
+      ],
+      "tone_median": 3.6281179138322
+    },
+    {
+      "group_id": "27242481bf7acad22fa19b776c6fdc3879b2220c8235a04d363fb096e8c733ca",
+      "urls": [
+        "https://www.areanews.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "2842d2137129d4a65e4687f76cd7d508b59b8a6fee432147cedd65ecc072cd5b",
+      "urls": [
+        "https://dantri.com.vn/thoi-su/thu-tuong-le-minh-hung-hoi-kien-chu-tich-quoc-hoi-campuchia-khuon-sudary-20261009223721601.htm",
+        "https://baodautu.vn/thu-tuong-le-minh-hung-hoi-kien-chu-tich-quoc-hoi-campuchia-khuon-sudary-d718569.html",
+        "https://www.tinnhanhchungkhoan.vn/thu-tuong-le-minh-hung-hoi-kien-chu-tich-quoc-hoi-campuchia-khuon-sudary-post399202.html"
+      ],
+      "tone_median": 8.57580398162328
+    },
+    {
+      "group_id": "28a3b074ea1d08470a32f282da79ae331af439d42bf286d90051747dfa142628",
+      "urls": [
+        "https://www.irrigator.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "28cf4483d6a052158394b7fa746d6aa2bda7d05ddd67c3bb1c5939303f90c2b4",
+      "urls": [
+        "https://baodongnai.com.vn/chinh-tri/202610/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-vuong-quoc-campuchia-ea87ac8/",
+        "https://baomoi.com/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-vuong-quoc-campuchia-c56239122.epi",
+        "https://baomoi.com/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-vuong-quoc-campuchia-c56239713.epi",
+        "https://daidoanket.vn/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-vuong-quoc-campuchia.html",
+        "https://dantri.com.vn/thoi-su/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-vuong-quoc-campuchia-20261010165333854.htm",
+        "https://thanhnien.vn/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-vuong-quoc-campuchia-185261010155017958.htm",
+        "https://tienphong.vn/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-vuong-quoc-campuchia-post1884025.tpo",
+        "https://vietnam.vnanet.vn/vietnamese/tin-van/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-vuong-quoc-campuchia-471434.html",
+        "https://www.sggp.org.vn/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-vuong-quoc-campuchia-post875918.html",
+        "https://vietnam.vnanet.vn/vietnamese/long-form/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-vuong-quoc-campuchia-471528.html"
+      ],
+      "tone_median": 5.036346203159665
+    },
+    {
+      "group_id": "294406499a63894401f9aedc3686c1ad3976a86c8fc4d24f378ef0fa94f13efc",
+      "urls": [
+        "https://www.merimbulanewsweekly.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "2a8b2da80f91b17a74b2def9542d7777fe2d10d36b643992dfa07079eac1d4b7",
+      "urls": [
+        "https://baovanhoa.vn/chinh-tri/chuyen-tham-cua-thu-tuong-se-tao-them-xung-luc-moi-viet-nam-voi-lao-va-campuchia-272166.html"
+      ],
+      "tone_median": 5.00500500500501
+    },
+    {
+      "group_id": "2aa7f68143c2ad4bbc503d70952855b8821688c974ea203dd894c527b9b71ef7",
+      "urls": [
+        "https://baomoi.com/thu-tuong-le-minh-hung-gap-cong-dong-nguoi-goc-viet-va-cac-co-quan-dai-dien-viet-nam-tai-campuchia-c56239393.epi",
+        "https://baomoi.com/thu-tuong-le-minh-hung-gap-cong-dong-nguoi-goc-viet-va-cac-co-quan-dai-dien-viet-nam-tai-campuchia-c56239614.epi",
+        "https://vietbao.vn/thu-tuong-le-minh-hung-gap-cong-dong-nguoi-goc-viet-va-cac-co-quan-dai-dien-viet-nam-tai-campuchia-610838.html",
+        "https://vietnam.vnanet.vn/vietnamese/tin-van/thu-tuong-le-minh-hung-gap-cong-dong-nguoi-goc-viet-va-cac-co-quan-dai-dien-viet-nam-tai-campuchia-471432.html"
+      ],
+      "tone_median": 3.9426523297491
+    },
+    {
+      "group_id": "2b92abd7c55a36ac8c6898f82cb4cab74693df25d5ed1833be7313d26183ae0d",
+      "urls": [
+        "https://english.news.cn/20261007/1fb895c321f04bf2b32782c8791c6ddc/c.html",
+        "https://english.news.cn/asiapacific/20261007/c9b73f37e77e401b9293ea2f346c8b26/c.html"
+      ],
+      "tone_median": 1.63934426229508
+    },
+    {
+      "group_id": "2bda7cd0be7300b96350c56fb94c03d204064abd8863383eaf8056d83f1ec133",
+      "urls": [
+        "https://baomoi.com/dua-hop-tac-kinh-te-viet-nam-campuchia-len-tam-cao-moi-c56235859.epi",
+        "https://thanhnien.vn/dua-hop-tac-kinh-te-viet-nam-campuchia-len-tam-cao-moi-185261009204721103.htm",
+        "https://www.qdnd.vn/chinh-tri/tin-tuc/dua-hop-tac-kinh-te-viet-nam-campuchia-len-tam-cao-moi-1060061"
+      ],
+      "tone_median": 4.42176870748299
+    },
+    {
+      "group_id": "2c0271dfb1bb63a15c871d7bd42f5b9a8ad17e6a790a38d1c1f2ef21a4c879ef",
+      "urls": [
+        "https://baomoi.com/chuyen-tham-lao-va-campuchia-cua-thu-tuong-le-minh-hung-tao-xung-luc-moi-cho-hop-tac-toan-dien-c56248364.epi"
+      ],
+      "tone_median": 3.85208012326656
+    },
+    {
+      "group_id": "2c14b30c9e9f0e313f4acccc9513c9a41c1302a19818dc6609aa69e4eab7e7c3",
+      "urls": [
+        "https://baomoi.com/quan-he-viet-nam-campuchia-phat-trien-manh-me-trong-giai-doan-moi-c56229165.epi",
+        "https://vietbao.vn/quan-he-viet-nam-campuchia-phat-trien-manh-me-trong-giai-doan-moi-610598.html"
+      ],
+      "tone_median": 5.31202924352397
+    },
+    {
+      "group_id": "2c6d62ab76abc0a31b0745bdff4718a7ddca2e4d13cf723c62986f68e57a02ed",
+      "urls": [
+        "https://www.trend.az/azerbaijan/4233592.html"
+      ],
+      "tone_median": 2.32558139534884
+    },
+    {
+      "group_id": "2c789797b89cfa149ddaf4c70ac7123c2622f6c9bd9b7568bb15c3a8e75b73a6",
+      "urls": [
+        "http://vov.vn/chinh-tri/thu-tuong-de-nghi-angkor-milk-tham-gia-sau-hon-vao-mang-luoi-phan-phoi-post1340084.vov"
+      ],
+      "tone_median": 4.44839857651246
+    },
+    {
+      "group_id": "2ccc038562695f6079d27996ac060f0ff38413c1023f65666db96f2520b80636",
+      "urls": [
+        "https://az.trend.az/azerbaijan/politics/4233591.html"
+      ],
+      "tone_median": 2.66666666666667
+    },
+    {
+      "group_id": "2d71448e3441f6cb98e0cf7514c665913c8ab6f64645d02862c45a347900016e",
+      "urls": [
+        "https://www.azerbaijan-news.az/az/posts/detail/prezident-ilham-eliyev-ve-kambocanin-bas-naziri-metbuata-beyanatlarla-cixis-edibler-yenilenecek-1791793230/404210"
+      ],
+      "tone_median": 5.01296456352636
+    },
+    {
+      "group_id": "2e1d7cba2a9268155321116fbe102f6fce62ddaabb8b82df7a2f85a49a94d2f6",
+      "urls": [
+        "https://www.diariosur.es/malaga/kike-figaredo-jovenes-camboyanos-visitan-malaga-ciudad-20261011210452-nt.html"
+      ],
+      "tone_median": 4.33526011560694
+    },
+    {
+      "group_id": "2e9fecc8cbbed3c8b724fbf73efcfb874adfab79b67bda35a684d15ba61664a0",
+      "urls": [
+        "https://baochinhphu.vn/thu-tuong-le-minh-hung-toi-phnom-penh-bat-dau-chuyen-tham-chinh-thuc-campuchia-102261009132601772.htm",
+        "https://baomoi.com/thu-tuong-le-minh-hung-toi-phnom-penh-bat-dau-chuyen-tham-chinh-thuc-campuchia-c56233087.epi",
+        "https://baomoi.com/thu-tuong-le-minh-hung-toi-phnom-penh-bat-dau-chuyen-tham-chinh-thuc-campuchia-c56233728.epi",
+        "https://baophapluat.vn/thu-tuong-le-minh-hung-toi-phnom-penh-bat-dau-chuyen-tham-chinh-thuc-campuchia.html",
+        "https://baovanhoa.vn/chinh-tri/thu-tuong-le-minh-hung-toi-phnom-penh-bat-dau-chuyen-tham-chinh-thuc-campuchia-272872.html",
+        "https://baoxaydung.vn/thu-tuong-le-minh-hung-toi-phnom-penh-bat-dau-chuyen-tham-chinh-thuc-campuchia-192261009142329296.htm",
+        "https://daidoanket.vn/thu-tuong-le-minh-hung-toi-phnom-penh-bat-dau-chuyen-tham-chinh-thuc-campuchia.html",
+        "https://thanhtra.com.vn/doi-ngoai-97D2D2A31/thu-tuong-le-minh-hung-toi-phnom-penh-bat-dau-chuyen-tham-chinh-thuc-campuchia-98015d243.html",
+        "https://vtv.vn/thu-tuong-le-minh-hung-toi-phnom-penh-bat-dau-chuyen-tham-chinh-thuc-campuchia-100261009141330141.htm"
+      ],
+      "tone_median": 4.66472303206997
+    },
+    {
+      "group_id": "2f63268a916ee160f6de11c0abee3726ea982ea6595c28300c479ec22ccb80be",
+      "urls": [
+        "https://ru.apa.az/oficialniye-novosti/prezident-ilxam-aliev-my-sozdali-sovmestnuyu-rabocuyu-gruppu-s-kambodzei-v-sfere-torgovli-i-investicii-677700"
+      ],
+      "tone_median": -1.6
+    },
+    {
+      "group_id": "2fb11c93f99bdb62f143e2012e78893ce94084fe9efd1747019012d0dde39aa8",
+      "urls": [
+        "https://en.apa.az/foreign-policy/cambodian-prime-minister-visits-victory-park-in-baku-529519"
+      ],
+      "tone_median": 6.0
+    },
+    {
+      "group_id": "2fb1a62e67665c1e3d0b350693bf4055d50eaae9f16d595db40ba73743e70eb0",
+      "urls": [
+        "https://www.163.com/news/article/L8KPG8MS000189PS.html"
+      ],
+      "tone_median": -1.28205128205128
+    },
+    {
+      "group_id": "2ffbee48d0108f8a89752c46d27da8429c23de5e7a4d7d00519e44e8fdd8c73d",
+      "urls": [
+        "https://az.trend.az/azerbaijan/politics/4233503.html"
+      ],
+      "tone_median": 10.0
+    },
+    {
+      "group_id": "303608be1763968591a217b4c1b49d477b6f51f0d14fe3e94c3dc5fd32acaca0",
+      "urls": [
+        "https://www.newcastleherald.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "3068c3c286b12191c1e8105840d493a12b33449f8b66a25a66c5ffb1f050dbae",
+      "urls": [
+        "https://www.easternriverinachronicle.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "31b68ad89ae2594e47eae97e16ff1ac3b8cffb9535b840bfe3a296eb6f69cacb",
+      "urls": [
+        "https://www.chinanews.com.cn/gj/2026/10-09/10709424.shtml"
+      ],
+      "tone_median": -0.196463654223968
+    },
+    {
+      "group_id": "326b9c13e3b4d2bc5c19c33edb5f7a10ad2e78a138ceaaf46e47748cd80890a9",
+      "urls": [
+        "http://www.cambodiantimes.com/news/279359565/post-flood-rehabilitation-top-priority-for-cambodia-pm",
+        "http://www.nepalnational.com/news/279359565/post-flood-rehabilitation-top-priority-for-cambodia-pm"
+      ],
+      "tone_median": -3.00751879699248
+    },
+    {
+      "group_id": "3355610f37164668c42049e91fce1b62b815d5ada4218144658dd76101518785",
+      "urls": [
+        "http://www.cambodiantimes.com/news/279361736/cambodia-vietnam-sign-pacts-to-boost-bilateral-cooperation",
+        "http://www.laosnews.net/news/279361736/cambodia-vietnam-sign-pacts-to-boost-bilateral-cooperation",
+        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/10/cambodia-vietnam-sign-pacts-to-boost-bilateral-cooperation"
+      ],
+      "tone_median": 4.0
+    },
+    {
+      "group_id": "33943b0bcc6c0ae804664d7f0603648a0831ffb4d99fabd33ed154c3f958950b",
+      "urls": [
+        "https://baochinhphu.vn/thu-tuong-le-minh-hung-dat-vong-hoa-tai-dai-doc-lap-dai-tuong-niem-co-quoc-vuong-norodom-sihanouk-dai-huu-nghi-campuchia-viet-nam-102261009155403919.htm",
+        "https://baomoi.com/thu-tuong-le-minh-hung-dat-vong-hoa-tai-dai-doc-lap-dai-tuong-niem-co-quoc-vuong-norodom-sihanouk-dai-huu-nghi-campuchia-viet-nam-c56233758.epi",
+        "https://baomoi.com/thu-tuong-le-minh-hung-dat-vong-hoa-tai-dai-doc-lap-dai-tuong-niem-co-quoc-vuong-norodom-sihanouk-dai-huu-nghi-campuchia-viet-nam-c56235812.epi",
+        "https://daidoanket.vn/thu-tuong-le-minh-hung-dat-vong-hoa-tai-dai-doc-lap-dai-tuong-niem-co-quoc-vuong-norodom-sihanouk-dai-huu-nghi-campuchia-viet-nam.html",
+        "https://congan.com.vn/tin-chinh/vong-hoa-tai-dai-doc-lap-dai-tuong-niem-co-quoc-vuong-norodom-sihanouk-dai-huu-nghi-campuchia-viet-nam_198624.html"
+      ],
+      "tone_median": 2.06611570247934
+    },
+    {
+      "group_id": "3396e3cddf4e8e4f107f79a849f76fa467f4ba03a44f7e1b7b54912f8c75ef86",
+      "urls": [
+        "https://lecourrier.vn/le-premier-ministre-le-minh-hung-atttendu-au-laos-et-au-cambodge/1356839.html"
+      ],
+      "tone_median": 4.24242424242424
+    },
+    {
+      "group_id": "3420e81b1da10f98f6942b1e40152a92a94f7958e0e76a3804070151be3adae4",
+      "urls": [
+        "https://en.apa.az/official-news/president-ilham-aliyev-we-actively-cooperate-with-cambodia-within-international-organizations-529461"
+      ],
+      "tone_median": 3.26086956521739
+    },
+    {
+      "group_id": "342f9af5e7a000e008e46f1984bbd960b99ed0cab50096d0acb41254d38292ca",
+      "urls": [
+        "https://lecourrier.vn/le-pm-le-minh-hung-rend-des-visites-de-courtoisie-au-roi-et-a-la-reine-mere-du-cambodge/1357103.html"
+      ],
+      "tone_median": 5.83153347732181
+    },
+    {
+      "group_id": "346c03c2e362fcc31070d36a92c077f485e255764c38f1d24c95aff721c5c2c4",
+      "urls": [
+        "https://thanhnien.vn/thu-tuong-le-minh-hung-chao-quoc-vuong-campuchia-norodom-sihamoni-va-hoang-thai-hau-185261010140134543.htm"
+      ],
+      "tone_median": 8.8235294117647
+    },
+    {
+      "group_id": "34f0528a7970679e9933679ca03044258ece04b29181182174cd9da33fd99983",
+      "urls": [
+        "https://vneconomy.vn/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-campuchia.htm"
+      ],
+      "tone_median": 5.42986425339367
+    },
+    {
+      "group_id": "3563c4106475d8dbf0a8b5358f5892cc2db7924e4c9ac77655c72014f9c7a084",
+      "urls": [
+        "https://baovanhoa.vn/dan-toc-ton-giao/cay-cao-bong-ca-toa-mat-vung-dong-bao-khmer-273756.html"
+      ],
+      "tone_median": 4.33212996389892
+    },
+    {
+      "group_id": "35880152f1d00757395c00d22dfca6a8e6868fee59a7a60b7090ed9371777b62",
+      "urls": [
+        "https://daidoanket.vn/chuyen-tham-cua-thu-tuong-le-minh-hung-dua-quan-he-viet-nam-lao-viet-nam-campuchia-vuon-len-mot-tam-muc-moi.html"
+      ],
+      "tone_median": 3.78151260504202
+    },
+    {
+      "group_id": "359ee1d171f214b4eb274332289b4b0c270e6d67b8b348f897664ee4fb296c8f",
+      "urls": [
+        "https://vietnamnews.vn/politics-laws/1801756/cambodian-media-give-heavy-coverage-to-vietnamese-pm-s-visit.html"
+      ],
+      "tone_median": 2.54452926208651
+    },
+    {
+      "group_id": "36cffffc750942c8a02f2c93309e7810a853e152c0fdf37c360d1b867d43ebdd",
+      "urls": [
+        "https://www.southcoastregister.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "373385d1edba711e639d520421efc65520ee80b4b28fa6cb0a4f4121d06dad86",
+      "urls": [
+        "https://azerbaijan-news.az/az/posts/detail/azerbaycan-kamboca-senedleri-mubadile-olunub-yenilenib-1791794766/404219",
+        "https://www.azerbaijan-news.az/az/posts/detail/azerbaycan-kamboca-senedleri-mubadile-olunub-yenilenib-1791794766/404219"
+      ],
+      "tone_median": 2.73972602739726
+    },
+    {
+      "group_id": "37ae74b00b39eaca2aeb59680b0de47cdd707c2f3bc1da2723c21b8b477fbbbf",
+      "urls": [
+        "https://baomoi.com/la-don-xin-vao-dang-he-lo-danh-tinh-liet-si-hy-sinh-tai-campuchia-c56241244.epi"
+      ],
+      "tone_median": -2.34741784037559
+    },
+    {
+      "group_id": "37b8358432dc2da52663d4a237a20903a38ccb52d8153aabe40df66979db4a1e",
+      "urls": [
+        "https://www.vg.no/nyheter/i/zllrkv/thuan-duc-nguyen-anmelder-kambodsja-og-vietnam-for-tvungen-forsvinning"
+      ],
+      "tone_median": -8.55855855855856
+    },
+    {
+      "group_id": "391ad5b8acb0bdcbba029b7e4be81f3ba2780809befa9f56aba2c6ce3feb1fea",
+      "urls": [
+        "http://www.bignewsnetwork.com/news/279369229/azerbaijan-cambodia-sign-trade-economic-cooperation-agreements",
+        "http://www.cambodiantimes.com/news/279369229/azerbaijan-cambodia-sign-trade-economic-cooperation-agreements",
+        "http://www.centralasiatimes.com/news/279369229/azerbaijan-cambodia-sign-trade-economic-cooperation-agreements",
+        "http://www.laosnews.net/news/279369229/azerbaijan-cambodia-sign-trade-economic-cooperation-agreements"
+      ],
+      "tone_median": 3.47222222222222
+    },
+    {
+      "group_id": "392d7ec914ba2a5807f04527e2f273edbf6edd634e2c5d0dcb08fee10c715f20",
+      "urls": [
+        "https://www.setn.com/news/1921092"
+      ],
+      "tone_median": -3.68271954674221
+    },
+    {
+      "group_id": "395f5f423228922533f10036804209cb3cf10daceeeed0615c62e8760ff7f7f3",
+      "urls": [
+        "https://musavat.com/news/azerbaycanla-kamboca-arasinda-uc-sened-mubadile-olunub_1295906.html"
+      ],
+      "tone_median": 2.75862068965517
+    },
+    {
+      "group_id": "3a12ddb49d5bcf5cc887ea63d271a31be9f697a33ddda3f56078f7910d953092",
+      "urls": [
+        "https://baomoi.com/an-giang-tham-chuc-mung-cac-chua-khmer-nhan-le-sen-don-ta-c56234022.epi"
+      ],
+      "tone_median": 3.6231884057971
+    },
+    {
+      "group_id": "3a154dedfe2d35c41b96f98e6170d766415e5148783f9e4d3961958a4403751a",
+      "urls": [
+        "https://baophapluat.vn/thong-nhat-nhung-dinh-huong-lon-trong-hop-tac-phap-luat-va-tu-phap-giua-viet-nam-va-campuchia.html"
+      ],
+      "tone_median": 4.6742209631728
+    },
+    {
+      "group_id": "3a41ac49e7821f993b667ad441547b8dfac57bc065188775b6e9a87634fe57c5",
+      "urls": [
+        "https://www.ucanews.com/news/four-cambodian-journalists-to-face-court-after-border-fracas/115688"
+      ],
+      "tone_median": -5.48523206751055
+    },
+    {
+      "group_id": "3a86cc119a32964bbc5530709eac49924c3bb7bc7a0c635778407cfadf08c272",
+      "urls": [
+        "https://www.3djuegos.com/tv-series/noticias/a-sus-51-anos-angelina-jolie-duena-39-hectareas-camboya-ha-contribuido-a-transformar-zona-afectada-caza-furtiva-area-conservacion"
+      ],
+      "tone_median": 2.33463035019455
+    },
+    {
+      "group_id": "3ae7f83bf3645b56aa8d06d04b0e0d4d3594fb534ada6225d7b86b458f861f4a",
+      "urls": [
+        "https://baomoi.com/cac-tinh-thanh-dbscl-tham-chuc-mung-dong-bao-khmer-nhan-dip-le-sen-dolta-c56241170.epi"
+      ],
+      "tone_median": 8.06794055201699
+    },
+    {
+      "group_id": "3b84047870e78a5f9990a86c9277a359e2f24c1cb920e4e8f2944ba67bc83dbf",
+      "urls": [
+        "https://en.apa.az/official-news/president-ilham-aliyev-azerbaijan-and-cambodia-consider-peace-and-security-key-conditions-for-development-529463"
+      ],
+      "tone_median": 2.68456375838926
+    },
+    {
+      "group_id": "3bcbbbfad3d942ed5bf17e30628fd76af827a043b3ca952602e6b3cdeea44e40",
+      "urls": [
+        "https://www.singletonargus.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "3cd88ed4b201a8d58cdbeeb0b98179be7224820b8782d307dd739cba0b13d20d",
+      "urls": [
+        "https://www.goulburnpost.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "3ce94dd3a361ca85b4c68453ecff1319f5632462485e10709547f6cb2309557a",
+      "urls": [
+        "https://baomoi.com/chi-phi-nhap-nhien-lieu-cua-campuchia-tang-gan-54-trong-9-thang-dau-nam-c56241445.epi"
+      ],
+      "tone_median": -3.51758793969849
+    },
+    {
+      "group_id": "3d057062f296df57c9e336d5c5c9e3b3c9461c2d84999a5e2d6f947082b67e59",
+      "urls": [
+        "https://thanhtra.com.vn/doi-ngoai-97D2D2A31/chu-tich-hun-sen-thanh-qua-phat-trien-kinh-te-cua-viet-nam-cung-dem-lai-loi-ich-cho-campuchia-98015d910.html"
+      ],
+      "tone_median": 5.65167243367935
+    },
+    {
+      "group_id": "3d08eb42c3fcd894d403a67e2097ba813156e6920dd130fc8be0aa3c78a38b80",
+      "urls": [
+        "http://www.cambodiantimes.com/news/279361432/cambodia-oil-gas-import-costs-jump-nearly-54-pct-in-first-9-months",
+        "http://www.nepalnational.com/news/279361432/cambodia-oil-gas-import-costs-jump-nearly-54-pct-in-first-9-months"
+      ],
+      "tone_median": -2.35294117647059
+    },
+    {
+      "group_id": "3d1d2f5cb08ee751879f9cb89f15725bbe4ccf4c2a196147565e6b80b71c690c",
+      "urls": [
+        "https://en.apa.az/entrepreneurship/pm-cambodia-and-azerbaijan-have-complementary-economic-characteristics-529567"
+      ],
+      "tone_median": 5.66037735849057
+    },
+    {
+      "group_id": "3d50704aea62955bba4e20acdc0951a7a644771b0d3e2627de51fb4c98d1bd9a",
+      "urls": [
+        "https://www.businesstimes.com.sg/lifestyle/travel-wellness/i-gave-my-dream-realise-dreams-others-cambodian-law-graduate-turned-ngo-co-founder"
+      ],
+      "tone_median": 3.05403288958496
+    },
+    {
+      "group_id": "3ef7d179ddb389c10222ff19d8941a112ec1bffdb01d6f69e1af9ebbcec16e1e",
+      "urls": [
+        "https://sciencepost.fr/en-choisissant-de-laisser-la-jungle-devorer-un-temple-dangkor-au-debut-du-xxe-siecle-lecole-francaise-dextreme-orient-a-litteralement-transforme-des-racines-geantes-en-attraction-mondiale/"
+      ],
+      "tone_median": -0.735294117647059
+    },
+    {
+      "group_id": "3eff3ab1ea201cc6b8d67cdce32c497a6aad723fc85c158c9b260c33449c8b2b",
+      "urls": [
+        "https://en.apa.az/foreign-policy/president-ilham-aliyev-invited-to-visit-cambodia-529455"
+      ],
+      "tone_median": 3.44827586206897
+    },
+    {
+      "group_id": "3fe7e0e94a8808b5b096c5adafe70c93055f6c4e83b965346324708be6e544f5",
+      "urls": [
+        "https://vietnamnews.vn/politics-laws/1801711/cambodia-issues-press-release-on-outcomes-of-vietnamese-pm-s-official-visit.html"
+      ],
+      "tone_median": 6.15796519410977
+    },
+    {
+      "group_id": "405a5f9b8b8f3749dbe02429b873efe38a459f3f95c307b2187f4f7b0788d64b",
+      "urls": [
+        "https://baodongnai.com.vn/kham-pha-dong-nai202610/chua-soc-lon-dau-an-kien-truc-va-van-hoa-khmer-tai-dong-nai-1fd5d6e/"
+      ],
+      "tone_median": 7.04607046070461
+    },
+    {
+      "group_id": "408cee98f97c05e32d39e8f96d65c4a4f1933fdb2476244a9cbc321b1011c474",
+      "urls": [
+        "https://www.tv2.no/direkte/jpybz/siste-nytt/6ac7cb80a6f60f5d7e318df0/nordmann-forsvunnet-parorende-anmelder-vietnam-og-kambodsja-for-kidnapping"
+      ],
+      "tone_median": -2.3121387283237
+    },
+    {
+      "group_id": "4112d7f7cf1d90f2e6d6953c3136cd7de1a50f6fc4163dbe94bac276ac2a8290",
+      "urls": [
+        "https://www.hepburnadvocate.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "415516925ca11776ec9b9cf18805b26140471507cca8d836163e86881cead96b",
+      "urls": [
+        "https://thanhtra.com.vn/doi-ngoai-97D2D2A31/thu-tuong-le-minh-hung-dat-vong-hoa-tai-dai-doc-lap-dai-tuong-niem-co-quoc-vuong-norodom-sihanouk-dai-huu-nghi-campuchia-viet-nam-98015d56e.html"
+      ],
+      "tone_median": 1.24610591900311
+    },
+    {
+      "group_id": "41b4ed0d341ccc6469c61ca7e9f566bbe091efddd046db4806e1e2e2952a42fd",
+      "urls": [
+        "https://vietnamnews.vn/politics-laws/1801670/pm-pays-tribute-to-king-norodom-sihanouk-lays-wreaths-at-cambodian-monuments.html"
+      ],
+      "tone_median": 6.81318681318681
+    },
+    {
+      "group_id": "429e10ea882eb5355ecc5dd81ae898292bf456a228b71fb4a4ca7d2b7d743ec3",
+      "urls": [
+        "https://baomoi.com/chi-phi-nhap-nhien-lieu-cua-campuchia-tang-gan-54-trong-9-thang-c56245602.epi"
+      ],
+      "tone_median": -1.51057401812689
+    },
+    {
+      "group_id": "432f82ea13d5a2d314def5382c7d729f07e75897efe9ed3e6a95de58a142f5a9",
+      "urls": [
+        "https://www.thecourier.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "433706e39358b62b9de6ac416f66bf802eaa040d82081e18ac9f761f0a91fdc3",
+      "urls": [
+        "https://thanhtra.com.vn/doi-ngoai-97D2D2A31/campuchia-luon-uu-tien-tang-cuong-quan-he-huu-nghi-hop-tac-toan-dien-voi-viet-nam-98015d927.html"
+      ],
+      "tone_median": 9.1044776119403
+    },
+    {
+      "group_id": "43a0f7ea0213eb7ad9c654733237375d3f0352f9b9ff5f2d603d240e2100dd6c",
+      "urls": [
+        "https://www.trend.az/azerbaijan/4233587.html"
+      ],
+      "tone_median": 0.0
+    },
+    {
+      "group_id": "43dbaf7aa299f353e63ac52fac55dfac0335884e6fe901c01fe31e4cc3f5b39b",
+      "urls": [
+        "https://kevesko.vn/20261007/viet-nam-campuchia-cung-van-menh-toi-lua-tat-den-co-nhau-44458338.html"
+      ],
+      "tone_median": 0.0
+    },
+    {
+      "group_id": "43e9333f930b01a724860b10295a27aa0bd10ba58e7f3b35aee0a084a94aa108",
+      "urls": [
+        "https://en.apa.az/official-news/president-ilham-aliyev-held-expanded-meeting-with-prime-minister-of-cambodia-529441",
+        "https://en.apa.az/official-news/president-ilham-aliyev-held-expanded-meeting-with-prime-minister-of-cambodia-updated-529441"
+      ],
+      "tone_median": 3.85375494071146
+    },
+    {
+      "group_id": "44b40645a0adf9bc66cf727ce1b630494138a811aa072521b4f0cfe7d819bdc3",
+      "urls": [
+        "https://lecourrier.vn/le-pm-le-minh-hung-part-pour-une-visite-officielle-au-laos-et-au-cambodge/1356934.html"
+      ],
+      "tone_median": 5.30612244897959
+    },
+    {
+      "group_id": "451a9ed36744a4263ee27149eeb112ff69e668bfccc1f6e242497c6124028d64",
+      "urls": [
+        "https://vietnam.vnanet.vn/french/long-form/entretien-entre-le-premier-ministre-le-minh-hung-et-son-homologue-cambodgien-hun-manet-471353.html"
+      ],
+      "tone_median": 5.23049645390071
+    },
+    {
+      "group_id": "45243270a48f067fa82f34bba44fac55ae83a6b101fa2d9edfd295f212624b35",
+      "urls": [
+        "https://baoxaydung.vn/hai-thu-tuong-viet-nam-campuchia-dua-hop-tac-kinh-te-len-tam-cao-moi-192261009204814205.htm",
+        "https://thanhtra.com.vn/doi-ngoai-97D2D2A31/hai-thu-tuong-viet-nam-campuchia-dua-hop-tac-kinh-te-len-tam-cao-moi-98015d942.html"
+      ],
+      "tone_median": 4.090099263496495
+    },
+    {
+      "group_id": "455e861613ce915c6e47d445016225d52a104d5b766bb451d7b1fe6407e1d925",
+      "urls": [
+        "https://baomoi.com/trien-khai-hieu-qua-hop-tac-quoc-phong-viet-nam-campuchia-c56238215.epi"
+      ],
+      "tone_median": 5.0
+    },
+    {
+      "group_id": "46390ad899b647640a3865fa2020f2e4776237726ab8a729ffdbc82d98c4a2de",
+      "urls": [
+        "https://www.lithgowmercury.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "464816dfe9a1824c2cbe1f3e270d26a5f766d25738bf793d6c47477e77fc2de7",
+      "urls": [
+        "https://thanhnien.vn/viet-nam-va-campuchia-tang-cuong-phoi-hop-phong-chong-toi-pham-cong-nghe-cao-185261009205631065.htm"
+      ],
+      "tone_median": 6.20031796502385
+    },
+    {
+      "group_id": "469000fefd395280e6b9493c48c9d85adc31143be71b11eda59e3f573ef82dc4",
+      "urls": [
+        "https://news.tuoitre.vn/prime-minister-le-minh-hung-departs-for-official-visits-to-laos-cambodia-103261008132053597.htm"
+      ],
+      "tone_median": 5.46623794212219
+    },
+    {
+      "group_id": "46b6c01d3f446bd14ceda697d0ba5d35f31458f18a7cfc6c4bfd30240a38fd63",
+      "urls": [
+        "https://english.news.cn/20261010/c3d82fbbc4b54c41afde1f614fbd76a4/c.html",
+        "https://english.news.cn/asiapacific/20261010/d802b49ac2f0468dadada5fec2cf2b7f/c.html"
+      ],
+      "tone_median": 6.19195046439629
+    },
+    {
+      "group_id": "475b781a131975c8d037aa912323f830e4140ba8155d05a718277c64bbb4dc27",
+      "urls": [
+        "https://baomoi.com/giai-doan-hop-tac-moi-viet-nam-campuchia-trong-ky-nguyen-phat-trien-c56223285.epi"
+      ],
+      "tone_median": 3.12138728323699
+    },
+    {
+      "group_id": "47bf56a674c0d0c212d0a57623ac4a0f1b3b8d30f0e38e893c498dce2bb46002",
+      "urls": [
+        "https://www.armidaleexpress.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "47e1dde75d9c9f79e305ec2cef6ae23cfa881a975aa1fd5c442e66e6af102cdf",
+      "urls": [
+        "https://news.az/news/hun-manet-urges-exploration-of-azerbaijan-cambodia-economic-potential"
+      ],
+      "tone_median": 3.78787878787879
+    },
+    {
+      "group_id": "48ad6634b7898d1345c2e46fb163e9ca19405265618b3568822007eca684de7f",
+      "urls": [
+        "https://www.edenmagnet.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.23893805309735
+    },
+    {
+      "group_id": "4a089cdfbe0b49dea1b212b521b5c454803e857bda0d9c582fb2c513af8ec204",
+      "urls": [
+        "https://www.fnnews.com/news/202610112112294110"
+      ],
+      "tone_median": -7.76965265082267
+    },
+    {
+      "group_id": "4afd38da8d009b7f40964ae1c39ea49c3981b8c15cbcb6989281b99b6a49edb6",
+      "urls": [
+        "https://baomoi.com/campuchia-canh-bao-thu-doan-lua-dao-qua-ngan-hang-va-facebook-c56215468.epi"
+      ],
+      "tone_median": -0.479616306954436
+    },
+    {
+      "group_id": "4b21d0dc01b38065e0afda75bb699f55429e278ce51d0ce98a9fb4b2cfb943f5",
+      "urls": [
+        "https://thanhnien.vn/tim-thay-don-xin-vao-dang-ten-vuong-dinh-minh-trong-vi-liet-si-tai-campuchia-185261010164328778.htm"
+      ],
+      "tone_median": -3.69068541300527
+    },
+    {
+      "group_id": "4b4418179809f386e8dfb4fe51026f0450f9fc21029232d93c4122f660ca6a95",
+      "urls": [
+        "https://vietnamnews.vn/politics-laws/1801692/pm-highlights-youth-s-role-in-advancing-viet-nam-cambodia-ties.html"
+      ],
+      "tone_median": 4.83558994197292
+    },
+    {
+      "group_id": "4b68ffa33538388dbaaa438c6846af4dc80b5c2a3f79e420fd173056b79058b6",
+      "urls": [
+        "https://musavat.com/news/azerbaycan-ve-kamboca-yeni-biznes-terefdasliqlari-qura-biler_1295976.html"
+      ],
+      "tone_median": 1.27388535031847
+    },
+    {
+      "group_id": "4bca33f1c73ef6eacc2e2298d146588da7f2f2de51360e1ae980c37fa519e8c7",
+      "urls": [
+        "https://www.ulladullatimes.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "4c1609211dd7ed69fb772e9cf657e0a55f1d1d516d9f338fce6d2d35ea89e073",
+      "urls": [
+        "http://vov.vn/chinh-tri/thu-tuong-le-minh-hung-tiep-pho-thu-tuong-chu-tich-hoi-lhtn-campuchia-post1340054.vov"
+      ],
+      "tone_median": 4.44444444444444
+    },
+    {
+      "group_id": "4c255794ba20c0b84a5561dd2f958885f75d7b8b7e383a87dca9d14e5be9a8a0",
+      "urls": [
+        "https://www.tenterfieldstar.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "4c6b0b03dde69a7430f9f3a533ae6448599789e3bd4b9999f03401fd7474e9a8",
+      "urls": [
+        "http://vov.vn/xa-hoi/tim-thay-la-don-xin-vao-dang-trong-chiec-vi-liet-si-quy-tap-tai-campuchia-post1340076.vov"
+      ],
+      "tone_median": -5.48387096774194
+    },
+    {
+      "group_id": "4ca8b1d9bbda895ca19e237f30901cf63e0022b9cdb0920b48a51e2d4e599c03",
+      "urls": [
+        "https://baomoi.com/quach-ngoc-ngoan-bat-ngo-khoe-giong-hat-bang-tieng-khmer-cung-dan-sao-phim-trai-buon-nguoi-c56231439.epi"
+      ],
+      "tone_median": 5.6
+    },
+    {
+      "group_id": "4cd9ac21471d1c3f98c82d95926a618f24b1139cefda7254b7e6270ea45a3e1a",
+      "urls": [
+        "http://vov.vn/chinh-tri/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia-post1339463.vov",
+        "https://baochinhphu.vn/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia-102261008114154657.htm",
+        "https://baodongnai.com.vn/chinh-tri/202610/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia-62c3745/",
+        "https://baomoi.com/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia-c56222599.epi",
+        "https://baomoi.com/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia-c56222901.epi",
+        "https://baomoi.com/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia-c56223129.epi",
+        "https://baovanhoa.vn/chinh-tri/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia-272447.html",
+        "https://kienthuc.net.vn/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia-post1637499.html",
+        "https://thanhnien.vn/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia-185261008121445004.htm",
+        "https://thethaovanhoa.vn/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia-20261008114616202.htm",
+        "https://tienphong.vn/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia-post1883259.tpo",
+        "https://vietnam.vnanet.vn/vietnamese/tin-van/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia-471078.html",
+        "https://www.qdnd.vn/chinh-tri/tin-tuc/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia-1059840"
+      ],
+      "tone_median": 8.69565217391304
+    },
+    {
+      "group_id": "4ef4daeb47d74dc5737372e0bd7dd31c4aefd61bc3c6e8238775c925c47e8ca8",
+      "urls": [
+        "https://baochinhphu.vn/hai-thu-tuong-viet-nam-campuchia-dua-hop-tac-kinh-te-len-tam-cao-moi-102261009201040867.htm",
+        "https://baomoi.com/hai-thu-tuong-viet-nam-campuchia-dua-hop-tac-kinh-te-len-tam-cao-moi-c56235119.epi"
+      ],
+      "tone_median": 4.3312851236668255
+    },
+    {
+      "group_id": "4f4eb11f61343e2042d986847db063b821ebba339f819a6ae76ba776d4abcdfc",
+      "urls": [
+        "https://www.sconeadvocate.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "4f94a014a871b0221d3e402cf67bba390ce2c78ca633471aaf6096a59ed6175d",
+      "urls": [
+        "https://zerkalo.az/chto-tyanet-kambodzhu-k-azerbajdzhanu/"
+      ],
+      "tone_median": -0.267022696929239
+    },
+    {
+      "group_id": "50a46d0de01ec92d7654271b47e6e90f79d8ef024da82e47f0e55e47fc2c615b",
+      "urls": [
+        "http://vov.vn/chinh-tri/thu-tuong-gap-cong-dong-va-co-quan-dai-dien-tai-campuchia-post1340056.vov"
+      ],
+      "tone_median": 3.75757575757576
+    },
+    {
+      "group_id": "50b11bfa4ea061380fa694ca2d484da0f0ffa5c4adc6337894008a4b1159b7cb",
+      "urls": [
+        "https://en.apa.az/entrepreneurship/cambodia-invites-azerbaijani-companies-to-cooperate-in-agriculture-energy-and-tourism-529555"
+      ],
+      "tone_median": 5.60747663551402
+    },
+    {
+      "group_id": "50c7c430a69000417efb95dee82f47dcc4b1578d313e97b56ba8fc22a68aaaf0",
+      "urls": [
+        "https://businessdayghana.com/rhenus-cambodia-signals-growth-with-a-new-and-expanded-head-office/",
+        "https://portal.sina.com.hk/finance/finance-mediaoutreachnewswire/media-outreach/2026/10/08/1948483/rhenus-cambodia-signals-growth-with-a-new-and-expanded-head-office/",
+        "https://vietnamnews.vn/media-outreach/1801528/rhenus-cambodia-signals-growth-with-a-new-and-expanded-head-office.html",
+        "https://www.manilatimes.net/2026/10/08/tmt-newswire/media-outreach-newswire/rhenus-cambodia-signals-growth-with-a-new-and-expanded-head-office/2441591",
+        "https://www.thailand-business-news.com/pr-news/rhenus-cambodia-signals-growth-with-a-new-and-expanded-head-office"
+      ],
+      "tone_median": 5.40983606557377
+    },
+    {
+      "group_id": "5217c7fe5d98c43f85975943df79219fc4d8b9defc0c294e66be298ccba3a6fd",
+      "urls": [
+        "https://baochinhphu.vn/thu-tuong-tham-du-an-cua-vinamilk-tai-campuchia-102261010130516352.htm"
+      ],
+      "tone_median": 5.1219512195122
+    },
+    {
+      "group_id": "521ae11adda546470591323aa72a1794c785f2d7e3492345a9977375332db98a",
+      "urls": [
+        "https://baocantho.com.vn/doan-lanh-dao-tp-can-tho-tham-chuc-mung-le-sene-dolta-dong-bao-khmer-a217419.html"
+      ],
+      "tone_median": 5.55555555555555
+    },
+    {
+      "group_id": "536c8d007303b0f493f3954f4198ca05c69f52326047b34f0c9b7517242e6ac0",
+      "urls": [
+        "https://baomoi.com/campuchia-t49695391.epi"
+      ],
+      "tone_median": 1.17647058823529
+    },
+    {
+      "group_id": "53a539d2b30f4d1d4560983c241e7cb635f7a09afbc873058b1c1a825ca7d565",
+      "urls": [
+        "https://www.trend.az/azerbaijan/4233798.html"
+      ],
+      "tone_median": 2.9126213592233
+    },
+    {
+      "group_id": "541df468f74e669fd067234041713956c5bdb0491b340d833cc0aa7704272a9a",
+      "urls": [
+        "https://www.azernews.az/nation/265400.html"
+      ],
+      "tone_median": 3.2258064516129
+    },
+    {
+      "group_id": "559d6218b3d8367fe82265e7ba8b002ec30a04f4c351ba61fea9955fe041bb39",
+      "urls": [
+        "https://www.katherinetimes.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "55e4f2858d8daf09b05ce1d1f77679644fafff70b6907b1946baaacf962b75b4",
+      "urls": [
+        "https://baomoi.com/thu-tuong-le-minh-hung-tham-du-an-nha-may-angkormilk-tai-campuchia-c56244443.epi"
+      ],
+      "tone_median": 3.29067641681901
+    },
+    {
+      "group_id": "56b27abe83a83c6826d034dea5189bc084364ed5f7bdc9f063cd66fb8f617870",
+      "urls": [
+        "https://www.trend.az/azerbaijan/4233775.html"
+      ],
+      "tone_median": 1.73611111111111
+    },
+    {
+      "group_id": "56ca4d74b7204cc1286b99b4536552d4121066a71974c340ddf1196cb7313b0f",
+      "urls": [
+        "https://travelweekly.com.au/whats-next-for-cambodia-g-adventures-bruce-poon-tip-and-sean-martin-on-its-brighter-future/"
+      ],
+      "tone_median": 2.72812793979304
+    },
+    {
+      "group_id": "56ff51933921589088d971caa8d94e39f8035b9a37290aa65a4aef6947492f30",
+      "urls": [
+        "https://livenews.co.nz/2026/10/08/rhenus-cambodia-signals-growth-with-a-new-and-expanded-head-office/"
+      ],
+      "tone_median": 6.21359223300971
+    },
+    {
+      "group_id": "57beb2f26aed57af6644661c5a621be777917e5cb6eeb0087dfd7c69a3da2394",
+      "urls": [
+        "https://english.news.cn/20261011/0fb9bb1ecc864dc0a18086aa63ba5ce2/c.html",
+        "https://english.news.cn/asiapacific/20261011/6ec9aaef4ff54c6ebf06903e142df9ea/c.html"
+      ],
+      "tone_median": -0.65359477124183
+    },
+    {
+      "group_id": "58d322069b953a665ba57b84dff5ea4db9b91a14935da70aaf5f58408b56f1d5",
+      "urls": [
+        "https://vietnamnews.vn/economy/1801484/viet-nam-cambodia-trade-expo-to-draw-over-160-businesses.html"
+      ],
+      "tone_median": 2.75862068965517
+    },
+    {
+      "group_id": "59c638a49d4809e0dfbbb185446504c642778d92aa611ccd3e0aa7671360ac10",
+      "urls": [
+        "https://vneconomy.vn/viet-nam-campuchia-thuc-day-gan-ket-kinh-te-mo-rong-thuong-mai-va-dau-tu.htm"
+      ],
+      "tone_median": 4.01284109149278
+    },
+    {
+      "group_id": "5a3306fdb16399ba7ea37f6f33ee6ff38c026aded14ee9766236678a7e0816ca",
+      "urls": [
+        "https://soha.vn/viet-nam-dong-loat-bao-tin-vui-cho-trung-quoc-thai-lan-lao-campuchia-va-singapore-198261008173605086.htm"
+      ],
+      "tone_median": 1.78861788617886
+    },
+    {
+      "group_id": "5a619dbe4072174c0ac197217b1d57f7e51b07d694bfb16a3d48d9c9bae09d21",
+      "urls": [
+        "http://vov.vn/the-gioi/thai-lan-campuchia-noi-lai-hoa-giai-tranh-chap-bien-tai-la-hay-post1340217.vov"
+      ],
+      "tone_median": 0.737100737100738
+    },
+    {
+      "group_id": "5a69113b51ab517506178227d8bb660dbc32974af52e0a5a008a5eccd4e4b4d0",
+      "urls": [
+        "https://www.maitlandmercury.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "5aa3967d6e6890eb25fe34c55e2e465ef37d6d1989ac7f69062a8843538a9e66",
+      "urls": [
+        "https://baomoi.com/hien-thuc-hoa-cam-ket-nang-hieu-qua-hop-tac-giua-viet-nam-voi-lao-va-campuchia-c56215744.epi"
+      ],
+      "tone_median": 7.41258741258741
+    },
+    {
+      "group_id": "5aaebf7cb87954d36e3e01a1b3bd40017f0b2a572ff075fe857262517cf047bc",
+      "urls": [
+        "https://ru.apa.az/predprinimatelstvo/v-baku-sostoyalsya-azerbaidzano-kambodziiskii-biznes-forum-obnovleno-1-677765"
+      ],
+      "tone_median": 2.51572327044025
+    },
+    {
+      "group_id": "5ac1fa9b61166213330f7f3a927e1f209989e1ae6bb7e6921a48d2f33f50dfac",
+      "urls": [
+        "https://www.greatlakesadvocate.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "5b7e29da383774bfafe1f37516b634cc8b84bab9365a56966037b1dc794c2579",
+      "urls": [
+        "https://ru.apa.az/predprinimatelstvo/xun-manet-kambodza-i-azerbaidzan-obladayut-vzaimodopolnyayushhimi-ekonomiceskimi-preimushhestvami-677805"
+      ],
+      "tone_median": 5.40540540540541
+    },
+    {
+      "group_id": "5c9a210d00688bc6723484fb52574f35a49393ad59ec2c6043d8d3384627232b",
+      "urls": [
+        "https://stockbiz.vn/tin-tuc/campuchia-bat-dau-xuat-khau-gao-truc-tiep-den-philippines-bang-duong-bien/42141915"
+      ],
+      "tone_median": 0.835654596100279
+    },
+    {
+      "group_id": "5d7894399543a1cb016c50d1c1c7afd30f0a721342e32ec294c27803a9ca24b8",
+      "urls": [
+        "https://www.northweststar.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "5d7c3b926aa27a025ca305fa8f1f7e896492110fd5e7c60b499910d51312b6ad",
+      "urls": [
+        "https://lecourrier.vn/vietnam-cambodge-cap-sur-les-20-milliards-de-dollars-dechanges-commerciaux/1357020.html",
+        "https://lecourrier.vn/vietnam-cambodge-cap-sur-les-20-milliards-de-dollars-dechanges-commerciaux/1357027.html"
+      ],
+      "tone_median": 1.95508091703424
+    },
+    {
+      "group_id": "5eab67445895ded8e6570eeb0d034f2c8f342b91244de047ad9aa152bce7be3d",
+      "urls": [
+        "https://ru.apa.az/oficialniye-novosti/prezident-ilxam-aliev-i-premer-ministr-kambodzi-vystupili-s-zayavleniyami-dlya-pressy-obnovleno-1-677677"
+      ],
+      "tone_median": 4.13533834586466
+    },
+    {
+      "group_id": "5f09b85091ecbc8dbd1e19fe2024f4bb178364ab6bb300f0388131acfe553892",
+      "urls": [
+        "https://baomoi.com/bao-chi-campuchia-neu-bat-ket-qua-chuyen-tham-cua-thu-tuong-le-minh-hung-c56244779.epi",
+        "https://vietbao.vn/bao-chi-campuchia-neu-bat-ket-qua-chuyen-tham-cua-thu-tuong-le-minh-hung-610943.html"
+      ],
+      "tone_median": 3.534544159544155
+    },
+    {
+      "group_id": "5f30795071c52dc4891654729219812ee87ef7b68aaeab0fc7749380f8ba94f8",
+      "urls": [
+        "https://baocantho.com.vn/dau-an-mobifone-can-tho-o-vung-dong-bao-khmer-a217536.html"
+      ],
+      "tone_median": 4.10132689987937
+    },
+    {
+      "group_id": "5f6f2b838fb87ab189cff41b475145eb49d1a30fa8407361a2619a6bd9d2b98c",
+      "urls": [
+        "https://vnexpress.net/150-nha-su-khat-thuc-trong-le-sene-dolta-cua-nguoi-khmer-5130939.html"
+      ],
+      "tone_median": 4.16221985058698
+    },
+    {
+      "group_id": "5f768776085731af0bc185275dfa21e2c3ada72286688ac60f62b775fba90936",
+      "urls": [
+        "https://baomoi.com/ban-tin-tong-hop-tuan-xung-luc-moi-thuc-day-hop-tac-giua-viet-nam-voi-lao-campuchia-c56239432.epi"
+      ],
+      "tone_median": 5.47445255474453
+    },
+    {
+      "group_id": "5fc7c65666b169618485590ebb446daf3d50972cada0f4dd32a3c4cece0b5c5f",
+      "urls": [
+        "https://baovanhoa.vn/dan-toc-ton-giao/khi-gioi-tre-chung-tay-giu-lua-nghe-thuat-truyen-thong-khmer-nam-bo-272374.html"
+      ],
+      "tone_median": 6.00706713780919
+    },
+    {
+      "group_id": "5fd6ae7ef63f1d8585cd71a5cf8cfd51d5dbc3eca519e4ec4de4188548c54449",
+      "urls": [
+        "https://baomoi.com/viet-nam-campuchia-nhat-tri-chuyen-sang-hop-tac-san-xuat-va-che-bien-sau-c56235575.epi",
+        "https://tienphong.vn/viet-nam-campuchia-nhat-tri-chuyen-sang-hop-tac-san-xuat-va-che-bien-sau-post1883844.tpo"
+      ],
+      "tone_median": 5.73343623163551
+    },
+    {
+      "group_id": "6012a4e735d75b846a8a192ca91c72bb6bcd04926cef9ec607f7db60207c4cd6",
+      "urls": [
+        "https://www.163.com/dy/article/L8NQ4DII0549BAP0.html"
+      ],
+      "tone_median": -0.528169014084507
+    },
+    {
+      "group_id": "6113db3dfa22038e036b32bd36e09a6953bf4bd0f298e6e1e78cb801c909ae7f",
+      "urls": [
+        "https://www.queanbeyanage.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "61c79b2e4c3649781ee905ca74173fa1b5590859f12417eb8a71b81eb716dda4",
+      "urls": [
+        "https://baomoi.com/thu-tuong-le-minh-hung-toi-phnom-penh-bat-dau-tham-campuchia-c56232472.epi"
+      ],
+      "tone_median": 3.3112582781457
+    },
+    {
+      "group_id": "627561cffd7613831a991db304c3666c44629a909deefea99e032047b84348f0",
+      "urls": [
+        "https://vneconomy.vn/viet-nam-campuchia-thuc-day-ket-noi-hai-nen-kinh-te-huong-toi-muc-tieu-thuong-mai-20-ty-usd.htm"
+      ],
+      "tone_median": 6.83760683760684
+    },
+    {
+      "group_id": "630e40daedfe0ee63c05bf3b3ae8972c36a47d649f0ddd2f9222aa40ff04b4ad",
+      "urls": [
+        "https://baomoi.com/chuyen-tham-lao-va-campuchia-cua-thu-tuong-le-minh-hung-co-y-nghia-chinh-tri-doi-ngoai-rat-quan-trong-c56241767.epi"
+      ],
+      "tone_median": 3.17848410757946
+    },
+    {
+      "group_id": "63234e4f9ed8e95d423133d3b31ecdfc4f11a16bf979a34b0801ef57d36da49e",
+      "urls": [
+        "https://www.bangkokbiznews.com/world/geopolitics/1255449"
+      ],
+      "tone_median": 2.4024024024024
+    },
+    {
+      "group_id": "633157d1b20a135634712d119f00d4580d89c3d5b9620f33dd979c4c5791a800",
+      "urls": [
+        "https://baodautu.vn/tao-them-xung-luc-hop-tac-viet-nam-voi-lao-campuchia-ngay-cang-thuc-chat-hieu-qua-d715380.html",
+        "https://www.tinnhanhchungkhoan.vn/tao-them-xung-luc-hop-tac-viet-nam-voi-lao-campuchia-ngay-cang-thuc-chat-hieu-qua-post399008.html"
+      ],
+      "tone_median": 4.780012273993295
+    },
+    {
+      "group_id": "63428561e5429a96c34aa22f0dd7feb6f6f0c060eb0b68b1b362ea45e3708dca",
+      "urls": [
+        "http://vov.vn/chinh-tri/thu-tuong-le-minh-hung-hoi-kien-chu-tich-quoc-hoi-campuchia-khuon-sudary-post1339960.vov",
+        "https://baochinhphu.vn/thu-tuong-le-minh-hung-hoi-kien-chu-tich-quoc-hoi-campuchia-102261009171740823.htm",
+        "https://baomoi.com/thu-tuong-le-minh-hung-hoi-kien-chu-tich-quoc-hoi-campuchia-c56235621.epi",
+        "https://baoxaydung.vn/thu-tuong-le-minh-hung-hoi-kien-chu-tich-quoc-hoi-campuchia-19226100922135547.htm",
+        "https://vietbao.vn/thu-tuong-le-minh-hung-hoi-kien-chu-tich-quoc-hoi-campuchia-1-610708.html"
+      ],
+      "tone_median": 9.22570016474465
+    },
+    {
+      "group_id": "63f3e63f9d57450ce87f54f9da31e180d2387a433c7192157a218f7e3282518a",
+      "urls": [
+        "https://baomoi.com/suyt-bi-lua-sang-campuchia-vi-tin-loi-hua-tra-luong-1-8-trieu-dong-ngay-c56248436.epi",
+        "https://tienphong.vn/suyt-bi-lua-sang-campuchia-vi-tin-loi-hua-tra-luong-18-trieu-dongngay-post1884371.tpo"
+      ],
+      "tone_median": -0.3690036900369005
+    },
+    {
+      "group_id": "647f3be06b8fe3da08d523572537348f68e59f346ef82775fbfed04be21a4a22",
+      "urls": [
+        "https://www.bluemountainsgazette.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "6493f45a122e1441136b04dab91ef8cf4a4511ec4b22381f3b9fc8a0b399f5f1",
+      "urls": [
+        "https://baomoi.com/thuong-mai-viet-nam-campuchia-tang-toc-de-tien-toi-moc-20-ty-usd-c56229694.epi"
+      ],
+      "tone_median": 1.13636363636364
+    },
+    {
+      "group_id": "64ef7130928d5e2119127f0497fbdc6f443d1212dfbf1ae2b035bfced4b2b14c",
+      "urls": [
+        "https://en.apa.az/official-news/president-ilham-aliyev-we-have-established-a-joint-working-group-with-cambodia-on-trade-and-investment-529465"
+      ],
+      "tone_median": 0.0
+    },
+    {
+      "group_id": "6564447a5b652701a6c4043f7b719fda2cf08fb33ee07c60b9303a36db0eae3f",
+      "urls": [
+        "https://ayna.az/kamboca-bas-nazirinin-bakida-resmi-qarsilanma-merasimi-olub",
+        "https://musavat.com/news/kamboca-bas-nazirinin-bakida-resmi-qarsilanma-merasimi-olub_1295851.html",
+        "https://serqqapisi.az/butun-xeberler/kamboca-bas-nazirinin-bakida-resmi-qarsilanma-merasimi-olub",
+        "https://www.azerbaijan-news.az/az/posts/detail/kamboca-bas-nazirinin-bakida-resmi-qarsilanma-merasimi-olub-1791788972/404188"
+      ],
+      "tone_median": 11.16780045351475
+    },
+    {
+      "group_id": "656f748b6b348ec10170da3b1ca5a148802525c42d3c9dd2e0010bf8878cbc7a",
+      "urls": [
+        "http://www.bignewsnetwork.com/news/279356325/cambodia-subsidizes-nearly-500-mln-usd-to-curb-rising-fuel-power-costs-pm",
+        "http://www.laosnews.net/news/279356325/cambodia-subsidizes-nearly-500-mln-usd-to-curb-rising-fuel-power-costs-pm",
+        "http://www.nepalnational.com/news/279356325/cambodia-subsidizes-nearly-500-mln-usd-to-curb-rising-fuel-power-costs-pm"
+      ],
+      "tone_median": 0.344827586206897
+    },
+    {
+      "group_id": "65af93a3bcc67ed290488f150c9daa246cae0bedd276c696e4bb10b6e70b2925",
+      "urls": [
+        "https://vestikavkaza.ru/news/ilham-aliev-azerbajdzan-i-kambodza-znaut-cto-takoe-minnoe-zagraznenie.html"
+      ],
+      "tone_median": -3.04182509505703
+    },
+    {
+      "group_id": "65f8586019d0c71bec7c6cdd78397f2cfcc546729c0e84c6e2191d3eed860295",
+      "urls": [
+        "https://baochinhphu.vn/thu-tuong-le-minh-hung-hoi-kien-chu-tich-dang-nhan-dan-chu-tich-thuong-vien-campuchia-hun-sen-102261009175239674.htm",
+        "https://baomoi.com/thu-tuong-le-minh-hung-hoi-kien-chu-tich-dang-nhan-dan-chu-tich-thuong-vien-campuchia-hun-sen-c56235264.epi",
+        "https://thoibaotaichinhvietnam.vn/thu-tuong-le-minh-hung-hoi-kien-chu-tich-dang-nhan-dan-chu-tich-thuong-vien-campuchia-hun-sen-205171.html"
+      ],
+      "tone_median": 5.66037735849057
+    },
+    {
+      "group_id": "67ce116d85187c5bad6a1e4e4a02a5a5888019bdd384b1d647b04df87a528a68",
+      "urls": [
+        "https://tienphong.vn/thu-tuong-de-nghi-chu-tich-hun-sen-tiep-tuc-quan-tam-cong-dong-nguoi-goc-viet-doanh-nghiep-viet-tai-campuchia-post1883846.tpo"
+      ],
+      "tone_median": 5.10204081632653
+    },
+    {
+      "group_id": "67d532aab2821c2940f0a7e3ee9130ca901e8a8d94546c67ada1668fa787cc83",
+      "urls": [
+        "https://vietnamnews.vn/politics-laws/1801718/pm-s-visits-create-additional-development-resources-for-all-viet-nam-laos-cambodia-minister.html"
+      ],
+      "tone_median": 3.57941834451902
+    },
+    {
+      "group_id": "685896d072a799d3de9ab329701880db749fe9193fe49807c28018a62df76c18",
+      "urls": [
+        "https://ayna.az/kambocanin-bas-naziri-azerbaycana-gelib"
+      ],
+      "tone_median": 0.0
+    },
+    {
+      "group_id": "68d2aa1a6c36617c04d031004c552c62aa87290f25fa782ae12107caffb6680c",
+      "urls": [
+        "https://www.dungogchronicle.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "68e16511b6bf57e5e397b0a4db322c872d4c7f21807d229813088016669cafed",
+      "urls": [
+        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/09/cambodian-embassies-announce-end-to-visa-stickers"
+      ],
+      "tone_median": -4.16666666666667
+    },
+    {
+      "group_id": "6a0c3ab1ce3c92644d2060e2feab94817b87109808fad130023b1545dd81c68c",
+      "urls": [
+        "http://www.bignewsnetwork.com/news/279365287/gasoline-prices-continue-to-climb-in-cambodia-as-diesel-pressures-ease-slightly",
+        "http://www.cambodiantimes.com/news/279365287/gasoline-prices-continue-to-climb-in-cambodia-as-diesel-pressures-ease-slightly",
+        "http://www.laosnews.net/news/279365287/gasoline-prices-continue-to-climb-in-cambodia-as-diesel-pressures-ease-slightly",
+        "http://www.nepalnational.com/news/279365287/gasoline-prices-continue-to-climb-in-cambodia-as-diesel-pressures-ease-slightly"
+      ],
+      "tone_median": -0.806451612903226
+    },
+    {
+      "group_id": "6a0cbea5844cf89ba7ffa12835ac9362b33d4b3f02b9b7486dd4f4875f6f9800",
+      "urls": [
+        "https://mult-kor.hu/a-vilag-elso-allami-egeszsegugyi-halozatat-hozhatta-letre-a-khmer-birodalom-20261009"
+      ],
+      "tone_median": 1.98412698412698
+    },
+    {
+      "group_id": "6a2b548fd86b6efab31dea4898cf951fc790d3c520d371fdccdd500c2724c1b9",
+      "urls": [
+        "https://voh.com.vn/kinh-te/vietnam-airlines-hop-tac-voi-lao-campuchia-thuc-day-du-lich-dong-duong-672739.html"
+      ],
+      "tone_median": 3.82513661202186
+    },
+    {
+      "group_id": "6a8391a0623719f7e93c45a3fea9e32ff4c12a82c4e857e10ca0ab1a86eebd78",
+      "urls": [
+        "https://congan.com.vn/vu-an/bat-doi-tuong-truy-na-dac-biet-lan-tron-tai-khu-vuc-bien-gioi-campuchia_198535.html"
+      ],
+      "tone_median": -0.34843205574913
+    },
+    {
+      "group_id": "6b02438b6eee60af5574dbe281d0d49bcf5cd5ddae5ce9daaf1dfd5e5509abc8",
+      "urls": [
+        "https://baomoi.com/gian-hang-0-dong-mung-le-sene-dolta-cua-dong-bao-khmer-c56217924.epi"
+      ],
+      "tone_median": 5.73770491803279
+    },
+    {
+      "group_id": "6b94411b6c0f7b4ae61ce04ccf6530f1699073582589beb861e5d01dc0f15b8a",
+      "urls": [
+        "https://vietnam.vnanet.vn/spanish/tin-van/premier-vietnamita-concluye-con-exito-su-visita-oficial-a-camboya-471473.html"
+      ],
+      "tone_median": 3.41880341880342
+    },
+    {
+      "group_id": "6ba111b2a891a0621218ecd1f73742ee68410793fcd557d09c7702fab62bf428",
+      "urls": [
+        "http://europe.chinadaily.com.cn/a/202610/08/WS6ac6f04fe4b06d4aa05619dc.html",
+        "http://global.chinadaily.com.cn/a/202610/08/WS6ac6f04fe4b06d4aa05619dc.html",
+        "http://usa.chinadaily.com.cn/a/202610/08/WS6ac6f04fe4b06d4aa05619dc.html"
+      ],
+      "tone_median": -0.646203554119548
+    },
+    {
+      "group_id": "6ba22db355ff78f725c965c16db127bdbae6d6d5595f9e10f01437643e886251",
+      "urls": [
+        "https://baovanhoa.vn/dan-toc-ton-giao/tham-va-chuc-mung-le-sen-dolta-cua-dong-bao-khmer-272974.html"
+      ],
+      "tone_median": 7.7639751552795
+    },
+    {
+      "group_id": "6ba6abe9e5fb799fc01cffab823af771a18b2fd3a3daa1dc4886e33757a5feb9",
+      "urls": [
+        "https://www.prensa-latina.cu/2026/10/08/primer-ministro-de-vietnam-viaja-a-laos-en-gira-que-incluye-a-camboya/"
+      ],
+      "tone_median": 3.84615384615385
+    },
+    {
+      "group_id": "6baedf57ecc9543d375f6de7f9ae4f13943dddb1bfe0bc3651980d232a2f97a1",
+      "urls": [
+        "https://viettan.org/campuchia-phu-nhan-da-ban-giao-hai-nha-hoat-dong-nguoi-uc-va-na-uy-cho-viet-nam/"
+      ],
+      "tone_median": -3.94973070017953
+    },
+    {
+      "group_id": "6beee6b76e5b49cc543706d3a0330ceb50d525724a7cf951a1c9ac1211c46186",
+      "urls": [
+        "https://news.tuoitre.vn/vietnam-cambodia-look-to-elevate-economic-links-103261010081207091.htm"
+      ],
+      "tone_median": 4.42156268927923
+    },
+    {
+      "group_id": "6d3b7344463fc2669494a6ff80484b940a2da872359cefa2bf00efb9c249fd4c",
+      "urls": [
+        "http://vov.vn/chinh-tri/thu-tuong-hoi-kien-chu-tich-cpp-chu-tich-thuong-vien-campuchia-hun-sen-post1339953.vov"
+      ],
+      "tone_median": 4.78564307078764
+    },
+    {
+      "group_id": "6da4419b184ed0cb75179b692817e9d94bb9ebf62625b6ef8bf169f9a4ae885c",
+      "urls": [
+        "https://baohatinh.vn/thu-tuong-le-minh-hung-tham-du-an-angkormilk-cua-vinamilk-tai-campuchia-post318562.html",
+        "https://baomoi.com/thu-tuong-le-minh-hung-tham-du-an-angkormilk-cua-vinamilk-tai-campuchia-c56239734.epi",
+        "https://vietnam.vnanet.vn/vietnamese/tin-van/thu-tuong-le-minh-hung-tham-du-an-angkormilk-cua-vinamilk-tai-campuchia-471433.html"
+      ],
+      "tone_median": 4.98915401301518
+    },
+    {
+      "group_id": "6e7b6d3a1e63ad2d1e802bbd3de78b4e6eb856969fd6c51114800a8b84b63201",
+      "urls": [
+        "https://baomoi.com/vietnam-airlines-mo-rong-lien-ket-hang-khong-du-lich-voi-lao-campuchia-c56238590.epi"
+      ],
+      "tone_median": 2.14797136038186
+    },
+    {
+      "group_id": "6eb85bbac396ab4c20a7bc71aa77e27440c096a940b5c1750c82561bff0f00b6",
+      "urls": [
+        "http://vov.vn/kinh-te/nua-trieu-nguoi-campuchia-dang-ky-hoat-dong-trong-nen-kinh-te-phi-chinh-thuc-post1340430.vov"
+      ],
+      "tone_median": 5.71428571428571
+    },
+    {
+      "group_id": "6f78407206e917830e138cee4f9519b5750b8aac90c286325f4b0d1155f200f7",
+      "urls": [
+        "https://wwd.com/sourcing-journal/sustainability/cambodia-minimum-living-wage-unions-industriall-clean-clothes-1239334150/"
+      ],
+      "tone_median": 0.111172873818788
+    },
+    {
+      "group_id": "6fd7e1bec8eef581e41a439c0f444e7d1c132031c1db6863b555223fdc24ab61",
+      "urls": [
+        "https://dantri.com.vn/thoi-su/la-don-xin-vao-dang-tu-long-dat-campuchia-giup-xac-dinh-danh-tinh-liet-si-20261010163423103.htm"
+      ],
+      "tone_median": -2.07612456747405
+    },
+    {
+      "group_id": "702c05970e80101dabc92a42d66030b1acfaad4cc523a74e3177294e4e67ffeb",
+      "urls": [
+        "https://baomoi.com/mot-thanh-pho-cua-campuchia-tot-nhat-the-gioi-2026-c56215034.epi"
+      ],
+      "tone_median": 7.2972972972973
+    },
+    {
+      "group_id": "7054b757e94ef7ca7b7cc1bb6564adab733950183cee0e56fe350bc269d29dec",
+      "urls": [
+        "https://thoibaotaichinhvietnam.vn/viet-nam-campuchia-phan-dau-nang-kim-ngach-thuong-mai-song-phuong-len-20-ty-usd-205172.html"
+      ],
+      "tone_median": 7.22748815165877
+    },
+    {
+      "group_id": "707c3abc7a007459d58d72bffa6ec9dab5321641f3e5ab2ffe5cf171a2fab186",
+      "urls": [
+        "https://vneconomy.vn/viet-nam-campuchia-thuc-day-ket-noi-ha-tang-hinh-thanh-chuoi-gia-tri-chung.htm"
+      ],
+      "tone_median": 2.45726495726496
+    },
+    {
+      "group_id": "70d47c1429b8bb2388fcf0ec476fc84256a24c9440152379364a982937c0b81c",
+      "urls": [
+        "https://www.macleayargus.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "712173da2adc4edbc7b471353025d8d989490e94dff1bf8c20cd320684096100",
+      "urls": [
+        "https://lecourrier.vn/vietnam-cambodge-vers-20-milliards-de-dollars-de-commerce-bilateral/1356886.html"
+      ],
+      "tone_median": 3.2258064516129
+    },
+    {
+      "group_id": "71637440cf75f1c01c5c2ebd8cb3e77f5eb8d450450b3c33424fd530ac9b6da8",
+      "urls": [
+        "https://www.dailyadvertiser.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "718d2587bdd0fc7202ac3161b1d7e941b584e129d751a470459b77cca7c8a47a",
+      "urls": [
+        "https://www.juneesoutherncross.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "71dc2f0802a4e7035291567c35e30bbb31b700b0a908f2de363a3475711d3179",
+      "urls": [
+        "https://thanhtra.com.vn/doi-ngoai-97D2D2A31/chuyen-tham-chinh-thuc-lao-campuchia-cua-thu-tuong-le-minh-hung-da-thanh-cong-rat-tot-dep-98015df7b.html"
+      ],
+      "tone_median": 3.85756676557864
+    },
+    {
+      "group_id": "723fb2db10412281c18efd441078f8191da77462f95721134b577c2daa9b2a72",
+      "urls": [
+        "https://www.theleader.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "729a47e3c85a4b74ace54245318c5f6e202d9b3730f7d359505b5225fc3438af",
+      "urls": [
+        "https://english.news.cn/20261009/1a55d6fed3d448e79a5d21f80eddc9af/c.html"
+      ],
+      "tone_median": -2.33463035019455
+    },
+    {
+      "group_id": "732d97ac47eadad50f2e82de938148273b9b0f0d19e552e8da39fdec617f6405",
+      "urls": [
+        "https://baomoi.com/can-tho-to-chuc-mung-le-sene-dolta-cho-dong-bao-khmer-c56246842.epi"
+      ],
+      "tone_median": 7.70609318996416
+    },
+    {
+      "group_id": "733407599358f7f67edad8d7d4ad8308b8a981502d466c6c5680a0daebc5affc",
+      "urls": [
+        "https://baovanhoa.vn/dan-toc-ton-giao/an-giang-tham-chuc-mung-cac-chua-khmer-nhan-le-sen-don-ta-272933.html"
+      ],
+      "tone_median": 4.97076023391813
+    },
+    {
+      "group_id": "73bb1ddee508136d148aba0b690a8bc1ba2d96162cb8592ea111ea345d608e2c",
+      "urls": [
+        "http://www.cambodiantimes.com/news/279364860/cambodian-pm-embarks-on-3-nation-tour-of-azerbaijan-trkiye-kazakhstan",
+        "http://www.centralasiatimes.com/news/279364860/cambodian-pm-embarks-on-3-nation-tour-of-azerbaijan-trkiye-kazakhstan",
+        "http://www.laosnews.net/news/279364860/cambodian-pm-embarks-on-3-nation-tour-of-azerbaijan-trkiye-kazakhstan"
+      ],
+      "tone_median": 1.63934426229508
+    },
+    {
+      "group_id": "740e8d024496e0a2b9c6385171d38b9e52c479633d76fe54aec72e47ea3683f1",
+      "urls": [
+        "https://english.news.cn/20261007/978d1902990042ba9d93a17c300fed19/c.html",
+        "https://english.news.cn/asiapacific/20261007/6c78a7e3938e497c882cf3115b8d7f1c/c.html"
+      ],
+      "tone_median": 0.342465753424658
+    },
+    {
+      "group_id": "741dbc586bbd54f2356b29c4ace9d095e80f9d647dafde5ccf01bbdab0a346aa",
+      "urls": [
+        "http://www.merkur.de/boulevard/und-sie-besitzt-die-staatsbuergerschaft-angelina-jolie-gehoeren-39-hektar-land-in-kambodscha-94515575.html"
+      ],
+      "tone_median": 1.06571936056838
+    },
+    {
+      "group_id": "743421069dbebab9920c4bce5b509582ba1c0360c168f73d06a673b606b1ee76",
+      "urls": [
+        "https://www.trend.az/azerbaijan/politics/4233613.html"
+      ],
+      "tone_median": 2.94117647058824
+    },
+    {
+      "group_id": "747110b98f8f52da3fe02c21e1e84810121028331007b9d4070efa6936e56ee1",
+      "urls": [
+        "https://vnexpress.net/viet-nam-campuchia-du-kien-nang-thuong-mai-len-20-ty-usd-5130552.html"
+      ],
+      "tone_median": -0.229357798165138
+    },
+    {
+      "group_id": "74a934d5349666f30235c28ee9eccfd9bc5c0b7daebd7266e4f901710eca1b61",
+      "urls": [
+        "https://tienphong.vn/viet-nam-cung-lao-campuchia-ky-ket-trao-gan-40-van-kien-hop-tac-trong-2-ngay-post1884143.tpo"
+      ],
+      "tone_median": 3.88349514563107
+    },
+    {
+      "group_id": "74c5e9cdbe640d817b01e8c46a01c36bac520d8c905272610b5b54e6b6e6e292",
+      "urls": [
+        "https://baocantho.com.vn/bo-truong-campuchia-chuyen-tham-cua-thu-tuong-le-minh-hung-gop-phan-that-chat-quan-he-huu-nghi-doa-a217338.html"
+      ],
+      "tone_median": 3.5264483627204
+    },
+    {
+      "group_id": "74da01c0f46e5e1e0a4dd6d31657a67c5e317f9da8c24a710fb99f30bcbd86e7",
+      "urls": [
+        "https://www.begadistrictnews.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "750bcad7e2e3b042ee892fc13aa7892bb52254fa580384437b71a6f13b0fea3e",
+      "urls": [
+        "https://dantri.com.vn/thoi-su/thu-tuong-le-minh-hung-hoi-kien-chu-tich-dang-nhan-dan-campuchia-chu-tich-thuong-vien-campuchia-hun-sen-20261010000137294.htm",
+        "https://daidoanket.vn/thu-tuong-le-minh-hung-hoi-kien-chu-tich-dang-nhan-dan-campuchia-chu-tich-thuong-vien-campuchia-hun-sen.html"
+      ],
+      "tone_median": 5.810381851647725
+    },
+    {
+      "group_id": "75957d97079dfcde654319100e76d31d33610e9f63feba838728a2158fa29991",
+      "urls": [
+        "https://lecourrier.vn/vietnam-cambodge-un-nouvel-elan-aux-relations-bilaterales/1356834.html"
+      ],
+      "tone_median": 3.1331592689295
+    },
+    {
+      "group_id": "76f29afa5b294805267180f836571717b58fd9fae8342c1e9afd2f0c216a0507",
+      "urls": [
+        "https://www.industryweek.com/the-economy/emerging-markets/article/55411224/cambodias-push-to-become-a-manufacturing-hub"
+      ],
+      "tone_median": 3.09789343246592
+    },
+    {
+      "group_id": "76ffb91e0ca7a7caaf515a80a47025ba7e89a6c5fd66fb183ca4db2069ebfbc9",
+      "urls": [
+        "https://vovgiaothong.vn/newsaudio/dong-hanh-cung-doi-song-dong-bao-khmer-d55945.html"
+      ],
+      "tone_median": 3.32326283987915
+    },
+    {
+      "group_id": "773ecac5d7072cb671bcf79c2426474c34e1bbf271a0e09048561aacafd87264",
+      "urls": [
+        "https://Baodautu.vn/khi-tin-cay-chinh-tri-mo-duong-cho-hop-tac-thuc-chat-giua-viet-nam-va-campuchia-d715674.html"
+      ],
+      "tone_median": 3.36538461538461
+    },
+    {
+      "group_id": "77b09ce527c33aacb788a906cb7f4ef6da7eb9caaf860d496d7882ed26a3f626",
+      "urls": [
+        "https://www.trend.az/azerbaijan/4233500.html"
+      ],
+      "tone_median": 5.07246376811594
+    },
+    {
+      "group_id": "79008f29f8081adb435ef386af0bf29c67dc75b7115fdba2d60b7eb09dc460c1",
+      "urls": [
+        "https://en.apa.az/entrepreneurship/cambodia-chamber-of-commerce-president-we-have-common-goals-for-developing-cooperation-with-azerbaijan-529552"
+      ],
+      "tone_median": 5.37190082644628
+    },
+    {
+      "group_id": "798f3b8c2ca26eb89ee7eee9bfa367cbe482725a795ff1c4aa71b7111c33a9e7",
+      "urls": [
+        "https://www.rb.no/savnet-nordmanns-familie-anmelder-vietnam-og-kambodsja-for-kidnapping/s/80-43-61025"
+      ],
+      "tone_median": -7.08333333333333
+    },
+    {
+      "group_id": "7a0d2fdc59898ecf39646eb09d2c529d40c9792eec9a212e93e2dd54fdef5793",
+      "urls": [
+        "https://vneconomy.vn/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia.htm"
+      ],
+      "tone_median": 8.56269113149847
+    },
+    {
+      "group_id": "7a8f2d0648d507cf36e47bcb70c1c3af927da2ad8b4bcab950f8a96524fd776a",
+      "urls": [
+        "https://baovanhoa.vn/dan-toc-ton-giao/dong-bao-khmer-o-vinh-thuan-don-le-sen-dolta-dam-am-nghia-tinh-272749.html"
+      ],
+      "tone_median": 8.7719298245614
+    },
+    {
+      "group_id": "7b252b55465e6f73bb9aaf78007e0e8a0753982c8e267b9dae35da18f3cf4374",
+      "urls": [
+        "https://tuoitre.vn/viet-nam-campuchia-tang-cuong-ket-noi-kinh-te-huong-toi-kim-ngach-20-ti-usd-100261009213746259.htm"
+      ],
+      "tone_median": 5.28800755429651
+    },
+    {
+      "group_id": "7ba51af1319b7780a8d74e8d77ee65d8028b8315431c45eb91440429af4ea707",
+      "urls": [
+        "https://www.prensa-latina.cu/2026/10/10/primer-ministro-vietnamita-termina-visita-a-camboya/"
+      ],
+      "tone_median": 1.30718954248366
+    },
+    {
+      "group_id": "7c8e5860cbfa3161b62999cbcc8dbd5cfdb3426160aeb3d64c4afbc2e1f11966",
+      "urls": [
+        "https://baochinhphu.vn/thu-tuong-le-minh-hung-hoi-dam-voi-thu-tuong-campuchia-hun-manet-10226100916042477.htm",
+        "https://baomoi.com/thu-tuong-le-minh-hung-hoi-dam-voi-thu-tuong-campuchia-hun-manet-c56235265.epi",
+        "https://baomoi.com/thu-tuong-le-minh-hung-hoi-dam-voi-thu-tuong-campuchia-hun-manet-c56235497.epi",
+        "https://baoxaydung.vn/thu-tuong-le-minh-hung-hoi-dam-voi-thu-tuong-campuchia-hun-manet-1922610092056147.htm",
+        "https://vietbao.vn/thu-tuong-le-minh-hung-hoi-dam-voi-thu-tuong-campuchia-hun-manet-610671.html",
+        "https://vnexpress.net/thu-tuong-le-minh-hung-hoi-dam-voi-thu-tuong-campuchia-hun-manet-5130557.html",
+        "https://vtv.vn/thu-tuong-le-minh-hung-hoi-dam-voi-thu-tuong-campuchia-hun-manet-100261009214958376.htm",
+        "https://www.qdnd.vn/chinh-tri/tin-tuc/thu-tuong-le-minh-hung-hoi-dam-voi-thu-tuong-campuchia-hun-manet-1060047",
+        "https://baodautu.vn/thu-tuong-le-minh-hung-hoi-dam-voi--thu-tuong-campuchia-hun-manet-d718543.html",
+        "https://giaoducthoidai.vn/thu-tuong-le-minh-hung-hoi-dam-voi-thu-tuong-campuchia-hun-manet-post795597.html",
+        "https://www.tinnhanhchungkhoan.vn/thu-tuong-le-minh-hung-hoi-dam-voi-thu-tuong-campuchia-hun-manet-post399200.html"
+      ],
+      "tone_median": 7.37327188940092
+    },
+    {
+      "group_id": "7cb451f00d7ef0c0531748d067e9e9807d2ca6365e4de360394a894c76bc67ad",
+      "urls": [
+        "https://viettan.org/gia-dinh-cong-dan-na-uy-mat-tich-thue-van-phong-luat-su-elden-to-cao-viet-nam-va-campuchia-ve-hanh-vi-cuong-buc-mat-tich-chua-ai-duoc-gap-ong-ay/"
+      ],
+      "tone_median": -2.46280143663417
+    },
+    {
+      "group_id": "7ccd0be7b362930f229c705be52b90a6c140c3adf4108250c32c0fabf79f1cf5",
+      "urls": [
+        "https://www.gzstv.com/a/06bd3708961b49fdbf38710b80d5b44c"
+      ],
+      "tone_median": -0.405679513184584
+    },
+    {
+      "group_id": "7cd849173e2a8b8e03f0626c1ce4e615b8df0d03088e5f9e1ff7bf6e0ad2bf1d",
+      "urls": [
+        "https://vietnam.vnanet.vn/spanish/tin-van/primer-ministro-de-vietnam-inicia-visita-oficial-a-camboya-471364.html"
+      ],
+      "tone_median": 3.28467153284671
+    },
+    {
+      "group_id": "7d59c635d236e777e9c5c8f95e50ce41379d89b245d896a1b5f7ef3d6cc3e9f1",
+      "urls": [
+        "https://baomoi.com/tren-160-doanh-nghiep-tham-gia-ket-noi-giao-thuong-viet-nam-campuchia-c56219066.epi"
+      ],
+      "tone_median": 3.7344398340249
+    },
+    {
+      "group_id": "7d62ea00a042810477b5c8f515605f88d525dbae4329e72147601b84846838ad",
+      "urls": [
+        "https://ayna.az/azerbaycan-kamboca-senedleri-mubadile-olunub"
+      ],
+      "tone_median": 3.77358490566038
+    },
+    {
+      "group_id": "7e1e4a73f98aaba02d7628980b1e753a8b53630d9ed484ea3292cc97b2a53ed5",
+      "urls": [
+        "https://www.bangkokbiznews.com/politics/1255637"
+      ],
+      "tone_median": -1.73228346456693
+    },
+    {
+      "group_id": "7e46818c1ea689b44e57cfe75b5c1d98eaea388e3d24ef44498685de55525784",
+      "urls": [
+        "https://news.mongabay.com/2026/10/community-action-to-protect-cambodias-seas-interview-with-commune-leader-sorn-srenh/"
+      ],
+      "tone_median": -0.382555470543229
+    },
+    {
+      "group_id": "7e85c9170177cd92ddc4af3dd2c17f8dda3e386b15fb67ac187e8826beadf4c0",
+      "urls": [
+        "https://baomoi.com/hoi-cho-ket-noi-giao-thuong-va-quang-ba-san-pham-viet-nam-campuchia-2026-c56222392.epi"
+      ],
+      "tone_median": 5.67685589519651
+    },
+    {
+      "group_id": "7f3d6a0b5613cfc9083ea19671372976d788824f610c305d29c331c7b1fcdd80",
+      "urls": [
+        "https://musavat.com/news/kambocanin-bas-naziri-azerbaycana-geldi-foto_1295766.html"
+      ],
+      "tone_median": 0.0
+    },
+    {
+      "group_id": "7f82f4b750a1f8d9bdb6daf7088ddae87a14c9efba9651cabeeb94deafa34c69",
+      "urls": [
+        "https://en.apa.az/entrepreneurship/azerbaijan-cambodia-business-forum-held-in-baku-updated-529534"
+      ],
+      "tone_median": 0.0
+    },
+    {
+      "group_id": "802e546f59d5f2098fab257f0f0db2bb0534db6e931ff69bbedbb02087929a50",
+      "urls": [
+        "http://vov.vn/chinh-tri/nang-tam-hop-tac-kinh-te-viet-nam-campuchia-post1339938.vov"
+      ],
+      "tone_median": 3.2618025751073
+    },
+    {
+      "group_id": "807261872e1c17a61e225216ebcacec208b774a49f212446b08cbef8f9f9791c",
+      "urls": [
+        "https://www.trend.az/azerbaijan/4233603.html"
+      ],
+      "tone_median": 4.0
+    },
+    {
+      "group_id": "807ffc71b71040d25bc9e0db5b00fd7811738e9d6b078fcbccfcb77d137806d0",
+      "urls": [
+        "https://www.hardenexpress.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "80de745fcabf277171c712bbbb4acdbfffd51dd0c8327fac617faf8fc89f4564",
+      "urls": [
+        "https://www.azernews.az/nation/265443.html"
+      ],
+      "tone_median": 3.17460317460317
+    },
+    {
+      "group_id": "81f7e9ec491f230a702072bb75fc9328ce96a62ab36d0ae5be39426c7b1558e2",
+      "urls": [
+        "http://vov.vn/chinh-tri/thu-tuong-den-thu-do-phnom-phenh-bat-dau-chuyen-tham-chinh-thuc-vuong-quoc-campuchia-post1339791.vov"
+      ],
+      "tone_median": 3.54609929078014
+    },
+    {
+      "group_id": "81fe69a7b734c6985dfff19418d14d3fa30b0676f810f42f80dc31cf667461c8",
+      "urls": [
+        "https://baomoi.com/chuyen-tham-cua-thu-tuong-le-minh-hung-that-chat-quan-he-viet-nam-campuchia-c56215125.epi",
+        "https://vietbao.vn/chuyen-tham-cua-thu-tuong-le-minh-hung-that-chat-quan-he-viet-nam-campuchia-610305.html"
+      ],
+      "tone_median": 3.4720130118144903
+    },
+    {
+      "group_id": "821ece8fc38b4886aff2905f47fb7e77f4fbeda3ae1b891477f29bbb8a223738",
+      "urls": [
+        "https://www.zazoom.it/2026-10-08/i-templi-khmer-e-loceano-il-racconto-di-mambelli-e-rossi/19771749/"
+      ],
+      "tone_median": 2.39234449760766
+    },
+    {
+      "group_id": "8241cc26d59b92974edc6fc20b83504d20a543455279b4891f9a175d03d2f37a",
+      "urls": [
+        "https://baochinhphu.vn/thuong-mai-viet-nam-campuchia-huong-toi-muc-tieu-20-ty-usd-102261008094548272.htm",
+        "https://vietstock.vn/2026/10/thuong-mai-viet-nam-campuchia-huong-toi-muc-tieu-20-ty-usd-1329-1500111.htm"
+      ],
+      "tone_median": 2.0983134641259102
+    },
+    {
+      "group_id": "82988eadf25412f8bad40d11dd6481843984a3a6efe2b36c2293005c0d62f1bc",
+      "urls": [
+        "https://vietnamnet.vn/xung-luc-moi-tu-chuyen-tham-dau-tien-cua-thu-tuong-toi-lao-campuchia-2562418.html"
+      ],
+      "tone_median": 5.01089324618736
+    },
+    {
+      "group_id": "82cdd9cdfacb98609b570b22128fb48f327c4db9337ba8765e6111f27802811c",
+      "urls": [
+        "https://www.trend.az/azerbaijan/4233595.html"
+      ],
+      "tone_median": 0.0
+    },
+    {
+      "group_id": "8394e73571bc2331d81571a22e092add06c98fe194c4c3d9a4da27fcbc96c5c1",
+      "urls": [
+        "https://english.news.cn/20261009/c393ca35a7df4b9a97dc1115e637903a/c.html"
+      ],
+      "tone_median": 2.22222222222222
+    },
+    {
+      "group_id": "84520bbf0cf35b1e57023164c3787f62b308ccf117af505c8d93ad985e16b899",
+      "urls": [
+        "https://nigerdiaspora.net/diplomatie/diplomatie-le-niger-etablit-des-relations-officielles-avec-le-kirghizistan-et-le-cambodge"
+      ],
+      "tone_median": 3.85756676557863
+    },
+    {
+      "group_id": "8511930f92626e0b036aaf9b7c74bdfae681cadec7c940ec49114fabb0195340",
+      "urls": [
+        "https://www.azernews.az/nation/265409.html"
+      ],
+      "tone_median": 3.17460317460317
+    },
+    {
+      "group_id": "853f082d66885acaf965d9c1c3ede170d47bbdfb50b2a3d99acbd6966ca0286b",
+      "urls": [
+        "https://baochinhphu.vn/thu-tuong-campuchia-hun-manet-chu-tri-le-don-chinh-thuc-thu-tuong-le-minh-hung-102261009153147055.htm",
+        "https://baomoi.com/thu-tuong-campuchia-hun-manet-chu-tri-le-don-chinh-thuc-thu-tuong-le-minh-hung-c56233427.epi",
+        "https://baomoi.com/thu-tuong-campuchia-hun-manet-chu-tri-le-don-chinh-thuc-thu-tuong-le-minh-hung-c56233451.epi",
+        "https://baomoi.com/thu-tuong-campuchia-hun-manet-chu-tri-le-don-chinh-thuc-thu-tuong-le-minh-hung-c56234459.epi",
+        "https://baoxaydung.vn/thu-tuong-campuchia-hun-manet-chu-tri-le-don-chinh-thuc-thu-tuong-le-minh-hung-192261009161601329.htm",
+        "https://daidoanket.vn/thu-tuong-campuchia-hun-manet-chu-tri-le-don-chinh-thuc-thu-tuong-le-minh-hung.html",
+        "https://giaoduc.net.vn/thu-tuong-campuchia-hun-manet-chu-tri-le-don-chinh-thuc-thu-tuong-le-minh-hung-post263286.gd",
+        "https://thanhnien.vn/thu-tuong-campuchia-hun-manet-chu-tri-le-don-chinh-thuc-thu-tuong-le-minh-hung-185261009161854483.htm",
+        "https://thanhtra.com.vn/doi-ngoai-97D2D2A31/thu-tuong-campuchia-hun-manet-chu-tri-le-don-chinh-thuc-thu-tuong-le-minh-hung-98015d3b3.html",
+        "https://tienphong.vn/thu-tuong-campuchia-hun-manet-chu-tri-le-don-chinh-thuc-thu-tuong-le-minh-hung-post1883734.tpo",
+        "https://vtv.vn/thu-tuong-campuchia-hun-manet-chu-tri-le-don-chinh-thuc-thu-tuong-le-minh-hung-100261009155511306.htm"
+      ],
+      "tone_median": 6.4327485380117
+    },
+    {
+      "group_id": "85805d5be92ca1ff2fbe62fb93deda81c0905a87ead950efe26171013748db51",
+      "urls": [
+        "https://ru.apa.az/predprinimatelstvo/prezident-torgovoi-palaty-kambodzi-u-nas-est-obshhie-celi-dlya-razvitiya-sotrudnicestva-s-azerbaidzanom-677783"
+      ],
+      "tone_median": 6.92640692640693
+    },
+    {
+      "group_id": "8585bf9a1f57fefa7ff63793b85c04d8ae6eb2140e066b9de8b8d99724269113",
+      "urls": [
+        "https://vietnamnews.vn/politics-laws/1801482/prime-minister-le-minh-hung-departs-for-official-visits-to-laos-cambodia.html"
+      ],
+      "tone_median": 4.22535211267606
+    },
+    {
+      "group_id": "85891c74a3b22854920cda9a573ff949ab09772717ffcfa6ded6f7bec1f93418",
+      "urls": [
+        "https://ru.apa.az/vneshnyaya-politika/premer-ministr-kambodzi-s-azerbaidzanom-sushhestvuyut-otnoseniya-v-sferax-oborony-bezopasnosti-i-obrazovaniya-677718"
+      ],
+      "tone_median": 3.6144578313253
+    },
+    {
+      "group_id": "85acfbc28e84bb9e51679cc4987fde6d057f676383d7557ca4909eb6749eb9b3",
+      "urls": [
+        "https://baomoi.com/dua-quan-he-viet-nam-campuchia-tu-tinh-nghia-truyen-thong-thanh-dong-luc-phat-trien-c56214003.epi"
+      ],
+      "tone_median": 5.35294117647059
+    },
+    {
+      "group_id": "85afea60a67ac8ab9fc7ba7f95d6d8aad04022ac243d87b8d27d14b3064ce7f5",
+      "urls": [
+        "https://baomoi.com/xa-luan-khong-ngung-cung-co-quan-he-lang-gieng-gan-gui-viet-nam-campuchia-c56228069.epi"
+      ],
+      "tone_median": 5.46697038724374
+    },
+    {
+      "group_id": "870054ce8d6bdd36281b1fd5aabfd63a0896e0005d3c91bcef97a4cb12ea7c81",
+      "urls": [
+        "https://www.cessnockadvertiser.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "871258301bcf4137a2c33265d71a69b34efec8364ab0c3b75c22c5ac7f0d6893",
+      "urls": [
+        "https://lecourrier.vn/au-cambodge-la-communaute-vietnamienne-veut-renforcer-son-role-de-passerelle/1356919.html"
+      ],
+      "tone_median": 1.52173913043478
+    },
+    {
+      "group_id": "87160c31b9add4a2c1f36bba01fe1bd00e16b6b99d33d3d1011af6f6111e6550",
+      "urls": [
+        "https://baomoi.com/giai-cuu-4-thanh-thieu-nien-bi-du-sang-campuchia-lam-viec-hua-tra-luong-1-8-trieu-dong-ngay-c56251744.epi"
+      ],
+      "tone_median": -1.42857142857143
+    },
+    {
+      "group_id": "8730c6099b2ad535ad236084b80cad6002e266765436f18a3cc9787c3dc32a75",
+      "urls": [
+        "https://tuoitre.vn/thu-tuong-le-minh-hung-bat-dau-tham-campuchia-10026100912214668.htm",
+        "https://vnexpress.net/thu-tuong-le-minh-hung-bat-dau-tham-campuchia-5130429.html"
+      ],
+      "tone_median": 4.03434617699338
+    },
+    {
+      "group_id": "875a5715327e21a188b1f9a53ec1f95ff37ff22acb03eb65c8262b3ac82ddb97",
+      "urls": [
+        "https://lecourrier.vn/la-prochaine-visite-du-premier-ministre-vietnamien-au-cambodge-pour-resserrer-les-liens-bilateraux/1356864.html"
+      ],
+      "tone_median": 2.78184480234261
+    },
+    {
+      "group_id": "87cacd3323b41182796c924817d08bd3210a0f85dfae1feea539dfd994f1136e",
+      "urls": [
+        "https://baomoi.com/thu-tuong-le-minh-hung-chao-quoc-vuong-va-hoang-thai-hau-campuchia-c56239748.epi",
+        "https://tienphong.vn/thu-tuong-le-minh-hung-chao-quoc-vuong-va-hoang-thai-hau-campuchia-post1884001.tpo"
+      ],
+      "tone_median": 8.36989839580513
+    },
+    {
+      "group_id": "87e5b31dbb1da7153de5052c221286f165b45965ed240c6b3a9119a7aa5a5632",
+      "urls": [
+        "https://english.news.cn/20261011/28b85fe526c24002a0237943139d8cc2/c.html"
+      ],
+      "tone_median": 1.57068062827225
+    },
+    {
+      "group_id": "88370647a22f9e4d5d3cea38e20758e3616a55460d91c3868af91ab5ef90e4d3",
+      "urls": [
+        "https://vtv.vn/thu-tuong-le-minh-hung-tham-chinh-thuc-lao-va-campuchia-100261008115401885.htm"
+      ],
+      "tone_median": 3.06748466257669
+    },
+    {
+      "group_id": "887541ea1b60438754230fd717b8ec4f7e58b024d8ce5922f94fbc2300e37074",
+      "urls": [
+        "https://asianews.network/snares-still-a-hidden-killer-of-wildlife-in-cambodias-protected-areas/"
+      ],
+      "tone_median": -4.04858299595142
+    },
+    {
+      "group_id": "88a8adcae3e3229fcd32c81c3b6478360b13399fa7482a4f138a3db95c19844c",
+      "urls": [
+        "https://english.news.cn/20261008/5388271703ec44f8aa1279cf4bc9e31d/c.html"
+      ],
+      "tone_median": 3.41463414634146
+    },
+    {
+      "group_id": "88ad6bee9470a4ed9ab18fa38ff72e345a210665edce8eb34c3623c44414175d",
+      "urls": [
+        "https://www.antaranews.com/berita/5775334/kbri-phnom-penh-beri-layanan-konsuler-550-wni-bermasalah-di-kamboja"
+      ],
+      "tone_median": -3.98406374501992
+    },
+    {
+      "group_id": "890b252ee350f0cee4498708fd3f691146f8aae6412bd16cd9f96dd6cf9a6d02",
+      "urls": [
+        "https://dantri.com.vn/thoi-su/viet-nam-campuchia-phan-dau-nang-thuong-mai-len-20-ty-usd-20261009215943851.htm"
+      ],
+      "tone_median": 7.22477064220184
+    },
+    {
+      "group_id": "890f5e38fc77ef53429a3939e39f2da2f4cdb4df3590745bd955877452bc7dff",
+      "urls": [
+        "https://ru.apa.az/vneshnyaya-politika/premer-ministr-kambodzi-my-podderzivaem-diplomaticeskie-otnoseniya-s-azerbaidzanom-uze-30-let-677694"
+      ],
+      "tone_median": 7.31707317073171
+    },
+    {
+      "group_id": "89df334ffc6b899eb96f229e787fb6bbcc986a957332b2c901b8e50f2d5d9146",
+      "urls": [
+        "https://az.trend.az/azerbaijan/politics/4233767.html"
+      ],
+      "tone_median": 0.0
+    },
+    {
+      "group_id": "89e3c4fb6ab7c50109247fb3825bda547ddfc8bb74cedca4b5a4f047e1e94cd3",
+      "urls": [
+        "https://musavat.com/news/ilham-eliyev-sovet-dovrunde-azerbaycanda-kambocali-telebelerin-tehsil-almasi-enenesini-berpa-etmek-lazimdir_1295903.html"
+      ],
+      "tone_median": 6.92307692307692
+    },
+    {
+      "group_id": "89eb23656b9ecd780361356a45853710310e5ab3d2348200cd82c35a51545b62",
+      "urls": [
+        "https://news.tuoitre.vn/vietnam-cambodia-seek-to-bolster-all-round-ties-103261010080241653.htm",
+        "https://vietnam.vnanet.vn/english/tin-van/vietnam-cambodia-seek-to-bolster-all-round-ties-471386.html"
+      ],
+      "tone_median": 7.55694391606968
+    },
+    {
+      "group_id": "8acf63623faf4e0c73888a122149ae0454a7c3342ec90fe8712f7e13e3702165",
+      "urls": [
+        "https://www.nynganobserver.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "8b225f3c4407ef3a53efbab63b70a26aed9b8d616d878301dc222f9bbfa87a0f",
+      "urls": [
+        "https://www.businessinsider.com/moved-siem-reap-cambodia-married-early-retirment-freelance-work-2026-10"
+      ],
+      "tone_median": 5.32879818594104
+    },
+    {
+      "group_id": "8bdfe6ff16a8f33cea7c08acd4714aa014e9e85caf04ecce321bf8d44e84ca1e",
+      "urls": [
+        "http://vov.vn/the-gioi/campuchia-thai-lan-sap-buoc-vao-phien-hoa-giai-thu-2-ve-tranh-chap-tren-bien-post1340638.vov"
+      ],
+      "tone_median": 4.50928381962865
+    },
+    {
+      "group_id": "8c6f8855b888f2d2358f118381a0d7be047f1bc822075d538f0035d14744c968",
+      "urls": [
+        "https://www.trend.az/azerbaijan/politics/4233636.html"
+      ],
+      "tone_median": 5.15463917525773
+    },
+    {
+      "group_id": "8d3938b25be99cb71b9ac32c1cf52192abd8f4108202aa0e9764e7fa67b97df9",
+      "urls": [
+        "https://vietnamnet.vn/thu-tuong-len-duong-tham-lao-va-campuchia-2562827.html"
+      ],
+      "tone_median": 6.33245382585752
+    },
+    {
+      "group_id": "8d9550626d50615ea8664794750589c5c03fa3cc21f54b11961dae86fafa1515",
+      "urls": [
+        "https://www.bangkokbiznews.com/news/1255971"
+      ],
+      "tone_median": -2.25988700564972
+    },
+    {
+      "group_id": "8dc62ee9af62fa5f8c02b4aaafcda251229123560f4bdaec9a2ff1bbd8fe9382",
+      "urls": [
+        "https://baomoi.com/co-gai-khmer-va-hanh-trinh-bien-cay-dua-thanh-sinh-ke-cho-nguoi-mien-tay-c56247579.epi"
+      ],
+      "tone_median": 1.78230426479949
+    },
+    {
+      "group_id": "8e318c8f4ffe6dd97fb7fba4f1e59eeb8b2d7cf423257ed57740f42cd08b049e",
+      "urls": [
+        "https://baovanhoa.vn/chinh-tri/thu-tuong-mong-cong-dong-nguoi-goc-viet-tai-campuchia-tiep-tuc-giu-gin-ban-sac-van-hoa-dan-toc-273198.html"
+      ],
+      "tone_median": 2.93577981651376
+    },
+    {
+      "group_id": "8ed874f9a9931106edf053c496ed471a064f432f1a58304dae162ace2f53751f",
+      "urls": [
+        "http://xm.fjsen.com/2026-10/12/content_32265971.htm"
+      ],
+      "tone_median": 1.72413793103448
+    },
+    {
+      "group_id": "8fdcba098e37867d0e3e118a2e58cd9ea8e747f367c726bffcd0ab32d14fd78a",
+      "urls": [
+        "https://tuoitre.vn/campuchia-len-tieng-sau-khi-bi-my-xep-vao-nhom-3-ve-buon-nguoi-lien-quan-cac-khu-lua-dao-100261012195218813.htm"
+      ],
+      "tone_median": -6.33802816901408
+    },
+    {
+      "group_id": "914338174e2c92c816fda29667c8b08894815bfbc599a776960604fe84e98fae",
+      "urls": [
+        "https://www.trend.az/azerbaijan/4233542.html"
+      ],
+      "tone_median": 0.0
+    },
+    {
+      "group_id": "91510689e5fb507450dedcd2ed26906c1bf56227f4e7934220d60d89f22f2d31",
+      "urls": [
+        "https://www.dailynews.co.th/news/6254911/"
+      ],
+      "tone_median": -2.04678362573099
+    },
+    {
+      "group_id": "92a8d6097073f575ff113da8c636ba47c475af97a2022e296a3134170c97fea9",
+      "urls": [
+        "https://lecourrier.vn/entretien-entre-le-premier-ministre-vietnamien-et-son-homologue-cambodgien/1357071.html"
+      ],
+      "tone_median": 5.15021459227468
+    },
+    {
+      "group_id": "93f08eb353c3d49944e4af764b03984ef037f68ccf8539ca6232f85679b322b3",
+      "urls": [
+        "https://www.astroawani.com/berita-dunia/rundingan-pertikaian-maritim-kemboja-thailand-kedua-pada-14-18-okt-di-hague"
+      ],
+      "tone_median": 4.29447852760736
+    },
+    {
+      "group_id": "9427a297a5c7c0b44697d082bf40ff753e864a58b60229dd508e3c95df975d08",
+      "urls": [
+        "https://news.tuoitre.vn/pm-highlights-youths-role-in-advancing-vietnamcambodia-ties-103261010143450086.htm"
+      ],
+      "tone_median": 5.72687224669604
+    },
+    {
+      "group_id": "94fbdfa346d85c059d3071d13c21523e6044feec4163448bb43f4d65b998b735",
+      "urls": [
+        "http://vov.vn/chinh-tri/bo-truong-campuchia-viet-nam-campuchia-cung-van-menh-huong-toi-phon-vinh-post1339310.vov"
+      ],
+      "tone_median": 2.93453724604966
+    },
+    {
+      "group_id": "95211b6285ab00eaa567f8dc300dde08247897b9318beae7a4db8dd0f4bca0cd",
+      "urls": [
+        "https://www.trend.az/azerbaijan/4233609.html"
+      ],
+      "tone_median": 6.38297872340426
+    },
+    {
+      "group_id": "9538370ba6b8694ec7a531fa79c2713759cf90bc15e0d2c34d1a57cf1047e0dd",
+      "urls": [
+        "https://viaggi.corriere.it/le-voci-di-dove/viaggio-in-cambogia-tra-i-monti-cardamoni/"
+      ],
+      "tone_median": 0.0
+    },
+    {
+      "group_id": "953fc0da04b8a35fefb9c6085b52b8312cac8e4fb24ebb95eea36c20fc6171d2",
+      "urls": [
+        "https://www.sggp.org.vn/campuchia-cap-thi-thuc-dien-tu-tai-cac-co-quan-dai-dien-o-nuoc-ngoai-post875523.html"
+      ],
+      "tone_median": 1.24223602484472
+    },
+    {
+      "group_id": "966556f63c32c93a69cb9908dce703a368f240b717d610163595f8997a48ad8d",
+      "urls": [
+        "https://musavat.com/news/ilham-eliyev-kambocaya-sefere-devet-olunub_1295885.html"
+      ],
+      "tone_median": 13.5416666666667
+    },
+    {
+      "group_id": "97a4dbb9a0a5c5c212101dde13cccd3756502c3bf5f22fc227b4fb86fe330836",
+      "urls": [
+        "https://ru.apa.az/oficialniye-novosti/prezident-azerbaidzana-nas-tovarooborot-s-kambodzei-vse-eshhe-naxoditsya-na-ocen-nizkom-urovne-677698"
+      ],
+      "tone_median": -1.92307692307692
+    },
+    {
+      "group_id": "97b08b76c33d3441f49e40a43f9db014e250d39e932503be44106c89f817a45e",
+      "urls": [
+        "https://baomoi.com/uy-ban-hoa-giai-theo-unclos-an-dinh-lich-hop-voi-campuchia-va-thai-lan-c56241118.epi"
+      ],
+      "tone_median": 2.57510729613734
+    },
+    {
+      "group_id": "97e2e057051c32fcab2d5014ecfd61d2b8edc9d130866928de6682d3b0cc62ec",
+      "urls": [
+        "http://www.cambodiantimes.com/news/279363285/cambodia-celebrates-traditional-pchum-ben-festival",
+        "http://www.laosnews.net/news/279363285/cambodia-celebrates-traditional-pchum-ben-festival"
+      ],
+      "tone_median": 7.48898678414097
+    },
+    {
+      "group_id": "98318c3cf1842004930408904deb4f3a5e6602b54420f6b4a7cc29333a5e113a",
+      "urls": [
+        "https://baochinhphu.vn/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-lao-va-campuchia-10226101017563889.htm",
+        "https://baomoi.com/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-lao-va-campuchia-c56240925.epi",
+        "https://baovanhoa.vn/chinh-tri/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-lao-va-campuchia-273375.html",
+        "https://thanhtra.com.vn/doi-ngoai-97D2D2A31/thu-tuong-le-minh-hung-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-lao-va-campuchia-98015df6f.html"
+      ],
+      "tone_median": 6.08695652173913
+    },
+    {
+      "group_id": "988e33a615691d80385a0fa9b63bb98b41c0a2073fbc32389dc52580ea9c93dd",
+      "urls": [
+        "https://baomoi.com/campuchia-don-mua-doan-tu-va-tuong-nho-to-tien-pchum-ben-c56246188.epi"
+      ],
+      "tone_median": 4.97512437810945
+    },
+    {
+      "group_id": "98dd8da7bd9f947af382e11b543f555bf4076ba7f1f762e48c5df5788ab21ef6",
+      "urls": [
+        "https://baomoi.com/no-luc-hien-thuc-hoa-muc-tieu-dua-kim-ngach-thuong-mai-song-phuong-viet-nam-campuchia-dat-20-ty-usd-c56235393.epi"
+      ],
+      "tone_median": 3.71134020618557
+    },
+    {
+      "group_id": "991dd47beadd2112fb8f314fb45d65fda2edd58b1332c93be070302ae8f67544",
+      "urls": [
+        "https://az.trend.az/business/4233789.html"
+      ],
+      "tone_median": 3.94366197183099
+    },
+    {
+      "group_id": "9941b7ec9e4f4f38ac5a7b1bf9312150fa3b290443548aa25df5ba53e84122b9",
+      "urls": [
+        "https://baomoi.com/triet-pha-duong-day-lua-dao-dau-tu-vang-ao-tu-campuchia-c56234464.epi"
+      ],
+      "tone_median": -5.22875816993464
+    },
+    {
+      "group_id": "99cc8fe104e9ae5271b07dfc8e4e30591b59f5fd60aa9b9121852121518f30be",
+      "urls": [
+        "https://lecourrier.vn/vietnam-cambodge-pour-porter-la-cooperation-economique-a-un-niveau-superieur/1357076.html",
+        "https://lecourrier.vn/vietnam-cambodge-pour-porter-les-liens-economiques-a-un-niveau-superieur/1357076.html"
+      ],
+      "tone_median": 2.75569687334393
+    },
+    {
+      "group_id": "9a0c0a182def360f735b8569c3f063c55a39fee729e636d2c12898794631dd2b",
+      "urls": [
+        "https://vietnam.vnanet.vn/spanish/tin-van/premier-vietnamita-se-reune-con-presidente-del-senado-y-del-partido-popular-de-camboya-471367.html"
+      ],
+      "tone_median": 5.98591549295775
+    },
+    {
+      "group_id": "9a924a0beae5ea27e3547a003c55962e50c0400ba1cf5f0cbf80bd5221cafae1",
+      "urls": [
+        "http://www.eldestapeweb.com/sociedad/camboya-protege-cocodrilo-siames-peligro-critico-extincion-2026106145421"
+      ],
+      "tone_median": -3.19488817891374
+    },
+    {
+      "group_id": "9acb13eff3e8b4f566706d16fdde85efcead2cfa91c3e8ac84e059e431c374cc",
+      "urls": [
+        "https://baomoi.com/cong-dong-nguoi-goc-viet-no-luc-dong-gop-cho-su-phat-trien-cua-campuchia-c56218978.epi"
+      ],
+      "tone_median": 2.15716486902928
+    },
+    {
+      "group_id": "9b0e39c31d88a294d2ee5c9189156af4f088d4b6a83f94e0a7389602199e5f60",
+      "urls": [
+        "https://www.dailymail.com/news/article-16193045/Aussie-abducted-Cambodia-Vietnam.html"
+      ],
+      "tone_median": -4.84848484848485
+    },
+    {
+      "group_id": "9b737b265b9e33d576e5478356f4554820a478d61b68cca1534156d09d743c01",
+      "urls": [
+        "https://english.news.cn/20261009/8f1755d7afe84939be1d23239d2214ff/c.html",
+        "https://english.news.cn/asiapacific/20261009/d2e466bf51a34c6e9f26d5f4a6de334d/c.html"
+      ],
+      "tone_median": 3.060640732265445
+    },
+    {
+      "group_id": "9bf04943421e578de99ed7ea599c412853e564f9955dbd643d67f09a0a402628",
+      "urls": [
+        "https://www.azernews.az/nation/265398.html"
+      ],
+      "tone_median": 3.17460317460317
+    },
+    {
+      "group_id": "9c0e2e3d0622eeb226984f64ed50e3a7227d5aeec32d0d4b7f99c43ad577c460",
+      "urls": [
+        "https://thanhnien.vn/quan-he-viet-nam-campuchia-khong-ngung-phat-trien-tich-cuc-185261009221833673.htm"
+      ],
+      "tone_median": 6.3034188034188
+    },
+    {
+      "group_id": "9c3ab65afd4a296d29e8d15500c8fc9cd3ef2b3205f3575f7020970c27393e31",
+      "urls": [
+        "https://baomoi.com/thu-tuong-le-minh-hung-phat-huy-vai-tro-thanh-nien-trong-vun-dap-quan-he-viet-nam-campuchia-c56238992.epi"
+      ],
+      "tone_median": 6.48379052369077
+    },
+    {
+      "group_id": "9c5e89cea5987846e46eeeea3c6c24c40bfa488bec5ae73397a0c57655a6e9bb",
+      "urls": [
+        "https://lecourrier.vn/le-chef-de-la-diplomatie-souligne-limportance-des-visites-du-pm-le-minh-hung-au-laos-et-au-cambodge/1357118.html"
+      ],
+      "tone_median": 2.72108843537415
+    },
+    {
+      "group_id": "9c8e981d5cb100f60730cdc59c0b3eb119d63f23177d5a6fd91dd7b334a02ed3",
+      "urls": [
+        "https://thanhnien.vn/thu-tuong-le-minh-hung-bat-dau-tham-chinh-thuc-campuchia-185261009143204338.htm"
+      ],
+      "tone_median": 5.66801619433198
+    },
+    {
+      "group_id": "9ce2e588550fa5f46d0f7d7aa933767b2c3cb28591bce53dd5c3d50e00d93137",
+      "urls": [
+        "https://www.ddaily.co.kr:443/page/view/2026100811140561938"
+      ],
+      "tone_median": 2.83018867924528
+    },
+    {
+      "group_id": "9d639fb04fb0326679c94fec32dd0da67fbb4e8ff0a6a5e2c50fa05f41d47c57",
+      "urls": [
+        "https://vietnamnews.vn/opinion/1801549/creating-new-momentum-for-substantive-and-effective-viet-nam-cambodia-relations.html"
+      ],
+      "tone_median": 4.3801652892562
+    },
+    {
+      "group_id": "9dc673d25b05364a369185911f58c28fa60cd91bd6b17b53b0b2560877a94822",
+      "urls": [
+        "https://larepublica.pe/mundo/2026/10/11/angelina-jolie-llego-a-camboya-para-rodar-una-pelicula-y-termino-creando-un-proyecto-que-combate-la-caza-furtiva-y-ayuda-a-las-comunidades-rurales-847869",
+        "https://larepublica.pe:443/mundo/2026/10/11/angelina-jolie-llego-a-camboya-para-rodar-una-pelicula-y-termino-creando-un-proyecto-que-combate-la-caza-furtiva-y-ayuda-a-las-comunidades-rurales-847869"
+      ],
+      "tone_median": -0.28409090909091
+    },
+    {
+      "group_id": "9dd7431c38c571c097dd1e12b222e398e5f675d2d6ce49a63d9186d3302f21ff",
+      "urls": [
+        "https://vietnam.vnanet.vn/vietnamese/tin-van/thu-tuong-chinh-phu-le-minh-hung-tiep-pho-thu-tuong-hun-many-chu-tich-hoi-lien-hiep-thanh-nien-campuchia-471416.html"
+      ],
+      "tone_median": 6.5
+    },
+    {
+      "group_id": "9e52c7d08c54d529025b56bd2215de5741290047004d9f59d943d544fed0e96b",
+      "urls": [
+        "http://russian.news.cn/20261010/df2370d039ec4aa58f56773eff4672ec/c.html"
+      ],
+      "tone_median": 6.98924731182796
+    },
+    {
+      "group_id": "9e539e9137e9038050864d451c849eb9c901e69e7f57f26dfca9e7de5f8a11f9",
+      "urls": [
+        "https://serqqapisi.az/butun-xeberler/baki-gorusu-azerbaycan-kamboca-emekdasliginda-yeni-perspektivler"
+      ],
+      "tone_median": 4.02439024390244
+    },
+    {
+      "group_id": "9edd11fc3cb1dc1009c0bdf9c46cda489e5455cd8643fb8d85951a4b8e424efb",
+      "urls": [
+        "https://vietnamnews.vn/politics-laws/1801667/vietnamese-prime-minister-meets-cambodian-national-assembly-president.html"
+      ],
+      "tone_median": 7.15532286212914
+    },
+    {
+      "group_id": "9fc3ee37d6f897f9e0237b195dc9ceacef7fae5d8ea39ec7bc780f3da86cfcfb",
+      "urls": [
+        "https://baomoi.com/xung-luc-moi-thuc-day-hop-tac-giua-viet-nam-voi-lao-campuchia-c56220294.epi"
+      ],
+      "tone_median": 7.42924528301887
+    },
+    {
+      "group_id": "a02ce06fbaaaacd06373ad1d6d203ac820507bfcd96dee55aa5c5d077a36e087",
+      "urls": [
+        "https://en.apa.az/entrepreneurship/minister-preliminary-agreement-reached-on-preparing-azerbaijan-cambodia-roadmap-529565"
+      ],
+      "tone_median": 2.08333333333333
+    },
+    {
+      "group_id": "a05a6ffa883efe14824d3901022dfcefe5be3e0fbfa0e988cb5c084ad1a075ea",
+      "urls": [
+        "https://www.nvi.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "a07022fa2cefb730e100b401b7785e839af3447796b025e602e56b8f1681c3eb",
+      "urls": [
+        "https://baodongnai.com.vn/the-gioi/202610/thu-tuong-chinh-phu-le-minh-hung-ket-thucchuyen-tham-chinh-thuc-lao-va-bat-dau-chuyen-tham-chinh-thuc-campuchia-12218e1/"
+      ],
+      "tone_median": 5.58659217877095
+    },
+    {
+      "group_id": "a0d1fd763a10fe925e91052a54a5347fdc540b3003b121251b38aca912b2ecb2",
+      "urls": [
+        "http://vov.vn/chinh-tri/chuyen-tham-lao-campuchia-cua-thu-tuong-mo-ra-dot-pha-hop-tac-toan-dien-post1340325.vov"
+      ],
+      "tone_median": 4.87483530961792
+    },
+    {
+      "group_id": "a1db6aab431144eeee6bc42069a35d3012400fd2a682cab807a35b3224689a31",
+      "urls": [
+        "https://baochinhphu.vn/viet-nam-campuchia-trao-doi-nhieu-van-kien-hop-tac-quan-trong-102261009165031419.htm"
+      ],
+      "tone_median": 4.54545454545455
+    },
+    {
+      "group_id": "a2fb4b25a119a7ceb689baf770982125dadec6bea3beedb6a0c88987af18c42c",
+      "urls": [
+        "https://baophapluat.vn/vietnam-airlines-bat-tay-doi-tac-lao-campuchia-thuc-day-du-lich-dong-duong.html",
+        "https://dantri.com.vn/kinh-doanh/vietnam-airlines-bat-tay-doi-tac-lao-campuchia-thuc-day-du-lich-dong-duong-20261010144420899.htm",
+        "https://giaoduc.net.vn/vietnam-airlines-bat-tay-doi-tac-lao-campuchia-thuc-day-du-lich-dong-duong-post263293.gd",
+        "https://thanhtra.com.vn/kinh-doanh-90943E907/vietnam-airlines-bat-tay-doi-tac-lao-campuchia-thuc-day-du-lich-dong-duong-98015da79.html"
+      ],
+      "tone_median": 1.96517944988664
+    },
+    {
+      "group_id": "a314fbe207bd3e51fa7f2ea6e1ba4742ae0a49410a56efad47ab51d0af480aee",
+      "urls": [
+        "https://stockbiz.vn/tin-tuc/thuong-mai-va-dau-tu-viet-nam-campuchia-mo-ra-du-dia-cho-ngan-hang-viet/42183752",
+        "https://vietbao.vn/thuong-mai-va-dau-tu-viet-nam-campuchia-mo-ra-du-dia-cho-ngan-hang-viet-610555.html"
+      ],
+      "tone_median": 3.36300764089255
+    },
+    {
+      "group_id": "a397cb44a78bcd54cea95d40b9bc370cad372de5c6bfa0d476c1d21143d8a2cf",
+      "urls": [
+        "http://vov.vn/van-hoa/le-sen-don-ta-net-dep-van-hoa-khmer-va-suc-manh-dai-doan-ket-post1339109.vov"
+      ],
+      "tone_median": 6.39412997903564
+    },
+    {
+      "group_id": "a47e9dee9626caaa7f2b4736fc8708ab8f026b86a603f4b59698fd0c04df348b",
+      "urls": [
+        "https://www.examiner.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "a547c81ecb683820a0c380bc12edba3150d2acd389e04f44d64172cdb35f4e44",
+      "urls": [
+        "http://www.nepalnational.com/news/279357410/cambodian-pm-raises-concerns-over-surge-in-e-cigarette-use"
+      ],
+      "tone_median": -5.10204081632653
+    },
+    {
+      "group_id": "a579eedc317208512a9ea75c23d0a8b249b6155df29a5812788abfb554d7e3c2",
+      "urls": [
+        "https://1news.az/news/20261012162504882-Azerbaidzhan-i-Kambodzha-razrabotayut-dorozhnuyu-kartu-sotrudnichestva"
+      ],
+      "tone_median": 3.03030303030303
+    },
+    {
+      "group_id": "a5bb539bd8588df049b1aea9669d436ca58f3376474727e9de4c9c96d000cd2c",
+      "urls": [
+        "http://www.cambodiantimes.com/news/279359337/cambodia-foreign-trade-up-22-pct-in-first-9-months-of-2026",
+        "http://www.laosnews.net/news/279359337/cambodia-foreign-trade-up-22-pct-in-first-9-months-of-2026"
+      ],
+      "tone_median": 3.44827586206897
+    },
+    {
+      "group_id": "a5c2dc42b2982544b4ae809a6ea2878e23d04ec990d9f36f970d3e9b23d58a61",
+      "urls": [
+        "https://baochinhphu.vn/tao-xung-luc-moi-cho-hop-tac-toan-dien-giua-viet-nam-voi-lao-campuchia-102261010212756639.htm",
+        "https://baomoi.com/tao-xung-luc-moi-cho-hop-tac-toan-dien-giua-viet-nam-voi-lao-campuchia-c56241881.epi",
+        "https://dantri.com.vn/thoi-su/tao-xung-luc-moi-cho-hop-tac-toan-dien-giua-viet-nam-voi-lao-campuchia-20261011062323831.htm",
+        "https://vietstock.vn/2026/10/tao-xung-luc-moi-cho-hop-tac-toan-dien-giua-viet-nam-voi-lao-campuchia-1326-1501239.htm"
+      ],
+      "tone_median": 3.77807155487361
+    },
+    {
+      "group_id": "a6ddd979e896ab0db027d63e2d0406698a884fd1f0bb65432b7326a2e3ef81a2",
+      "urls": [
+        "https://livenews.co.nz/2026/10/07/somerset-diamond-bay-garden-phnom-penh-appoints-jamila-nsouli-as-general-manager-ahead-of-planned-november-opening/"
+      ],
+      "tone_median": 4.54545454545455
+    },
+    {
+      "group_id": "a6ea2205e56cde428ef0891f380d82b8ed2933fe26fb51d591e5cf4119802990",
+      "urls": [
+        "https://tienphong.vn/bo-doi-khong-quan-du-cap-tu-truc-thang-giai-cuu-nguoi-giua-vung-ngap-gia-dinh-post1884603.tpo"
+      ],
+      "tone_median": 2.89855072463768
+    },
+    {
+      "group_id": "a705c4dfe9c099c1ad01e3c1ab57ef5f1ea2e2e7034b4498752d882b6e058fc0",
+      "urls": [
+        "https://english.news.cn/20261008/5c75e2e89e6e414581b320b7844beb73/c.html"
+      ],
+      "tone_median": 1.31332082551595
+    },
+    {
+      "group_id": "a71cdef930ec6f346def0a9ebe815f29e0e43927ddd6ddb46ffd005314c87c1d",
+      "urls": [
+        "https://baomoi.com/vietnam-airlines-mo-rong-hop-tac-phat-trien-du-lich-viet-nam-lao-campuchia-c56237681.epi"
+      ],
+      "tone_median": 0.602409638554217
+    },
+    {
+      "group_id": "a7326b84fc18921cfc576359dbfe70e60b7bca8d5f5e0791bf2dfdb7b9657719",
+      "urls": [
+        "https://vtv.vn/chuyen-tham-cua-thu-tuong-toi-lao-va-campuchia-tao-dong-luc-nguon-luc-phat-trien-moi-100261011200849954.htm"
+      ],
+      "tone_median": 3.97456279809221
+    },
+    {
+      "group_id": "a784ac234b55979cbd031f6e7f53c39de7dd25f0ad5a90d5555b124924519577",
+      "urls": [
+        "https://www.portnews.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "a80280348d3dd9b439e353fdee4a9f0ba98a646982b4fbc25c6c6019436376bb",
+      "urls": [
+        "https://www.canberratimes.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "a8447b2df52443d357210addd0010f7eea011a2046fdb960be29ee3d3c4668e8",
+      "urls": [
+        "https://www.haberler.com/guncel/phnom-penh-de-gunluk-hayat-motosiklet-sokak-20318130-haberi/"
+      ],
+      "tone_median": 2.91411042944785
+    },
+    {
+      "group_id": "a86070fa83d2eb82f1d9b1e91a3f3ae15e206af7b067263a54c472b73c71e4c8",
+      "urls": [
+        "https://www.batemansbaypost.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "a87d28aab8d549a72902e12880ee14a253c941809de6447b483413812bb962dd",
+      "urls": [
+        "https://anninhthudo.vn/quach-ngoc-ngoan-hat-tieng-khmer-dan-sao-trai-buon-nguoi-quay-tung-bung-trong-mv-nhac-phim-post671479.antd"
+      ],
+      "tone_median": 2.16216216216216
+    },
+    {
+      "group_id": "a94f22a61b90757e9c0d31f1f53ce92bda3f11e84150ebb49defacace377feff",
+      "urls": [
+        "https://vietgiaitri.com/mot-thanh-pho-cua-campuchia-tot-nhat-the-gioi-2026-20261010i7789761/"
+      ],
+      "tone_median": 8.09716599190283
+    },
+    {
+      "group_id": "a9d716cbe915fbd239961c59b1ff19a2acb65431ecbd4293c5cfab2d2f893715",
+      "urls": [
+        "https://vietstock.vn/2026/10/uy-vien-bo-chinh-tri-thu-tuong-chinh-phu-le-minh-hung-tham-nha-may-angkormilk-cua-vinamilk-tai-campuchia-737-1501253.htm"
+      ],
+      "tone_median": 2.62857142857143
+    },
+    {
+      "group_id": "aa403d14b01935b200b4118e7fbbcb4469e635b83ead5110cd43556a52cf6f22",
+      "urls": [
+        "https://baomoi.com/ben-chat-nghia-tinh-quan-dan-dip-le-sene-dolta-cua-dong-bao-khmer-c56244114.epi"
+      ],
+      "tone_median": 7.92838874680307
+    },
+    {
+      "group_id": "aae605e13a6df618eb759d95cc2857c56fda4cf8f3c6d8cda4bc5a3268e1533e",
+      "urls": [
+        "http://vov.vn/xa-hoi/doi-k72-quy-tap-41-hai-cot-liet-si-tai-campuchia-phat-hien-buc-thu-co-thong-tin-post1339142.vov"
+      ],
+      "tone_median": -5.42168674698795
+    },
+    {
+      "group_id": "ab5c476a9df162f0d883f4353c307e18728baadd7cb1a6fd7ccb634019cc5f89",
+      "urls": [
+        "https://en.apa.az/official-news/president-of-azerbaijan-our-trade-turnover-with-cambodia-is-still-at-a-very-low-level-529464"
+      ],
+      "tone_median": 0.952380952380952
+    },
+    {
+      "group_id": "ab5f7759c75c2c710061edfe86c06f948d2da3b301fcb2f1fb209870d92a37c9",
+      "urls": [
+        "https://www.southernhighlandnews.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "abb3eb42b4c7ab2f66cd69028ce12c3a18e95683345557b40304b7d5d65b2e68",
+      "urls": [
+        "https://baomoi.com/thu-tuong-gap-cong-dong-va-cac-co-quan-dai-dien-viet-nam-tai-campuchia-c56238704.epi",
+        "https://thanhnien.vn/thu-tuong-gap-cong-dong-va-cac-co-quan-dai-dien-viet-nam-tai-campuchia-185261010120703567.htm"
+      ],
+      "tone_median": 5.04552556435537
+    },
+    {
+      "group_id": "acad2324a70371bb0930227393a0b1fcf44b63a5cbcd350d919e9ad1ca4d03c7",
+      "urls": [
+        "https://vtv.vn/thu-tuong-le-minh-hung-tiep-pho-thu-tuong-chu-tich-hoi-lien-hiep-thanh-nien-campuchia-100261010132003722.htm"
+      ],
+      "tone_median": 6.56565656565657
+    },
+    {
+      "group_id": "ace4f71135b90092e4eeadc76e9205e3d46bbc01dbd62ec3175a12ddda159041",
+      "urls": [
+        "https://vneconomy.vn/thu-tuong-campuchia-hun-manet-chu-tri-le-don-chinh-thuc-thu-tuong-le-minh-hung.htm"
+      ],
+      "tone_median": 6.08228980322004
+    },
+    {
+      "group_id": "ada0fdb2044da79f6029f2f808839112bbcaa87f39069e3d154ec00898939b22",
+      "urls": [
+        "https://www.kwongwah.com.my/20261007/%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%A6%96%E7%9B%B8%E6%B4%AA%E9%A9%AC%E5%86%85%EF%BC%9A%E5%81%9C%E7%81%AB%E4%B8%8D%E7%AD%89%E4%BA%8E%E5%89%B2%E8%AE%A9%E9%A2%86%E5%9C%9F-%E8%BE%B9%E7%95%8C%E4%B8%8D%E8%83%BD/"
+      ],
+      "tone_median": -2.93333333333333
+    },
+    {
+      "group_id": "ae4d84b38582e83211d1434e049c1918dd4e332bea1b76458977873c728a038b",
+      "urls": [
+        "https://baijiahao.baidu.com/s?id=1878368187081587871"
+      ],
+      "tone_median": -3.52941176470588
+    },
+    {
+      "group_id": "ae708a95f00b0a3670ccfa25c6804e144ea3d6b1e314f8a2092cdfa521122f36",
+      "urls": [
+        "https://kienthuc.net.vn/quan-he-viet-nam-lao-campuchia-tu-di-san-lich-su-den-hop-tac-thuc-chat-post1637705.html"
+      ],
+      "tone_median": 4.89614243323442
+    },
+    {
+      "group_id": "b034335785def24beebbf67cabb4f830fb75ac4da00b638d4cb1e400a313624b",
+      "urls": [
+        "https://www.crookwellgazette.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "b0c226856ed67e4ba14b98288edbb9e2c90cee74a53b8dde4408992dc27b7690",
+      "urls": [
+        "https://english.news.cn/20261011/6a88e67fd0654611b76b86e7ebfaf548/c.html",
+        "https://english.news.cn/asiapacific/20261011/e01ce043d98a4a03a2f57f88d653ad88/c.html"
+      ],
+      "tone_median": -0.8
+    },
+    {
+      "group_id": "b14d2f799c070bc2d3d6e157434e08409adadf295ddcda07e628f522f3c10d50",
+      "urls": [
+        "https://dantri.com.vn/thoi-su/tao-them-xung-luc-thuc-day-hop-tac-viet-nam-lao-campuchia-20261007074220870.htm"
+      ],
+      "tone_median": 5.08658008658009
+    },
+    {
+      "group_id": "b277e2311c25297aa2d281452ffd25dc03016e55cf72c99f1614d1684d5ade4d",
+      "urls": [
+        "https://baomoi.com/viet-nam-campuchia-tao-dong-luc-moi-huong-toi-muc-tieu-thuong-mai-20-ty-usd-c56230248.epi"
+      ],
+      "tone_median": 3.04568527918782
+    },
+    {
+      "group_id": "b373d1e82736b556af5d4a1565204c97ce1b281757af77b8425903dc0df418bd",
+      "urls": [
+        "https://camer.be/actualites/politique/cambodge-vice-president-osih-accuse-biya-descroquerie",
+        "https://www.camer.be/actualites/politique/cambodge-vice-president-osih-accuse-biya-descroquerie"
+      ],
+      "tone_median": -2.4416135881104
+    },
+    {
+      "group_id": "b398b9f5a6e22c2462f321ad4a61d54d948192e9a0bb917e3f96668d1db3f57c",
+      "urls": [
+        "https://baochinhphu.vn/thu-tuong-le-minh-hung-tiep-pho-thu-tuong-hun-many-chu-tich-hoi-lien-hiep-thanh-nien-campuchia-102261010093407156.htm",
+        "https://baomoi.com/thu-tuong-le-minh-hung-tiep-pho-thu-tuong-hun-many-chu-tich-hoi-lien-hiep-thanh-nien-campuchia-c56238430.epi",
+        "https://baomoi.com/thu-tuong-le-minh-hung-tiep-pho-thu-tuong-hun-many-chu-tich-hoi-lien-hiep-thanh-nien-campuchia-c56238612.epi",
+        "https://baomoi.com/thu-tuong-le-minh-hung-tiep-pho-thu-tuong-hun-many-chu-tich-hoi-lien-hiep-thanh-nien-campuchia-c56239505.epi",
+        "https://thanhtra.com.vn/doi-ngoai-97D2D2A31/thu-tuong-le-minh-hung-tiep-pho-thu-tuong-hun-many-chu-tich-hoi-lien-hiep-thanh-nien-campuchia-98015dd1a.html",
+        "https://www.sggp.org.vn/thu-tuong-le-minh-hung-tiep-pho-thu-tuong-hun-many-chu-tich-hoi-lien-hiep-thanh-nien-campuchia-post875896.html"
+      ],
+      "tone_median": 6.62942913718414
+    },
+    {
+      "group_id": "b3bf3163a5b637737b14773ccb02ecdb86476b3b634d765f40d4f70458918c3d",
+      "urls": [
+        "https://english.news.cn/20261012/6a36f3954a4c4f16bd109f4dfe03ef77/c.html"
+      ],
+      "tone_median": 2.17391304347826
+    },
+    {
+      "group_id": "b3da79a757e1cc9b89654f3ee346fd04fe307ee9c536399231851025c59bcb18",
+      "urls": [
+        "https://vietnam.vnanet.vn/spanish/tin-van/premier-se-reune-con-representantes-de-comunidad-vietnamita-en-camboya-471471.html"
+      ],
+      "tone_median": 2.97324083250743
+    },
+    {
+      "group_id": "b3f1bb4e13d4e3d4004c85b86a246d3a274086c1f7ad6596dd9f303d2c2f9f8b",
+      "urls": [
+        "https://thanhnien.vn/tiep-tuc-thuc-day-moi-quan-he-viet-nam-campuchia-ngay-cang-thuc-chat-va-vung-chac-185261010231228887.htm"
+      ],
+      "tone_median": 5.4820415879017
+    },
+    {
+      "group_id": "b4126e3170266c2ee99216d6a69b067f72cef30f8ad2e3c3a8dafc9a4cf0deb3",
+      "urls": [
+        "https://vesti.az/politika/ilxam-aliev-provel-vstrecu-s-premer-ministrom-kambodzi-v-rassirennom-sostave-foto-obnovleno-620160"
+      ],
+      "tone_median": 8.0074487895717
+    },
+    {
+      "group_id": "b5daf9b41efd2fd8e206a6cbe67ecc1be3f24e0c2fb485623684de3ed3b54964",
+      "urls": [
+        "https://serqqapisi.az/butun-xeberler/kambocanin-bas-naziri-fexri-xiyabanda-umummilli-lider-heyder-eliyevin-mezarini-ziyaret-edib"
+      ],
+      "tone_median": 1.2987012987013
+    },
+    {
+      "group_id": "b614913c03bc5b7ffbeb5a1e71f936dc4917257cd84c04f6b095e956d4030c97",
+      "urls": [
+        "https://www.azernews.az/nation/265396.html"
+      ],
+      "tone_median": 3.17460317460317
+    },
+    {
+      "group_id": "b65d953b06b05592b608a0adde095b12514730b775ed5162b086ef59297fa697",
+      "urls": [
+        "https://lecourrier.vn/le-pm-vietnamien-arrive-a-phnom-penh-pour-une-visite-officielle-au-cambodge/1357078.html"
+      ],
+      "tone_median": 3.77358490566038
+    },
+    {
+      "group_id": "b6a1c5a534eddc1f4806e3de1c81173f2f59a6e0e91c64c79d50faa1387da38a",
+      "urls": [
+        "https://baomoi.com/quach-ngoc-ngoan-hat-tieng-khmer-dan-sao-trai-buon-nguoi-quay-tung-bung-trong-mv-nhac-phim-c56235697.epi"
+      ],
+      "tone_median": 1.95488721804511
+    },
+    {
+      "group_id": "b6fceec83f19970699890067c80e9aa39cd0d3fd6d5637025ac1b81e9b1f5986",
+      "urls": [
+        "https://vietnamnews.vn/politics-laws/1801665/viet-nam-cambodia-seek-to-bolster-all-round-ties-pms.html"
+      ],
+      "tone_median": 6.65451230628988
+    },
+    {
+      "group_id": "b75acef15304532ed6396ad4ac2df3dff7ecc8a6db19f349e5ecfcade3391782",
+      "urls": [
+        "https://thanhnien.vn/thu-tuong-chinh-phu-le-minh-hung-tham-nha-may-angkormilk-cua-vinamilk-tai-campuchia-185261010173721721.htm"
+      ],
+      "tone_median": 2.88582183186951
+    },
+    {
+      "group_id": "b77655fd808307f4e4f511fb4b664aa939fcd7affcbec958b45f1eb9934dc340",
+      "urls": [
+        "https://english.news.cn/20261008/512cc51aaded47b58c753bf22031d176/c.html"
+      ],
+      "tone_median": -2.96296296296296
+    },
+    {
+      "group_id": "b7bf32d3a16966437c6c51a3ae99eb22455b1fe61cc272e1a92717bbb31439c3",
+      "urls": [
+        "https://www.adalet.az/az/posts/detail/azerbaycan-kamboca-senedleri-mubadile-olunub-yenilenib-1791794345"
+      ],
+      "tone_median": 2.73972602739726
+    },
+    {
+      "group_id": "b7d2ad5903243f0028d8d0f9f0df0fa566b2976c8c5a5452c1a7e5b1f7bb4f69",
+      "urls": [
+        "https://baocantho.com.vn/bo-chi-huy-quan-su-thanh-pho-chuc-mung-le-sene-dolta-tai-hoc-vien-phat-giao-nam-tong-khmer-va-chua-s-a217427.html"
+      ],
+      "tone_median": 9.94152046783626
+    },
+    {
+      "group_id": "b7dca46813c6896e5db4dc240f194c40fab78f9e9d2afe20706cad1fe7d3e31a",
+      "urls": [
+        "https://www.gleninnesexaminer.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "b8f2b073273d965fac80ba2dbc2363dccb55a2ef11549742d65ce9c7cf5e48c1",
+      "urls": [
+        "https://www.bordermail.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "ba135b20ffae76ff2d343e47720ee4c5ac26e1822e980b8894ba945bdc5d8ee1",
+      "urls": [
+        "https://az.trend.az/business/4233797.html"
+      ],
+      "tone_median": 1.85185185185185
+    },
+    {
+      "group_id": "ba37dda8ca45d44286f7a110cc3546ba8586d6cfe4392ac3d8e9e319d79398f1",
+      "urls": [
+        "https://baochinhphu.vn/thu-tuong-le-minh-hung-gap-cong-dong-va-cac-co-quan-dai-dien-viet-nam-tai-campuchia-102261010102458719.htm",
+        "https://thanhtra.com.vn/doi-ngoai-97D2D2A31/thu-tuong-le-minh-hung-gap-cong-dong-va-cac-co-quan-dai-dien-viet-nam-tai-campuchia-98015db34.html"
+      ],
+      "tone_median": 4.913966480446925
+    },
+    {
+      "group_id": "bafe71b040e4309ac0ec6ad87016295221961f9045fcf8d21e14227d401c1f5b",
+      "urls": [
+        "https://vietbao.vn/thu-tuong-le-minh-hung-tham-cong-ty-sua-angkor-milk-610827.html"
+      ],
+      "tone_median": -1.96078431372549
+    },
+    {
+      "group_id": "bbba8fa1bc8bc625c0c9f6e770fdfc180fa185ce36dd541f830c141c841e6513",
+      "urls": [
+        "https://az.trend.az/business/4233774.html"
+      ],
+      "tone_median": 2.56410256410256
+    },
+    {
+      "group_id": "bc5b857dd7c7cf2f3e86c514e85caca2b6bcf85d50134b678c5f393fa5c060be",
+      "urls": [
+        "https://www.blesk.cz/clanek/zpravy-krimi/850081/v-kambodzi-zadrzeli-dva-cechy-sokujici-nalez-v-kufrech.html"
+      ],
+      "tone_median": -7.38636363636364
+    },
+    {
+      "group_id": "bc86db1792064c3bc9c280715a0d77fe4b09d1fb39df40cfcb69f79d1d7bcb88",
+      "urls": [
+        "https://ru.apa.az/oficialniye-novosti/sostoyalsya-obmen-dokumentami-mezdu-azerbaidzanom-i-kambodzei-obnovleno-677676"
+      ],
+      "tone_median": 0.0
+    },
+    {
+      "group_id": "bcd4aac7aaf1f97f97ff541f525888617c71e21b8b9af357f2fe70bdd337d0d8",
+      "urls": [
+        "https://az.trend.az/business/4233813.html"
+      ],
+      "tone_median": 3.76569037656904
+    },
+    {
+      "group_id": "bce5ac8217b9d9145d16282d013516f19f02ded2b417ed7d75040c7fabdd063b",
+      "urls": [
+        "https://www.azernews.az/nation/265387.html"
+      ],
+      "tone_median": 3.17460317460317
+    },
+    {
+      "group_id": "bd6ee7cb8fc6928a0c2cef921d46d06d29ff1fe00272375cecf40109a1a715c1",
+      "urls": [
+        "http://vov.vn/chinh-tri/viet-nam-campuchia-quyet-tam-dua-kim-ngach-thuong-mai-dat-20-ty-usd-post1339947.vov"
+      ],
+      "tone_median": 5.53359683794466
+    },
+    {
+      "group_id": "bd930d18745b5e14660c88ce92228049ebce360c57895b080edb66d2b117e3e9",
+      "urls": [
+        "https://vietbao.vn/campuchia-khong-khoan-nhuong-voi-nan-co-bac-truc-tuyen-va-lua-dao-qua-mang-611010.html"
+      ],
+      "tone_median": -7.52089136490251
+    },
+    {
+      "group_id": "bdd6e0d84434539191bc71aa849fe681dd2867457078e6b5eb62ba7537959dbc",
+      "urls": [
+        "http://www.cambodiantimes.com/news/279368947/cambodia-azerbaijan-sign-3-pacts-to-boost-cooperation",
+        "http://www.centralasiatimes.com/news/279368947/cambodia-azerbaijan-sign-3-pacts-to-boost-cooperation",
+        "http://www.laosnews.net/news/279368947/cambodia-azerbaijan-sign-3-pacts-to-boost-cooperation"
+      ],
+      "tone_median": 2.22222222222222
+    },
+    {
+      "group_id": "be28c233cf3f7d335801106b1a275b197fca2d82994f09dcdd220f1b5331f052",
+      "urls": [
+        "https://vneconomy.vn/vietnam-airlines-mo-rong-hop-tac-phat-trien-du-lich-viet-nam-lao-campuchia.htm"
+      ],
+      "tone_median": 1.05540897097625
+    },
+    {
+      "group_id": "be49cbaa1b9cf3559f46563ababe1997648bb4723a7bbd15717b5620c458e871",
+      "urls": [
+        "https://baomoi.com/chuyen-tham-lao-va-campuchia-cua-thu-tuong-co-y-nghia-rat-quan-trong-mo-ra-nhung-huong-hop-tac-moi-c56242110.epi",
+        "https://baovanhoa.vn/chinh-tri/chuyen-tham-lao-va-campuchia-cua-thu-tuong-co-y-nghia-rat-quan-trong-mo-ra-nhung-huong-hop-tac-moi-273447.html"
+      ],
+      "tone_median": 2.54376062226302
+    },
+    {
+      "group_id": "be7f2473d3f37a1ddb94c74828f0d8933f6b9900527bc81442dca3492391ff10",
+      "urls": [
+        "https://baomoi.com/thu-tuong-tham-lao-campuchia-tao-them-dong-luc-nguon-luc-phat-trien-moi-c56243855.epi"
+      ],
+      "tone_median": 4.15472779369628
+    },
+    {
+      "group_id": "c04816736d8d81e803f6ea24589317f5847c90fc982b6845e5c961b8708c5c8f",
+      "urls": [
+        "https://thanhtra.com.vn/doi-ngoai-97D2D2A31/viet-nam-campuchia-phan-dau-dua-kim-ngach-thuong-mai-song-phuong-len-20-ty-usd-98015d8f1.html"
+      ],
+      "tone_median": 7.38255033557047
+    },
+    {
+      "group_id": "c064d4a7e8fbd29d040fc77b43f31b614285b24a9398bbf1016e2bd362b53cbd",
+      "urls": [
+        "https://baomoi.com/viet-nam-campuchia-thuc-day-ket-noi-ha-tang-hinh-thanh-chuoi-gia-tri-chung-c56237628.epi"
+      ],
+      "tone_median": 2.47218788627936
+    },
+    {
+      "group_id": "c0de1878c44fd6c1c264e74dceccc85f206f1c716ad39c395d1a07c274ec06be",
+      "urls": [
+        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/11/gasoline-prices-continue-to-climb-in-cambodia-as-diesel-pressures-ease-slightly"
+      ],
+      "tone_median": -0.778210116731518
+    },
+    {
+      "group_id": "c15cf9c6b4bcb23dff376d8f45f25eb390f40d0d52f7c417b6081d29ffbe78fb",
+      "urls": [
+        "https://baomoi.com/thuc-day-hop-tac-hau-can-ky-thuat-giua-hai-bo-quoc-phong-viet-nam-campuchia-c56215475.epi"
+      ],
+      "tone_median": 6.25
+    },
+    {
+      "group_id": "c1966a0e60fd5cfb79876fb518fd3a1e35af1136f157c6983f11712fa964a3be",
+      "urls": [
+        "https://www.denik.cz/svet/zadrzeni-cesi-kambodza-latka-v-kufru-hrozi-vezeni/"
+      ],
+      "tone_median": -5.81395348837209
+    },
+    {
+      "group_id": "c22c9f1ee5fa751286d149624b25dd65fa7a672bc7c9ebf436fb13f583a04ab1",
+      "urls": [
+        "https://baomoi.com/hop-tac-kinh-te-viet-nam-campuchia-thuc-chat-tang-cuong-ket-noi-ha-tang-va-chuoi-gia-tri-xuyen-bien-gioi-c56237626.epi"
+      ],
+      "tone_median": 6.97115384615385
+    },
+    {
+      "group_id": "c2b810d8cad6ea508cdceb45b468da3d492a948f594885723a4d3ee63edb129b",
+      "urls": [
+        "https://voh.com.vn/van-hoa/sene-don-ta-giua-long-tphcm-noi-nhung-nguoi-khmer-tim-ve-672915.html"
+      ],
+      "tone_median": 2.77502477700694
+    },
+    {
+      "group_id": "c3b95ffd14cd8eec48123a815a40c352db64ce927a56e8ef058889311828fcd1",
+      "urls": [
+        "https://www.redlandcitybulletin.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.32391879964696
+    },
+    {
+      "group_id": "c46da3e1edfb3556b11fb90952c5e488c8da7506136228a8dfe1f095521a711b",
+      "urls": [
+        "https://dantri.com.vn/phap-luat/tay-ninh-bat-giu-5-nguoi-nhap-canh-trai-phep-tu-campuchia-20261010125608838.htm",
+        "https://vietgiaitri.com/tay-ninh-bat-giu-5-nguoi-nhap-canh-trai-phep-tu-campuchia-20261011i7790974/"
+      ],
+      "tone_median": -7.585381570468565
+    },
+    {
+      "group_id": "c48136efa5e494c5fde56900a0cc36e9cca6c3a57a6df1ed0de4d3861b4be6c6",
+      "urls": [
+        "https://lecourrier.vn/entrevue-entre-le-pm-vietnamien-et-la-presidente-de-lan-cambodgienne/1357075.html"
+      ],
+      "tone_median": 5.6353591160221
+    },
+    {
+      "group_id": "c56963a0bbf6e8097d2e0f940f92a4116c1eccd1a9602707f76089b9eb04d661",
+      "urls": [
+        "https://www.azernews.az/nation/265381.html"
+      ],
+      "tone_median": 5.26315789473684
+    },
+    {
+      "group_id": "c57a20dbbc29e706fbf7d5682c90c42d3192b6554b6ea265d33e4da607757013",
+      "urls": [
+        "https://vneconomy.vn/kieu-bao-la-nguon-luc-chien-luoc-thanh-nien-la-cau-noi-huu-nghi-viet-nam-campuchia.htm"
+      ],
+      "tone_median": 4.01662049861496
+    },
+    {
+      "group_id": "c5d45f60bc775478e502dce65fe4de652d8faff79e178aceab0fc89ee963f0f3",
+      "urls": [
+        "https://baomoi.com/trong-tam-chuyen-tham-cua-thu-tuong-le-minh-hung-toi-lao-va-campuchia-c56212900.epi",
+        "https://tienphong.vn/trong-tam-chuyen-tham-cua-thu-tuong-le-minh-hung-toi-lao-va-campuchia-post1882867.tpo"
+      ],
+      "tone_median": 6.732036914963745
+    },
+    {
+      "group_id": "c68d40843cd2677e8ef4265b19f8220f7e38c9a45c57ddbd4f706402b9d86e73",
+      "urls": [
+        "https://www.bendigoadvertiser.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "c6da7e9953f714f822930e9c84f34ed9167e7a599f8248c60c64be5e9a2b4529",
+      "urls": [
+        "https://english.news.cn/20261010/3fb5ee1e264a472cbcaf1ceba9525615/c.html",
+        "https://english.news.cn/asiapacific/20261010/d33fa78074c741629d81e3f487114e8c/c.html"
+      ],
+      "tone_median": 4.47154471544715
+    },
+    {
+      "group_id": "c7483cbcc32c409f561a9134bd65071c2b6939f5d9b56a10f87287983949983d",
+      "urls": [
+        "http://vov.vn/van-hoa/net-dep-trong-tuc-dat-com-vat-mua-sen-don-ta-cua-dong-bao-khmer-nam-bo-post1338847.vov"
+      ],
+      "tone_median": 2.12089077412513
+    },
+    {
+      "group_id": "c7504fe6e70db548990deb44a20be4c5e9781c4f7c4447a969eaf325eecb9375",
+      "urls": [
+        "https://www.surinametimes.com/artikel/minister-monorath-ontvangt-cambodjaanse-delegatie"
+      ],
+      "tone_median": 6.0
+    },
+    {
+      "group_id": "c8fc56f1a8524ddd9468a44a50f004d306c9fcc4ca138bac58eb40cc85d24ea8",
+      "urls": [
+        "https://asia.nikkei.com/life-arts/life/cambodian-rice-farmers-help-to-conserve-threatened-cranes"
+      ],
+      "tone_median": 2.4390243902439
+    },
+    {
+      "group_id": "c97bf78159481d94c54a6400446b5db08591756e419a43fb11a93a0b4fede494",
+      "urls": [
+        "https://www.azernews.az/nation/265408.html"
+      ],
+      "tone_median": 5.43478260869565
+    },
+    {
+      "group_id": "c9816f82c7bc23dd1335f05bc558bf6535c15c510a539cabaee6e3f60b31c7a9",
+      "urls": [
+        "https://baomoi.com/indonesia-vo-dich-fifa-asean-cup-nhung-giai-vdqg-xep-duoi-campuchia-c56245843.epi"
+      ],
+      "tone_median": 8.44370860927152
+    },
+    {
+      "group_id": "c9a2958869913f61e7cf151d6cabb510e9dcab8fe76237f21ed944a8f7f925e6",
+      "urls": [
+        "http://www.chinaqw.com/hqly/2026/10-09/412425.shtml"
+      ],
+      "tone_median": -0.197628458498023
+    },
+    {
+      "group_id": "ca434635ce991171b9945e92a6d51c13f3d7e3ade4253dc7759843a4655f10f2",
+      "urls": [
+        "https://vietnamnews.vn/politics-laws/1801691/vietnamese-pm-pays-courtesy-visits-to-cambodian-king-queen-mother.html"
+      ],
+      "tone_median": 7.94824399260628
+    },
+    {
+      "group_id": "ca72dc127cbed7840559e97d2254b9214200061b01c51bef1deac1f7d07953a7",
+      "urls": [
+        "https://lecourrier.vn/vietnam-cambodge-plus-de-160-entreprises-attendues-a-la-foire-videx-2026/1356925.html"
+      ],
+      "tone_median": 2.33463035019455
+    },
+    {
+      "group_id": "caa09417e649eb2bd81a75e75ce5d9c0d358ef75b532a7a03ff1f6873aa70247",
+      "urls": [
+        "http://vov.vn/chinh-tri/le-don-thu-tuong-le-minh-hung-tham-chinh-thuc-vuong-quoc-campuchia-post1339836.vov",
+        "https://anninhthudo.vn/le-don-thu-tuong-le-minh-hung-tham-chinh-thuc-vuong-quoc-campuchia-post671444.antd",
+        "https://baovanhoa.vn/chinh-tri/le-don-thu-tuong-le-minh-hung-tham-chinh-thuc-vuong-quoc-campuchia-272924.html",
+        "https://dantri.com.vn/thoi-su/le-don-thu-tuong-le-minh-hung-tham-chinh-thuc-vuong-quoc-campuchia-20261009152943180.htm"
+      ],
+      "tone_median": 6.708303174439045
+    },
+    {
+      "group_id": "cb2a3ee735ef7eff05a1e015cad5843ad8c02bc02e75d138ea2ee38a7e0372a0",
+      "urls": [
+        "https://baomoi.com/dong-bao-khmer-o-tphcm-thanh-kinh-cung-duong-trong-le-sene-dolta-c56251012.epi"
+      ],
+      "tone_median": 4.34782608695652
+    },
+    {
+      "group_id": "cb3e5151469fbfc597e146568a362722d067901484d9d448e0e564b2ed2bdc86",
+      "urls": [
+        "http://www.dailyadvance.com/news/national/somerset-diamond-bay-garden-phnom-penh-appoints-jamila-nsouli-as-general-manager-ahead-of-planned/article_aca1032c-4952-53ef-9c72-98db6ac5ccf1.html",
+        "http://www.gazettextra.com/news/nation_world/somerset-diamond-bay-garden-phnom-penh-appoints-jamila-nsouli-as-general-manager-ahead-of-planned/article_fec6c44e-e943-5c46-a689-bbc5880a59ea.html",
+        "http://www.reflector.com/news/national/somerset-diamond-bay-garden-phnom-penh-appoints-jamila-nsouli-as-general-manager-ahead-of-planned/article_c735e602-79e1-52f5-9b05-b3bf77d09fa1.html",
+        "https://businessdayghana.com/somerset-diamond-bay-garden-phnom-penh-appoints-jamila-nsouli-as-general-manager-ahead-of-planned-november-opening/",
+        "https://vietnamnews.vn/media-outreach/1801391/somerset-diamond-bay-garden-phnom-penh-appoints-jamila-nsouli-as-general-manager-ahead-of-planned-november-opening.html",
+        "https://www.manilatimes.net/2026/10/07/tmt-newswire/media-outreach-newswire/somerset-diamond-bay-garden-phnom-penh-appoints-jamila-nsouli-as-general-manager-ahead-of-planned-november-opening/2440551",
+        "https://www.thailand-business-news.com/pr-news/somerset-diamond-bay-garden-phnom-penh-appoints-jamila-nsouli-as-general-manager-ahead-of-planned-november-opening"
+      ],
+      "tone_median": 4.16666666666667
+    },
+    {
+      "group_id": "cb56496c653510db7d81c90a2033dd913177ec666ae8545416dbb12d3c0437b9",
+      "urls": [
+        "https://en.apa.az/foreign-policy/cambodian-prime-minister-visits-grave-of-national-leader-heydar-aliyev-529523"
+      ],
+      "tone_median": 1.08695652173913
+    },
+    {
+      "group_id": "cb68f5b3b95948558db3834db7a160504ba23dc71cd50390c5842f5518d74960",
+      "urls": [
+        "https://vietbao.vn/thu-tuong-le-minh-hung-bat-dau-tham-chinh-thuc-vuong-quoc-campuchia-610649.html"
+      ],
+      "tone_median": 2.77777777777778
+    },
+    {
+      "group_id": "cba290952290df0b33c188274824080847404b802745592b96f3a29fa4948b42",
+      "urls": [
+        "https://en.apa.az/official-news/president-ilham-aliyev-and-prime-minister-of-cambodia-delivered-press-statements-updated-1-529453",
+        "https://en.apa.az/official-news/president-ilham-aliyev-and-prime-minister-of-cambodia-delivered-press-statements-updated-529453",
+        "https://www.azernews.az/nation/265399.html"
+      ],
+      "tone_median": 3.17460317460317
+    },
+    {
+      "group_id": "cbee42569db1679925b544b9dfca330f2dd4d238e4bdd6313d4d28c0576c4c8e",
+      "urls": [
+        "https://vietnam.vnanet.vn/spanish/tin-van/premier-vietnamita-realiza-visita-de-cortesia-al-rey-y-a-la-reina-madre-de-camboya-471472.html"
+      ],
+      "tone_median": 7.07803992740472
+    },
+    {
+      "group_id": "cc6267898b448f9317f725c0ed2ca5c6e26154c529138eb84852f6655d563e03",
+      "urls": [
+        "https://giaoducthoidai.vn/thu-tuong-le-minh-hung-hoi-kien-chu-tich-cpp-chu-tich-thuong-vien-campuchia-hun-sen-post795596.html"
+      ],
+      "tone_median": 5.52941176470588
+    },
+    {
+      "group_id": "cc76f298e26b7260c2cb36a07a543ea52c354630f1cdf7b01db7adeccdc3e84a",
+      "urls": [
+        "https://www.blayneychronicle.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "cc83718201d99cee239cda406650056f4ac8cf95911af3131890a507fba55720",
+      "urls": [
+        "https://www.trend.az/azerbaijan/politics/4233582.html"
+      ],
+      "tone_median": 4.8780487804878
+    },
+    {
+      "group_id": "ccbf5c55eb46484d653671832925ed50f2b644774a17ec8a0ef5d2070b3949a4",
+      "urls": [
+        "https://baochinhphu.vn/truyen-thong-lao-campuchia-danh-gia-cao-ket-qua-chuyen-tham-cua-thu-tuong-le-minh-hung-102261012161927981.htm",
+        "https://baomoi.com/truyen-thong-lao-campuchia-danh-gia-cao-ket-qua-chuyen-tham-cua-thu-tuong-le-minh-hung-c56252507.epi"
+      ],
+      "tone_median": 5.60975609756098
+    },
+    {
+      "group_id": "cdac84b2a14e74039b03a0360669b70a31a64100a15a8be7b7d31b96058fc9d8",
+      "urls": [
+        "https://en.apa.az/official-news/azerbaijan-cambodia-documents-exchanged-updated-529439"
+      ],
+      "tone_median": 0.5
+    },
+    {
+      "group_id": "cdc5ffbde9fb66fa9df9a934007b0b0ae94db6d9751c3e685bb095ca1b38a103",
+      "urls": [
+        "https://baomoi.com/viet-nam-va-campuchia-ky-ket-hiep-dinh-hop-tac-giao-duc-giai-doan-2026-2030-c56234768.epi",
+        "https://baomoi.com/viet-nam-va-campuchia-ky-ket-hiep-dinh-hop-tac-giao-duc-giai-doan-2026-2030-c56235332.epi",
+        "https://giaoducthoidai.vn/viet-nam-va-campuchia-ky-ket-hiep-dinh-hop-tac-giao-duc-giai-doan-2026-2030-post795568.html"
+      ],
+      "tone_median": 7.01754385964912
+    },
+    {
+      "group_id": "ce07563f1b65df66b544463e30551b8264b16ae8992d9e4628abcc846085e22e",
+      "urls": [
+        "https://baomoi.com/thu-tuong-le-minh-hung-tuong-niem-tri-an-tai-cac-dai-tuong-niem-o-campuchia-c56235882.epi"
+      ],
+      "tone_median": 4.81586402266289
+    },
+    {
+      "group_id": "ce9523003d3b2fc2d613c5d9a7d808477cc4671f089ec8ba81570d7302dad622",
+      "urls": [
+        "https://baoxaydung.vn/thu-tuong-le-minh-hung-hoi-kien-chu-tich-dang-nhan-dan-chu-tich-thuong-vien-campuchia-192261009210835967.htm"
+      ],
+      "tone_median": 5.67465321563682
+    },
+    {
+      "group_id": "ced80dcfc2206df4128b8ac1e65cb4da1b11c5914bb7184d190c86e228b25393",
+      "urls": [
+        "https://dantri.com.vn/kinh-doanh/thu-tuong-le-minh-hung-tham-nha-may-angkormilk-cua-vinamilk-tai-campuchia-20261010191048139.htm"
+      ],
+      "tone_median": 2.69005847953216
+    },
+    {
+      "group_id": "cf2c7a59572e6d43701cc7b6f85ef61dd2dd423cc29896cba2ffc242cb395195",
+      "urls": [
+        "https://www.portstephensexaminer.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "d0a7ac9d6a29f6008d87c47e2749c630dd7f681758588648be5129edf8c959bd",
+      "urls": [
+        "https://www.dailyliberal.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "d0b8e17536b1a1945eed86249aca0cdbc6c7a40f44e40176e946736a1b45ff2d",
+      "urls": [
+        "https://baomoi.com/tay-ninh-tham-va-chuc-mung-le-sen-dolta-cua-dong-bao-khmer-c56234949.epi"
+      ],
+      "tone_median": 6.89655172413793
+    },
+    {
+      "group_id": "d11311a41acec7b578b9b2fbbda93fe315b114a7dd17023cf222b6d8f5827083",
+      "urls": [
+        "https://www.wellingtontimes.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "d18c3340f8c456923b622312fb20ea9503d18358efc5ca8bb480c67d932dcab6",
+      "urls": [
+        "https://baomoi.com/hoc-gia-campuchia-viet-nam-va-campuchia-can-chuyen-hoa-niem-tin-chinh-tri-thanh-nhung-gia-tri-thiet-thuc-c56217400.epi"
+      ],
+      "tone_median": 2.53549695740365
+    },
+    {
+      "group_id": "d21b59d7dc120d394b8b28d013150db9387ec15634ae6a2f673743b2ab4ba26e",
+      "urls": [
+        "https://vesti.az/politika/kakie-dokumenty-podpisali-azerbaidzan-i-kambodza-obnovleno-620161"
+      ],
+      "tone_median": 3.92022008253095
+    },
+    {
+      "group_id": "d24037c57026c90330efeeae9e9cf5c3f4481426afd4970e4fa1961d295c478a",
+      "urls": [
+        "https://asianews.network/over-1100-cambodians-stranded-at-an-ses-border-during-asean-observers-visit/"
+      ],
+      "tone_median": -1.75953079178886
+    },
+    {
+      "group_id": "d2edcbfd60b60787b75f615a267fe4e966f9730c4dae9d66115200e58e25dbe7",
+      "urls": [
+        "https://baomoi.com/thu-tuong-le-minh-hung-tham-campuchia-lam-sau-sac-them-tinh-huu-nghi-lau-doi-giua-hai-nuoc-c56241557.epi"
+      ],
+      "tone_median": 5.82010582010582
+    },
+    {
+      "group_id": "d3a4a8e5dff4686bb857fa940f932931b35734974339b07171974b9a0a5fa34b",
+      "urls": [
+        "https://baomoi.com/viet-nam-campuchia-trao-doi-nhieu-van-kien-hop-tac-quan-trong-c56234001.epi",
+        "https://thanhtra.com.vn/doi-ngoai-97D2D2A31/viet-nam-campuchia-trao-doi-nhieu-van-kien-hop-tac-quan-trong-98015d4f2.html"
+      ],
+      "tone_median": 4.62172056131788
+    },
+    {
+      "group_id": "d3e6eb58fdffcd52706c89095a296a9ed2f1ed38ea8b95486d139d0668f4d519",
+      "urls": [
+        "https://www.realmadrid.com/es-ES/noticias/club/fundacion/los-alumnos-de-las-escuelas-de-la-fundacion-en-camboya-presenciaron-el-real-madrid-manresa-11-10-2026"
+      ],
+      "tone_median": 8.69565217391304
+    },
+    {
+      "group_id": "d40bab7dc0a65cb8ecee5df92cd70c2ccc99a603cdd744738a09881f25d47ceb",
+      "urls": [
+        "http://vov.vn/chinh-tri/thu-tuong-le-minh-hung-dat-vong-hoa-tai-dai-huu-nghi-campuchia-viet-nam-post1339868.vov"
+      ],
+      "tone_median": 2.68595041322314
+    },
+    {
+      "group_id": "d4a89f85766157b67f6291d1b1abfa2c940c50bc5a33d05946e7cd226397a994",
+      "urls": [
+        "https://vneconomy.vn/hop-tac-kinh-te-viet-nam-campuchia-thuc-chat-tang-cuong-ket-noi-ha-tang-va-chuoi-gia-tri-xuyen-bien-gioi.htm"
+      ],
+      "tone_median": 6.75675675675676
+    },
+    {
+      "group_id": "d5b1c3779824f096e581add97e208519905907e3c5b3c719de6eb0f01296f71e",
+      "urls": [
+        "https://az.trend.az/business/4233752.html"
+      ],
+      "tone_median": 1.9047619047619
+    },
+    {
+      "group_id": "d5fb3b479540bd3eb763769a3877b0073b2572b29119eaec287ecde263ddb368",
+      "urls": [
+        "https://thoibaotaichinhvietnam.vn/them-xung-luc-dua-hop-tac-giua-viet-nam-voi-lao-campuchia-ngay-cang-thuc-chat-hieu-qua-204967.html"
+      ],
+      "tone_median": 5.23385300668151
+    },
+    {
+      "group_id": "d6288fb2b526fe4bf425d204cc8dceddccdfd22c7ac3ff1dd580a1836be27014",
+      "urls": [
+        "https://www.cootamundraherald.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "d7c3c77026f1f0b206e3223719b50191c46a305c4e06880607c1a50bdc81012e",
+      "urls": [
+        "https://www.moreechampion.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "d812edab5bb54359cb266944f6681085dcbd4bf3721ee68fd3ccbb96ca8a0cd3",
+      "urls": [
+        "https://vnexpress.net/thu-tuong-campuchia-chu-tri-le-don-thu-tuong-le-minh-hung-5130459.html"
+      ],
+      "tone_median": 7.69230769230769
+    },
+    {
+      "group_id": "d857d5071384913efaa990c70630d4f0d674fda9fb58e369333046aa759f113f",
+      "urls": [
+        "https://kevesko.vn/20261010/khong-ai-duoc-phep-dung-lanh-tho-campuchia-de-chong-lai-viet-nam-44494647.html"
+      ],
+      "tone_median": 3.95833333333333
+    },
+    {
+      "group_id": "d86ea9278fae4d57678a251fa2d53895d95c9874b327475063d8da85da263adc",
+      "urls": [
+        "https://en.apa.az/entrepreneurship/minister-cambodia-and-azerbaijan-have-much-to-learn-from-each-other-529560"
+      ],
+      "tone_median": 3.86473429951691
+    },
+    {
+      "group_id": "d86f30aab89eecd615eda4584660f4bb663fb2ff411fb8d0afa6bf89afab06f8",
+      "urls": [
+        "http://vov.vn/the-gioi/campuchia-chu-dong-ung-pho-nguy-co-han-han-el-nino-tang-cuong-an-ninh-nguon-nuoc-post1340394.vov"
+      ],
+      "tone_median": -4.55840455840456
+    },
+    {
+      "group_id": "d88fb229470214a5b9d6200faba0b1732135fc4de3e5a18244c75c3b4459a597",
+      "urls": [
+        "https://vietnam.vnanet.vn/spanish/tin-van/vietnam-y-camboya-acuerdan-elevar-el-comercio-bilateral-a-20-mil-millones-de-dolares-471366.html"
+      ],
+      "tone_median": 5.74585635359116
+    },
+    {
+      "group_id": "d89907855941c2cd812c3f73fb3fa51cd105e0a4f845036e883a8568981aef06",
+      "urls": [
+        "https://www.dailynews.co.th/news/6260611/"
+      ],
+      "tone_median": -1.19250425894378
+    },
+    {
+      "group_id": "d8c887648730bae00f5c566a658f1b83f6d472569e4b53e32214900b158561c9",
+      "urls": [
+        "https://kelownacapnews.com/2026/10/09/finding-the-beauty-in-life-through-cambodia-canadian-artists-paintings-in-kelowna/"
+      ],
+      "tone_median": 1.14754098360656
+    },
+    {
+      "group_id": "d8dca298b1b486ccf6c50a09a44ccfb55023e9a67278dec5c1b4537c23f3e553",
+      "urls": [
+        "https://biz.chosun.com/distribution/food/2026/10/08/KBGD2TAZ7VEX7LX2WUEEMPWUXI/"
+      ],
+      "tone_median": 0.0
+    },
+    {
+      "group_id": "d8f47ccd8c09c300a9c332c97562e6d0a2cd54c85e53950aa7726bb71a7cf9ba",
+      "urls": [
+        "https://baomoi.com/thu-tuong-le-minh-hung-dat-vong-hoa-tai-cac-dai-tuong-niem-o-campuchia-c56234305.epi"
+      ],
+      "tone_median": 1.85873605947955
+    },
+    {
+      "group_id": "d8feeea5dbd847b32307f9a58ba7b650ac0ed3cafe5158f72de4f0535e8dc475",
+      "urls": [
+        "https://www.trend.az/azerbaijan/4233785.html"
+      ],
+      "tone_median": 4.92610837438424
+    },
+    {
+      "group_id": "d913d66b18f5f71ace5057b3a6553c5172c7a807f2d84186934e6c001aa0e7d0",
+      "urls": [
+        "https://vietnam.vnanet.vn/english/tin-van/prime-minister-meets-with-cambodian-people39s-party-senate-leader-471387.html"
+      ],
+      "tone_median": 5.78105781057811
+    },
+    {
+      "group_id": "d98c082575977772bd995791535eda7bc68999524dbe7a923341e74974e6ccc6",
+      "urls": [
+        "https://vneconomy.vn/thu-tuong-le-minh-hung-toi-phnom-penh-bat-dau-chuyen-tham-chinh-thuc-campuchia.htm"
+      ],
+      "tone_median": 5.44959128065395
+    },
+    {
+      "group_id": "d98f182225c18705a6e618cc6ecc0a82740290ce374ab896787cfbd622a5a7c8",
+      "urls": [
+        "https://www.aa.com.tr/tr/dunya/altin-catili-tapinaklar-ve-su-yollari-arasinda-bir-sehir-phnom-penh/4085510",
+        "https://www.haber1.com/genel/altin-catili-tapinaklar-ve-su-yollari-arasinda-bir-sehir-phnom-penh/",
+        "https://www.haber1.com/guncel/altin-catili-tapinaklar-ve-su-yollari-arasinda-bir-sehir-phnom-penh/"
+      ],
+      "tone_median": 3.06748466257669
+    },
+    {
+      "group_id": "d9f5fcb5ca37f51bf60e66f4015f1ed271128b7aec8f68893182bd1cfc9bc85e",
+      "urls": [
+        "https://thoibaotaichinhvietnam.vn/dien-dan-doanh-nghiep-viet-nam-campuchia-2026-dua-hop-tac-kinh-te-len-tam-cao-moi-205173.html"
+      ],
+      "tone_median": 4.0133779264214
+    },
+    {
+      "group_id": "da27544828962d7f4d368a00c8aac9909b20950739b43a14a3177f18dffab5c7",
+      "urls": [
+        "https://www.sggp.org.vn/tao-them-xung-luc-thuc-day-hop-tac-viet-nam-voi-lao-campuchia-post875406.html"
+      ],
+      "tone_median": 4.94296577946768
+    },
+    {
+      "group_id": "da7295ddbe5abcd16c5dd34702eae4c16315ab22d19815b53c1df0c1a16de4bd",
+      "urls": [
+        "https://baomoi.com/campuchia-chi-gan-500-trieu-usd-ung-pho-gia-nhien-lieu-tang-cao-c56217156.epi"
+      ],
+      "tone_median": -1.42857142857143
+    },
+    {
+      "group_id": "db0df22bcd7d6a3d89da2e31b4f8ca014566a223862da0e9331511325e503fe0",
+      "urls": [
+        "https://www.westernadvocate.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "db19aa9cbfec11307a2c2967c221523dba521c70500d6c5a4b5e028b86c2a4de",
+      "urls": [
+        "https://baomoi.com/viet-nam-campuchia-thuc-day-gan-ket-kinh-te-mo-rong-thuong-mai-va-dau-tu-c56237624.epi"
+      ],
+      "tone_median": 4.75319926873857
+    },
+    {
+      "group_id": "db353554f9527b46a8a0795829dd095bc95873ae5bfeb3de2899c63f4d4269f8",
+      "urls": [
+        "https://baomoi.com/thong-doc-pham-duc-an-thap-tung-thu-tuong-le-minh-hung-tham-lao-va-campuchia-c56242039.epi"
+      ],
+      "tone_median": 4.13793103448276
+    },
+    {
+      "group_id": "db51aafaa5b88a0e4ac36f7b5185647c92866ea09da7ef8f0e68a31f4c71c10a",
+      "urls": [
+        "https://www.manningrivertimes.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "db6ffae794542095e036a157b197bf844bb4e8e7630feb3805ce45ba490bfe67",
+      "urls": [
+        "https://baoxaydung.vn/gia-lai-quy-tap-5-hai-cot-va-di-vat-cua-liet-si-hi-sinh-tai-campuchia-192261008194734905.htm"
+      ],
+      "tone_median": -6.22950819672131
+    },
+    {
+      "group_id": "db7707d4f57e390e13960aa6ae3cb44c66c689cc31098b7af486edbfa7b731dc",
+      "urls": [
+        "https://www.oberonreview.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "dc3f74e6ce279ba09cf7b12374e9254d380674cfa1e8fc83101fed95a074666a",
+      "urls": [
+        "https://www.therural.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "dc56ff01692bcb8ea58baacb498c5156c01a198c6bddaf5e9c419accfadb2d31",
+      "urls": [
+        "https://mansethaber.com/dunya/altin-catili-tapinaklar-ve-nehirler-arasinda-phnom-penh"
+      ],
+      "tone_median": 4.20711974110032
+    },
+    {
+      "group_id": "dca9cb7206b30c574a7822f468a3fa7769d2368143e090966c382abb4df102fc",
+      "urls": [
+        "https://www.ucanews.com/news/cambodia-denies-any-role-in-vietnams-abduction-of-activists/115665"
+      ],
+      "tone_median": -6.3973063973064
+    },
+    {
+      "group_id": "dde344c7d0644a001ce4b55c53320b5e15bc5d4b008e06ec75b504d085b60967",
+      "urls": [
+        "https://baomoi.com/nguoi-dan-dang-com-vat-tu-sang-som-mua-le-sene-dolta-tai-chua-khmer-tphcm-c56238798.epi"
+      ],
+      "tone_median": 3.81231671554252
+    },
+    {
+      "group_id": "dde5d3e3abe4d146fc38487d2d1433234ebe3e72191b9c1eee987b229ca3a0c4",
+      "urls": [
+        "https://www.standard.net.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "de573e952addcfbdeecf82acd2fcea18c952f9f39ac64274d3f312e00f0997f6",
+      "urls": [
+        "https://www.adalet.az/az/posts/detail/ilham-eliyev-kambocanin-bas-nazirini-qarsiladi-1791787250"
+      ],
+      "tone_median": 11.4583333333333
+    },
+    {
+      "group_id": "de6f4c642595ca0de47b209cca0c6c51b8dada831be7620b761f4c178d51f0a1",
+      "urls": [
+        "https://baomoi.com/thu-tuong-le-minh-hung-dat-vong-hoa-tai-dai-doc-lap-dai-tuong-niem-co-quoc-vuong-norodom-sihanouk-dai-huu-nghi-campuchia-viet-nam-c56235853.epi",
+        "https://baocantho.com.vn/thu-tuong-le-minh-hung-dat-vong-hoa-tai-dai-doc-lap-dai-tuong-niem-co-quoc-vuong-norodom-sihanouk--a217616.html"
+      ],
+      "tone_median": 3.49241260834483
+    },
+    {
+      "group_id": "def7b2be944d0dc51252389e7720e9a8f2e997fc06d2b053eafc4ea8bfe60157",
+      "urls": [
+        "https://www.qdnd.vn/quoc-te/doi-ngoai-quoc-phong/thuc-day-hop-tac-hau-can-ky-thuat-giua-hai-bo-quoc-phong-viet-nam-campuchia-1059694"
+      ],
+      "tone_median": 5.71428571428572
+    },
+    {
+      "group_id": "df725c6b614b8c32ecaa1a1868e442faf52f397b41f4412d6ddf3f0ae87bdede",
+      "urls": [
+        "https://www.routard.com/forums/t/conseil-de-livres-sur-le-cambodge/70644"
+      ],
+      "tone_median": -1.02739726027397
+    },
+    {
+      "group_id": "dfa1aea2983b562caa503106d95ffca2256583731f5215d5187d33cdbfc909ea",
+      "urls": [
+        "https://lecourrier.vn/le-pm-vietnamien-rend-hommage-aux-monuments-historiques-de-phnom-penh/1357079.html"
+      ],
+      "tone_median": 3.61702127659574
+    },
+    {
+      "group_id": "e013cea2df74461551fd640bd8704b01f65e2c69066f4040e9213056c275abf6",
+      "urls": [
+        "http://vov.vn/xa-hoi/can-tho-am-long-ba-con-khmer-dip-le-sene-don-ta-post1339676.vov"
+      ],
+      "tone_median": 4.19681620839363
+    },
+    {
+      "group_id": "e02ac5b1045f7645d9a163d9c018777cea48905aa6f31bfd7a82dbb2471158ba",
+      "urls": [
+        "https://www.azernews.az/nation/265414.html"
+      ],
+      "tone_median": 3.17460317460317
+    },
+    {
+      "group_id": "e04ca1fa1019cec1a495820cc0eff30ae2f37926446392fe06f43b7cf4eec463",
+      "urls": [
+        "https://baomoi.com/tong-hoi-khmer-viet-nam-t49693809.epi"
+      ],
+      "tone_median": 2.1978021978022
+    },
+    {
+      "group_id": "e0869f8bd82c04a00b4cca2a2f614058928032191946cc36a7895453d568c746",
+      "urls": [
+        "https://www.adalet.az/az/posts/detail/prezidentin-kambocanin-bas-naziri-ile-genis-terkibde-gorusu-oldu-1791790736"
+      ],
+      "tone_median": 9.09090909090909
+    },
+    {
+      "group_id": "e0eebb5859dca21f4a9ab5aa48a7a089cb93920b6b817d539dcf52387785fc79",
+      "urls": [
+        "https://baomoi.com/thu-tuong-le-minh-hung-gap-quoc-vuong-campuchia-c56240725.epi"
+      ],
+      "tone_median": 8.59154929577465
+    },
+    {
+      "group_id": "e14655ada1146879e52fb401435037102dafcf928b79be39c98c7711bb5dc394",
+      "urls": [
+        "https://kevesko.vn/20261008/quoc-vu-khanh-bo-buu-chinh-vien-thong-campuchia-neu-cac-dinh-huong-quy-dinh-ve-ai-44476140.html"
+      ],
+      "tone_median": -1.36054421768707
+    },
+    {
+      "group_id": "e17349913cdb4a60dd6a3c5577a1df7023048712511f9edb80b2c9022338964c",
+      "urls": [
+        "https://www.yeniazerbaycan.com/Gundem_e153137_az.html"
+      ],
+      "tone_median": 9.27318295739348
+    },
+    {
+      "group_id": "e18616165bd0627981ae0d0bb92d94857edb2d23c2a34bdbc349103e487a1bca",
+      "urls": [
+        "https://baomoi.com/kieu-bao-la-nguon-luc-chien-luoc-thanh-nien-la-cau-noi-huu-nghi-viet-nam-campuchia-c56240429.epi"
+      ],
+      "tone_median": 5.2064631956912
+    },
+    {
+      "group_id": "e18c0f937b3cbd4667aea3b2a5a53d684f80ab9077f66d303e5ea8d91097f105",
+      "urls": [
+        "https://baomoi.com/bo-truong-luong-tam-quang-chao-xa-giao-pho-thu-tuong-thu-nhat-campuchia-neth-savoeun-c56238119.epi"
+      ],
+      "tone_median": -1.25
+    },
+    {
+      "group_id": "e26691e370108ba43e44f65c9ee0ea2b8a44d5801b216847d7275b98294e78d7",
+      "urls": [
+        "https://musavat.com/news/ilham-eliyev-kamboca-bas-nazirinin-azerbaycana-seferi-cox-mehsuldar-olacaq_1295882.html"
+      ],
+      "tone_median": 5.78512396694215
+    },
+    {
+      "group_id": "e3d35b9a2816a8039ab4fc03388ec9f3aef970f63a7faa774bf45e95e6fa090b",
+      "urls": [
+        "https://baijiahao.baidu.com/s?id=1878375899058045086"
+      ],
+      "tone_median": -4.41176470588235
+    },
+    {
+      "group_id": "e4685061c7b276aed36b1708042fc36f1198536b5faaa633413e2e388154881c",
+      "urls": [
+        "https://www.ettvamerica.com/News/Article?i=408059"
+      ],
+      "tone_median": -6.87022900763359
+    },
+    {
+      "group_id": "e4cdc3ba834b23b8e12f46760777e30cd854cbda21403e1db294691568f51bae",
+      "urls": [
+        "https://zerkalo.az/azerbajdzhan-i-kambodzha-rasshiryayut-vozmozhnosti-vyhoda-na-novye-rynki/"
+      ],
+      "tone_median": 0.869565217391304
+    },
+    {
+      "group_id": "e524afcae053559e4acee67d6528200deffbffb9e7fad22f3853652f83c1581e",
+      "urls": [
+        "https://www.northerndailyleader.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "e550d94b5b6f92849afa010b44eb681ae48f45214b1657aac0d3d45af868365f",
+      "urls": [
+        "https://idrw.org/cambodian-armys-repeat-dhanush-training-fuels-speculation-over-possible-gun-deal/"
+      ],
+      "tone_median": 1.12676056338028
+    },
+    {
+      "group_id": "e6254c1956b3375a758ff5b3b8238ff9731e883c68d484999ea0e3258c08881f",
+      "urls": [
+        "https://vietnamnews.vn/economy/1801657/viet-nam-cambodia-trade-gathers-pace-towards-20-billion-target.html"
+      ],
+      "tone_median": 1.32231404958678
+    },
+    {
+      "group_id": "e65da641450ec5975067de97dc030b7a6781030f3f8e342cc487574b115c53a4",
+      "urls": [
+        "https://english.news.cn/20261007/0249d4846a854f2f9fc581934251fe36/c.html"
+      ],
+      "tone_median": -5.05050505050505
+    },
+    {
+      "group_id": "e727bc20c687947f041375770ae82c0ca7831e275726a09e7fabf5299cd6274b",
+      "urls": [
+        "https://congan.com.vn/tin-chinh/thu-tuong-chinh-phu-le-minh-hung-len-duong-tham-chinh-thuc-lao-va-campuchia_198569.html"
+      ],
+      "tone_median": 8.61244019138756
+    },
+    {
+      "group_id": "e7659112210c6bc1a6cb2269b214a1ec0c0562a9b90bc3110f89e1c2b95ddce0",
+      "urls": [
+        "http://vov.vn/chinh-tri/chuyen-tham-campuchia-nang-tam-tin-cay-chien-luoc-va-dong-luc-hop-tac-thuc-chat-post1339613.vov"
+      ],
+      "tone_median": 7.34094616639478
+    },
+    {
+      "group_id": "e8abbe5309852790727c8410e9d5c7516365c0eec178f76775e4b42b82f61177",
+      "urls": [
+        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/10/vietnam-cambodia-trade-gathers-pace-towards-us20bil-target"
+      ],
+      "tone_median": 1.49532710280374
+    },
+    {
+      "group_id": "e9c774818ee006d4767498a94a1e48afc09addbbac6b8acb0d225ab2f48c196e",
+      "urls": [
+        "https://baomoi.com/thu-tuong-chinh-phu-le-minh-hung-tham-du-an-vinamilk-tai-campuchia-c56241885.epi"
+      ],
+      "tone_median": 3.19829424307036
+    },
+    {
+      "group_id": "eaae61f086816bd4fcb1db2b900b2f7afaf96dcd489dc855508429d6725c04a6",
+      "urls": [
+        "https://www.theadvocate.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "eb6c05810223493d4897367222270483f043618628075de8217bb068778c9caa",
+      "urls": [
+        "https://baomoi.com/thu-tuong-le-minh-hung-toi-phnom-penh-bat-dau-chuyen-tham-chinh-thuc-toi-campuchia-c56231803.epi"
+      ],
+      "tone_median": 4.79302832244009
+    },
+    {
+      "group_id": "ebe863cc637b130fa385e0a8ff5cb59908c2e03be8de88ad608c313ab24610bb",
+      "urls": [
+        "https://vietnamnews.vn/politics-laws/1801712/pm-le-minh-hung-wraps-up-official-visit-to-cambodia.html"
+      ],
+      "tone_median": 2.72952853598015
+    },
+    {
+      "group_id": "ec70dd79232f5048fcf27e132025273789f83c75f208bafb8e874a37e69bf8e4",
+      "urls": [
+        "http://vov.vn/van-hoa/soi-noi-dua-ghe-ngo-mini-gin-giu-net-dep-van-hoa-khmer-tai-can-tho-post1339547.vov"
+      ],
+      "tone_median": 7.45033112582781
+    },
+    {
+      "group_id": "ed5e93ef309e7bb377acf90d63e47bdb2b8ccac0d1c084ff35170a4930f18908",
+      "urls": [
+        "https://www.illawarramercury.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "edd48c4b01c2f2f66f86492c2897c6075a3d4619d6cdcd3c162b010b2f374551",
+      "urls": [
+        "https://www.hkcna.hk/hk/content/s6ac8502fe4b0694847f1b3b8.html"
+      ],
+      "tone_median": 4.04411764705882
+    },
+    {
+      "group_id": "ee4b70ec7de7edb3f3550838797128f5b5b378fdedd15da2fa2afb085793a4b7",
+      "urls": [
+        "http://www.cambodiantimes.com/news/279359539/roundup-rcep-fuels-cambodia-trade-surge-despite-global-headwinds",
+        "http://www.nepalnational.com/news/279359539/roundup-rcep-fuels-cambodia-trade-surge-despite-global-headwinds"
+      ],
+      "tone_median": 1.31826741996234
+    },
+    {
+      "group_id": "ee832f5ae6b32ce1103c5c7a612996991bb925518df130ec674599d319765388",
+      "urls": [
+        "https://thanhnien.vn/thu-tuong-le-minh-hung-hoi-kien-chu-tich-thuong-vien-campuchia-hun-sen-185261009215653112.htm"
+      ],
+      "tone_median": 3.74787052810903
+    },
+    {
+      "group_id": "eef3c2040d3ad32bf52776f7437ee9d2c804beda1cb6353eb3164f879dec36ee",
+      "urls": [
+        "https://baomoi.com/thu-tuong-tham-chinh-thuc-lao-va-campuchia-ben-nghia-tinh-lang-gieng-rong-mo-tuong-lai-c56221393.epi"
+      ],
+      "tone_median": 4.57650273224044
+    },
+    {
+      "group_id": "ef0f128281b98b2c330d99dda954db7b8a6d8fa27dc7f31a01b82341a2598784",
+      "urls": [
+        "https://www.qdnd.vn/chinh-tri/tin-tuc/bo-ngoai-giao-va-hop-tac-quoc-te-campuchia-ra-thong-cao-bao-chi-ve-ket-qua-chuyen-tham-cua-thu-tuong-le-minh-hung-1060154"
+      ],
+      "tone_median": 6.07638888888889
+    },
+    {
+      "group_id": "ef1ac7c932fc71028bffd3d1cd7c4ce4649d5bd536fde29fad847609fcb0dae0",
+      "urls": [
+        "http://vov.vn/xa-hoi/doi-k52-lien-tiep-quy-tap-nhieu-hai-cot-liet-si-tai-campuchia-va-gia-lai-post1339406.vov"
+      ],
+      "tone_median": -4.60829493087558
+    },
+    {
+      "group_id": "efa97d8a363b8cc45a32f17cc7e877e80fcec0850e0fc73152600f848670caff",
+      "urls": [
+        "https://en.apa.az/foreign-policy/azerbaijan-and-cambodia-agree-to-hold-talks-on-launching-direct-flights-529454"
+      ],
+      "tone_median": 2.85714285714286
+    },
+    {
+      "group_id": "f00aa69570c33b18e066e18b8eb239464092073b89c5a30598457ba52aca2511",
+      "urls": [
+        "https://baomoi.com/tong-duyet-dien-tap-chung-cuu-nan-giua-quan-doi-viet-nam-lao-va-campuchia-c56251689.epi"
+      ],
+      "tone_median": 5.38461538461539
+    },
+    {
+      "group_id": "f03cf588d5898fdd9dff74dd0c90eed986da3fec17777d93645806b536f5be1b",
+      "urls": [
+        "https://stockbiz.vn/tin-tuc/viet-nam---campuchia-tao-dong-luc-moi-huong-toi-muc-tieu-thuong-mai-20-ty-usd/42198748"
+      ],
+      "tone_median": 3.44311377245509
+    },
+    {
+      "group_id": "f08d961c1bf1f1ab8279bd8885b78bfcd7bae4cc49dd12f2e00d204f19519883",
+      "urls": [
+        "https://daidoanket.vn/lanh-dao-tinh-ca-mau-tham-chuc-mung-le-sen-dolta-dong-bao-khmer.html"
+      ],
+      "tone_median": 9.1644204851752
+    },
+    {
+      "group_id": "f1230f58153a1af3169e10809336039a38d36816dbf88ad30f1a356b07bc54bd",
+      "urls": [
+        "https://vietnam.vnanet.vn/spanish/tin-van/premier-destaca-el-papel-de-los-jovenes-en-fomento-de-vinculos-entre-vietnam-y-camboya-471470.html"
+      ],
+      "tone_median": 7.66208251473477
+    },
+    {
+      "group_id": "f2983cf1ae0680b985d6074c5c6ae56cf706f9f224bdbef09846d3c67d20a00c",
+      "urls": [
+        "http://www.cambodiantimes.com/news/279363654/cambodia-vietnam-aim-for-20-bln-usd-in-bilateral-trade"
+      ],
+      "tone_median": 4.50819672131148
+    },
+    {
+      "group_id": "f2992b5743c021dbf87208853f9882e45c9c5b2a9261e754df9860b01d628a8b",
+      "urls": [
+        "https://en.apa.az/official-news/president-ilham-aliyev-discusses-mine-problem-with-cambodian-prime-minister-529450"
+      ],
+      "tone_median": -2.5974025974026
+    },
+    {
+      "group_id": "f3289801253406daa14a57d4045a380b3f8f7f341daea524598a0a9f6500e94b",
+      "urls": [
+        "https://lecourrier.vn/le-cambodge-souligne-les-resultats-de-la-visite-du-premier-ministre-le-minh-hung/1357116.html"
+      ],
+      "tone_median": 5.34351145038168
+    },
+    {
+      "group_id": "f3b6a46fcc09368f471cd91f14a7ce297bebfc8a78297e02a01e11007932f1d0",
+      "urls": [
+        "https://en.apa.az/official-news/prime-minister-cambodia-supports-azerbaijans-observer-status-in-asean-529458"
+      ],
+      "tone_median": 1.12359550561798
+    },
+    {
+      "group_id": "f3b7fbcf1bcc6a9a27741ff1bf3b08f14f8911047ba4a2e5466054fed864fdea",
+      "urls": [
+        "https://www.azernews.az/oil_and_gas/265423.html"
+      ],
+      "tone_median": 4.86725663716814
+    },
+    {
+      "group_id": "f3ca75dd59f78eb4dd77e7d1d91aa74514fc0bba6b1c0bba99e6ca2ec71b37c7",
+      "urls": [
+        "https://lecourrier.vn/le-premier-ministre-le-minh-hung-rencontre-le-vice-pm-cambodgien-hun-many/1357092.html"
+      ],
+      "tone_median": 4.73118279569892
+    },
+    {
+      "group_id": "f44526c9916b4ffce3a619f69e08b46c6fc8a49be17dbaa8071f1a7c2304eb7b",
+      "urls": [
+        "https://www.narrominenewsonline.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "f48a6252f4d042cf34153fcde311740f05afe6df2f3ae54ae4f643d6cf9dc32a",
+      "urls": [
+        "https://en.apa.az/foreign-policy/cambodian-prime-minister-we-have-relations-with-azerbaijan-in-defense-security-and-education-529477",
+        "https://en.apa.az/foreign-policy/cambodian-prime-minister-we-have-relations-with-azerbaijan-in-defense-security-and-education-529485"
+      ],
+      "tone_median": 4.41176470588235
+    },
+    {
+      "group_id": "f606df25d07f75daa61b07d310dc52737690ad2bec68e4d8e47b298ce03c7d57",
+      "urls": [
+        "https://biz.heraldcorp.com/article/10899815"
+      ],
+      "tone_median": 4.45344129554656
+    },
+    {
+      "group_id": "f614a044dbe97890e039fe62c80403b0f00d155e8745c426e744a08567f722ea",
+      "urls": [
+        "https://daidoanket.vn/xung-luc-moi-tu-chuyen-tham-dau-tien-cua-thu-tuong-le-minh-hung-toi-lao-va-campuchia.html"
+      ],
+      "tone_median": 7.63157894736842
+    },
+    {
+      "group_id": "f6678deb3fb4603c65615c1bff6529f7625148ed36036589893751ebfb429e61",
+      "urls": [
+        "https://baochinhphu.vn/tao-them-xung-luc-de-hop-tac-giua-viet-nam-voi-lao-campuchia-ngay-cang-thuc-chat-hieu-qua-102261007063724883.htm",
+        "https://baodongnai.com.vn/chinh-tri/202610/tao-them-xung-luc-de-hop-tac-giua-viet-nam-voi-lao-campuchia-ngay-cang-thuc-chat-hieu-qua-a43058f/",
+        "https://daidoanket.vn/tao-them-xung-luc-de-hop-tac-giua-viet-nam-voi-lao-campuchia-ngay-cang-thuc-chat-hieu-qua.html",
+        "https://thanhtra.com.vn/doi-ngoai-97D2D2A31/tao-them-xung-luc-de-hop-tac-giua-viet-nam-voi-lao-campuchia-ngay-cang-thuc-chat-hieu-qua-98015b76b.html",
+        "https://voh.com.vn/chinh-tri/tao-them-xung-luc-de-hop-tac-giua-viet-nam-voi-lao-campuchia-ngay-cang-thuc-chat-hieu-qua-672030.html"
+      ],
+      "tone_median": 4.83042137718397
+    },
+    {
+      "group_id": "f6bcc3f8783c053a7cfcd420b40b37fca65ae7ee212023a45c91b4ea9d8ca895",
+      "urls": [
+        "https://congan.com.vn/tin-chinh/thu-tuong-le-minh-hung-toi-phnom-penh-bat-dau-chuyen-tham-chinh-thuc-campuchia_198613.html"
+      ],
+      "tone_median": 4.69613259668508
+    },
+    {
+      "group_id": "f72b4b45e2b5ae60d265c6076ec35c2e74e67ff648c6131ab1d65e292465ec26",
+      "urls": [
+        "https://www.azerbaijan-news.az/az/posts/detail/prezident-ilham-eliyevin-adindan-kamboca-bas-nazirinin-serefine-resmi-nahar-verilibnbsp-1791799432/404234"
+      ],
+      "tone_median": 5.10204081632653
+    },
+    {
+      "group_id": "f786bfbc5ef8a8fc8cf022007c6e804d9838df2c7d0451ba1b4f03c85c21dc37",
+      "urls": [
+        "https://ru.apa.az/vneshnyaya-politika/premer-ministr-kambodzi-pribyl-s-oficialnym-vizitom-v-azerbaidzan-foto-obnovleno-677571"
+      ],
+      "tone_median": 3.84615384615385
+    },
+    {
+      "group_id": "f7d1968981513b897ad5a42d46191a310a97d3ca2514f781b728f9841a12df7e",
+      "urls": [
+        "https://dantri.com.vn/thoi-su/thu-tuong-gap-cong-dong-nguoi-goc-viet-tai-campuchia-20261010164922588.htm"
+      ],
+      "tone_median": 3.2
+    },
+    {
+      "group_id": "f7e44d4ecf0f3d774ef1d7fee19d32a00c1d35df6a93c6234206c1d5857499cc",
+      "urls": [
+        "https://www.azerbaijan-news.az/az/posts/detail/prezident-ilham-eliyevin-kambocanin-bas-naziri-ile-genis-terkibde-gorusu-olub-1791792282/404204"
+      ],
+      "tone_median": 9.2964824120603
+    },
+    {
+      "group_id": "f938e742df2fb0d2949cbd6aab94428e1e444cb05ca20b2b2b2383c2999802ad",
+      "urls": [
+        "https://www.muswellbrookchronicle.com.au/story/9363261/angkor-wat-travel-guide-why-you-must-avoid-sunrise-crowds/"
+      ],
+      "tone_median": 1.39982502187227
+    },
+    {
+      "group_id": "f9b491ba3bdc16dd8e7bbc4d7192533f2c66f8d4a07cf780bd6cd3d025a939ac",
+      "urls": [
+        "https://baomoi.com/chuyen-tham-lao-campuchia-cua-thu-tuong-le-minh-hung-dat-nhieu-ket-qua-quan-trong-c56243637.epi",
+        "https://www.sggp.org.vn/chuyen-tham-lao-campuchia-cua-thu-tuong-le-minh-hung-dat-nhieu-ket-qua-quan-trong-post875979.html"
+      ],
+      "tone_median": 4.12425639387162
+    },
+    {
+      "group_id": "fa07a8efdeaa9d3dc9cc1cc98960e6c75b62dba1036ebeec7dcfb9fd089df535",
+      "urls": [
+        "https://musavat.com/news/azerbaycan-ve-kamboca-isci-qrupu-yaradacaqlar_1295883.html"
+      ],
+      "tone_median": 6.25
+    },
+    {
+      "group_id": "fb4b9096db8d0e0db7e847153b546ae42eb68842a636d43e1d5252ffeb538cd7",
+      "urls": [
+        "https://vneconomy.vn/chuyen-tham-lao-va-campuchia-cua-thu-tuong-le-minh-hung-tao-xung-luc-moi-cho-hop-tac-toan-dien.htm"
+      ],
+      "tone_median": 3.79436964504284
+    },
+    {
+      "group_id": "fb5db7818017be616a516f0b739e255f5cc84c268467c9c16f3f2133c1ae0c47",
+      "urls": [
+        "https://baophapluat.vn/gian-hang-0-dong-mung-le-sen-dolta-cua-dong-bao-khmer.html"
+      ],
+      "tone_median": 3.68271954674221
+    },
+    {
+      "group_id": "fb6ff14d19d50fd6a550a89baa83a9116ad8ca846e38f80440607cebc28f2da0",
+      "urls": [
+        "https://baovanhoa.vn/dan-toc-ton-giao/cac-tinh-thanh-dbscl-tham-chuc-mung-dong-bao-khmer-nhan-dip-le-sen-dolta-273340.html"
+      ],
+      "tone_median": 8.66666666666667
+    },
+    {
+      "group_id": "fc0bf8df82694675de5e33e057d3647f32c27a27119479b6234d755e5846353d",
+      "urls": [
+        "https://tuoitre.vn/thu-tuong-le-minh-hung-len-duong-tham-chinh-thuc-lao-campuchia-100261007211007476.htm"
+      ],
+      "tone_median": 6.35294117647059
+    },
+    {
+      "group_id": "fc2248d944076fbc4620a1e189991ad561ed50b87708e35e54d9c8c63b502d58",
+      "urls": [
+        "https://az.trend.az/azerbaijan/society/4233714.html"
+      ],
+      "tone_median": 1.36986301369863
+    },
+    {
+      "group_id": "fc508a00255e494339071bcbc54053d7988f91fbf155da199d6d5799c5722b46",
+      "urls": [
+        "https://english.news.cn/20261012/12ab651d6cba489498ca1217a15c4bdb/c.html"
+      ],
+      "tone_median": 1.70068027210884
+    },
+    {
+      "group_id": "fc6ee75e09c9984462cd2f543157d6b7b9ed6be8db5d4a53884a80d9862a5ec9",
+      "urls": [
+        "https://science20.com/news_staff/garcinia_cambogia_and_green_tea_linked_to_liver_injury-255624"
+      ],
+      "tone_median": -2.32558139534884
+    },
+    {
+      "group_id": "fc7b0d94d67eac474d5645157961615ba8ebdd0c1020d6fa7d754d9ad9c8c3d6",
+      "urls": [
+        "https://asianews.network/despite-enforcement-efforts-us-maintains-cambodias-tier-3-trafficking-ranking/"
+      ],
+      "tone_median": -9.3603744149766
+    },
+    {
+      "group_id": "fd042a7fc735537959e307413f4386662114deac619f877a1015a002de1188d7",
+      "urls": [
+        "https://thanhnien.vn/tao-them-xung-luc-cho-hop-tac-giua-viet-nam-voi-lao-va-campuchia-185261007015715252.htm"
+      ],
+      "tone_median": 4.91071428571429
+    },
+    {
+      "group_id": "fd2e830abc8d5212d3f3a473a6527a01a9cee0c3c1a5ed2d1bf8db1fe50a2c17",
+      "urls": [
+        "https://www.trend.az/azerbaijan/4233814.html"
+      ],
+      "tone_median": 3.584229390681
+    },
+    {
+      "group_id": "fd917ff4657c92c3d0a6df7d964f0f6c84d5e2920d2b714f4972d425bb11f4cc",
+      "urls": [
+        "http://vov.vn/kinh-te/tham-du-an-dau-tu-517-trieu-usd-cua-vinamilk-tai-campuchia-post1340136.vov"
+      ],
+      "tone_median": 2.56410256410256
+    },
+    {
+      "group_id": "fd9c2f2798e35ed5441f637580c20e226196e7e0f0e0f7ed329bd35bb127f493",
+      "urls": [
+        "https://vietnamnews.vn/economy/1801668/viet-nam-cambodia-bolster-economic-ties-eye-20-billion-in-trade.html"
+      ],
+      "tone_median": 3.94736842105263
+    },
+    {
+      "group_id": "fdc2bf47b6f586e257ea4f21c66b977443b6319ba6229b7a7dd063ed39ce4bce",
+      "urls": [
+        "https://vietnamnews.vn/politics-laws/1801696/pm-pledges-continued-support-for-vietnamese-community-in-cambodia.html"
+      ],
+      "tone_median": 3.62953692115144
+    },
+    {
+      "group_id": "fdd2bf50971a3da0c831dae84ff0c51a6aeb33ef0755746e7fdb9c7970b2707e",
+      "urls": [
+        "http://www.cambodiantimes.com/news/279365533/cambodia-angkor-tourism-expected-to-rebound-as-kingdom-spares-no-effort-to-end-online-scams",
+        "http://www.laosnews.net/news/279365533/cambodia-angkor-tourism-expected-to-rebound-as-kingdom-spares-no-effort-to-end-online-scams",
+        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/12/cambodia039s-angkor-tourism-expected-to-rebound-as-kingdom-spares-no-effort-to-end-online-scams"
+      ],
+      "tone_median": -0.657894736842105
+    },
+    {
+      "group_id": "fe1d8ef334d905191b4fda30daad622c0aa8dfd7b195f86d915b92c21e136bed",
+      "urls": [
+        "https://ru.apa.az/oficialniye-novosti/premer-ministr-kambodzi-primet-ucastie-v-sammite-svmda-677678"
+      ],
+      "tone_median": 7.89473684210526
+    },
+    {
+      "group_id": "fe59a0658d8a372db8a0fb566d8e5063556904f743b35d824afa06ec7440868f",
+      "urls": [
+        "https://baophapluat.vn/lanh-dao-ca-mau-tham-chuc-mung-dong-bao-khmer-dip-le-sen-dolta.html"
+      ],
+      "tone_median": 10.6666666666667
+    },
+    {
+      "group_id": "fecf986761f8d03e7e50d620e83fe316694b8e69ea198cfd967f642fd02fcd73",
+      "urls": [
+        "https://baomoi.com/le-sene-dolta-phat-huy-ban-sac-van-hoa-dong-bao-khmer-c56246163.epi",
+        "https://thethaovanhoa.vn/le-sene-dolta-phat-huy-ban-sac-van-hoa-dong-bao-khmer-2026101119112473.htm",
+        "https://vietnam.vnanet.vn/vietnamese/tin-van/le-sene-dolta-phat-huy-ban-sac-van-hoa-dong-bao-khmer-471629.html"
+      ],
+      "tone_median": 8.04953560371517
+    }
+  ],
+  "limitations": [
+    "Title selection is a relevance heuristic, not fully validated.",
+    "Matching titles are grouped across the whole period; syndication is not confirmed.",
+    "Publisher locations are only partly verified; unknown publishers may be domestic.",
+    "Document tone can concern subjects other than Cambodia; sign ignores intensity.",
+    "Descriptive observed-corpus statistic, not representative public opinion or a calibrated reputation index.",
+    "Fixed six-day pilot snapshot; collection is paused. No comparison with the legacy score."
+  ],
+  "source_sha256": "e6a01c8a8578d908c906789baf1caa27236dea9ba90277f0641a85a4e4056489"
+}

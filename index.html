@@ -263,7 +263,7 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
       <h1 class="crm-title crm-serif">Cambodia Reputation Monitor</h1>
       <p class="crm-subtitle">Tracking coverage of Cambodia — experimental press tone, historical trends and economic context. Not a public-opinion poll.</p>
     </div>
-    <div class="crm-updated">Page generated<br><strong>Oct 14, 2026, 13:35</strong></div>
+    <div class="crm-updated">Page generated<br><strong>Oct 14, 2026, 14:11</strong></div>
   </div>
   <div class="crm-wrap">
 
@@ -329,6 +329,8 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
         <p>For 2026-10-07–2026-10-12 UTC, the selected corpus contains 778 URLs in 593 title groups. 496 groups have positive document tone, 84 negative and 13 exactly zero, producing a positive share of 83.6%.</p><p>The most frequent themes among the six tracked categories are Government (362 groups), Economy &amp; trade (304 groups), Education (217 groups). Categories overlap.</p><p>This is a descriptive summary of the frozen corpus, not evidence of an improvement in reputation. There is no comparable preceding window. Document tone and themes may concern other subjects; publisher locations and relevance remain partly unverified.</p>
       </div>
     </div>
+
+    <div class="crm-section fade-up d2"><div class="crm-section-head"><h2 class="crm-h2 crm-serif">Tourism, investment, geopolitics &amp; Hot Topic</h2><span class="crm-section-note">Historical reference</span></div><div class="crm-card crm-section-body"><p>Position = legacy valence · bubble size = legacy attention. Last available observations, from different dates; not current coverage and not comparable with the experimental snapshot.</p><svg viewBox="0 0 1080 290" width="100%" style="display:block;overflow:visible" role="img" aria-label="Active topics by tone and attention"><line x1="540.0" y1="20" x2="540.0" y2="250" stroke="var(--gridline)" stroke-width="1" stroke-dasharray="3 4"/><line x1="60" y1="250" x2="1020" y2="250" stroke="var(--baseline)" stroke-width="1"/><text x="60" y="272" class="axis-text-strong">← Negative</text><text x="540.0" y="272" class="axis-text" text-anchor="middle">Neutral (50)</text><text x="1020" y="272" class="axis-text-strong" text-anchor="end">Positive →</text><line x1="542.7187012176084" y1="250" x2="542.7187012176084" y2="220" stroke="var(--aqua)" stroke-width="1" opacity="0.35"/><g class="bubble-in" style="animation-delay:0.2s"><circle class="bub-circle" cx="542.7187012176084" cy="220" r="24.0" fill="var(--aqua)" fill-opacity="0.16" stroke="var(--aqua)" stroke-width="2"  data-date="2026-09-13" data-name="Tourism" data-tone="50" data-attention="0"/></g><line x1="460.4274617723228" y1="250" x2="460.4274617723228" y2="150" stroke="var(--orange)" stroke-width="1" opacity="0.35"/><g class="bubble-in" style="animation-delay:0.35s"><circle class="bub-circle" cx="460.4274617723228" cy="150" r="24.0" fill="var(--orange)" fill-opacity="0.16" stroke="var(--orange)" stroke-width="2"  data-date="2026-10-02" data-name="Investment" data-tone="42" data-attention="0"/></g><line x1="500.1345591879397" y1="250" x2="500.1345591879397" y2="70" stroke="var(--violet)" stroke-width="1" opacity="0.35"/><g class="bubble-in" style="animation-delay:0.5s"><circle class="bub-circle" cx="500.1345591879397" cy="70" r="43.42857142857143" fill="var(--violet)" fill-opacity="0.16" stroke="var(--violet)" stroke-width="2"  data-date="2026-09-24" data-name="Geopolitics" data-tone="46" data-attention="29"/></g><line x1="540.9588332366977" y1="250" x2="540.9588332366977" y2="195" stroke="var(--neutral-fill)" stroke-width="1" opacity="0.35"/><g class="bubble-in" style="animation-delay:0.6499999999999999s"><circle class="bub-circle is-hot" cx="540.9588332366977" cy="195" r="58.0" fill="var(--neutral-fill)" fill-opacity="0.16" stroke="var(--neutral-fill)" stroke-width="2" stroke-dasharray="4 3" data-date="2026-09-13" data-name="Hot Topic" data-tone="50" data-attention="50" data-real-title="NPCI International"/></g></svg><div class="crm-bubble-legend">Topics shown: <span style="color:var(--aqua);font-weight:600">Tourism</span>, <span style="color:var(--orange);font-weight:600">Investment</span>, <span style="color:var(--violet);font-weight:600">Geopolitics</span>, <span style="color:var(--text-muted);font-weight:600">🔥 Hot Topic</span> — hover or tap a bubble for its exact tone/attention.</div><p class="crm-bubble-legend">Tourism: 2026-09-13 · Investment: 2026-10-02 · Geopolitics: 2026-09-24 · NPCI International: 2026-09-13</p><p class="crm-bubble-legend">Hot Topic is the last detected news theme, not a newly detected event.</p></div></div>
 
     <div class="crm-section fade-up d2">
       <div class="crm-section-head"><h2 class="crm-h2 crm-serif">Topics in the press snapshot</h2><span class="crm-section-note">Dated corpus · overlapping themes</span></div>
@@ -660,7 +662,7 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
 
     <div class="crm-footer">
       <span>Sources: GDELT GKG (experimental snapshot) · GDELT DOC 2.0 (legacy) · Wikipedia Pageviews · Ministry of Tourism · World Bank Open Data · NBC · Reddit · YouTube (SerpApi)</span>
-      <span>Page generated Oct 14, 2026, 13:35 from real collected data</span>
+      <span>Page generated Oct 14, 2026, 14:11 from real collected data</span>
       <span><a href="#" id="crm-contact-open" class="crm-contact-link">Contact</a></span>
     </div>
   </div>
@@ -872,7 +874,7 @@ document.querySelectorAll('svg[id^="spectrum-"], svg[id^="tl-"]').forEach(crmEna
       var name = el.getAttribute('data-real-title') ? 'Hot topic: ' + el.getAttribute('data-real-title')
                                                       : el.getAttribute('data-name');
       tip.innerHTML = '<div class="tip-series"><span class="tip-dot" style="background:' + color + '"></span>' + name + '</div>' +
-        '<div class="tip-month">tone ' + el.getAttribute('data-tone') + ' · attention ' + el.getAttribute('data-attention') + '</div>';
+        '<div class="tip-month">tone ' + el.getAttribute('data-tone') + ' · attention ' + el.getAttribute('data-attention') + ' · ' + el.getAttribute('data-date') + '</div>';
       tip.classList.add('is-visible');
       crmPositionTip(tip, evt);
     }

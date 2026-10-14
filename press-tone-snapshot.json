@@ -13,6 +13,68 @@
   "positive_groups": 496,
   "negative_groups": 84,
   "zero_tone_groups": 13,
+  "topics": [
+    {
+      "label": "Government",
+      "groups": 362,
+      "urls": 476,
+      "positive_share": 86.74033149171271,
+      "tags": [
+        "GENERAL_GOVERNMENT"
+      ]
+    },
+    {
+      "label": "Economy & trade",
+      "groups": 304,
+      "urls": 406,
+      "positive_share": 91.11842105263158,
+      "tags": [
+        "EPU_ECONOMY",
+        "WB_698_TRADE"
+      ]
+    },
+    {
+      "label": "Education",
+      "groups": 217,
+      "urls": 303,
+      "positive_share": 88.47926267281106,
+      "tags": [
+        "EDUCATION"
+      ]
+    },
+    {
+      "label": "Conflict & violence",
+      "groups": 160,
+      "urls": 202,
+      "positive_share": 81.25,
+      "tags": [
+        "WB_2433_CONFLICT_AND_VIOLENCE"
+      ]
+    },
+    {
+      "label": "Borders",
+      "groups": 155,
+      "urls": 209,
+      "positive_share": 87.09677419354838,
+      "tags": [
+        "BORDER"
+      ]
+    },
+    {
+      "label": "Tourism",
+      "groups": 133,
+      "urls": 185,
+      "positive_share": 88.7218045112782,
+      "tags": [
+        "TOURISM"
+      ]
+    }
+  ],
+  "attention": {
+    "selected_urls": 778,
+    "urls_per_observed_day": 129.66666666666666,
+    "unit": "selected URLs; not a normalized index"
+  },
   "excluded": {
     "insufficient_relevance_signal": 1611,
     "domestic_publisher_or_domain": 121,

@@ -1,0 +1,651 @@
+{
+  "method": "gkg-fixed-slots-title-language-day-v1",
+  "generated_at": "2026-10-28T00:32:25.958261+00:00",
+  "status": "current",
+  "latest_complete_day": "2026-10-27",
+  "age_days": 1,
+  "window_start": "2026-10-21",
+  "window_end": "2026-10-27",
+  "window_complete_days": 7,
+  "expected_window_days": 7,
+  "summary": {
+    "tone": -0.10126303792912004,
+    "urls": 22,
+    "groups": 21,
+    "positive_share": 47.61904761904762,
+    "languages": {
+      "vie": 5,
+      "ita": 5,
+      "eng": 4,
+      "fra": 1,
+      "rus": 2,
+      "zho": 1,
+      "spa": 2,
+      "jpn": 1,
+      "tha": 1
+    },
+    "publishers": {
+      "vov.vn": 2,
+      "romatoday.it": 1,
+      "zazoom.it": 2,
+      "english.news.cn": 2,
+      "tienphong.vn": 1,
+      "libertas.sm": 1,
+      "baocantho.com.vn": 1,
+      "lecourrier.vn": 1,
+      "rg.ru": 1,
+      "163.com": 1,
+      "nakanune.ru": 1,
+      "bignewsnetwork.com": 1,
+      "lanueva.com": 1,
+      "nepalnational.com": 1,
+      "baomoi.com": 1,
+      "agensir.it": 1,
+      "daily.co.jp": 1,
+      "rionegro.com.ar": 1,
+      "ryt9.com": 1
+    },
+    "excluded": {},
+    "unverified_urls": 21,
+    "largest_publisher": "vov.vn",
+    "largest_publisher_share": 9.090909090909092,
+    "tone_without_largest_publisher": -0.17358497995952873,
+    "topics": [
+      {
+        "label": "Economy & trade",
+        "urls": 7
+      },
+      {
+        "label": "Education",
+        "urls": 6
+      },
+      {
+        "label": "Borders",
+        "urls": 5
+      },
+      {
+        "label": "Government",
+        "urls": 4
+      },
+      {
+        "label": "Tourism",
+        "urls": 4
+      },
+      {
+        "label": "Conflict & violence",
+        "urls": 4
+      }
+    ],
+    "headlines": [
+      {
+        "day": "2026-10-27",
+        "title": "ท่องเที่ยวกัมพูชาทรุด ต่างชาติหด 43.7% ใน 9 เดือน",
+        "url": "https://www.ryt9.com/s/iq/12852495",
+        "host": "ryt9.com",
+        "language": "tha"
+      },
+      {
+        "day": "2026-10-27",
+        "title": "Javier Milei designó al nuevo embajador argentino en Camboya: quién es y cuál es su trayectoria",
+        "url": "https://www.rionegro.com.ar/politica/javier-milei-designo-al-nuevo-embajador-argentino-en-camboya-quien-es-y-cual-es-su-trayectoria-4774501/",
+        "host": "rionegro.com.ar",
+        "language": "spa"
+      },
+      {
+        "day": "2026-10-27",
+        "title": "あっ、進藤先生の聴診器に！【救命病棟２４時】カンボジアの過去をめぐる伏線確定？！ポケットからラスト取り出した重要アイテム/芸能/デイリースポーツ online",
+        "url": "https://www.daily.co.jp/gossip/2026/10/27/0020972092.shtml",
+        "host": "daily.co.jp",
+        "language": "jpn"
+      },
+      {
+        "day": "2026-10-27",
+        "title": "Sant'Egidio: cerimonia finale. Venerabile Sarith (monaco buddista, Cambogia), \"possa il nostro pianeta possa trasformarsi in un giardino di pace\"",
+        "url": "https://www.agensir.it/quotidiano/2026/10/27/santegidio-cerimonia-finale-venerabile-sarith-monaco-buddista-cambogia-possa-il-nostro-pianeta-possa-trasformarsi-in-un-giardino-di-pace/",
+        "host": "agensir.it",
+        "language": "ita"
+      },
+      {
+        "day": "2026-10-27",
+        "title": "Đồng Nai quy tập được 120 hài cốt liệt sỹ tại Campuchia",
+        "url": "https://baomoi.com/dong-nai-quy-tap-duoc-120-hai-cot-liet-sy-tai-campuchia-c56363050.epi",
+        "host": "baomoi.com",
+        "language": "vie"
+      },
+      {
+        "day": "2026-10-27",
+        "title": "Cambodia's int'l tourist arrivals plunge 43.7 pct in Jan.-Sept.",
+        "url": "http://www.nepalnational.com/news/279399182/cambodia-intl-tourist-arrivals-plunge-437-pct-in-jan-sept",
+        "host": "nepalnational.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-10-27",
+        "title": "Milei designó al nuevo embajador argentino en Camboya",
+        "url": "http://www.lanueva.com/nota/2026-10-27-8-26-0-milei-designo-al-nuevo-embajador-argentino-en-camboya",
+        "host": "lanueva.com",
+        "language": "spa"
+      },
+      {
+        "day": "2026-10-26",
+        "title": "An Giang tiếp nhận 11 công dân từ Campuchia, phát hiện đối tượng truy nã",
+        "url": "http://vov.vn/phap-luat/an-giang-tiep-nhan-11-cong-dan-tu-campuchia-phat-hien-doi-tuong-truy-na-post1344786.vov",
+        "host": "vov.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-10-24",
+        "title": "CAMBODIA-KAMPONG SPEU-UN PEACEKEEPING OPERATIONS-20TH ANNIVERSARY",
+        "url": "http://www.bignewsnetwork.com/news/279395904/cambodia-kampong-speu-un-peacekeeping-operations-20th-anniversary",
+        "host": "bignewsnetwork.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-10-23",
+        "title": "Камбоджа выдала двух граждан России",
+        "url": "https://www.nakanune.ru/news/2026/10/23/22891851/",
+        "host": "nakanune.ru",
+        "language": "rus"
+      },
+      {
+        "day": "2026-10-23",
+        "title": "太子集团重要成员英达拉在柬埔寨落网，已被英美制裁，另有4人受司法监督",
+        "url": "https://www.163.com/dy/article/L9U3HVR705561G0D.html",
+        "host": "163.com",
+        "language": "zho"
+      },
+      {
+        "day": "2026-10-23",
+        "title": "Генпрокуратура: Камбоджа выдала России двух беглых мошенников",
+        "url": "https://rg.ru/2026/10/23/genprokuratura-kambodzha-vydala-rossii-dvuh-beglyh-moshennikov.html",
+        "host": "rg.ru",
+        "language": "rus"
+      }
+    ]
+  },
+  "days": [
+    {
+      "day": "2026-10-21",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 28956,
+      "rejected": 10,
+      "missing_titles": 75,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": 0.9875018701733087,
+        "urls": 4,
+        "groups": 4,
+        "positive_share": 75.0,
+        "languages": {
+          "vie": 1,
+          "ita": 3
+        },
+        "publishers": {
+          "vov.vn": 1,
+          "romatoday.it": 1,
+          "zazoom.it": 2
+        },
+        "excluded": {},
+        "unverified_urls": 4,
+        "largest_publisher": "zazoom.it",
+        "largest_publisher_share": 50.0,
+        "tone_without_largest_publisher": 1.855386515466235,
+        "topics": [
+          {
+            "label": "Government",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-10-21",
+            "title": "Valerio Lundini debutta alla regia con Cambogia | il film presentato alla Festa del Cinema di Roma",
+            "url": "https://www.zazoom.it/2026-10-21/valerio-lundini-debutta-alla-regia-con-cambogia-il-film-presentato-alla-festa-del-cinema-di-roma/19829569/",
+            "host": "zazoom.it",
+            "language": "ita"
+          },
+          {
+            "day": "2026-10-21",
+            "title": "Lundini dirige Cambogia e si sdoppia | il mio surreale Freaky Friday",
+            "url": "https://www.zazoom.it/2026-10-21/lundini-dirige-cambogia-e-si-sdoppia-il-mio-surreale-freaky-friday/19829536/",
+            "host": "zazoom.it",
+            "language": "ita"
+          },
+          {
+            "day": "2026-10-21",
+            "title": "Valerio Lundini debutta alla regia alla Festa del Cinema: in \"Cambogia\" realtà e finzione si scambiano il posto",
+            "url": "https://www.romatoday.it/eventi/festa-cinema-roma/cambogia-valerio-lundini.html",
+            "host": "romatoday.it",
+            "language": "ita"
+          },
+          {
+            "day": "2026-10-21",
+            "title": "Campuchia đề xuất 4 giải pháp tháo gỡ căng thẳng với Thái Lan",
+            "url": "http://vov.vn/the-gioi/campuchia-de-xuat-4-giai-phap-thao-go-cang-thang-voi-thai-lan-post1343364.vov",
+            "host": "vov.vn",
+            "language": "vie"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-10-22",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 29780,
+      "rejected": 9,
+      "missing_titles": 78,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": 2.1804494336287332,
+        "urls": 4,
+        "groups": 3,
+        "positive_share": 66.66666666666667,
+        "languages": {
+          "eng": 2,
+          "vie": 1,
+          "ita": 1
+        },
+        "publishers": {
+          "english.news.cn": 2,
+          "tienphong.vn": 1,
+          "libertas.sm": 1
+        },
+        "excluded": {},
+        "unverified_urls": 3,
+        "largest_publisher": "english.news.cn",
+        "largest_publisher_share": 50.0,
+        "tone_without_largest_publisher": -0.16069839857651003,
+        "topics": [
+          {
+            "label": "Economy & trade",
+            "urls": 2
+          },
+          {
+            "label": "Government",
+            "urls": 1
+          },
+          {
+            "label": "Borders",
+            "urls": 1
+          },
+          {
+            "label": "Education",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-10-22",
+            "title": "Fight Clubbing in Cambogia, oltre 100mila spettatori per l'evento ad Angkor",
+            "url": "https://www.libertas.sm/fight-clubbing-in-cambogia-oltre-100mila-spettatori-per-levento-ad-angkor/",
+            "host": "libertas.sm",
+            "language": "ita"
+          },
+          {
+            "day": "2026-10-22",
+            "title": "Cảnh báo xe khách giả mạo chở sinh viên đến biên giới Campuchia",
+            "url": "https://tienphong.vn/canh-bao-xe-khach-gia-mao-cho-sinh-vien-den-bien-gioi-campuchia-post1887530.tpo",
+            "host": "tienphong.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-10-22",
+            "title": "Cambodia launches 5-year MSME strategy to drive economic growth-Xinhua",
+            "url": "https://english.news.cn/asiapacific/20261022/93ce4936ff4548b8bfed73feba7593c5/c.html",
+            "host": "english.news.cn",
+            "language": "eng"
+          },
+          {
+            "day": "2026-10-22",
+            "title": "Cambodia launches 5-year MSME strategy to drive economic growth-Xinhua",
+            "url": "https://english.news.cn/20261022/0f981531331a4c839386f998f2d4508e/c.html",
+            "host": "english.news.cn",
+            "language": "eng"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-10-23",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 28127,
+      "rejected": 41,
+      "missing_titles": 99,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": -4.303067515078314,
+        "urls": 5,
+        "groups": 5,
+        "positive_share": 0.0,
+        "languages": {
+          "vie": 1,
+          "fra": 1,
+          "rus": 2,
+          "zho": 1
+        },
+        "publishers": {
+          "baocantho.com.vn": 1,
+          "lecourrier.vn": 1,
+          "rg.ru": 1,
+          "163.com": 1,
+          "nakanune.ru": 1
+        },
+        "excluded": {},
+        "unverified_urls": 5,
+        "largest_publisher": "baocantho.com.vn",
+        "largest_publisher_share": 20.0,
+        "tone_without_largest_publisher": -4.924288939302437,
+        "topics": [
+          {
+            "label": "Economy & trade",
+            "urls": 2
+          },
+          {
+            "label": "Borders",
+            "urls": 2
+          },
+          {
+            "label": "Tourism",
+            "urls": 2
+          },
+          {
+            "label": "Government",
+            "urls": 1
+          },
+          {
+            "label": "Education",
+            "urls": 1
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-10-23",
+            "title": "Камбоджа выдала двух граждан России",
+            "url": "https://www.nakanune.ru/news/2026/10/23/22891851/",
+            "host": "nakanune.ru",
+            "language": "rus"
+          },
+          {
+            "day": "2026-10-23",
+            "title": "太子集团重要成员英达拉在柬埔寨落网，已被英美制裁，另有4人受司法监督",
+            "url": "https://www.163.com/dy/article/L9U3HVR705561G0D.html",
+            "host": "163.com",
+            "language": "zho"
+          },
+          {
+            "day": "2026-10-23",
+            "title": "Генпрокуратура: Камбоджа выдала России двух беглых мошенников",
+            "url": "https://rg.ru/2026/10/23/genprokuratura-kambodzha-vydala-rossii-dvuh-beglyh-moshennikov.html",
+            "host": "rg.ru",
+            "language": "rus"
+          },
+          {
+            "day": "2026-10-23",
+            "title": "La BAD met en garde contre l'impact climatique au Cambodge",
+            "url": "https://lecourrier.vn/la-bad-met-en-garde-contre-limpact-climatique-au-cambodge/1358011.html",
+            "host": "lecourrier.vn",
+            "language": "fra"
+          },
+          {
+            "day": "2026-10-23",
+            "title": "Thông tin về xe khách chở sinh viên đến khu vực biên giới Campuchia là bịa đặt",
+            "url": "https://baocantho.com.vn/thong-tin-ve-xe-khach-cho-sinh-vien-den-khu-vuc-bien-gioi-campuchia-la-bia-dat-a218965.html",
+            "host": "baocantho.com.vn",
+            "language": "vie"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-10-24",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 17196,
+      "rejected": 19,
+      "missing_titles": 32,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": 5.19480519480519,
+        "urls": 1,
+        "groups": 1,
+        "positive_share": 100.0,
+        "languages": {
+          "eng": 1
+        },
+        "publishers": {
+          "bignewsnetwork.com": 1
+        },
+        "excluded": {},
+        "unverified_urls": 1,
+        "largest_publisher": "bignewsnetwork.com",
+        "largest_publisher_share": 100.0,
+        "tone_without_largest_publisher": null,
+        "topics": [],
+        "headlines": [
+          {
+            "day": "2026-10-24",
+            "title": "CAMBODIA-KAMPONG SPEU-UN PEACEKEEPING OPERATIONS-20TH ANNIVERSARY",
+            "url": "http://www.bignewsnetwork.com/news/279395904/cambodia-kampong-speu-un-peacekeeping-operations-20th-anniversary",
+            "host": "bignewsnetwork.com",
+            "language": "eng"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-10-25",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 15363,
+      "rejected": 32,
+      "missing_titles": 60,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": null,
+        "urls": 0,
+        "groups": 0,
+        "positive_share": null,
+        "languages": {},
+        "publishers": {},
+        "excluded": {},
+        "unverified_urls": 0,
+        "largest_publisher": null,
+        "largest_publisher_share": null,
+        "tone_without_largest_publisher": null,
+        "topics": [],
+        "headlines": []
+      }
+    },
+    {
+      "day": "2026-10-26",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 26111,
+      "rejected": 118,
+      "missing_titles": 106,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": -0.411522633744855,
+        "urls": 1,
+        "groups": 1,
+        "positive_share": 0.0,
+        "languages": {
+          "vie": 1
+        },
+        "publishers": {
+          "vov.vn": 1
+        },
+        "excluded": {},
+        "unverified_urls": 1,
+        "largest_publisher": "vov.vn",
+        "largest_publisher_share": 100.0,
+        "tone_without_largest_publisher": null,
+        "topics": [
+          {
+            "label": "Borders",
+            "urls": 1
+          },
+          {
+            "label": "Education",
+            "urls": 1
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-10-26",
+            "title": "An Giang tiếp nhận 11 công dân từ Campuchia, phát hiện đối tượng truy nã",
+            "url": "http://vov.vn/phap-luat/an-giang-tiep-nhan-11-cong-dan-tu-campuchia-phat-hien-doi-tuong-truy-na-post1344786.vov",
+            "host": "vov.vn",
+            "language": "vie"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-10-27",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 28708,
+      "rejected": 4,
+      "missing_titles": 68,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": 0.5877393480343255,
+        "urls": 7,
+        "groups": 7,
+        "positive_share": 57.142857142857146,
+        "languages": {
+          "spa": 2,
+          "eng": 1,
+          "vie": 1,
+          "ita": 1,
+          "jpn": 1,
+          "tha": 1
+        },
+        "publishers": {
+          "lanueva.com": 1,
+          "nepalnational.com": 1,
+          "baomoi.com": 1,
+          "agensir.it": 1,
+          "daily.co.jp": 1,
+          "rionegro.com.ar": 1,
+          "ryt9.com": 1
+        },
+        "excluded": {},
+        "unverified_urls": 7,
+        "largest_publisher": "lanueva.com",
+        "largest_publisher_share": 14.285714285714286,
+        "tone_without_largest_publisher": -0.7635794562787935,
+        "topics": [
+          {
+            "label": "Economy & trade",
+            "urls": 3
+          },
+          {
+            "label": "Education",
+            "urls": 3
+          },
+          {
+            "label": "Tourism",
+            "urls": 2
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 2
+          },
+          {
+            "label": "Government",
+            "urls": 1
+          },
+          {
+            "label": "Borders",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-10-27",
+            "title": "ท่องเที่ยวกัมพูชาทรุด ต่างชาติหด 43.7% ใน 9 เดือน",
+            "url": "https://www.ryt9.com/s/iq/12852495",
+            "host": "ryt9.com",
+            "language": "tha"
+          },
+          {
+            "day": "2026-10-27",
+            "title": "Javier Milei designó al nuevo embajador argentino en Camboya: quién es y cuál es su trayectoria",
+            "url": "https://www.rionegro.com.ar/politica/javier-milei-designo-al-nuevo-embajador-argentino-en-camboya-quien-es-y-cual-es-su-trayectoria-4774501/",
+            "host": "rionegro.com.ar",
+            "language": "spa"
+          },
+          {
+            "day": "2026-10-27",
+            "title": "あっ、進藤先生の聴診器に！【救命病棟２４時】カンボジアの過去をめぐる伏線確定？！ポケットからラスト取り出した重要アイテム/芸能/デイリースポーツ online",
+            "url": "https://www.daily.co.jp/gossip/2026/10/27/0020972092.shtml",
+            "host": "daily.co.jp",
+            "language": "jpn"
+          },
+          {
+            "day": "2026-10-27",
+            "title": "Sant'Egidio: cerimonia finale. Venerabile Sarith (monaco buddista, Cambogia), \"possa il nostro pianeta possa trasformarsi in un giardino di pace\"",
+            "url": "https://www.agensir.it/quotidiano/2026/10/27/santegidio-cerimonia-finale-venerabile-sarith-monaco-buddista-cambogia-possa-il-nostro-pianeta-possa-trasformarsi-in-un-giardino-di-pace/",
+            "host": "agensir.it",
+            "language": "ita"
+          },
+          {
+            "day": "2026-10-27",
+            "title": "Đồng Nai quy tập được 120 hài cốt liệt sỹ tại Campuchia",
+            "url": "https://baomoi.com/dong-nai-quy-tap-duoc-120-hai-cot-liet-sy-tai-campuchia-c56363050.epi",
+            "host": "baomoi.com",
+            "language": "vie"
+          },
+          {
+            "day": "2026-10-27",
+            "title": "Cambodia's int'l tourist arrivals plunge 43.7 pct in Jan.-Sept.",
+            "url": "http://www.nepalnational.com/news/279399182/cambodia-intl-tourist-arrivals-plunge-437-pct-in-jan-sept",
+            "host": "nepalnational.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-10-27",
+            "title": "Milei designó al nuevo embajador argentino en Camboya",
+            "url": "http://www.lanueva.com/nota/2026-10-27-8-26-0-milei-designo-al-nuevo-embajador-argentino-en-camboya",
+            "host": "lanueva.com",
+            "language": "spa"
+          }
+        ]
+      }
+    }
+  ],
+  "stop_reason": null,
+  "quality_alerts": [],
+  "registry_sha256": "b301f8da38d77f95507e0b3d5aa045b9f6de74cddefc58076ef3e8cb0f870dcc",
+  "sample": "16 fixed files out of 192 per UTC day: 00,03,06,09,12,15,18,21; English and translated streams",
+  "grouping": "Exact normalized title + language + UTC observation day; short titles use URL. One median document tone per group.",
+  "limitations": [
+    "Exploratory document tone, not a validated reputation index or country-targeted sentiment.",
+    "Fixed systematic time sample; unsampled files and rejected rows are not zero articles.",
+    "Title relevance and publisher geography are only partly verified; unknown publishers retained and counted.",
+    "Known domestic publishers excluded. No weighting by audience, language or publisher type.",
+    "No validated bridge to historical DOC or the October 7–12 pilot. Series remain separate.",
+    "Source-composition control and independent relevance validation remain pending."
+  ],
+  "historical_bridge": "insufficient_evidence"
+}

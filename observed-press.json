@@ -1,34 +1,35 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-10-28T20:20:00.279998+00:00",
+  "generated_at": "2026-10-29T20:20:58.217701+00:00",
   "status": "current",
-  "latest_complete_day": "2026-10-27",
+  "latest_complete_day": "2026-10-28",
   "age_days": 1,
-  "window_start": "2026-10-21",
-  "window_end": "2026-10-27",
+  "window_start": "2026-10-22",
+  "window_end": "2026-10-28",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": -0.10126303792912004,
-    "urls": 22,
-    "groups": 21,
-    "positive_share": 47.61904761904762,
+    "tone": -1.0293668754753595,
+    "urls": 36,
+    "groups": 33,
+    "positive_share": 24.242424242424242,
     "languages": {
-      "vie": 5,
-      "ita": 5,
-      "eng": 4,
+      "eng": 13,
+      "vie": 6,
+      "ita": 2,
       "fra": 1,
       "rus": 2,
-      "zho": 1,
+      "zho": 2,
       "spa": 2,
       "jpn": 1,
-      "tha": 1
+      "tha": 2,
+      "ukr": 1,
+      "nld": 2,
+      "dan": 1,
+      "deu": 1
     },
     "publishers": {
-      "vov.vn": 2,
-      "romatoday.it": 1,
-      "zazoom.it": 2,
-      "english.news.cn": 2,
+      "english.news.cn": 4,
       "tienphong.vn": 1,
       "libertas.sm": 1,
       "baocantho.com.vn": 1,
@@ -37,129 +38,145 @@
       "163.com": 1,
       "nakanune.ru": 1,
       "bignewsnetwork.com": 1,
+      "vov.vn": 2,
       "lanueva.com": 1,
       "nepalnational.com": 1,
       "baomoi.com": 1,
       "agensir.it": 1,
       "daily.co.jp": 1,
       "rionegro.com.ar": 1,
-      "ryt9.com": 1
+      "ryt9.com": 1,
+      "laosnews.net": 1,
+      "daily.com.ua": 1,
+      "drimble.nl": 1,
+      "jyllands-posten.dk": 1,
+      "nieuws.nl": 1,
+      "vnexpress.net": 1,
+      "bbc.co.uk": 1,
+      "dailymail.com": 1,
+      "dailymirror.lk": 1,
+      "dailynews.co.th": 1,
+      "eurasiareview.com": 1,
+      "foxnews.com": 1,
+      "ksta.de": 1,
+      "nbcwashington.com": 1,
+      "wenxuecity.com": 1
     },
     "excluded": {},
-    "unverified_urls": 21,
-    "largest_publisher": "vov.vn",
-    "largest_publisher_share": 9.090909090909092,
-    "tone_without_largest_publisher": -0.17358497995952873,
+    "unverified_urls": 35,
+    "largest_publisher": "english.news.cn",
+    "largest_publisher_share": 11.11111111111111,
+    "tone_without_largest_publisher": -1.2564830401864313,
     "topics": [
       {
         "label": "Economy & trade",
-        "urls": 7
+        "urls": 10
+      },
+      {
+        "label": "Tourism",
+        "urls": 8
+      },
+      {
+        "label": "Borders",
+        "urls": 6
       },
       {
         "label": "Education",
         "urls": 6
       },
       {
-        "label": "Borders",
-        "urls": 5
+        "label": "Conflict & violence",
+        "urls": 6
       },
       {
         "label": "Government",
-        "urls": 4
-      },
-      {
-        "label": "Tourism",
-        "urls": 4
-      },
-      {
-        "label": "Conflict & violence",
-        "urls": 4
+        "urls": 3
       }
     ],
     "headlines": [
       {
-        "day": "2026-10-27",
-        "title": "ท่องเที่ยวกัมพูชาทรุด ต่างชาติหด 43.7% ใน 9 เดือน",
-        "url": "https://www.ryt9.com/s/iq/12852495",
-        "host": "ryt9.com",
-        "language": "tha"
-      },
-      {
-        "day": "2026-10-27",
-        "title": "Javier Milei designó al nuevo embajador argentino en Camboya: quién es y cuál es su trayectoria",
-        "url": "https://www.rionegro.com.ar/politica/javier-milei-designo-al-nuevo-embajador-argentino-en-camboya-quien-es-y-cual-es-su-trayectoria-4774501/",
-        "host": "rionegro.com.ar",
-        "language": "spa"
-      },
-      {
-        "day": "2026-10-27",
-        "title": "あっ、進藤先生の聴診器に！【救命病棟２４時】カンボジアの過去をめぐる伏線確定？！ポケットからラスト取り出した重要アイテム/芸能/デイリースポーツ online",
-        "url": "https://www.daily.co.jp/gossip/2026/10/27/0020972092.shtml",
-        "host": "daily.co.jp",
-        "language": "jpn"
-      },
-      {
-        "day": "2026-10-27",
-        "title": "Sant'Egidio: cerimonia finale. Venerabile Sarith (monaco buddista, Cambogia), \"possa il nostro pianeta possa trasformarsi in un giardino di pace\"",
-        "url": "https://www.agensir.it/quotidiano/2026/10/27/santegidio-cerimonia-finale-venerabile-sarith-monaco-buddista-cambogia-possa-il-nostro-pianeta-possa-trasformarsi-in-un-giardino-di-pace/",
-        "host": "agensir.it",
-        "language": "ita"
-      },
-      {
-        "day": "2026-10-27",
-        "title": "Đồng Nai quy tập được 120 hài cốt liệt sỹ tại Campuchia",
-        "url": "https://baomoi.com/dong-nai-quy-tap-duoc-120-hai-cot-liet-sy-tai-campuchia-c56363050.epi",
-        "host": "baomoi.com",
-        "language": "vie"
-      },
-      {
-        "day": "2026-10-27",
-        "title": "Cambodia's int'l tourist arrivals plunge 43.7 pct in Jan.-Sept.",
-        "url": "http://www.nepalnational.com/news/279399182/cambodia-intl-tourist-arrivals-plunge-437-pct-in-jan-sept",
-        "host": "nepalnational.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-10-27",
-        "title": "Milei designó al nuevo embajador argentino en Camboya",
-        "url": "http://www.lanueva.com/nota/2026-10-27-8-26-0-milei-designo-al-nuevo-embajador-argentino-en-camboya",
-        "host": "lanueva.com",
-        "language": "spa"
-      },
-      {
-        "day": "2026-10-26",
-        "title": "An Giang tiếp nhận 11 công dân từ Campuchia, phát hiện đối tượng truy nã",
-        "url": "http://vov.vn/phap-luat/an-giang-tiep-nhan-11-cong-dan-tu-campuchia-phat-hien-doi-tuong-truy-na-post1344786.vov",
-        "host": "vov.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-10-24",
-        "title": "CAMBODIA-KAMPONG SPEU-UN PEACEKEEPING OPERATIONS-20TH ANNIVERSARY",
-        "url": "http://www.bignewsnetwork.com/news/279395904/cambodia-kampong-speu-un-peacekeeping-operations-20th-anniversary",
-        "host": "bignewsnetwork.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-10-23",
-        "title": "Камбоджа выдала двух граждан России",
-        "url": "https://www.nakanune.ru/news/2026/10/23/22891851/",
-        "host": "nakanune.ru",
-        "language": "rus"
-      },
-      {
-        "day": "2026-10-23",
-        "title": "太子集团重要成员英达拉在柬埔寨落网，已被英美制裁，另有4人受司法监督",
-        "url": "https://www.163.com/dy/article/L9U3HVR705561G0D.html",
-        "host": "163.com",
+        "day": "2026-10-28",
+        "title": "燃油暴涨 美国邮轮急停柬埔寨 200乘客被迫滞留…",
+        "url": "https://www.wenxuecity.com/news/2026/10/28/126819392.html",
+        "host": "wenxuecity.com",
         "language": "zho"
       },
       {
-        "day": "2026-10-23",
-        "title": "Генпрокуратура: Камбоджа выдала России двух беглых мошенников",
-        "url": "https://rg.ru/2026/10/23/genprokuratura-kambodzha-vydala-rossii-dvuh-beglyh-moshennikov.html",
-        "host": "rg.ru",
-        "language": "rus"
+        "day": "2026-10-28",
+        "title": "Odyssey residents disembark in Cambodia amid soaring fuel costs – NBC4 Washington",
+        "url": "https://www.nbcwashington.com/news/national-international/residential-cruise-the-odyssey-disembark-cambodia/4173024/",
+        "host": "nbcwashington.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-10-28",
+        "title": "Kreuzfahrt endet abrupt: Hunderte in Kambodscha gestrandet",
+        "url": "https://www.ksta.de:443/panorama/kreuzfahrt-endet-abrupt-hunderte-in-kambodscha-gestrandet-1404745",
+        "host": "ksta.de",
+        "language": "deu"
+      },
+      {
+        "day": "2026-10-28",
+        "title": "Villa Vie Odyssey halts dream cruise in Cambodia over soaring fuel costs",
+        "url": "https://www.foxnews.com/travel/never-ending-cruise-grinds-devastating-end-stranding-over-200-passengers-abroad",
+        "host": "foxnews.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-10-28",
+        "title": "Is Thailand Waging Its Own 'Three Warfares' Against Cambodia? - OpEd",
+        "url": "https://www.eurasiareview.com/28102026-is-thailand-waging-its-own-three-warfares-against-cambodia-oped/",
+        "host": "eurasiareview.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-10-28",
+        "title": "โดนเท! เรือสำราญทริป \"ล่องโลกตลอดชีพ\" สั่งผู้โดยสารลงจากเรือเพราะวิกฤตค่าเชื้อเพลิงพุ่ง ต้องจอดยาวที่กัมพูชา",
+        "url": "https://www.dailynews.co.th/news/6312078/",
+        "host": "dailynews.co.th",
+        "language": "tha"
+      },
+      {
+        "day": "2026-10-28",
+        "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs  - International",
+        "url": "https://www.dailymirror.lk/international/Luxury-cruise-passengers-stranded-in-Cambodia-due-to-soaring-fuel-costs/107-353588",
+        "host": "dailymirror.lk",
+        "language": "eng"
+      },
+      {
+        "day": "2026-10-28",
+        "title": "Couple who paid $1 MILLION to travel on 'cruise for life' say they have no regrets despite being dumped in Cambodia when company ran out of cash",
+        "url": "https://www.dailymail.com/news/article-16246661/Couple-paid-1-MILLION-travel-cruise-life-say-no-regrets-despite-dumped-Cambodia.html",
+        "host": "dailymail.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-10-28",
+        "title": "Luxury cruise stranded in Cambodia due to fuel costs",
+        "url": "https://www.bbc.co.uk/sounds/play/curation/m001bm45/p0pk4dr9",
+        "host": "bbc.co.uk",
+        "language": "eng"
+      },
+      {
+        "day": "2026-10-28",
+        "title": "Hơn 200 khách kẹt ở Campuchia khi du lịch vòng quanh thế giới",
+        "url": "https://vnexpress.net/hon-200-khach-ket-o-campuchia-khi-du-lich-vong-quanh-the-gioi-5137743.html",
+        "host": "vnexpress.net",
+        "language": "vie"
+      },
+      {
+        "day": "2026-10-28",
+        "title": "Cruise voor rest van leven eindigt abrupt in Cambodjaanse haven",
+        "url": "https://nieuws.nl/economie/cruise-voor-rest-van-leven-eindigt-abrupt-in-cambodjaanse-haven",
+        "host": "nieuws.nl",
+        "language": "nld"
+      },
+      {
+        "day": "2026-10-28",
+        "title": "Evighedskrydstogt stopper brat: Hundredvis må stå af i Cambodja",
+        "url": "https://jyllands-posten.dk/international/ECE19778473/evighedskrydstogt-stopper-brat-hundredvis-maa-staa-af-i-cambodja/?fp-exp=60740012&fp-alg=607400121",
+        "host": "jyllands-posten.dk",
+        "language": "dan"
       }
     ]
   },
@@ -629,6 +646,160 @@
             "url": "http://www.lanueva.com/nota/2026-10-27-8-26-0-milei-designo-al-nuevo-embajador-argentino-en-camboya",
             "host": "lanueva.com",
             "language": "spa"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-10-28",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 28943,
+      "rejected": 34,
+      "missing_titles": 50,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": -1.7432859758426316,
+        "urls": 18,
+        "groups": 16,
+        "positive_share": 6.25,
+        "languages": {
+          "vie": 2,
+          "eng": 9,
+          "ukr": 1,
+          "nld": 2,
+          "dan": 1,
+          "tha": 1,
+          "deu": 1,
+          "zho": 1
+        },
+        "publishers": {
+          "vov.vn": 1,
+          "laosnews.net": 1,
+          "daily.com.ua": 1,
+          "drimble.nl": 1,
+          "english.news.cn": 2,
+          "jyllands-posten.dk": 1,
+          "nieuws.nl": 1,
+          "vnexpress.net": 1,
+          "bbc.co.uk": 1,
+          "dailymail.com": 1,
+          "dailymirror.lk": 1,
+          "dailynews.co.th": 1,
+          "eurasiareview.com": 1,
+          "foxnews.com": 1,
+          "ksta.de": 1,
+          "nbcwashington.com": 1,
+          "wenxuecity.com": 1
+        },
+        "excluded": {},
+        "unverified_urls": 18,
+        "largest_publisher": "english.news.cn",
+        "largest_publisher_share": 11.11111111111111,
+        "tone_without_largest_publisher": -1.7341131913690264,
+        "topics": [
+          {
+            "label": "Tourism",
+            "urls": 4
+          },
+          {
+            "label": "Economy & trade",
+            "urls": 3
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 2
+          },
+          {
+            "label": "Borders",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-10-28",
+            "title": "燃油暴涨 美国邮轮急停柬埔寨 200乘客被迫滞留…",
+            "url": "https://www.wenxuecity.com/news/2026/10/28/126819392.html",
+            "host": "wenxuecity.com",
+            "language": "zho"
+          },
+          {
+            "day": "2026-10-28",
+            "title": "Odyssey residents disembark in Cambodia amid soaring fuel costs – NBC4 Washington",
+            "url": "https://www.nbcwashington.com/news/national-international/residential-cruise-the-odyssey-disembark-cambodia/4173024/",
+            "host": "nbcwashington.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-10-28",
+            "title": "Kreuzfahrt endet abrupt: Hunderte in Kambodscha gestrandet",
+            "url": "https://www.ksta.de:443/panorama/kreuzfahrt-endet-abrupt-hunderte-in-kambodscha-gestrandet-1404745",
+            "host": "ksta.de",
+            "language": "deu"
+          },
+          {
+            "day": "2026-10-28",
+            "title": "Villa Vie Odyssey halts dream cruise in Cambodia over soaring fuel costs",
+            "url": "https://www.foxnews.com/travel/never-ending-cruise-grinds-devastating-end-stranding-over-200-passengers-abroad",
+            "host": "foxnews.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-10-28",
+            "title": "Is Thailand Waging Its Own 'Three Warfares' Against Cambodia? - OpEd",
+            "url": "https://www.eurasiareview.com/28102026-is-thailand-waging-its-own-three-warfares-against-cambodia-oped/",
+            "host": "eurasiareview.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-10-28",
+            "title": "โดนเท! เรือสำราญทริป \"ล่องโลกตลอดชีพ\" สั่งผู้โดยสารลงจากเรือเพราะวิกฤตค่าเชื้อเพลิงพุ่ง ต้องจอดยาวที่กัมพูชา",
+            "url": "https://www.dailynews.co.th/news/6312078/",
+            "host": "dailynews.co.th",
+            "language": "tha"
+          },
+          {
+            "day": "2026-10-28",
+            "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs  - International",
+            "url": "https://www.dailymirror.lk/international/Luxury-cruise-passengers-stranded-in-Cambodia-due-to-soaring-fuel-costs/107-353588",
+            "host": "dailymirror.lk",
+            "language": "eng"
+          },
+          {
+            "day": "2026-10-28",
+            "title": "Couple who paid $1 MILLION to travel on 'cruise for life' say they have no regrets despite being dumped in Cambodia when company ran out of cash",
+            "url": "https://www.dailymail.com/news/article-16246661/Couple-paid-1-MILLION-travel-cruise-life-say-no-regrets-despite-dumped-Cambodia.html",
+            "host": "dailymail.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-10-28",
+            "title": "Luxury cruise stranded in Cambodia due to fuel costs",
+            "url": "https://www.bbc.co.uk/sounds/play/curation/m001bm45/p0pk4dr9",
+            "host": "bbc.co.uk",
+            "language": "eng"
+          },
+          {
+            "day": "2026-10-28",
+            "title": "Hơn 200 khách kẹt ở Campuchia khi du lịch vòng quanh thế giới",
+            "url": "https://vnexpress.net/hon-200-khach-ket-o-campuchia-khi-du-lich-vong-quanh-the-gioi-5137743.html",
+            "host": "vnexpress.net",
+            "language": "vie"
+          },
+          {
+            "day": "2026-10-28",
+            "title": "Cruise voor rest van leven eindigt abrupt in Cambodjaanse haven",
+            "url": "https://nieuws.nl/economie/cruise-voor-rest-van-leven-eindigt-abrupt-in-cambodjaanse-haven",
+            "host": "nieuws.nl",
+            "language": "nld"
+          },
+          {
+            "day": "2026-10-28",
+            "title": "Evighedskrydstogt stopper brat: Hundredvis må stå af i Cambodja",
+            "url": "https://jyllands-posten.dk/international/ECE19778473/evighedskrydstogt-stopper-brat-hundredvis-maa-staa-af-i-cambodja/?fp-exp=60740012&fp-alg=607400121",
+            "host": "jyllands-posten.dk",
+            "language": "dan"
           }
         ]
       }

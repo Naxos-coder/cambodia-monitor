@@ -1,43 +1,36 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-10-29T20:20:58.217701+00:00",
+  "generated_at": "2026-11-01T01:24:44.759991+00:00",
   "status": "current",
-  "latest_complete_day": "2026-10-28",
+  "latest_complete_day": "2026-10-31",
   "age_days": 1,
-  "window_start": "2026-10-22",
-  "window_end": "2026-10-28",
+  "window_start": "2026-10-25",
+  "window_end": "2026-10-31",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": -1.0293668754753595,
-    "urls": 36,
-    "groups": 33,
-    "positive_share": 24.242424242424242,
+    "tone": -1.2068320909251353,
+    "urls": 63,
+    "groups": 57,
+    "positive_share": 19.29824561403509,
     "languages": {
-      "eng": 13,
-      "vie": 6,
-      "ita": 2,
-      "fra": 1,
-      "rus": 2,
-      "zho": 2,
-      "spa": 2,
+      "vie": 8,
+      "spa": 4,
+      "eng": 18,
+      "ita": 3,
       "jpn": 1,
-      "tha": 2,
-      "ukr": 1,
+      "tha": 4,
+      "ukr": 2,
       "nld": 2,
       "dan": 1,
-      "deu": 1
+      "deu": 10,
+      "zho": 6,
+      "swe": 1,
+      "ind": 1,
+      "rus": 1,
+      "kor": 1
     },
     "publishers": {
-      "english.news.cn": 4,
-      "tienphong.vn": 1,
-      "libertas.sm": 1,
-      "baocantho.com.vn": 1,
-      "lecourrier.vn": 1,
-      "rg.ru": 1,
-      "163.com": 1,
-      "nakanune.ru": 1,
-      "bignewsnetwork.com": 1,
       "vov.vn": 2,
       "lanueva.com": 1,
       "nepalnational.com": 1,
@@ -49,134 +42,169 @@
       "laosnews.net": 1,
       "daily.com.ua": 1,
       "drimble.nl": 1,
+      "english.news.cn": 2,
       "jyllands-posten.dk": 1,
       "nieuws.nl": 1,
       "vnexpress.net": 1,
       "bbc.co.uk": 1,
       "dailymail.com": 1,
       "dailymirror.lk": 1,
-      "dailynews.co.th": 1,
+      "dailynews.co.th": 2,
       "eurasiareview.com": 1,
       "foxnews.com": 1,
       "ksta.de": 1,
       "nbcwashington.com": 1,
-      "wenxuecity.com": 1
+      "wenxuecity.com": 1,
+      "chinaqw.com": 1,
+      "english.pravda.ru": 1,
+      "news.finance.ua": 1,
+      "nypost.com": 1,
+      "soha.vn": 1,
+      "thanhnien.vn": 2,
+      "amnesty.org.au": 1,
+      "cna.com.tw": 1,
+      "hd.se": 1,
+      "idowa.de": 1,
+      "independent.co.uk": 1,
+      "jawapos.com": 1,
+      "kommersant.ru": 1,
+      "lafm.com.co": 1,
+      "lavanguardia.com": 1,
+      "moz.de": 1,
+      "news.de": 1,
+      "noz.de": 1,
+      "schwaebische.de": 1,
+      "shz.de": 1,
+      "sueddeutsche.de": 1,
+      "tgcom24.mediaset.it": 1,
+      "thestar.com.my": 2,
+      "traunsteiner-tagblatt.de": 1,
+      "wnd.com": 1,
+      "zazoom.it": 1,
+      "bangkokbiznews.com": 1,
+      "focus.de": 1,
+      "ohmynews.com": 1,
+      "metrohk.com.hk": 1,
+      "tienphong.vn": 1,
+      "udn.com": 1,
+      "kwongwah.com.my": 1,
+      "standardmedia.co.ke": 1
     },
     "excluded": {},
-    "unverified_urls": 35,
-    "largest_publisher": "english.news.cn",
-    "largest_publisher_share": 11.11111111111111,
-    "tone_without_largest_publisher": -1.2564830401864313,
+    "unverified_urls": 62,
+    "largest_publisher": "vov.vn",
+    "largest_publisher_share": 3.1746031746031744,
+    "tone_without_largest_publisher": -1.28942404097047,
     "topics": [
       {
-        "label": "Economy & trade",
-        "urls": 10
+        "label": "Tourism",
+        "urls": 16
       },
       {
-        "label": "Tourism",
-        "urls": 8
+        "label": "Conflict & violence",
+        "urls": 15
+      },
+      {
+        "label": "Economy & trade",
+        "urls": 11
       },
       {
         "label": "Borders",
+        "urls": 8
+      },
+      {
+        "label": "Government",
         "urls": 6
       },
       {
         "label": "Education",
         "urls": 6
-      },
-      {
-        "label": "Conflict & violence",
-        "urls": 6
-      },
-      {
-        "label": "Government",
-        "urls": 3
       }
     ],
     "headlines": [
       {
-        "day": "2026-10-28",
-        "title": "燃油暴涨 美国邮轮急停柬埔寨 200乘客被迫滞留…",
-        "url": "https://www.wenxuecity.com/news/2026/10/28/126819392.html",
-        "host": "wenxuecity.com",
+        "day": "2026-10-31",
+        "title": "More than 5,000 attempt to illegally enter/exit Cambodia; 373 charged",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/31/more-than-5000-attempt-to-illegally-enterexit-cambodia-373-charged",
+        "host": "thestar.com.my",
+        "language": "eng"
+      },
+      {
+        "day": "2026-10-31",
+        "title": "Scam centres relocated from Cambodia operate in Madagascar",
+        "url": "https://www.standardmedia.co.ke/africa/article/2001561235/scam-centres-relocated-from-cambodia-operate-in-madagascar",
+        "host": "standardmedia.co.ke",
+        "language": "eng"
+      },
+      {
+        "day": "2026-10-31",
+        "title": "扫荡不熄灭 柬埔寨诈骗巢穴移至非洲光华日报 | 1910年创刊 创新每一天生活",
+        "url": "https://www.kwongwah.com.my/20261031/%E6%89%AB%E8%8D%A1%E4%B8%8D%E7%86%84%E7%81%AD-%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%AF%88%E9%AA%97%E5%B7%A2%E7%A9%B4%E7%A7%BB%E8%87%B3%E9%9D%9E%E6%B4%B2/",
+        "host": "kwongwah.com.my",
         "language": "zho"
       },
       {
-        "day": "2026-10-28",
-        "title": "Odyssey residents disembark in Cambodia amid soaring fuel costs – NBC4 Washington",
-        "url": "https://www.nbcwashington.com/news/national-international/residential-cruise-the-odyssey-disembark-cambodia/4173024/",
-        "host": "nbcwashington.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-10-28",
-        "title": "Kreuzfahrt endet abrupt: Hunderte in Kambodscha gestrandet",
-        "url": "https://www.ksta.de:443/panorama/kreuzfahrt-endet-abrupt-hunderte-in-kambodscha-gestrandet-1404745",
-        "host": "ksta.de",
-        "language": "deu"
-      },
-      {
-        "day": "2026-10-28",
-        "title": "Villa Vie Odyssey halts dream cruise in Cambodia over soaring fuel costs",
-        "url": "https://www.foxnews.com/travel/never-ending-cruise-grinds-devastating-end-stranding-over-200-passengers-abroad",
-        "host": "foxnews.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-10-28",
-        "title": "Is Thailand Waging Its Own 'Three Warfares' Against Cambodia? - OpEd",
-        "url": "https://www.eurasiareview.com/28102026-is-thailand-waging-its-own-three-warfares-against-cambodia-oped/",
-        "host": "eurasiareview.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-10-28",
-        "title": "โดนเท! เรือสำราญทริป \"ล่องโลกตลอดชีพ\" สั่งผู้โดยสารลงจากเรือเพราะวิกฤตค่าเชื้อเพลิงพุ่ง ต้องจอดยาวที่กัมพูชา",
-        "url": "https://www.dailynews.co.th/news/6312078/",
+        "day": "2026-10-31",
+        "title": "'อนุทิน' ลั่นยังไม่เปิดด่านไทย-กัมพูชา จนกว่าไทยบรรลุเงื่อนไขที่ควรได้",
+        "url": "https://www.dailynews.co.th/news/6319944/",
         "host": "dailynews.co.th",
         "language": "tha"
       },
       {
-        "day": "2026-10-28",
-        "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs  - International",
-        "url": "https://www.dailymirror.lk/international/Luxury-cruise-passengers-stranded-in-Cambodia-due-to-soaring-fuel-costs/107-353588",
-        "host": "dailymirror.lk",
-        "language": "eng"
+        "day": "2026-10-31",
+        "title": "旅程全泡湯！退休婦賣房砸650萬搭豪華郵輪 竟慘被丟包柬埔寨 | 世界萬象 | 全球",
+        "url": "https://udn.com/news/story/6812/9849003",
+        "host": "udn.com",
+        "language": "zho"
       },
       {
-        "day": "2026-10-28",
-        "title": "Couple who paid $1 MILLION to travel on 'cruise for life' say they have no regrets despite being dumped in Cambodia when company ran out of cash",
-        "url": "https://www.dailymail.com/news/article-16246661/Couple-paid-1-MILLION-travel-cruise-life-say-no-regrets-despite-dumped-Cambodia.html",
-        "host": "dailymail.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-10-28",
-        "title": "Luxury cruise stranded in Cambodia due to fuel costs",
-        "url": "https://www.bbc.co.uk/sounds/play/curation/m001bm45/p0pk4dr9",
-        "host": "bbc.co.uk",
-        "language": "eng"
-      },
-      {
-        "day": "2026-10-28",
-        "title": "Hơn 200 khách kẹt ở Campuchia khi du lịch vòng quanh thế giới",
-        "url": "https://vnexpress.net/hon-200-khach-ket-o-campuchia-khi-du-lich-vong-quanh-the-gioi-5137743.html",
-        "host": "vnexpress.net",
+        "day": "2026-10-31",
+        "title": "Bên trong siêu du thuyền mắc kẹt tại Campuchia vì hết tiền mua xăng dầu",
+        "url": "https://tienphong.vn/ben-trong-sieu-du-thuyen-mac-ket-tai-campuchia-vi-het-tien-mua-xang-dau-post1890273.tpo",
+        "host": "tienphong.vn",
         "language": "vie"
       },
       {
-        "day": "2026-10-28",
-        "title": "Cruise voor rest van leven eindigt abrupt in Cambodjaanse haven",
-        "url": "https://nieuws.nl/economie/cruise-voor-rest-van-leven-eindigt-abrupt-in-cambodjaanse-haven",
-        "host": "nieuws.nl",
-        "language": "nld"
+        "day": "2026-10-31",
+        "title": "Trung tâm lừa đảo trực tuyến ở Campuchia đã dời đến Madagascar?",
+        "url": "https://thanhnien.vn/trung-tam-lua-dao-truc-tuyen-o-campuchia-da-doi-den-madagascar-18526103114471175.htm",
+        "host": "thanhnien.vn",
+        "language": "vie"
       },
       {
-        "day": "2026-10-28",
-        "title": "Evighedskrydstogt stopper brat: Hundredvis må stå af i Cambodja",
-        "url": "https://jyllands-posten.dk/international/ECE19778473/evighedskrydstogt-stopper-brat-hundredvis-maa-staa-af-i-cambodja/?fp-exp=60740012&fp-alg=607400121",
-        "host": "jyllands-posten.dk",
-        "language": "dan"
+        "day": "2026-10-31",
+        "title": "馬達加斯加詐騙中心與柬埔寨集團有關連｜METROHK.com.hk",
+        "url": "https://metrohk.com.hk/%E5%9C%8B%E9%9A%9B/%E9%A6%AC%E9%81%94%E5%8A%A0%E6%96%AF%E5%8A%A0%E8%A9%90%E9%A8%99%E4%B8%AD%E5%BF%83%E8%88%87%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%9B%86%E5%9C%98%E6%9C%89%E9%97%9C%E9%80%A3-1f74bd",
+        "host": "metrohk.com.hk",
+        "language": "zho"
+      },
+      {
+        "day": "2026-10-30",
+        "title": "20년 만에 부활한 캄보디아 징병제... 1만 5000명 몰렸다",
+        "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280268&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
+        "host": "ohmynews.com",
+        "language": "kor"
+      },
+      {
+        "day": "2026-10-30",
+        "title": "Kreuzfahrt fürs Leben endet in Kambodscha: Holly (70) verliert ihr Zuhause auf See",
+        "url": "https://www.focus.de/panorama/welt/kreuzfahrt-fuers-leben-endet-in-kambodscha-holly-70-verliert-ihr-zuhause-auf-see_b658e24e-c0d4-48f0-bd9a-7cce4acae1dd.html",
+        "host": "focus.de",
+        "language": "deu"
+      },
+      {
+        "day": "2026-10-30",
+        "title": "ทร. คุมเข้มชายแดนจันทบุรี จับ 6 ชาวกัมพูชาลอบเข้าเมือง ช่องทางธรรมชาติ",
+        "url": "https://www.bangkokbiznews.com/news/1258656",
+        "host": "bangkokbiznews.com",
+        "language": "tha"
+      },
+      {
+        "day": "2026-10-29",
+        "title": "Usa nave da crociera sospende giro del mondo in Cambogia per costi carburante",
+        "url": "https://www.zazoom.it/2026-10-29/usa-nave-da-crociera-sospende-giro-del-mondo-in-cambogia-per-costi-carburante/19862520/",
+        "host": "zazoom.it",
+        "language": "ita"
       }
     ]
   },
@@ -800,6 +828,368 @@
             "url": "https://jyllands-posten.dk/international/ECE19778473/evighedskrydstogt-stopper-brat-hundredvis-maa-staa-af-i-cambodja/?fp-exp=60740012&fp-alg=607400121",
             "host": "jyllands-posten.dk",
             "language": "dan"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-10-29",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 29131,
+      "rejected": 26,
+      "missing_titles": 56,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": -0.4446458918227225,
+        "urls": 26,
+        "groups": 22,
+        "positive_share": 18.181818181818183,
+        "languages": {
+          "zho": 2,
+          "eng": 6,
+          "ukr": 1,
+          "vie": 2,
+          "swe": 1,
+          "deu": 8,
+          "ind": 1,
+          "rus": 1,
+          "spa": 2,
+          "ita": 2
+        },
+        "publishers": {
+          "chinaqw.com": 1,
+          "english.pravda.ru": 1,
+          "news.finance.ua": 1,
+          "nypost.com": 1,
+          "soha.vn": 1,
+          "thanhnien.vn": 1,
+          "amnesty.org.au": 1,
+          "cna.com.tw": 1,
+          "hd.se": 1,
+          "idowa.de": 1,
+          "independent.co.uk": 1,
+          "jawapos.com": 1,
+          "kommersant.ru": 1,
+          "lafm.com.co": 1,
+          "lavanguardia.com": 1,
+          "moz.de": 1,
+          "news.de": 1,
+          "noz.de": 1,
+          "schwaebische.de": 1,
+          "shz.de": 1,
+          "sueddeutsche.de": 1,
+          "tgcom24.mediaset.it": 1,
+          "thestar.com.my": 1,
+          "traunsteiner-tagblatt.de": 1,
+          "wnd.com": 1,
+          "zazoom.it": 1
+        },
+        "excluded": {},
+        "unverified_urls": 26,
+        "largest_publisher": "chinaqw.com",
+        "largest_publisher_share": 3.8461538461538463,
+        "tone_without_largest_publisher": -0.8579763684641407,
+        "topics": [
+          {
+            "label": "Tourism",
+            "urls": 9
+          },
+          {
+            "label": "Economy & trade",
+            "urls": 4
+          },
+          {
+            "label": "Government",
+            "urls": 3
+          },
+          {
+            "label": "Borders",
+            "urls": 2
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 2
+          },
+          {
+            "label": "Education",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-10-29",
+            "title": "Usa nave da crociera sospende giro del mondo in Cambogia per costi carburante",
+            "url": "https://www.zazoom.it/2026-10-29/usa-nave-da-crociera-sospende-giro-del-mondo-in-cambogia-per-costi-carburante/19862520/",
+            "host": "zazoom.it",
+            "language": "ita"
+          },
+          {
+            "day": "2026-10-29",
+            "title": "Welcome to Cambodia: Cruise ship passengers who booked 4-year trip to avoid Trump now facing new shock * WorldNetDaily * by Bob Unruh",
+            "url": "https://www.wnd.com/2026/10/welcome-cambodia-cruise-ship-passengers-who-booked-4/",
+            "host": "wnd.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-10-29",
+            "title": "Kreuzfahrt-Aus in Kambodscha sorgt weltweit für Aufsehen",
+            "url": "https://www.traunsteiner-tagblatt.de/nachrichten_artikel,-kreuzfahrtaus-in-kambodscha-sorgt-weltweit-fuer-aufsehen-_arid,1023898.html",
+            "host": "traunsteiner-tagblatt.de",
+            "language": "deu"
+          },
+          {
+            "day": "2026-10-29",
+            "title": "US couple's retirement dream in ruins after residential cruise scrapped in Cambodia",
+            "url": "https://www.thestar.com.my/news/world/2026/10/29/us-couple039s-retirement-dream-in-ruins-after-residential-cruise-scrapped-in-cambodia",
+            "host": "thestar.com.my",
+            "language": "eng"
+          },
+          {
+            "day": "2026-10-29",
+            "title": "Caro carburante, crociera intorno al mondo si ferma in Cambogia",
+            "url": "https://www.tgcom24.mediaset.it/mondo/caro-carburante-crociera-mondo_118304900-202602k.shtml",
+            "host": "tgcom24.mediaset.it",
+            "language": "ita"
+          },
+          {
+            "day": "2026-10-29",
+            "title": "200 Passagiere gestrandet - Kreuzfahrt-Aus in Kambodscha sorgt weltweit für Aufsehen - Wirtschaft",
+            "url": "https://www.sueddeutsche.de/wirtschaft/200-passagiere-gestrandet-kreuzfahrt-aus-in-kambodscha-sorgt-weltweit-fuer-aufsehen-dpa.urn-newsml-dpa-com-20090101-261029-930-910551",
+            "host": "sueddeutsche.de",
+            "language": "deu"
+          },
+          {
+            "day": "2026-10-29",
+            "title": "Kreuzfahrt-Aus in Kambodscha sorgt weltweit für Aufsehen",
+            "url": "https://www.shz.de/deutschland-welt/panorama/artikel/kreuzfahrt-aus-in-kambodscha-sorgt-weltweit-fuer-aufsehen-51666807",
+            "host": "shz.de",
+            "language": "deu"
+          },
+          {
+            "day": "2026-10-29",
+            "title": "Kreuzfahrt-Aus in Kambodscha sorgt weltweit für Aufsehen",
+            "url": "https://www.schwaebische.de/panorama/kreuzfahrt-aus-in-kambodscha-sorgt-weltweit-fuer-aufsehen-4971797",
+            "host": "schwaebische.de",
+            "language": "deu"
+          },
+          {
+            "day": "2026-10-29",
+            "title": "Kreuzfahrt-Aus in Kambodscha sorgt weltweit für Aufsehen",
+            "url": "https://www.noz.de/deutschland-welt/panorama/artikel/kreuzfahrt-aus-in-kambodscha-sorgt-weltweit-fuer-aufsehen-51666806",
+            "host": "noz.de",
+            "language": "deu"
+          },
+          {
+            "day": "2026-10-29",
+            "title": "Tourismus News: Kreuzfahrt-Aus in Kambodscha sorgt weltweit für Aufsehen",
+            "url": "https://www.news.de/reisen-und-leben/860140360/kreuzfahrt-aus-in-kambodscha-sorgt-weltweit-fuer-aufsehen-tourismus-news-der-dpa-aktuell-zu-schifffahrt-konflikten-und-oel/1/",
+            "host": "news.de",
+            "language": "deu"
+          },
+          {
+            "day": "2026-10-29",
+            "title": "Gestrandet in Kambodscha: Traum von jahrelanger Kreuzfahrt endet abrupt – 200 Passagiere plötzlich obdachlos",
+            "url": "https://www.moz.de/nachrichten/panorama/gestrandet-in-kambodscha-traum-von-jahrelanger-kreuzfahrt-endet-abrupt-200-passagiere-ploetzlich-obdachlos-79625576.html",
+            "host": "moz.de",
+            "language": "deu"
+          },
+          {
+            "day": "2026-10-29",
+            "title": "El 'Villa Vie Odyssey', el crucero de la vuelta al mundo sin fin, deja a la gente tirada en Camboya",
+            "url": "https://www.lavanguardia.com/vida/20261029/11671217/villa-vie-odyssey-crucero-daba-vuelta-mundo-termina-viaje.html",
+            "host": "lavanguardia.com",
+            "language": "spa"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-10-30",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 27017,
+      "rejected": 29,
+      "missing_titles": 68,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": -2.941002907267563,
+        "urls": 3,
+        "groups": 3,
+        "positive_share": 0.0,
+        "languages": {
+          "tha": 1,
+          "deu": 1,
+          "kor": 1
+        },
+        "publishers": {
+          "bangkokbiznews.com": 1,
+          "focus.de": 1,
+          "ohmynews.com": 1
+        },
+        "excluded": {},
+        "unverified_urls": 3,
+        "largest_publisher": "bangkokbiznews.com",
+        "largest_publisher_share": 33.333333333333336,
+        "tone_without_largest_publisher": -4.235448022873175,
+        "topics": [
+          {
+            "label": "Conflict & violence",
+            "urls": 2
+          },
+          {
+            "label": "Economy & trade",
+            "urls": 1
+          },
+          {
+            "label": "Government",
+            "urls": 1
+          },
+          {
+            "label": "Borders",
+            "urls": 1
+          },
+          {
+            "label": "Education",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-10-30",
+            "title": "20년 만에 부활한 캄보디아 징병제... 1만 5000명 몰렸다",
+            "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280268&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
+            "host": "ohmynews.com",
+            "language": "kor"
+          },
+          {
+            "day": "2026-10-30",
+            "title": "Kreuzfahrt fürs Leben endet in Kambodscha: Holly (70) verliert ihr Zuhause auf See",
+            "url": "https://www.focus.de/panorama/welt/kreuzfahrt-fuers-leben-endet-in-kambodscha-holly-70-verliert-ihr-zuhause-auf-see_b658e24e-c0d4-48f0-bd9a-7cce4acae1dd.html",
+            "host": "focus.de",
+            "language": "deu"
+          },
+          {
+            "day": "2026-10-30",
+            "title": "ทร. คุมเข้มชายแดนจันทบุรี จับ 6 ชาวกัมพูชาลอบเข้าเมือง ช่องทางธรรมชาติ",
+            "url": "https://www.bangkokbiznews.com/news/1258656",
+            "host": "bangkokbiznews.com",
+            "language": "tha"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-10-31",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 17243,
+      "rejected": 22,
+      "missing_titles": 54,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": -3.249286003730431,
+        "urls": 8,
+        "groups": 8,
+        "positive_share": 25.0,
+        "languages": {
+          "zho": 3,
+          "vie": 2,
+          "tha": 1,
+          "eng": 2
+        },
+        "publishers": {
+          "metrohk.com.hk": 1,
+          "thanhnien.vn": 1,
+          "tienphong.vn": 1,
+          "udn.com": 1,
+          "dailynews.co.th": 1,
+          "kwongwah.com.my": 1,
+          "standardmedia.co.ke": 1,
+          "thestar.com.my": 1
+        },
+        "excluded": {},
+        "unverified_urls": 7,
+        "largest_publisher": "metrohk.com.hk",
+        "largest_publisher_share": 12.5,
+        "tone_without_largest_publisher": -3.029439200264403,
+        "topics": [
+          {
+            "label": "Conflict & violence",
+            "urls": 6
+          },
+          {
+            "label": "Borders",
+            "urls": 2
+          },
+          {
+            "label": "Government",
+            "urls": 1
+          },
+          {
+            "label": "Tourism",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-10-31",
+            "title": "More than 5,000 attempt to illegally enter/exit Cambodia; 373 charged",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/31/more-than-5000-attempt-to-illegally-enterexit-cambodia-373-charged",
+            "host": "thestar.com.my",
+            "language": "eng"
+          },
+          {
+            "day": "2026-10-31",
+            "title": "Scam centres relocated from Cambodia operate in Madagascar",
+            "url": "https://www.standardmedia.co.ke/africa/article/2001561235/scam-centres-relocated-from-cambodia-operate-in-madagascar",
+            "host": "standardmedia.co.ke",
+            "language": "eng"
+          },
+          {
+            "day": "2026-10-31",
+            "title": "扫荡不熄灭 柬埔寨诈骗巢穴移至非洲光华日报 | 1910年创刊 创新每一天生活",
+            "url": "https://www.kwongwah.com.my/20261031/%E6%89%AB%E8%8D%A1%E4%B8%8D%E7%86%84%E7%81%AD-%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%AF%88%E9%AA%97%E5%B7%A2%E7%A9%B4%E7%A7%BB%E8%87%B3%E9%9D%9E%E6%B4%B2/",
+            "host": "kwongwah.com.my",
+            "language": "zho"
+          },
+          {
+            "day": "2026-10-31",
+            "title": "'อนุทิน' ลั่นยังไม่เปิดด่านไทย-กัมพูชา จนกว่าไทยบรรลุเงื่อนไขที่ควรได้",
+            "url": "https://www.dailynews.co.th/news/6319944/",
+            "host": "dailynews.co.th",
+            "language": "tha"
+          },
+          {
+            "day": "2026-10-31",
+            "title": "旅程全泡湯！退休婦賣房砸650萬搭豪華郵輪 竟慘被丟包柬埔寨 | 世界萬象 | 全球",
+            "url": "https://udn.com/news/story/6812/9849003",
+            "host": "udn.com",
+            "language": "zho"
+          },
+          {
+            "day": "2026-10-31",
+            "title": "Bên trong siêu du thuyền mắc kẹt tại Campuchia vì hết tiền mua xăng dầu",
+            "url": "https://tienphong.vn/ben-trong-sieu-du-thuyen-mac-ket-tai-campuchia-vi-het-tien-mua-xang-dau-post1890273.tpo",
+            "host": "tienphong.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-10-31",
+            "title": "Trung tâm lừa đảo trực tuyến ở Campuchia đã dời đến Madagascar?",
+            "url": "https://thanhnien.vn/trung-tam-lua-dao-truc-tuyen-o-campuchia-da-doi-den-madagascar-18526103114471175.htm",
+            "host": "thanhnien.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-10-31",
+            "title": "馬達加斯加詐騙中心與柬埔寨集團有關連｜METROHK.com.hk",
+            "url": "https://metrohk.com.hk/%E5%9C%8B%E9%9A%9B/%E9%A6%AC%E9%81%94%E5%8A%A0%E6%96%AF%E5%8A%A0%E8%A9%90%E9%A8%99%E4%B8%AD%E5%BF%83%E8%88%87%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%9B%86%E5%9C%98%E6%9C%89%E9%97%9C%E9%80%A3-1f74bd",
+            "host": "metrohk.com.hk",
+            "language": "zho"
           }
         ]
       }

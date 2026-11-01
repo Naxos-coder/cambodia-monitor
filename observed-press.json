@@ -1,6 +1,6 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-01T01:24:44.759991+00:00",
+  "generated_at": "2026-11-01T01:34:58.327861+00:00",
   "status": "current",
   "latest_complete_day": "2026-10-31",
   "age_days": 1,
@@ -91,7 +91,7 @@
       "standardmedia.co.ke": 1
     },
     "excluded": {},
-    "unverified_urls": 62,
+    "unverified_urls": 50,
     "largest_publisher": "vov.vn",
     "largest_publisher_share": 3.1746031746031744,
     "tone_without_largest_publisher": -1.28942404097047,
@@ -233,7 +233,7 @@
           "zazoom.it": 2
         },
         "excluded": {},
-        "unverified_urls": 4,
+        "unverified_urls": 3,
         "largest_publisher": "zazoom.it",
         "largest_publisher_share": 50.0,
         "tone_without_largest_publisher": 1.855386515466235,
@@ -300,7 +300,7 @@
           "libertas.sm": 1
         },
         "excluded": {},
-        "unverified_urls": 3,
+        "unverified_urls": 1,
         "largest_publisher": "english.news.cn",
         "largest_publisher_share": 50.0,
         "tone_without_largest_publisher": -0.16069839857651003,
@@ -534,7 +534,7 @@
           "vov.vn": 1
         },
         "excluded": {},
-        "unverified_urls": 1,
+        "unverified_urls": 0,
         "largest_publisher": "vov.vn",
         "largest_publisher_share": 100.0,
         "tone_without_largest_publisher": null,
@@ -722,7 +722,7 @@
           "wenxuecity.com": 1
         },
         "excluded": {},
-        "unverified_urls": 18,
+        "unverified_urls": 13,
         "largest_publisher": "english.news.cn",
         "largest_publisher_share": 11.11111111111111,
         "tone_without_largest_publisher": -1.7341131913690264,
@@ -887,7 +887,7 @@
           "zazoom.it": 1
         },
         "excluded": {},
-        "unverified_urls": 26,
+        "unverified_urls": 23,
         "largest_publisher": "chinaqw.com",
         "largest_publisher_share": 3.8461538461538463,
         "tone_without_largest_publisher": -0.8579763684641407,
@@ -1112,7 +1112,7 @@
           "thestar.com.my": 1
         },
         "excluded": {},
-        "unverified_urls": 7,
+        "unverified_urls": 4,
         "largest_publisher": "metrohk.com.hk",
         "largest_publisher_share": 12.5,
         "tone_without_largest_publisher": -3.029439200264403,
@@ -1197,7 +1197,7 @@
   ],
   "stop_reason": null,
   "quality_alerts": [],
-  "registry_sha256": "b301f8da38d77f95507e0b3d5aa045b9f6de74cddefc58076ef3e8cb0f870dcc",
+  "registry_sha256": "521186d138bd017e06258e2d70baa97cd3dc1d0bea3357271c9900a14399f62f",
   "sample": "16 fixed files out of 192 per UTC day: 00,03,06,09,12,15,18,21; English and translated streams",
   "grouping": "Exact normalized title + language + UTC observation day; short titles use URL. One median document tone per group.",
   "limitations": [

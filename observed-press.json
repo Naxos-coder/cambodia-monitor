@@ -1,6 +1,6 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-01T01:34:58.327861+00:00",
+  "generated_at": "2026-11-01T01:40:19.195394+00:00",
   "status": "current",
   "latest_complete_day": "2026-10-31",
   "age_days": 1,
@@ -12,6 +12,92 @@
     "tone": -1.2068320909251353,
     "urls": 63,
     "groups": 57,
+    "publisher_types": {
+      "broadcaster_news_portal": 3,
+      "newspaper": 15,
+      "unreviewed": 37,
+      "news_agency_portal": 2,
+      "online_news": 4,
+      "advocacy_organization": 1,
+      "news_agency": 1
+    },
+    "tone_without_each_language": {
+      "vie": -1.324364814319392,
+      "spa": -1.4329623556193065,
+      "eng": -0.5064225101522092,
+      "ita": -1.3547094023193118,
+      "jpn": -1.2344565220920445,
+      "tha": -1.2706051770567313,
+      "ukr": -1.2007325143502168,
+      "nld": -1.2210641628064098,
+      "dan": -1.2039765461771748,
+      "deu": -1.1674776252725936,
+      "zho": -1.0721692144408428,
+      "swe": -1.2101610896333466,
+      "ind": -1.3427700559448332,
+      "rus": -1.2283826639773698,
+      "kor": -1.1519669625616684
+    },
+    "tone_without_each_publisher": {
+      "vov.vn": -1.28942404097047,
+      "lanueva.com": -1.3836621670829599,
+      "nepalnational.com": -1.1813901827743625,
+      "baomoi.com": -1.1291763147710208,
+      "agensir.it": -1.3106195060826331,
+      "daily.co.jp": -1.2344565220920445,
+      "rionegro.com.ar": -1.2507740656791166,
+      "ryt9.com": -1.182067307863743,
+      "laosnews.net": -1.2283826639773698,
+      "daily.com.ua": -1.1792908623082488,
+      "drimble.nl": -1.2140221973387102,
+      "english.news.cn": -1.19479556142475,
+      "jyllands-posten.dk": -1.2039765461771748,
+      "nieuws.nl": -1.1996419845115605,
+      "vnexpress.net": -1.1855744447992878,
+      "bbc.co.uk": -1.2283826639773698,
+      "dailymail.com": -1.1921704604647863,
+      "dailymirror.lk": -1.1989708992714876,
+      "dailynews.co.th": -1.2779608545895675,
+      "eurasiareview.com": -1.1498003964724925,
+      "foxnews.com": -1.188582196985224,
+      "ksta.de": -1.1943690585351932,
+      "nbcwashington.com": -1.1978576334523394,
+      "wenxuecity.com": -1.1032689242139486,
+      "chinaqw.com": -1.3754414875067817,
+      "english.pravda.ru": -1.1697889139773698,
+      "news.finance.ua": -1.2283826639773698,
+      "nypost.com": -1.1874363491457047,
+      "soha.vn": -1.3160533911829808,
+      "thanhnien.vn": -1.16129439876688,
+      "amnesty.org.au": -1.0557942987343654,
+      "cna.com.tw": -1.1994876108104722,
+      "hd.se": -1.2101610896333466,
+      "idowa.de": -1.2019040404618986,
+      "independent.co.uk": -1.1832625751255026,
+      "jawapos.com": -1.3427700559448332,
+      "kommersant.ru": -1.2283826639773698,
+      "lafm.com.co": -1.202806027072608,
+      "lavanguardia.com": -1.204102247237126,
+      "moz.de": -1.1922233404348688,
+      "news.de": -1.218293882702148,
+      "noz.de": -1.206859933018148,
+      "schwaebische.de": -1.2019040404618986,
+      "shz.de": -1.206859933018148,
+      "sueddeutsche.de": -1.2283826639773698,
+      "tgcom24.mediaset.it": -1.2283826639773698,
+      "thestar.com.my": -1.1209048250417524,
+      "traunsteiner-tagblatt.de": -1.2019318825549112,
+      "wnd.com": -1.2027057265357266,
+      "zazoom.it": -1.2240900815597875,
+      "bangkokbiznews.com": -1.222094937619221,
+      "focus.de": -1.1535323645761724,
+      "ohmynews.com": -1.1519669625616684,
+      "metrohk.com.hk": -1.1428788491917872,
+      "tienphong.vn": -1.2629727712067025,
+      "udn.com": -1.1948795816938,
+      "kwongwah.com.my": -1.1023966867643988,
+      "standardmedia.co.ke": -1.1272611342844117
+    },
     "positive_share": 19.29824561403509,
     "languages": {
       "vie": 8,
@@ -91,7 +177,7 @@
       "standardmedia.co.ke": 1
     },
     "excluded": {},
-    "unverified_urls": 50,
+    "unverified_urls": 36,
     "largest_publisher": "vov.vn",
     "largest_publisher_share": 3.1746031746031744,
     "tone_without_largest_publisher": -1.28942404097047,
@@ -222,6 +308,19 @@
         "tone": 0.9875018701733087,
         "urls": 4,
         "groups": 4,
+        "publisher_types": {
+          "broadcaster_news_portal": 1,
+          "unreviewed": 3
+        },
+        "tone_without_each_language": {
+          "vie": 0.7889646747429516,
+          "ita": 1.58311345646438
+        },
+        "tone_without_each_publisher": {
+          "vov.vn": 0.7889646747429516,
+          "romatoday.it": 0.6074493020750483,
+          "zazoom.it": 1.855386515466235
+        },
         "positive_share": 75.0,
         "languages": {
           "vie": 1,
@@ -288,6 +387,20 @@
         "tone": 2.1804494336287332,
         "urls": 4,
         "groups": 3,
+        "publisher_types": {
+          "news_agency_portal": 2,
+          "unreviewed": 2
+        },
+        "tone_without_each_language": {
+          "eng": -0.16069839857651003,
+          "vie": 4.676924150443099,
+          "ita": 2.02512254901961
+        },
+        "tone_without_each_publisher": {
+          "english.news.cn": -0.16069839857651003,
+          "tienphong.vn": 4.676924150443099,
+          "libertas.sm": 2.02512254901961
+        },
         "positive_share": 66.66666666666667,
         "languages": {
           "eng": 2,
@@ -367,6 +480,22 @@
         "tone": -4.303067515078314,
         "urls": 5,
         "groups": 5,
+        "publisher_types": {
+          "unreviewed": 5
+        },
+        "tone_without_each_language": {
+          "vie": -4.924288939302437,
+          "fra": -4.962861016144065,
+          "rus": -3.39900645704337,
+          "zho": -3.7000983833146472
+        },
+        "tone_without_each_publisher": {
+          "baocantho.com.vn": -4.924288939302437,
+          "lecourrier.vn": -4.962861016144065,
+          "rg.ru": -3.8766884711011125,
+          "163.com": -3.7000983833146472,
+          "nakanune.ru": -4.051400765529308
+        },
         "positive_share": 0.0,
         "languages": {
           "vie": 1,
@@ -464,6 +593,15 @@
         "tone": 5.19480519480519,
         "urls": 1,
         "groups": 1,
+        "publisher_types": {
+          "unreviewed": 1
+        },
+        "tone_without_each_language": {
+          "eng": null
+        },
+        "tone_without_each_publisher": {
+          "bignewsnetwork.com": null
+        },
         "positive_share": 100.0,
         "languages": {
           "eng": 1
@@ -501,6 +639,9 @@
         "tone": null,
         "urls": 0,
         "groups": 0,
+        "publisher_types": {},
+        "tone_without_each_language": {},
+        "tone_without_each_publisher": {},
         "positive_share": null,
         "languages": {},
         "publishers": {},
@@ -526,6 +667,15 @@
         "tone": -0.411522633744855,
         "urls": 1,
         "groups": 1,
+        "publisher_types": {
+          "broadcaster_news_portal": 1
+        },
+        "tone_without_each_language": {
+          "vie": null
+        },
+        "tone_without_each_publisher": {
+          "vov.vn": null
+        },
         "positive_share": 0.0,
         "languages": {
           "vie": 1
@@ -576,6 +726,27 @@
         "tone": 0.5877393480343255,
         "urls": 7,
         "groups": 7,
+        "publisher_types": {
+          "newspaper": 2,
+          "unreviewed": 5
+        },
+        "tone_without_each_language": {
+          "spa": -1.167079046594114,
+          "eng": 1.1242923972681165,
+          "vie": 1.6116218319659714,
+          "ita": -0.08184795360907691,
+          "jpn": 0.6290065636364183,
+          "tha": 1.1179725631005648
+        },
+        "tone_without_each_publisher": {
+          "lanueva.com": -0.7635794562787935,
+          "nepalnational.com": 1.1242923972681165,
+          "baomoi.com": 1.6116218319659714,
+          "agensir.it": -0.08184795360907691,
+          "daily.co.jp": 0.6290065636364183,
+          "rionegro.com.ar": 0.4767094901570781,
+          "ryt9.com": 1.1179725631005648
+        },
         "positive_share": 57.142857142857146,
         "languages": {
           "spa": 2,
@@ -595,7 +766,7 @@
           "ryt9.com": 1
         },
         "excluded": {},
-        "unverified_urls": 7,
+        "unverified_urls": 5,
         "largest_publisher": "lanueva.com",
         "largest_publisher_share": 14.285714285714286,
         "tone_without_largest_publisher": -0.7635794562787935,
@@ -691,6 +862,42 @@
         "tone": -1.7432859758426316,
         "urls": 18,
         "groups": 16,
+        "publisher_types": {
+          "broadcaster_news_portal": 2,
+          "unreviewed": 11,
+          "news_agency_portal": 2,
+          "online_news": 1,
+          "newspaper": 2
+        },
+        "tone_without_each_language": {
+          "vie": -2.0025522174212496,
+          "eng": -1.7497401011332832,
+          "ukr": -1.6762289813340878,
+          "nld": -1.8321826365272225,
+          "dan": -1.7683888677780784,
+          "tha": -1.8125566840912954,
+          "deu": -1.7325209139146804,
+          "zho": -1.3924137457820345
+        },
+        "tone_without_each_publisher": {
+          "vov.vn": -2.0288660878580065,
+          "laosnews.net": -1.859505040898807,
+          "daily.com.ua": -1.6762289813340878,
+          "drimble.nl": -1.7689007299409922,
+          "english.news.cn": -1.7341131913690264,
+          "jyllands-posten.dk": -1.7683888677780784,
+          "nieuws.nl": -1.717671221744271,
+          "vnexpress.net": -1.6996876893006339,
+          "bbc.co.uk": -1.859505040898807,
+          "dailymail.com": -1.7243128144518278,
+          "dailymirror.lk": -1.7497011193301797,
+          "dailynews.co.th": -1.8125566840912954,
+          "eurasiareview.com": -1.566131242213931,
+          "foxnews.com": -1.7109166307947952,
+          "ksta.de": -1.7325209139146804,
+          "nbcwashington.com": -1.7455449269386931,
+          "wenxuecity.com": -1.3924137457820345
+        },
         "positive_share": 6.25,
         "languages": {
           "vie": 2,
@@ -722,7 +929,7 @@
           "wenxuecity.com": 1
         },
         "excluded": {},
-        "unverified_urls": 13,
+        "unverified_urls": 11,
         "largest_publisher": "english.news.cn",
         "largest_publisher_share": 11.11111111111111,
         "tone_without_largest_publisher": -1.7341131913690264,
@@ -845,6 +1052,53 @@
         "tone": -0.4446458918227225,
         "urls": 26,
         "groups": 22,
+        "publisher_types": {
+          "unreviewed": 15,
+          "newspaper": 7,
+          "advocacy_organization": 1,
+          "news_agency": 1,
+          "online_news": 2
+        },
+        "tone_without_each_language": {
+          "zho": -0.8199690380200337,
+          "eng": 0.7095591505388253,
+          "ukr": -0.4658195057190426,
+          "vie": -0.7658385171807053,
+          "swe": -0.41722864080164695,
+          "deu": -0.3683621109721342,
+          "ind": -0.7708525509656112,
+          "rus": -0.4658195057190426,
+          "spa": -0.34951073079897876,
+          "ita": -0.477091250235764
+        },
+        "tone_without_each_publisher": {
+          "chinaqw.com": -0.8579763684641407,
+          "english.pravda.ru": -0.3095695057190426,
+          "news.finance.ua": -0.4658195057190426,
+          "nypost.com": -0.3566293328346022,
+          "soha.vn": -0.6996081116006717,
+          "thanhnien.vn": -0.4955814104809474,
+          "amnesty.org.au": -0.00558386507103072,
+          "cna.com.tw": -0.388766030607315,
+          "hd.se": -0.41722864080164695,
+          "idowa.de": -0.43187776107706366,
+          "independent.co.uk": -0.3454992687807298,
+          "jawapos.com": -0.7708525509656112,
+          "kommersant.ru": -0.4658195057190426,
+          "lafm.com.co": -0.3976151406396774,
+          "lavanguardia.com": -0.4010717277450593,
+          "moz.de": -0.3693946429390398,
+          "news.de": -0.4389160889851174,
+          "noz.de": -0.4447180281546189,
+          "schwaebische.de": -0.43187776107706366,
+          "shz.de": -0.4447180281546189,
+          "sueddeutsche.de": -0.4658195057190426,
+          "tgcom24.mediaset.it": -0.4658195057190426,
+          "thestar.com.my": -0.3738513879998522,
+          "traunsteiner-tagblatt.de": -0.43194989740896006,
+          "wnd.com": -0.3973476725413269,
+          "zazoom.it": -0.45437261927215616
+        },
         "positive_share": 18.181818181818183,
         "languages": {
           "zho": 2,
@@ -887,7 +1141,7 @@
           "zazoom.it": 1
         },
         "excluded": {},
-        "unverified_urls": 23,
+        "unverified_urls": 15,
         "largest_publisher": "chinaqw.com",
         "largest_publisher_share": 3.8461538461538463,
         "tone_without_largest_publisher": -0.8579763684641407,
@@ -1018,6 +1272,20 @@
         "tone": -2.941002907267563,
         "urls": 3,
         "groups": 3,
+        "publisher_types": {
+          "unreviewed": 2,
+          "online_news": 1
+        },
+        "tone_without_each_language": {
+          "tha": -4.235448022873175,
+          "deu": -2.315695977667809,
+          "kor": -2.271864721261704
+        },
+        "tone_without_each_publisher": {
+          "bangkokbiznews.com": -4.235448022873175,
+          "focus.de": -2.315695977667809,
+          "ohmynews.com": -2.271864721261704
+        },
         "positive_share": 0.0,
         "languages": {
           "tha": 1,
@@ -1030,7 +1298,7 @@
           "ohmynews.com": 1
         },
         "excluded": {},
-        "unverified_urls": 3,
+        "unverified_urls": 2,
         "largest_publisher": "bangkokbiznews.com",
         "largest_publisher_share": 33.333333333333336,
         "tone_without_largest_publisher": -4.235448022873175,
@@ -1094,6 +1362,26 @@
         "tone": -3.249286003730431,
         "urls": 8,
         "groups": 8,
+        "publisher_types": {
+          "unreviewed": 4,
+          "newspaper": 4
+        },
+        "tone_without_each_language": {
+          "zho": -2.454937414008904,
+          "vie": -3.7313494640219584,
+          "tha": -4.028133028807089,
+          "eng": -2.5205248389507435
+        },
+        "tone_without_each_publisher": {
+          "metrohk.com.hk": -3.029439200264403,
+          "thanhnien.vn": -2.92157868275559,
+          "tienphong.vn": -3.9901905763837244,
+          "udn.com": -3.4454450602805045,
+          "dailynews.co.th": -4.028133028807089,
+          "kwongwah.com.my": -2.7055819008452957,
+          "standardmedia.co.ke": -2.9044974810053987,
+          "thestar.com.my": -2.9694220995014455
+        },
         "positive_share": 25.0,
         "languages": {
           "zho": 3,
@@ -1112,7 +1400,7 @@
           "thestar.com.my": 1
         },
         "excluded": {},
-        "unverified_urls": 4,
+        "unverified_urls": 3,
         "largest_publisher": "metrohk.com.hk",
         "largest_publisher_share": 12.5,
         "tone_without_largest_publisher": -3.029439200264403,
@@ -1197,7 +1485,7 @@
   ],
   "stop_reason": null,
   "quality_alerts": [],
-  "registry_sha256": "521186d138bd017e06258e2d70baa97cd3dc1d0bea3357271c9900a14399f62f",
+  "registry_sha256": "632a2e643b93d432da0fc9b0a830b22633fe8bb7d534bc293cb3ef99833e9b01",
   "sample": "16 fixed files out of 192 per UTC day: 00,03,06,09,12,15,18,21; English and translated streams",
   "grouping": "Exact normalized title + language + UTC observation day; short titles use URL. One median document tone per group.",
   "limitations": [

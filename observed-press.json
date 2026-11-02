@@ -1,110 +1,112 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-01T20:20:00.332431+00:00",
+  "generated_at": "2026-11-02T20:20:56.979609+00:00",
   "status": "current",
-  "latest_complete_day": "2026-10-31",
+  "latest_complete_day": "2026-11-01",
   "age_days": 1,
-  "window_start": "2026-10-25",
-  "window_end": "2026-10-31",
+  "window_start": "2026-10-26",
+  "window_end": "2026-11-01",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": -1.2068320909251353,
-    "urls": 63,
-    "groups": 57,
+    "tone": -1.1041170754272478,
+    "urls": 65,
+    "groups": 59,
     "content_review": {
       "AI_content_reviewed": 35,
-      "content_unavailable": 28
+      "content_unavailable": 28,
+      "pending": 2
     },
     "publisher_types": {
       "broadcaster_news_portal": 3,
       "newspaper": 15,
-      "unreviewed": 37,
+      "unreviewed": 39,
       "news_agency_portal": 2,
       "online_news": 4,
       "advocacy_organization": 1,
       "news_agency": 1
     },
     "tone_without_each_language": {
-      "vie": -1.324364814319392,
-      "spa": -1.4329623556193065,
-      "eng": -0.5064225101522092,
-      "ita": -1.3547094023193118,
-      "jpn": -1.2344565220920445,
-      "tha": -1.2706051770567313,
-      "ukr": -1.2007325143502168,
-      "nld": -1.2210641628064098,
-      "dan": -1.2039765461771748,
-      "deu": -1.1674776252725936,
-      "zho": -1.0721692144408428,
-      "swe": -1.2101610896333466,
-      "ind": -1.3427700559448332,
-      "rus": -1.2283826639773698,
-      "kor": -1.1519669625616684
+      "vie": -1.3834631036185898,
+      "spa": -1.3145542384599662,
+      "eng": -0.3954852065134111,
+      "ita": -1.241210464155674,
+      "jpn": -1.1290179914591274,
+      "tha": -1.1581009572996666,
+      "ukr": -1.0946274834515233,
+      "nld": -1.1160874376661007,
+      "dan": -1.0995890491964946,
+      "deu": -1.0546195689882485,
+      "zho": -0.9629077019614694,
+      "swe": -1.105560332533488,
+      "ind": -1.2335965758687164,
+      "rus": -1.1231535767277177,
+      "kor": -0.9927078752920887
     },
     "tone_without_each_publisher": {
-      "vov.vn": -1.28942404097047,
-      "lanueva.com": -1.3836621670829599,
-      "nepalnational.com": -1.1813901827743625,
-      "baomoi.com": -1.1291763147710208,
-      "agensir.it": -1.3106195060826331,
-      "daily.co.jp": -1.2344565220920445,
-      "rionegro.com.ar": -1.2507740656791166,
-      "ryt9.com": -1.182067307863743,
-      "laosnews.net": -1.2283826639773698,
-      "daily.com.ua": -1.1792908623082488,
-      "drimble.nl": -1.2140221973387102,
-      "english.news.cn": -1.19479556142475,
-      "jyllands-posten.dk": -1.2039765461771748,
-      "nieuws.nl": -1.1996419845115605,
-      "vnexpress.net": -1.1855744447992878,
-      "bbc.co.uk": -1.2283826639773698,
-      "dailymail.com": -1.1921704604647863,
-      "dailymirror.lk": -1.1989708992714876,
-      "dailynews.co.th": -1.2779608545895675,
-      "eurasiareview.com": -1.1498003964724925,
-      "foxnews.com": -1.188582196985224,
-      "ksta.de": -1.1943690585351932,
-      "nbcwashington.com": -1.1978576334523394,
-      "wenxuecity.com": -1.1032689242139486,
-      "chinaqw.com": -1.3754414875067817,
-      "english.pravda.ru": -1.1697889139773698,
-      "news.finance.ua": -1.2283826639773698,
-      "nypost.com": -1.1874363491457047,
-      "soha.vn": -1.3160533911829808,
-      "thanhnien.vn": -1.16129439876688,
-      "amnesty.org.au": -1.0557942987343654,
-      "cna.com.tw": -1.1994876108104722,
-      "hd.se": -1.2101610896333466,
-      "idowa.de": -1.2019040404618986,
-      "independent.co.uk": -1.1832625751255026,
-      "jawapos.com": -1.3427700559448332,
-      "kommersant.ru": -1.2283826639773698,
-      "lafm.com.co": -1.202806027072608,
-      "lavanguardia.com": -1.204102247237126,
-      "moz.de": -1.1922233404348688,
-      "news.de": -1.218293882702148,
-      "noz.de": -1.206859933018148,
-      "schwaebische.de": -1.2019040404618986,
-      "shz.de": -1.206859933018148,
-      "sueddeutsche.de": -1.2283826639773698,
-      "tgcom24.mediaset.it": -1.2283826639773698,
-      "thestar.com.my": -1.1209048250417524,
-      "traunsteiner-tagblatt.de": -1.2019318825549112,
-      "wnd.com": -1.2027057265357266,
-      "zazoom.it": -1.2240900815597875,
-      "bangkokbiznews.com": -1.222094937619221,
-      "focus.de": -1.1535323645761724,
-      "ohmynews.com": -1.1519669625616684,
-      "metrohk.com.hk": -1.1428788491917872,
-      "tienphong.vn": -1.2629727712067025,
-      "udn.com": -1.1948795816938,
-      "kwongwah.com.my": -1.1023966867643988,
-      "standardmedia.co.ke": -1.1272611342844117
+      "vov.vn": -1.180207026681592,
+      "lanueva.com": -1.273078614208977,
+      "nepalnational.com": -1.0777815259110206,
+      "baomoi.com": -1.027368136114691,
+      "agensir.it": -1.2025546656569372,
+      "daily.co.jp": -1.1290179914591274,
+      "rionegro.com.ar": -1.144772861129404,
+      "ryt9.com": -1.078435301859388,
+      "laosnews.net": -1.1231535767277177,
+      "daily.com.ua": -1.0757545958058075,
+      "drimble.nl": -1.1110634494200236,
+      "english.news.cn": -1.0907246501251882,
+      "jyllands-posten.dk": -1.0995890491964946,
+      "nieuws.nl": -1.097170701434472,
+      "vnexpress.net": -1.0818215030385347,
+      "bbc.co.uk": -1.1231535767277177,
+      "dailymail.com": -1.0881900698879816,
+      "dailymirror.lk": -1.0947560108047967,
+      "dailynews.co.th": -1.169146057366686,
+      "eurasiareview.com": -1.0472810425850771,
+      "foxnews.com": -1.0847255396318525,
+      "ksta.de": -1.0903128542318228,
+      "nbcwashington.com": -1.0936811334621708,
+      "wenxuecity.com": -1.0023541038526902,
+      "chinaqw.com": -1.265141406342322,
+      "english.pravda.ru": -1.0665803008656485,
+      "news.finance.ua": -1.1231535767277177,
+      "nypost.com": -1.0836192037867995,
+      "soha.vn": -1.207801175408997,
+      "thanhnien.vn": -1.0565731613974263,
+      "amnesty.org.au": -0.956516534424127,
+      "cna.com.tw": -1.095254904704506,
+      "hd.se": -1.105560332533488,
+      "idowa.de": -1.0993560775220867,
+      "independent.co.uk": -1.0795893530086733,
+      "jawapos.com": -1.2335965758687164,
+      "kommersant.ru": -1.1231535767277177,
+      "lafm.com.co": -1.0984588928196715,
+      "lavanguardia.com": -1.0997104157371373,
+      "moz.de": -1.08824112641082,
+      "news.de": -1.113412684461986,
+      "noz.de": -1.1041439737204972,
+      "schwaebische.de": -1.0993560775220867,
+      "shz.de": -1.1041439737204972,
+      "sueddeutsche.de": -1.1231535767277177,
+      "tgcom24.mediaset.it": -1.1231535767277177,
+      "thestar.com.my": -1.017600765697742,
+      "traunsteiner-tagblatt.de": -1.0993829758153364,
+      "wnd.com": -1.098362050921993,
+      "zazoom.it": -1.1190090143935,
+      "bangkokbiznews.com": -1.1170826685198496,
+      "focus.de": -1.0508843221334576,
+      "ohmynews.com": -0.9927078752920887,
+      "metrohk.com.hk": -1.0405981693485342,
+      "tienphong.vn": -1.1565509216387972,
+      "udn.com": -1.090805773143581,
+      "kwongwah.com.my": -1.0015119435565731,
+      "standardmedia.co.ke": -1.0255189963345166,
+      "baotintuc.vn": -1.2598053183105518
     },
-    "positive_share": 19.29824561403509,
+    "positive_share": 20.338983050847457,
     "languages": {
-      "vie": 8,
+      "vie": 9,
       "spa": 4,
       "eng": 18,
       "ita": 3,
@@ -118,7 +120,7 @@
       "swe": 1,
       "ind": 1,
       "rus": 1,
-      "kor": 1
+      "kor": 2
     },
     "publishers": {
       "vov.vn": 2,
@@ -173,22 +175,23 @@
       "zazoom.it": 1,
       "bangkokbiznews.com": 1,
       "focus.de": 1,
-      "ohmynews.com": 1,
+      "ohmynews.com": 2,
       "metrohk.com.hk": 1,
       "tienphong.vn": 1,
       "udn.com": 1,
       "kwongwah.com.my": 1,
-      "standardmedia.co.ke": 1
+      "standardmedia.co.ke": 1,
+      "baotintuc.vn": 1
     },
     "excluded": {},
-    "unverified_urls": 36,
+    "unverified_urls": 38,
     "largest_publisher": "vov.vn",
-    "largest_publisher_share": 3.1746031746031744,
-    "tone_without_largest_publisher": -1.28942404097047,
+    "largest_publisher_share": 3.076923076923077,
+    "tone_without_largest_publisher": -1.180207026681592,
     "topics": [
       {
         "label": "Tourism",
-        "urls": 16
+        "urls": 17
       },
       {
         "label": "Conflict & violence",
@@ -196,22 +199,36 @@
       },
       {
         "label": "Economy & trade",
-        "urls": 11
+        "urls": 13
       },
       {
         "label": "Borders",
-        "urls": 8
+        "urls": 9
       },
       {
         "label": "Government",
-        "urls": 6
+        "urls": 8
       },
       {
         "label": "Education",
-        "urls": 6
+        "urls": 7
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-01",
+        "title": "20년 만에 부활한 캄보디아 징병제... 1만 5000명 몰렸다",
+        "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280268&CMPT_CD=M0153",
+        "host": "ohmynews.com",
+        "language": "kor"
+      },
+      {
+        "day": "2026-11-01",
+        "title": "Địa phương Campuchia mong muốn thu hút các nhà đầu tư Việt Nam",
+        "url": "https://baotintuc.vn/dia-phuong-campuchia-mong-muon-thu-hut-cac-nha-dau-tu-viet-nam-post1399047.html",
+        "host": "baotintuc.vn",
+        "language": "vie"
+      },
       {
         "day": "2026-10-31",
         "title": "More than 5,000 attempt to illegally enter/exit Cambodia; 373 charged",
@@ -281,20 +298,6 @@
         "url": "https://www.focus.de/panorama/welt/kreuzfahrt-fuers-leben-endet-in-kambodscha-holly-70-verliert-ihr-zuhause-auf-see_b658e24e-c0d4-48f0-bd9a-7cce4acae1dd.html",
         "host": "focus.de",
         "language": "deu"
-      },
-      {
-        "day": "2026-10-30",
-        "title": "ทร. คุมเข้มชายแดนจันทบุรี จับ 6 ชาวกัมพูชาลอบเข้าเมือง ช่องทางธรรมชาติ",
-        "url": "https://www.bangkokbiznews.com/news/1258656",
-        "host": "bangkokbiznews.com",
-        "language": "tha"
-      },
-      {
-        "day": "2026-10-29",
-        "title": "Usa nave da crociera sospende giro del mondo in Cambogia per costi carburante",
-        "url": "https://www.zazoom.it/2026-10-29/usa-nave-da-crociera-sospende-giro-del-mondo-in-cambogia-per-costi-carburante/19862520/",
-        "host": "zazoom.it",
-        "language": "ita"
       }
     ]
   },
@@ -1518,6 +1521,87 @@
             "url": "https://metrohk.com.hk/%E5%9C%8B%E9%9A%9B/%E9%A6%AC%E9%81%94%E5%8A%A0%E6%96%AF%E5%8A%A0%E8%A9%90%E9%A8%99%E4%B8%AD%E5%BF%83%E8%88%87%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%9B%86%E5%9C%98%E6%9C%89%E9%97%9C%E9%80%A3-1f74bd",
             "host": "metrohk.com.hk",
             "language": "zho"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-11-01",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 15006,
+      "rejected": 24,
+      "missing_titles": 44,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": 1.8232608662625496,
+        "urls": 2,
+        "groups": 2,
+        "content_review": {
+          "pending": 2
+        },
+        "publisher_types": {
+          "unreviewed": 2
+        },
+        "tone_without_each_language": {
+          "vie": -4.27927927927928,
+          "kor": 7.92580101180438
+        },
+        "tone_without_each_publisher": {
+          "baotintuc.vn": -4.27927927927928,
+          "ohmynews.com": 7.92580101180438
+        },
+        "positive_share": 50.0,
+        "languages": {
+          "vie": 1,
+          "kor": 1
+        },
+        "publishers": {
+          "baotintuc.vn": 1,
+          "ohmynews.com": 1
+        },
+        "excluded": {},
+        "unverified_urls": 2,
+        "largest_publisher": "baotintuc.vn",
+        "largest_publisher_share": 50.0,
+        "tone_without_largest_publisher": -4.27927927927928,
+        "topics": [
+          {
+            "label": "Economy & trade",
+            "urls": 2
+          },
+          {
+            "label": "Government",
+            "urls": 2
+          },
+          {
+            "label": "Borders",
+            "urls": 1
+          },
+          {
+            "label": "Tourism",
+            "urls": 1
+          },
+          {
+            "label": "Education",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-01",
+            "title": "20년 만에 부활한 캄보디아 징병제... 1만 5000명 몰렸다",
+            "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280268&CMPT_CD=M0153",
+            "host": "ohmynews.com",
+            "language": "kor"
+          },
+          {
+            "day": "2026-11-01",
+            "title": "Địa phương Campuchia mong muốn thu hút các nhà đầu tư Việt Nam",
+            "url": "https://baotintuc.vn/dia-phuong-campuchia-mong-muon-thu-hut-cac-nha-dau-tu-viet-nam-post1399047.html",
+            "host": "baotintuc.vn",
+            "language": "vie"
           }
         ]
       }

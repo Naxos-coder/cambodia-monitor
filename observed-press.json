@@ -1,114 +1,119 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-02T20:20:56.979609+00:00",
+  "generated_at": "2026-11-03T20:20:58.359209+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-01",
+  "latest_complete_day": "2026-11-02",
   "age_days": 1,
-  "window_start": "2026-10-26",
-  "window_end": "2026-11-01",
+  "window_start": "2026-10-27",
+  "window_end": "2026-11-02",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": -1.1041170754272478,
-    "urls": 65,
-    "groups": 59,
+    "tone": -1.2221062871991148,
+    "urls": 70,
+    "groups": 63,
     "content_review": {
-      "AI_content_reviewed": 35,
+      "AI_content_reviewed": 34,
       "content_unavailable": 28,
-      "pending": 2
+      "pending": 8
     },
     "publisher_types": {
-      "broadcaster_news_portal": 3,
       "newspaper": 15,
-      "unreviewed": 39,
+      "unreviewed": 45,
+      "broadcaster_news_portal": 2,
       "news_agency_portal": 2,
       "online_news": 4,
       "advocacy_organization": 1,
       "news_agency": 1
     },
     "tone_without_each_language": {
-      "vie": -1.3834631036185898,
-      "spa": -1.3145542384599662,
-      "eng": -0.3954852065134111,
-      "ita": -1.241210464155674,
-      "jpn": -1.1290179914591274,
-      "tha": -1.1581009572996666,
-      "ukr": -1.0946274834515233,
-      "nld": -1.1160874376661007,
-      "dan": -1.0995890491964946,
-      "deu": -1.0546195689882485,
-      "zho": -0.9629077019614694,
-      "swe": -1.105560332533488,
-      "ind": -1.2335965758687164,
-      "rus": -1.1231535767277177,
-      "kor": -0.9927078752920887
+      "spa": -1.4262757925192333,
+      "eng": -0.5043842698827365,
+      "vie": -1.5345007016033778,
+      "ita": -1.3559595772675728,
+      "jpn": -1.2473037443220323,
+      "tha": -1.2804295134714963,
+      "ukr": -1.217107462296286,
+      "nld": -1.2352074198059753,
+      "dan": -1.2197734434956986,
+      "deu": -1.1885022070125226,
+      "zho": -1.1032262604788508,
+      "swe": -1.2253594827464342,
+      "ind": -1.2537729680329752,
+      "rus": -1.2418176789281328,
+      "kor": -1.1218711071309126
     },
     "tone_without_each_publisher": {
-      "vov.vn": -1.180207026681592,
-      "lanueva.com": -1.273078614208977,
-      "nepalnational.com": -1.0777815259110206,
-      "baomoi.com": -1.027368136114691,
-      "agensir.it": -1.2025546656569372,
-      "daily.co.jp": -1.1290179914591274,
-      "rionegro.com.ar": -1.144772861129404,
-      "ryt9.com": -1.078435301859388,
-      "laosnews.net": -1.1231535767277177,
-      "daily.com.ua": -1.0757545958058075,
-      "drimble.nl": -1.1110634494200236,
-      "english.news.cn": -1.0907246501251882,
-      "jyllands-posten.dk": -1.0995890491964946,
-      "nieuws.nl": -1.097170701434472,
-      "vnexpress.net": -1.0818215030385347,
-      "bbc.co.uk": -1.1231535767277177,
-      "dailymail.com": -1.0881900698879816,
-      "dailymirror.lk": -1.0947560108047967,
-      "dailynews.co.th": -1.169146057366686,
-      "eurasiareview.com": -1.0472810425850771,
-      "foxnews.com": -1.0847255396318525,
-      "ksta.de": -1.0903128542318228,
-      "nbcwashington.com": -1.0936811334621708,
-      "wenxuecity.com": -1.0023541038526902,
-      "chinaqw.com": -1.265141406342322,
-      "english.pravda.ru": -1.0665803008656485,
-      "news.finance.ua": -1.1231535767277177,
-      "nypost.com": -1.0836192037867995,
-      "soha.vn": -1.207801175408997,
-      "thanhnien.vn": -1.0565731613974263,
-      "amnesty.org.au": -0.956516534424127,
-      "cna.com.tw": -1.095254904704506,
-      "hd.se": -1.105560332533488,
-      "idowa.de": -1.0993560775220867,
-      "independent.co.uk": -1.0795893530086733,
-      "jawapos.com": -1.2335965758687164,
-      "kommersant.ru": -1.1231535767277177,
-      "lafm.com.co": -1.0984588928196715,
-      "lavanguardia.com": -1.0997104157371373,
-      "moz.de": -1.08824112641082,
-      "news.de": -1.113412684461986,
-      "noz.de": -1.1041439737204972,
-      "schwaebische.de": -1.0993560775220867,
-      "shz.de": -1.1041439737204972,
-      "sueddeutsche.de": -1.1231535767277177,
-      "tgcom24.mediaset.it": -1.1231535767277177,
-      "thestar.com.my": -1.017600765697742,
-      "traunsteiner-tagblatt.de": -1.0993829758153364,
-      "wnd.com": -1.098362050921993,
-      "zazoom.it": -1.1190090143935,
-      "bangkokbiznews.com": -1.1170826685198496,
-      "focus.de": -1.0508843221334576,
-      "ohmynews.com": -0.9927078752920887,
-      "metrohk.com.hk": -1.0405981693485342,
-      "tienphong.vn": -1.1565509216387972,
-      "udn.com": -1.090805773143581,
-      "kwongwah.com.my": -1.0015119435565731,
-      "standardmedia.co.ke": -1.0255189963345166,
-      "baotintuc.vn": -1.2598053183105518
+      "lanueva.com": -1.3820701333460852,
+      "nepalnational.com": -1.1993728571963842,
+      "baomoi.com": -1.1522119441611078,
+      "agensir.it": -1.316096116958693,
+      "daily.co.jp": -1.2473037443220323,
+      "rionegro.com.ar": -1.262042170787775,
+      "ryt9.com": -1.1999844540513085,
+      "vov.vn": -1.2827921257731005,
+      "laosnews.net": -1.2418176789281328,
+      "daily.com.ua": -1.1974766967753783,
+      "drimble.nl": -1.2286116215733016,
+      "english.news.cn": -1.2114809411386698,
+      "jyllands-posten.dk": -1.2197734434956986,
+      "nieuws.nl": -1.215600952824928,
+      "vnexpress.net": -1.2031521906382523,
+      "bbc.co.uk": -1.2418176789281328,
+      "dailymail.com": -1.2091098822070894,
+      "dailymirror.lk": -1.2152522140324973,
+      "dailynews.co.th": -1.2867395723481596,
+      "eurasiareview.com": -1.1708401469882435,
+      "foxnews.com": -1.2058688700320008,
+      "ksta.de": -1.2110957127222959,
+      "nbcwashington.com": -1.2142466836152022,
+      "wenxuecity.com": -1.1288117204321395,
+      "chinaqw.com": -1.3746450034063113,
+      "english.pravda.ru": -1.1888942918313588,
+      "news.finance.ua": -1.2418176789281328,
+      "nypost.com": -1.2048339106930805,
+      "soha.vn": -1.3210041422106202,
+      "thanhnien.vn": -1.1815485056227855,
+      "amnesty.org.au": -1.0859314135473546,
+      "cna.com.tw": -1.2157189212289994,
+      "hd.se": -1.2253594827464342,
+      "idowa.de": -1.217647574875234,
+      "independent.co.uk": -1.2010640502877366,
+      "jawapos.com": -1.3451353232858416,
+      "kommersant.ru": -1.2418176789281328,
+      "lafm.com.co": -1.2187162004335093,
+      "lavanguardia.com": -1.219886979936945,
+      "moz.de": -1.2091576447607126,
+      "news.de": -1.2327052313247067,
+      "noz.de": -1.2221314776642216,
+      "schwaebische.de": -1.217647574875234,
+      "shz.de": -1.2221314776642216,
+      "sueddeutsche.de": -1.2418176789281328,
+      "tgcom24.mediaset.it": -1.2418176789281328,
+      "thestar.com.my": -1.145131676854228,
+      "traunsteiner-tagblatt.de": -1.2176727653403407,
+      "wnd.com": -1.2186256064001968,
+      "zazoom.it": -1.237940507712252,
+      "bangkokbiznews.com": -1.2361384422175468,
+      "focus.de": -1.1742109568883414,
+      "ohmynews.com": -1.1218711071309126,
+      "metrohk.com.hk": -1.1645884268637356,
+      "tienphong.vn": -1.2730603564255945,
+      "udn.com": -1.2115568304139406,
+      "kwongwah.com.my": -1.1280238930583526,
+      "standardmedia.co.ke": -1.15048210372159,
+      "baotintuc.vn": -1.369653179118526,
+      "cambodiantimes.com": -1.2221062871991148,
+      "asia.nikkei.com": -1.1982256998522829,
+      "kevesko.vn": -1.2648591535825107,
+      "antaranews.com": -1.1302331790295734,
+      "nbcnews.com": -1.1842139922921882
     },
-    "positive_share": 20.338983050847457,
+    "positive_share": 20.634920634920636,
     "languages": {
-      "vie": 9,
       "spa": 4,
-      "eng": 18,
+      "eng": 22,
+      "vie": 9,
       "ita": 3,
       "jpn": 1,
       "tha": 4,
@@ -118,19 +123,19 @@
       "deu": 10,
       "zho": 6,
       "swe": 1,
-      "ind": 1,
+      "ind": 2,
       "rus": 1,
       "kor": 2
     },
     "publishers": {
-      "vov.vn": 2,
       "lanueva.com": 1,
-      "nepalnational.com": 1,
+      "nepalnational.com": 2,
       "baomoi.com": 1,
       "agensir.it": 1,
       "daily.co.jp": 1,
       "rionegro.com.ar": 1,
       "ryt9.com": 1,
+      "vov.vn": 1,
       "laosnews.net": 1,
       "daily.com.ua": 1,
       "drimble.nl": 1,
@@ -181,13 +186,18 @@
       "udn.com": 1,
       "kwongwah.com.my": 1,
       "standardmedia.co.ke": 1,
-      "baotintuc.vn": 1
+      "baotintuc.vn": 1,
+      "cambodiantimes.com": 1,
+      "asia.nikkei.com": 1,
+      "kevesko.vn": 1,
+      "antaranews.com": 1,
+      "nbcnews.com": 1
     },
     "excluded": {},
-    "unverified_urls": 38,
-    "largest_publisher": "vov.vn",
-    "largest_publisher_share": 3.076923076923077,
-    "tone_without_largest_publisher": -1.180207026681592,
+    "unverified_urls": 44,
+    "largest_publisher": "nepalnational.com",
+    "largest_publisher_share": 2.857142857142857,
+    "tone_without_largest_publisher": -1.1993728571963842,
     "topics": [
       {
         "label": "Tourism",
@@ -195,26 +205,68 @@
       },
       {
         "label": "Conflict & violence",
-        "urls": 15
+        "urls": 16
       },
       {
         "label": "Economy & trade",
-        "urls": 13
+        "urls": 15
       },
       {
         "label": "Borders",
-        "urls": 9
+        "urls": 10
       },
       {
         "label": "Government",
-        "urls": 8
+        "urls": 9
       },
       {
         "label": "Education",
-        "urls": 7
+        "urls": 6
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-02",
+        "title": "Some crewmembers on the evacuated Odyssey cruise ship say they're waiting without pay in Cambodia",
+        "url": "https://www.nbcnews.com/world/asia/crewmembers-evacuated-odyssey-cruise-ship-say-re-waiting-pay-cambodia-rcna606767",
+        "host": "nbcnews.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-02",
+        "title": "Penangkapan narkoba di Kamboja naik, penyitaan turun dalam 10 bulan pertama 2026",
+        "url": "https://www.antaranews.com/berita/5825615/penangkapan-narkoba-di-kamboja-naik-penyitaan-turun-dalam-10-bulan-pertama-2026",
+        "host": "antaranews.com",
+        "language": "ind"
+      },
+      {
+        "day": "2026-11-02",
+        "title": "Thái Lan: Quan hệ với Campuchia sẽ không trở lại mức trước đây",
+        "url": "https://kevesko.vn/20261102/thai-lan-quan-he-voi-campuchia-se-khong-tro-lai-muc-truoc-day-44812703.html",
+        "host": "kevesko.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-02",
+        "title": "Myanmar refugees fill labor gaps in Thailand as Cambodians return home",
+        "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-refugees-fill-labor-gaps-in-thailand-as-cambodians-return-home",
+        "host": "asia.nikkei.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-02",
+        "title": "Cambodia's insurance gross premiums rise in first 9 months of 2026",
+        "url": "http://www.nepalnational.com/news/279408046/cambodia-insurance-gross-premiums-rise-in-first-9-months-of-2026",
+        "host": "nepalnational.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-02",
+        "title": "Cambodia's insurance gross premiums rise in first 9 months of 2026",
+        "url": "http://www.cambodiantimes.com/news/279408046/cambodia-insurance-gross-premiums-rise-in-first-9-months-of-2026",
+        "host": "cambodiantimes.com",
+        "language": "eng"
+      },
       {
         "day": "2026-11-01",
         "title": "20년 만에 부활한 캄보디아 징병제... 1만 5000명 몰렸다",
@@ -256,48 +308,6 @@
         "url": "https://www.dailynews.co.th/news/6319944/",
         "host": "dailynews.co.th",
         "language": "tha"
-      },
-      {
-        "day": "2026-10-31",
-        "title": "旅程全泡湯！退休婦賣房砸650萬搭豪華郵輪 竟慘被丟包柬埔寨 | 世界萬象 | 全球",
-        "url": "https://udn.com/news/story/6812/9849003",
-        "host": "udn.com",
-        "language": "zho"
-      },
-      {
-        "day": "2026-10-31",
-        "title": "Bên trong siêu du thuyền mắc kẹt tại Campuchia vì hết tiền mua xăng dầu",
-        "url": "https://tienphong.vn/ben-trong-sieu-du-thuyen-mac-ket-tai-campuchia-vi-het-tien-mua-xang-dau-post1890273.tpo",
-        "host": "tienphong.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-10-31",
-        "title": "Trung tâm lừa đảo trực tuyến ở Campuchia đã dời đến Madagascar?",
-        "url": "https://thanhnien.vn/trung-tam-lua-dao-truc-tuyen-o-campuchia-da-doi-den-madagascar-18526103114471175.htm",
-        "host": "thanhnien.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-10-31",
-        "title": "馬達加斯加詐騙中心與柬埔寨集團有關連｜METROHK.com.hk",
-        "url": "https://metrohk.com.hk/%E5%9C%8B%E9%9A%9B/%E9%A6%AC%E9%81%94%E5%8A%A0%E6%96%AF%E5%8A%A0%E8%A9%90%E9%A8%99%E4%B8%AD%E5%BF%83%E8%88%87%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%9B%86%E5%9C%98%E6%9C%89%E9%97%9C%E9%80%A3-1f74bd",
-        "host": "metrohk.com.hk",
-        "language": "zho"
-      },
-      {
-        "day": "2026-10-30",
-        "title": "20년 만에 부활한 캄보디아 징병제... 1만 5000명 몰렸다",
-        "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280268&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
-        "host": "ohmynews.com",
-        "language": "kor"
-      },
-      {
-        "day": "2026-10-30",
-        "title": "Kreuzfahrt fürs Leben endet in Kambodscha: Holly (70) verliert ihr Zuhause auf See",
-        "url": "https://www.focus.de/panorama/welt/kreuzfahrt-fuers-leben-endet-in-kambodscha-holly-70-verliert-ihr-zuhause-auf-see_b658e24e-c0d4-48f0-bd9a-7cce4acae1dd.html",
-        "host": "focus.de",
-        "language": "deu"
       }
     ]
   },
@@ -1602,6 +1612,121 @@
             "url": "https://baotintuc.vn/dia-phuong-campuchia-mong-muon-thu-hut-cac-nha-dau-tu-viet-nam-post1399047.html",
             "host": "baotintuc.vn",
             "language": "vie"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-11-02",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 24941,
+      "rejected": 0,
+      "missing_titles": 40,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": -2.452262255416295,
+        "urls": 6,
+        "groups": 5,
+        "content_review": {
+          "pending": 6
+        },
+        "publisher_types": {
+          "unreviewed": 6
+        },
+        "tone_without_each_language": {
+          "eng": -2.7448337825696303,
+          "vie": -3.4224706764132264,
+          "ind": -1.3357680708426962
+        },
+        "tone_without_each_publisher": {
+          "cambodiantimes.com": -2.452262255416295,
+          "nepalnational.com": -2.452262255416295,
+          "asia.nikkei.com": -2.389652143594694,
+          "kevesko.vn": -3.4224706764132264,
+          "antaranews.com": -1.3357680708426962,
+          "nbcnews.com": -2.1724706764132264
+        },
+        "positive_share": 20.0,
+        "languages": {
+          "eng": 4,
+          "vie": 1,
+          "ind": 1
+        },
+        "publishers": {
+          "cambodiantimes.com": 1,
+          "nepalnational.com": 1,
+          "asia.nikkei.com": 1,
+          "kevesko.vn": 1,
+          "antaranews.com": 1,
+          "nbcnews.com": 1
+        },
+        "excluded": {},
+        "unverified_urls": 6,
+        "largest_publisher": "cambodiantimes.com",
+        "largest_publisher_share": 16.666666666666668,
+        "tone_without_largest_publisher": -2.452262255416295,
+        "topics": [
+          {
+            "label": "Economy & trade",
+            "urls": 2
+          },
+          {
+            "label": "Borders",
+            "urls": 2
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 2
+          },
+          {
+            "label": "Government",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-02",
+            "title": "Some crewmembers on the evacuated Odyssey cruise ship say they're waiting without pay in Cambodia",
+            "url": "https://www.nbcnews.com/world/asia/crewmembers-evacuated-odyssey-cruise-ship-say-re-waiting-pay-cambodia-rcna606767",
+            "host": "nbcnews.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-02",
+            "title": "Penangkapan narkoba di Kamboja naik, penyitaan turun dalam 10 bulan pertama 2026",
+            "url": "https://www.antaranews.com/berita/5825615/penangkapan-narkoba-di-kamboja-naik-penyitaan-turun-dalam-10-bulan-pertama-2026",
+            "host": "antaranews.com",
+            "language": "ind"
+          },
+          {
+            "day": "2026-11-02",
+            "title": "Thái Lan: Quan hệ với Campuchia sẽ không trở lại mức trước đây",
+            "url": "https://kevesko.vn/20261102/thai-lan-quan-he-voi-campuchia-se-khong-tro-lai-muc-truoc-day-44812703.html",
+            "host": "kevesko.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-02",
+            "title": "Myanmar refugees fill labor gaps in Thailand as Cambodians return home",
+            "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-refugees-fill-labor-gaps-in-thailand-as-cambodians-return-home",
+            "host": "asia.nikkei.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-02",
+            "title": "Cambodia's insurance gross premiums rise in first 9 months of 2026",
+            "url": "http://www.nepalnational.com/news/279408046/cambodia-insurance-gross-premiums-rise-in-first-9-months-of-2026",
+            "host": "nepalnational.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-02",
+            "title": "Cambodia's insurance gross premiums rise in first 9 months of 2026",
+            "url": "http://www.cambodiantimes.com/news/279408046/cambodia-insurance-gross-premiums-rise-in-first-9-months-of-2026",
+            "host": "cambodiantimes.com",
+            "language": "eng"
           }
         ]
       }

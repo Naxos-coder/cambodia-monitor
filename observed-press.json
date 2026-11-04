@@ -1,140 +1,133 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-03T20:20:58.359209+00:00",
+  "generated_at": "2026-11-04T20:21:02.784283+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-02",
+  "latest_complete_day": "2026-11-03",
   "age_days": 1,
-  "window_start": "2026-10-27",
-  "window_end": "2026-11-02",
+  "window_start": "2026-10-28",
+  "window_end": "2026-11-03",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": -1.2221062871991148,
-    "urls": 70,
-    "groups": 63,
+    "tone": -1.4934510065964726,
+    "urls": 69,
+    "groups": 62,
     "content_review": {
-      "AI_content_reviewed": 34,
-      "content_unavailable": 28,
-      "pending": 8
+      "AI_content_reviewed": 30,
+      "content_unavailable": 25,
+      "pending": 14
     },
     "publisher_types": {
-      "newspaper": 15,
-      "unreviewed": 45,
       "broadcaster_news_portal": 2,
+      "unreviewed": 46,
       "news_agency_portal": 2,
       "online_news": 4,
+      "newspaper": 13,
       "advocacy_organization": 1,
       "news_agency": 1
     },
     "tone_without_each_language": {
-      "spa": -1.4262757925192333,
-      "eng": -0.5043842698827365,
-      "vie": -1.5345007016033778,
-      "ita": -1.3559595772675728,
-      "jpn": -1.2473037443220323,
-      "tha": -1.2804295134714963,
-      "ukr": -1.217107462296286,
-      "nld": -1.2352074198059753,
-      "dan": -1.2197734434956986,
-      "deu": -1.1885022070125226,
-      "zho": -1.1032262604788508,
-      "swe": -1.2253594827464342,
-      "ind": -1.2537729680329752,
-      "rus": -1.2418176789281328,
-      "kor": -1.1218711071309126
+      "vie": -1.988490877123436,
+      "eng": -0.9284039271572826,
+      "ukr": -1.497413691925175,
+      "nld": -1.5112151859575005,
+      "dan": -1.4955281936421372,
+      "tha": -1.5888180941121772,
+      "deu": -1.4883195020562652,
+      "zho": -1.4015207707630635,
+      "swe": -1.5012058073068195,
+      "ind": -1.5346902894241425,
+      "rus": -1.5179338099833,
+      "spa": -1.496699456747683,
+      "ita": -1.5420968606762382,
+      "kor": -1.4042838889545803,
+      "fra": -1.4271393585331107,
+      "guj": -1.4723964693639922
     },
     "tone_without_each_publisher": {
-      "lanueva.com": -1.3820701333460852,
-      "nepalnational.com": -1.1993728571963842,
-      "baomoi.com": -1.1522119441611078,
-      "agensir.it": -1.316096116958693,
-      "daily.co.jp": -1.2473037443220323,
-      "rionegro.com.ar": -1.262042170787775,
-      "ryt9.com": -1.1999844540513085,
-      "vov.vn": -1.2827921257731005,
-      "laosnews.net": -1.2418176789281328,
-      "daily.com.ua": -1.1974766967753783,
-      "drimble.nl": -1.2286116215733016,
-      "english.news.cn": -1.2114809411386698,
-      "jyllands-posten.dk": -1.2197734434956986,
-      "nieuws.nl": -1.215600952824928,
-      "vnexpress.net": -1.2031521906382523,
-      "bbc.co.uk": -1.2418176789281328,
-      "dailymail.com": -1.2091098822070894,
-      "dailymirror.lk": -1.2152522140324973,
-      "dailynews.co.th": -1.2867395723481596,
-      "eurasiareview.com": -1.1708401469882435,
-      "foxnews.com": -1.2058688700320008,
-      "ksta.de": -1.2110957127222959,
-      "nbcwashington.com": -1.2142466836152022,
-      "wenxuecity.com": -1.1288117204321395,
-      "chinaqw.com": -1.3746450034063113,
-      "english.pravda.ru": -1.1888942918313588,
-      "news.finance.ua": -1.2418176789281328,
-      "nypost.com": -1.2048339106930805,
-      "soha.vn": -1.3210041422106202,
-      "thanhnien.vn": -1.1815485056227855,
-      "amnesty.org.au": -1.0859314135473546,
-      "cna.com.tw": -1.2157189212289994,
-      "hd.se": -1.2253594827464342,
-      "idowa.de": -1.217647574875234,
-      "independent.co.uk": -1.2010640502877366,
-      "jawapos.com": -1.3451353232858416,
-      "kommersant.ru": -1.2418176789281328,
-      "lafm.com.co": -1.2187162004335093,
-      "lavanguardia.com": -1.219886979936945,
-      "moz.de": -1.2091576447607126,
-      "news.de": -1.2327052313247067,
-      "noz.de": -1.2221314776642216,
-      "schwaebische.de": -1.217647574875234,
-      "shz.de": -1.2221314776642216,
-      "sueddeutsche.de": -1.2418176789281328,
-      "tgcom24.mediaset.it": -1.2418176789281328,
-      "thestar.com.my": -1.145131676854228,
-      "traunsteiner-tagblatt.de": -1.2176727653403407,
-      "wnd.com": -1.2186256064001968,
-      "zazoom.it": -1.237940507712252,
-      "bangkokbiznews.com": -1.2361384422175468,
-      "focus.de": -1.1742109568883414,
-      "ohmynews.com": -1.1218711071309126,
-      "metrohk.com.hk": -1.1645884268637356,
-      "tienphong.vn": -1.2730603564255945,
-      "udn.com": -1.2115568304139406,
-      "kwongwah.com.my": -1.1280238930583526,
-      "standardmedia.co.ke": -1.15048210372159,
-      "baotintuc.vn": -1.369653179118526,
-      "cambodiantimes.com": -1.2221062871991148,
-      "asia.nikkei.com": -1.1982256998522829,
-      "kevesko.vn": -1.2648591535825107,
-      "antaranews.com": -1.1302331790295734,
-      "nbcnews.com": -1.1842139922921882
+      "vov.vn": -1.5595799690716277,
+      "laosnews.net": -1.5179338099833,
+      "daily.com.ua": -1.472865926483779,
+      "drimble.nl": -1.50006126571863,
+      "english.news.cn": -1.4870997486235178,
+      "jyllands-posten.dk": -1.4955281936421372,
+      "nieuws.nl": -1.486840747474315,
+      "vnexpress.net": -1.4786344612296507,
+      "bbc.co.uk": -1.5179338099833,
+      "dailymail.com": -1.484689819873387,
+      "dailymirror.lk": -1.4909328456631457,
+      "dailynews.co.th": -1.5682063371445798,
+      "eurasiareview.com": -1.4457927119460354,
+      "foxnews.com": -1.4813956763511658,
+      "ksta.de": -1.4867082049872031,
+      "nbcwashington.com": -1.489910831140649,
+      "wenxuecity.com": -1.4030752947906509,
+      "chinaqw.com": -1.6529386315840715,
+      "english.pravda.ru": -1.4641428263767426,
+      "news.finance.ua": -1.5179338099833,
+      "nypost.com": -1.4803437504657058,
+      "soha.vn": -1.598418412008123,
+      "thanhnien.vn": -1.461262085973783,
+      "amnesty.org.au": -1.359492032055296,
+      "cna.com.tw": -1.4914072037972954,
+      "hd.se": -1.5012058073068195,
+      "idowa.de": -1.4889203795576904,
+      "independent.co.uk": -1.4765120890701102,
+      "jawapos.com": -1.6229451862157251,
+      "kommersant.ru": -1.5179338099833,
+      "lafm.com.co": -1.4944536187264692,
+      "lavanguardia.com": -1.4956435913365187,
+      "moz.de": -1.4847383654196924,
+      "news.de": -1.5086719779929323,
+      "noz.de": -1.4934766033594036,
+      "schwaebische.de": -1.4889203795576904,
+      "shz.de": -1.4934766033594036,
+      "sueddeutsche.de": -1.5179338099833,
+      "tgcom24.mediaset.it": -1.5179338099833,
+      "thestar.com.my": -1.4242383100590827,
+      "traunsteiner-tagblatt.de": -1.4889459763206214,
+      "wnd.com": -1.49436153954507,
+      "zazoom.it": -1.5163952463316341,
+      "bangkokbiznews.com": -1.5121614710315567,
+      "focus.de": -1.4492187810248234,
+      "ohmynews.com": -1.4005900641737123,
+      "metrohk.com.hk": -1.4394385046063716,
+      "tienphong.vn": -1.493680479551756,
+      "udn.com": -1.4871768819852684,
+      "kwongwah.com.my": -1.402274552214015,
+      "standardmedia.co.ke": -1.4251009302651745,
+      "baotintuc.vn": -1.6478649741112406,
+      "cambodiantimes.com": -1.4934510065964726,
+      "nepalnational.com": -1.4934510065964726,
+      "asia.nikkei.com": -1.473627208299649,
+      "kevesko.vn": -1.5413530137303726,
+      "antaranews.com": -1.4045200559880426,
+      "nbcnews.com": -1.4593858006156184,
+      "lecourrier.vn": -1.4271393585331107,
+      "voh.com.vn": -1.5882919328285825,
+      "divyabhaskar.co.in": -1.4723964693639922,
+      "munhwa.com": -1.4985460328996525
     },
-    "positive_share": 20.634920634920636,
+    "positive_share": 16.129032258064516,
     "languages": {
-      "spa": 4,
-      "eng": 22,
-      "vie": 9,
-      "ita": 3,
-      "jpn": 1,
-      "tha": 4,
+      "vie": 10,
+      "eng": 21,
       "ukr": 2,
       "nld": 2,
       "dan": 1,
+      "tha": 3,
       "deu": 10,
       "zho": 6,
       "swe": 1,
       "ind": 2,
       "rus": 1,
-      "kor": 2
+      "spa": 2,
+      "ita": 3,
+      "kor": 3,
+      "fra": 1,
+      "guj": 1
     },
     "publishers": {
-      "lanueva.com": 1,
-      "nepalnational.com": 2,
-      "baomoi.com": 1,
-      "agensir.it": 1,
-      "daily.co.jp": 1,
-      "rionegro.com.ar": 1,
-      "ryt9.com": 1,
       "vov.vn": 1,
       "laosnews.net": 1,
       "daily.com.ua": 1,
@@ -177,54 +170,101 @@
       "thestar.com.my": 2,
       "traunsteiner-tagblatt.de": 1,
       "wnd.com": 1,
-      "zazoom.it": 1,
+      "zazoom.it": 2,
       "bangkokbiznews.com": 1,
       "focus.de": 1,
       "ohmynews.com": 2,
       "metrohk.com.hk": 1,
-      "tienphong.vn": 1,
+      "tienphong.vn": 2,
       "udn.com": 1,
       "kwongwah.com.my": 1,
       "standardmedia.co.ke": 1,
       "baotintuc.vn": 1,
       "cambodiantimes.com": 1,
+      "nepalnational.com": 1,
       "asia.nikkei.com": 1,
       "kevesko.vn": 1,
       "antaranews.com": 1,
-      "nbcnews.com": 1
+      "nbcnews.com": 1,
+      "lecourrier.vn": 1,
+      "voh.com.vn": 1,
+      "divyabhaskar.co.in": 1,
+      "munhwa.com": 1
     },
     "excluded": {},
     "unverified_urls": 44,
-    "largest_publisher": "nepalnational.com",
-    "largest_publisher_share": 2.857142857142857,
-    "tone_without_largest_publisher": -1.1993728571963842,
+    "largest_publisher": "english.news.cn",
+    "largest_publisher_share": 2.898550724637681,
+    "tone_without_largest_publisher": -1.4870997486235178,
     "topics": [
       {
         "label": "Tourism",
-        "urls": 17
-      },
-      {
-        "label": "Conflict & violence",
-        "urls": 16
-      },
-      {
-        "label": "Economy & trade",
         "urls": 15
       },
       {
-        "label": "Borders",
-        "urls": 10
+        "label": "Conflict & violence",
+        "urls": 14
+      },
+      {
+        "label": "Economy & trade",
+        "urls": 12
       },
       {
         "label": "Government",
+        "urls": 10
+      },
+      {
+        "label": "Borders",
         "urls": 9
       },
       {
         "label": "Education",
-        "urls": 6
+        "urls": 4
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-03",
+        "title": "Ho pagato molto e molto probabilmente non rivedrò più quei soldi | il carburante costa troppo la crociera interrompe il giro del mondo e fa sbarcare tutti i passeggeri in Cambogia",
+        "url": "https://www.zazoom.it/2026-11-03/ho-pagato-molto-e-molto-probabilmente-non-rivedro-piu-quei-soldi-il-carburante-costa-troppo-la-crociera-interrompe-il-giro-del-mondo-e-fa-sbarcare-tutti-i-passeggeri-in-cambogia/19879545/",
+        "host": "zazoom.it",
+        "language": "ita"
+      },
+      {
+        "day": "2026-11-03",
+        "title": "中원단 늦으면 캄보디아 공장 스톱… 22달러 옷 한 장에 임금 11센트[차이나 쇼크 3.0]",
+        "url": "https://www.munhwa.com:443/article/11628314",
+        "host": "munhwa.com",
+        "language": "kor"
+      },
+      {
+        "day": "2026-11-03",
+        "title": "Indians Trapped In Cambodia Cyber Scam Jail | Extortion Call To Families",
+        "url": "https://www.divyabhaskar.co.in/dvb-original/news/indians-trapped-cambodia-cyber-scam-jail-extortion-call-139569814.html",
+        "host": "divyabhaskar.co.in",
+        "language": "guj"
+      },
+      {
+        "day": "2026-11-03",
+        "title": "Lễ dâng y Kathina: Nét đẹp văn hóa của đồng bào Khmer tại TP. Hồ Chí Minh",
+        "url": "https://voh.com.vn/van-hoa/le-dang-y-kathina-net-dep-van-hoa-cua-dong-bao-khmer-tai-tp-ho-chi-minh-677397.html",
+        "host": "voh.com.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-03",
+        "title": "Tên cha mẹ, anh em trong lá đơn 6 trang từ Campuchia hé lộ manh mối liệt sĩ",
+        "url": "https://tienphong.vn/ten-cha-me-anh-em-trong-la-don-6-trang-tu-campuchia-he-lo-manh-moi-liet-si-post1891066.tpo",
+        "host": "tienphong.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-03",
+        "title": "Le Cambodge et la France renforcent leur coopération contre les escroqueries en ligne",
+        "url": "https://lecourrier.vn/le-cambodge-et-la-france-renforcent-leur-cooperation-contre-les-escroqueries-en-ligne/1358667.html",
+        "host": "lecourrier.vn",
+        "language": "fra"
+      },
       {
         "day": "2026-11-02",
         "title": "Some crewmembers on the evacuated Odyssey cruise ship say they're waiting without pay in Cambodia",
@@ -266,48 +306,6 @@
         "url": "http://www.cambodiantimes.com/news/279408046/cambodia-insurance-gross-premiums-rise-in-first-9-months-of-2026",
         "host": "cambodiantimes.com",
         "language": "eng"
-      },
-      {
-        "day": "2026-11-01",
-        "title": "20년 만에 부활한 캄보디아 징병제... 1만 5000명 몰렸다",
-        "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280268&CMPT_CD=M0153",
-        "host": "ohmynews.com",
-        "language": "kor"
-      },
-      {
-        "day": "2026-11-01",
-        "title": "Địa phương Campuchia mong muốn thu hút các nhà đầu tư Việt Nam",
-        "url": "https://baotintuc.vn/dia-phuong-campuchia-mong-muon-thu-hut-cac-nha-dau-tu-viet-nam-post1399047.html",
-        "host": "baotintuc.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-10-31",
-        "title": "More than 5,000 attempt to illegally enter/exit Cambodia; 373 charged",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/31/more-than-5000-attempt-to-illegally-enterexit-cambodia-373-charged",
-        "host": "thestar.com.my",
-        "language": "eng"
-      },
-      {
-        "day": "2026-10-31",
-        "title": "Scam centres relocated from Cambodia operate in Madagascar",
-        "url": "https://www.standardmedia.co.ke/africa/article/2001561235/scam-centres-relocated-from-cambodia-operate-in-madagascar",
-        "host": "standardmedia.co.ke",
-        "language": "eng"
-      },
-      {
-        "day": "2026-10-31",
-        "title": "扫荡不熄灭 柬埔寨诈骗巢穴移至非洲光华日报 | 1910年创刊 创新每一天生活",
-        "url": "https://www.kwongwah.com.my/20261031/%E6%89%AB%E8%8D%A1%E4%B8%8D%E7%86%84%E7%81%AD-%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%AF%88%E9%AA%97%E5%B7%A2%E7%A9%B4%E7%A7%BB%E8%87%B3%E9%9D%9E%E6%B4%B2/",
-        "host": "kwongwah.com.my",
-        "language": "zho"
-      },
-      {
-        "day": "2026-10-31",
-        "title": "'อนุทิน' ลั่นยังไม่เปิดด่านไทย-กัมพูชา จนกว่าไทยบรรลุเงื่อนไขที่ควรได้",
-        "url": "https://www.dailynews.co.th/news/6319944/",
-        "host": "dailynews.co.th",
-        "language": "tha"
       }
     ]
   },
@@ -1727,6 +1725,117 @@
             "url": "http://www.cambodiantimes.com/news/279408046/cambodia-insurance-gross-premiums-rise-in-first-9-months-of-2026",
             "host": "cambodiantimes.com",
             "language": "eng"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-11-03",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 27519,
+      "rejected": 50,
+      "missing_titles": 60,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": -1.9145151465327968,
+        "urls": 6,
+        "groups": 6,
+        "content_review": {
+          "pending": 6
+        },
+        "publisher_types": {
+          "unreviewed": 6
+        },
+        "tone_without_each_language": {
+          "fra": -1.1897258681470482,
+          "vie": -2.7171891830101127,
+          "guj": -1.7418626202838001,
+          "kor": -2.060887295418856,
+          "ita": -2.02344557309963
+        },
+        "tone_without_each_publisher": {
+          "lecourrier.vn": -1.1897258681470482,
+          "tienphong.vn": -1.315382247695644,
+          "voh.com.vn": -3.155787274551802,
+          "divyabhaskar.co.in": -1.7418626202838001,
+          "munhwa.com": -2.060887295418856,
+          "zazoom.it": -2.02344557309963
+        },
+        "positive_share": 16.666666666666668,
+        "languages": {
+          "fra": 1,
+          "vie": 2,
+          "guj": 1,
+          "kor": 1,
+          "ita": 1
+        },
+        "publishers": {
+          "lecourrier.vn": 1,
+          "tienphong.vn": 1,
+          "voh.com.vn": 1,
+          "divyabhaskar.co.in": 1,
+          "munhwa.com": 1,
+          "zazoom.it": 1
+        },
+        "excluded": {},
+        "unverified_urls": 5,
+        "largest_publisher": "lecourrier.vn",
+        "largest_publisher_share": 16.666666666666668,
+        "tone_without_largest_publisher": -1.1897258681470482,
+        "topics": [
+          {
+            "label": "Government",
+            "urls": 2
+          },
+          {
+            "label": "Education",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-03",
+            "title": "Ho pagato molto e molto probabilmente non rivedrò più quei soldi | il carburante costa troppo la crociera interrompe il giro del mondo e fa sbarcare tutti i passeggeri in Cambogia",
+            "url": "https://www.zazoom.it/2026-11-03/ho-pagato-molto-e-molto-probabilmente-non-rivedro-piu-quei-soldi-il-carburante-costa-troppo-la-crociera-interrompe-il-giro-del-mondo-e-fa-sbarcare-tutti-i-passeggeri-in-cambogia/19879545/",
+            "host": "zazoom.it",
+            "language": "ita"
+          },
+          {
+            "day": "2026-11-03",
+            "title": "中원단 늦으면 캄보디아 공장 스톱… 22달러 옷 한 장에 임금 11센트[차이나 쇼크 3.0]",
+            "url": "https://www.munhwa.com:443/article/11628314",
+            "host": "munhwa.com",
+            "language": "kor"
+          },
+          {
+            "day": "2026-11-03",
+            "title": "Indians Trapped In Cambodia Cyber Scam Jail | Extortion Call To Families",
+            "url": "https://www.divyabhaskar.co.in/dvb-original/news/indians-trapped-cambodia-cyber-scam-jail-extortion-call-139569814.html",
+            "host": "divyabhaskar.co.in",
+            "language": "guj"
+          },
+          {
+            "day": "2026-11-03",
+            "title": "Lễ dâng y Kathina: Nét đẹp văn hóa của đồng bào Khmer tại TP. Hồ Chí Minh",
+            "url": "https://voh.com.vn/van-hoa/le-dang-y-kathina-net-dep-van-hoa-cua-dong-bao-khmer-tai-tp-ho-chi-minh-677397.html",
+            "host": "voh.com.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-03",
+            "title": "Tên cha mẹ, anh em trong lá đơn 6 trang từ Campuchia hé lộ manh mối liệt sĩ",
+            "url": "https://tienphong.vn/ten-cha-me-anh-em-trong-la-don-6-trang-tu-campuchia-he-lo-manh-moi-liet-si-post1891066.tpo",
+            "host": "tienphong.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-03",
+            "title": "Le Cambodge et la France renforcent leur coopération contre les escroqueries en ligne",
+            "url": "https://lecourrier.vn/le-cambodge-et-la-france-renforcent-leur-cooperation-contre-les-escroqueries-en-ligne/1358667.html",
+            "host": "lecourrier.vn",
+            "language": "fra"
           }
         ]
       }

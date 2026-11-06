@@ -1,162 +1,110 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-05T20:20:59.917546+00:00",
+  "generated_at": "2026-11-06T20:20:59.471062+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-04",
+  "latest_complete_day": "2026-11-05",
   "age_days": 1,
-  "window_start": "2026-10-29",
-  "window_end": "2026-11-04",
+  "window_start": "2026-10-30",
+  "window_end": "2026-11-05",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": -1.5139134988892153,
-    "urls": 65,
-    "groups": 53,
+    "tone": -2.7785333314826577,
+    "urls": 45,
+    "groups": 37,
     "content_review": {
-      "content_unavailable": 15,
-      "AI_content_reviewed": 22,
-      "pending": 28
+      "AI_content_reviewed": 7,
+      "content_unavailable": 4,
+      "pending": 34
     },
     "publisher_types": {
-      "unreviewed": 48,
-      "newspaper": 12,
-      "advocacy_organization": 1,
-      "news_agency": 1,
-      "online_news": 3
+      "unreviewed": 38,
+      "online_news": 2,
+      "newspaper": 5
     },
     "tone_without_each_language": {
-      "zho": -1.488159494892088,
-      "eng": -0.9130748896456963,
-      "ukr": -1.5430272200217003,
-      "vie": -2.0200405158255643,
-      "swe": -1.523403986112752,
-      "deu": -1.5186272302512471,
-      "ind": -1.5632327528940326,
-      "rus": -1.5430272200217003,
-      "spa": -1.5185376556276096,
-      "ita": -1.586702718161246,
-      "tha": -1.6095675673897696,
-      "kor": -1.409924049609347,
-      "fra": -1.4365183442820553,
-      "guj": -1.4896084166028967,
-      "hrv": -1.514324579378761,
-      "srp": -1.463725078863889
+      "tha": -2.990178964588805,
+      "deu": -2.739281013844202,
+      "kor": -2.737191773652861,
+      "zho": -2.6028679679805236,
+      "vie": -3.748162137733159,
+      "eng": -1.8041341148171268,
+      "ind": -2.663541507531879,
+      "fra": -2.7033572040326668,
+      "guj": -2.778554319085571,
+      "ita": -2.873061017971874,
+      "hrv": -2.8142554430951527,
+      "srp": -2.741167275684782
     },
     "tone_without_each_publisher": {
-      "chinaqw.com": -1.7013982607456821,
-      "english.pravda.ru": -1.4799262584832387,
-      "news.finance.ua": -1.5430272200217003,
-      "nypost.com": -1.4989311886645222,
-      "soha.vn": -1.6374418493200504,
-      "thanhnien.vn": -1.4768466311877273,
-      "amnesty.org.au": -1.35716282668308,
-      "cna.com.tw": -1.5119094704573488,
-      "hd.se": -1.523403986112752,
-      "idowa.de": -1.5086135200891304,
-      "independent.co.uk": -1.4944363551043047,
-      "jawapos.com": -1.6662136421405067,
-      "kommersant.ru": -1.5430272200217003,
-      "lafm.com.co": -1.5154831495088796,
-      "lavanguardia.com": -1.5168790789168223,
-      "moz.de": -1.5040864100528528,
-      "news.de": -1.5321623786483842,
-      "noz.de": -1.5139434422722666,
-      "schwaebische.de": -1.5086135200891304,
-      "shz.de": -1.5139434422722666,
-      "sueddeutsche.de": -1.5430272200217003,
-      "tgcom24.mediaset.it": -1.5430272200217003,
-      "thestar.com.my": -1.4317435523513038,
-      "traunsteiner-tagblatt.de": -1.508643463472182,
-      "wnd.com": -1.5153751335460843,
-      "zazoom.it": -1.5417091727851993,
-      "bangkokbiznews.com": -1.5362558224052323,
-      "focus.de": -1.462419205281949,
-      "ohmynews.com": -1.4054677820111736,
-      "metrohk.com.hk": -1.4509461887141497,
-      "tienphong.vn": -1.5149859177500484,
-      "udn.com": -1.506946977562471,
-      "dailynews.co.th": -1.5853857425564342,
-      "kwongwah.com.my": -1.4073500137923467,
-      "standardmedia.co.ke": -1.4341271111215914,
-      "baotintuc.vn": -1.6954464702487075,
-      "cambodiantimes.com": -1.5139134988892153,
-      "nepalnational.com": -1.5139134988892153,
-      "asia.nikkei.com": -1.4910521680466484,
-      "kevesko.vn": -1.5704997474942277,
-      "antaranews.com": -1.4099841624503409,
-      "nbcnews.com": -1.4743459013403817,
-      "lecourrier.vn": -1.4365183442820553,
-      "voh.com.vn": -1.6255627102825123,
-      "divyabhaskar.co.in": -1.4896084166028967,
-      "munhwa.com": -1.5202838661351137,
-      "clickondetroit.com": -1.510225324341502,
-      "ilmessaggero.it": -1.5261284772881596,
-      "index.hr": -1.514324579378761,
-      "ksat.com": -1.510225324341502,
-      "latimes.com": -1.510225324341502,
-      "mercurynews.com": -1.5139134988892153,
-      "reporterherald.com": -1.5139134988892153,
-      "tanjug.rs": -1.463725078863889,
-      "the-messenger.com": -1.510225324341502,
-      "thetimes-tribune.com": -1.5139134988892153,
-      "winnipegfreepress.com": -1.4991547426891467,
-      "zaobao.com.sg": -1.4816524246043516
+      "bangkokbiznews.com": -2.8459339052445,
+      "focus.de": -2.739281013844202,
+      "ohmynews.com": -2.6927764201799937,
+      "metrohk.com.hk": -2.7227088788018254,
+      "thanhnien.vn": -2.701736000397334,
+      "tienphong.vn": -2.8523599893994973,
+      "udn.com": -2.8035989071382894,
+      "dailynews.co.th": -2.916899345462903,
+      "kwongwah.com.my": -2.659736626136999,
+      "standardmedia.co.ke": -2.6984146556125745,
+      "thestar.com.my": -2.745337883239946,
+      "baotintuc.vn": -3.07587595212952,
+      "cambodiantimes.com": -2.7785333314826577,
+      "nepalnational.com": -2.7785333314826577,
+      "asia.nikkei.com": -2.7806397378376566,
+      "kevesko.vn": -2.895397352595271,
+      "antaranews.com": -2.663541507531879,
+      "nbcnews.com": -2.7565084637063824,
+      "lecourrier.vn": -2.701868659066578,
+      "voh.com.vn": -2.97493274328946,
+      "divyabhaskar.co.in": -2.778554319085571,
+      "munhwa.com": -2.822863301743218,
+      "zazoom.it": -2.817663062532214,
+      "clickondetroit.com": -2.7732502706440414,
+      "ilmessaggero.it": -2.831305517853173,
+      "index.hr": -2.8142554430951527,
+      "ksat.com": -2.7732502706440414,
+      "latimes.com": -2.7732502706440414,
+      "mercurynews.com": -2.7785333314826577,
+      "reporterherald.com": -2.7785333314826577,
+      "tanjug.rs": -2.741167275684782,
+      "the-messenger.com": -2.7732502706440414,
+      "thetimes-tribune.com": -2.7785333314826577,
+      "winnipegfreepress.com": -2.6242302124508323,
+      "zaobao.com.sg": -2.767062330643228,
+      "idahopress.com": -2.6138922343203936,
+      "vnexpress.net": -2.980972696791305,
+      "cochranetimes.com": -2.877312367405023,
+      "ledevoir.com": -2.7821101022112464,
+      "philstar.com": -2.366669429501151
     },
-    "positive_share": 16.9811320754717,
+    "positive_share": 18.91891891891892,
     "languages": {
-      "zho": 6,
-      "eng": 21,
-      "ukr": 1,
-      "vie": 8,
-      "swe": 1,
-      "deu": 9,
-      "ind": 2,
-      "rus": 1,
-      "spa": 2,
-      "ita": 4,
       "tha": 2,
+      "deu": 1,
       "kor": 3,
-      "fra": 1,
+      "zho": 4,
+      "vie": 7,
+      "eng": 19,
+      "ind": 1,
+      "fra": 2,
       "guj": 1,
+      "ita": 2,
       "hrv": 2,
       "srp": 1
     },
     "publishers": {
-      "chinaqw.com": 1,
-      "english.pravda.ru": 1,
-      "news.finance.ua": 1,
-      "nypost.com": 1,
-      "soha.vn": 1,
-      "thanhnien.vn": 2,
-      "amnesty.org.au": 1,
-      "cna.com.tw": 1,
-      "hd.se": 1,
-      "idowa.de": 1,
-      "independent.co.uk": 1,
-      "jawapos.com": 1,
-      "kommersant.ru": 1,
-      "lafm.com.co": 1,
-      "lavanguardia.com": 1,
-      "moz.de": 1,
-      "news.de": 1,
-      "noz.de": 1,
-      "schwaebische.de": 1,
-      "shz.de": 1,
-      "sueddeutsche.de": 1,
-      "tgcom24.mediaset.it": 1,
-      "thestar.com.my": 3,
-      "traunsteiner-tagblatt.de": 1,
-      "wnd.com": 1,
-      "zazoom.it": 2,
       "bangkokbiznews.com": 1,
       "focus.de": 1,
       "ohmynews.com": 2,
       "metrohk.com.hk": 1,
+      "thanhnien.vn": 1,
       "tienphong.vn": 2,
       "udn.com": 1,
       "dailynews.co.th": 1,
       "kwongwah.com.my": 1,
       "standardmedia.co.ke": 1,
+      "thestar.com.my": 2,
       "baotintuc.vn": 1,
       "cambodiantimes.com": 1,
       "nepalnational.com": 1,
@@ -168,6 +116,7 @@
       "voh.com.vn": 1,
       "divyabhaskar.co.in": 1,
       "munhwa.com": 1,
+      "zazoom.it": 1,
       "clickondetroit.com": 1,
       "ilmessaggero.it": 1,
       "index.hr": 2,
@@ -178,41 +127,88 @@
       "tanjug.rs": 1,
       "the-messenger.com": 1,
       "thetimes-tribune.com": 1,
-      "winnipegfreepress.com": 1,
-      "zaobao.com.sg": 1
+      "winnipegfreepress.com": 2,
+      "zaobao.com.sg": 1,
+      "idahopress.com": 1,
+      "vnexpress.net": 1,
+      "cochranetimes.com": 1,
+      "ledevoir.com": 1,
+      "philstar.com": 1
     },
     "excluded": {},
-    "unverified_urls": 46,
-    "largest_publisher": "thestar.com.my",
-    "largest_publisher_share": 4.615384615384615,
-    "tone_without_largest_publisher": -1.4317435523513038,
+    "unverified_urls": 36,
+    "largest_publisher": "ohmynews.com",
+    "largest_publisher_share": 4.444444444444445,
+    "tone_without_largest_publisher": -2.6927764201799937,
     "topics": [
       {
         "label": "Tourism",
-        "urls": 25
+        "urls": 16
       },
       {
         "label": "Conflict & violence",
-        "urls": 14
+        "urls": 15
       },
       {
         "label": "Government",
-        "urls": 12
+        "urls": 13
       },
       {
-        "label": "Economy & trade",
-        "urls": 10
+        "label": "Education",
+        "urls": 9
       },
       {
         "label": "Borders",
         "urls": 8
       },
       {
-        "label": "Education",
-        "urls": 8
+        "label": "Economy & trade",
+        "urls": 7
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-05",
+        "title": "Takeaways from AP's report on stranded workers after Cambodia's crackdown on illegal scam operations – Winnipeg Free Press",
+        "url": "https://www.winnipegfreepress.com/world/2026/11/05/takeaways-from-aps-report-on-stranded-workers-after-cambodias-crackdown-on-illegal-scam-operations",
+        "host": "winnipegfreepress.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-05",
+        "title": "28 Pinoys in Cambodia face felony charges",
+        "url": "https://www.philstar.com/nation/2026/11/06/2568238/28-pinoys-cambodia-face-felony-charges",
+        "host": "philstar.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-05",
+        "title": "Chronique de Michel David | Rendez-vous à Phnom Penh",
+        "url": "https://www.ledevoir.com/opinion/chroniques/1022405/rendez-vous-phnom-penh",
+        "host": "ledevoir.com",
+        "language": "fra"
+      },
+      {
+        "day": "2026-11-05",
+        "title": "Chanthy Yen's Touk: Vancouver's contemporary Cambodian restaurant",
+        "url": "https://www.cochranetimes.com:443/life/chanthy-yen-touk-vancouver",
+        "host": "cochranetimes.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-05",
+        "title": "Tổng Bí thư, Chủ tịch nước dự ngày hội Đại đoàn kết tại chùa Khmer hơn 400 năm",
+        "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-du-ngay-hoi-dai-doan-ket-tai-chua-khmer-hon-400-nam-5141124.html",
+        "host": "vnexpress.net",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-05",
+        "title": "Takeaways from AP's report on stranded workers after Cambodia's crackdown on illegal scam operations",
+        "url": "http://www.idahopress.com/news/world/takeaways-from-aps-report-on-stranded-workers-after-cambodias-crackdown-on-illegal-scam-operations/article_0fa56079-be7f-5c3a-bf0e-5983bafec150.html",
+        "host": "idahopress.com",
+        "language": "eng"
+      },
       {
         "day": "2026-11-04",
         "title": "奥德赛号游轮抛下乘客离开柬埔寨，疑驶向新加坡",
@@ -254,48 +250,6 @@
         "url": "https://www.tanjug.rs/svet/drustvo/295018/kruzer-primorao-vise-od-200-putnika-da-se-iskrcaju-u-kambodzi/vest",
         "host": "tanjug.rs",
         "language": "srp"
-      },
-      {
-        "day": "2026-11-04",
-        "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
-        "url": "https://www.reporterherald.com/2026/11/04/cruise-ship-odyssey-leaves-cambodia/",
-        "host": "reporterherald.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-04",
-        "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
-        "url": "https://www.mercurynews.com/2026/11/04/cruise-ship-odyssey-leaves-cambodia/",
-        "host": "mercurynews.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-04",
-        "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
-        "url": "https://www.latimes.com/world-nation/story/2026-11-04/stranded-cruise-ship-odyssey-leaves-cambodia-with-no-passengers",
-        "host": "latimes.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-04",
-        "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
-        "url": "https://www.ksat.com/news/world/2026/11/04/stranded-cruise-ship-odyssey-leaves-cambodia-with-no-passengers/",
-        "host": "ksat.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-04",
-        "title": "Kruzer otplovio iz Kambodže bez 200 putnika. Gorivo postalo preskupo",
-        "url": "https://www.index.hr/vijesti/clanak/kruzer-otplovio-iz-kambodze-bez-200-putnika-gorivo-postalo-preskupo/2853030.aspx?index_tid=1210923&index_ref=naslovnica_vijesti_ostalo_d_2",
-        "host": "index.hr",
-        "language": "hrv"
-      },
-      {
-        "day": "2026-11-04",
-        "title": "Kruzer otplovio iz Kambodže bez 200 putnika. Gorivo postalo preskupo",
-        "url": "https://www.index.hr/vijesti/clanak/kruzer-otplovio-iz-kambodze-bez-200-putnika-gorivo-postalo-preskupo/2853030.aspx?index_tid=1210923&index_ref=naslovnica_vijesti_najnovije_d",
-        "host": "index.hr",
-        "language": "hrv"
       }
     ]
   },
@@ -2006,6 +1960,126 @@
             "url": "https://www.index.hr/vijesti/clanak/kruzer-otplovio-iz-kambodze-bez-200-putnika-gorivo-postalo-preskupo/2853030.aspx?index_tid=1210923&index_ref=naslovnica_vijesti_najnovije_d",
             "host": "index.hr",
             "language": "hrv"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-11-05",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 28599,
+      "rejected": 53,
+      "missing_titles": 44,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": -5.391754573971637,
+        "urls": 6,
+        "groups": 6,
+        "content_review": {
+          "pending": 6
+        },
+        "publisher_types": {
+          "unreviewed": 5,
+          "online_news": 1
+        },
+        "tone_without_each_language": {
+          "eng": 0.9297571171875951,
+          "vie": -7.371962252691695,
+          "fra": -5.940151571715273
+        },
+        "tone_without_each_publisher": {
+          "idahopress.com": -4.728982922901131,
+          "vnexpress.net": -7.371962252691695,
+          "cochranetimes.com": -6.625607881110462,
+          "ledevoir.com": -5.940151571715273,
+          "philstar.com": -2.9489787282025848,
+          "winnipegfreepress.com": -4.734844087208678
+        },
+        "positive_share": 33.333333333333336,
+        "languages": {
+          "eng": 4,
+          "vie": 1,
+          "fra": 1
+        },
+        "publishers": {
+          "idahopress.com": 1,
+          "vnexpress.net": 1,
+          "cochranetimes.com": 1,
+          "ledevoir.com": 1,
+          "philstar.com": 1,
+          "winnipegfreepress.com": 1
+        },
+        "excluded": {},
+        "unverified_urls": 5,
+        "largest_publisher": "idahopress.com",
+        "largest_publisher_share": 16.666666666666668,
+        "tone_without_largest_publisher": -4.728982922901131,
+        "topics": [
+          {
+            "label": "Government",
+            "urls": 4
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 3
+          },
+          {
+            "label": "Borders",
+            "urls": 2
+          },
+          {
+            "label": "Education",
+            "urls": 2
+          },
+          {
+            "label": "Economy & trade",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-05",
+            "title": "Takeaways from AP's report on stranded workers after Cambodia's crackdown on illegal scam operations – Winnipeg Free Press",
+            "url": "https://www.winnipegfreepress.com/world/2026/11/05/takeaways-from-aps-report-on-stranded-workers-after-cambodias-crackdown-on-illegal-scam-operations",
+            "host": "winnipegfreepress.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-05",
+            "title": "28 Pinoys in Cambodia face felony charges",
+            "url": "https://www.philstar.com/nation/2026/11/06/2568238/28-pinoys-cambodia-face-felony-charges",
+            "host": "philstar.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-05",
+            "title": "Chronique de Michel David | Rendez-vous à Phnom Penh",
+            "url": "https://www.ledevoir.com/opinion/chroniques/1022405/rendez-vous-phnom-penh",
+            "host": "ledevoir.com",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-05",
+            "title": "Chanthy Yen's Touk: Vancouver's contemporary Cambodian restaurant",
+            "url": "https://www.cochranetimes.com:443/life/chanthy-yen-touk-vancouver",
+            "host": "cochranetimes.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-05",
+            "title": "Tổng Bí thư, Chủ tịch nước dự ngày hội Đại đoàn kết tại chùa Khmer hơn 400 năm",
+            "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-du-ngay-hoi-dai-doan-ket-tai-chua-khmer-hon-400-nam-5141124.html",
+            "host": "vnexpress.net",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-05",
+            "title": "Takeaways from AP's report on stranded workers after Cambodia's crackdown on illegal scam operations",
+            "url": "http://www.idahopress.com/news/world/takeaways-from-aps-report-on-stranded-workers-after-cambodias-crackdown-on-illegal-scam-operations/article_0fa56079-be7f-5c3a-bf0e-5983bafec150.html",
+            "host": "idahopress.com",
+            "language": "eng"
           }
         ]
       }

@@ -1,15 +1,15 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-08T20:20:54.361275+00:00",
+  "generated_at": "2026-11-09T20:20:51.398523+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-07",
+  "latest_complete_day": "2026-11-08",
   "age_days": 1,
-  "window_start": "2026-11-01",
-  "window_end": "2026-11-07",
+  "window_start": "2026-11-02",
+  "window_end": "2026-11-08",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": -2.851836370427577,
+    "tone": -2.543190366325231,
     "urls": 37,
     "groups": 29,
     "content_review": {
@@ -21,70 +21,68 @@
       "online_news": 1
     },
     "tone_without_each_language": {
-      "vie": -3.997857368968661,
-      "kor": -2.860789668926591,
-      "eng": -1.4890396666191137,
-      "ind": -2.706607705310323,
-      "fra": -2.7598156895809165,
-      "guj": -2.85448132016507,
-      "ita": -2.979802115057667,
-      "hrv": -2.9003827653202463,
-      "srp": -2.8064122643640554,
-      "zho": -2.790936524559026
+      "eng": -1.3560170966806389,
+      "vie": -3.597331843443136,
+      "ind": -2.386938629632893,
+      "fra": -2.428307018508026,
+      "guj": -2.53481224448764,
+      "kor": -2.591780936476043,
+      "ita": -2.6482934439847763,
+      "hrv": -2.5807136896428164,
+      "srp": -2.486743188686625,
+      "zho": -2.4594278534861354
     },
     "tone_without_each_publisher": {
-      "baotintuc.vn": -3.236751991221576,
-      "ohmynews.com": -2.8008562665400163,
-      "cambodiantimes.com": -2.851836370427577,
-      "nepalnational.com": -2.851836370427577,
-      "asia.nikkei.com": -2.857162572846323,
-      "kevesko.vn": -3.004708077534685,
-      "antaranews.com": -2.706607705310323,
-      "nbcnews.com": -2.826136648963256,
-      "lecourrier.vn": -2.7558854715692216,
-      "tienphong.vn": -2.778324110774328,
-      "voh.com.vn": -3.1069678655700703,
-      "divyabhaskar.co.in": -2.85448132016507,
-      "munhwa.com": -2.9114500121534728,
-      "zazoom.it": -2.904763990310754,
-      "clickondetroit.com": -2.8450959134955496,
-      "ilmessaggero.it": -2.9223042900091296,
-      "index.hr": -2.9003827653202463,
-      "ksat.com": -2.8450959134955496,
-      "latimes.com": -2.8450959134955496,
-      "mercurynews.com": -2.851836370427577,
-      "reporterherald.com": -2.851836370427577,
-      "tanjug.rs": -2.8064122643640554,
-      "the-messenger.com": -2.8450959134955496,
-      "thestar.com.my": -2.899738597295459,
-      "thetimes-tribune.com": -2.851836370427577,
-      "winnipegfreepress.com": -2.657243663456316,
-      "zaobao.com.sg": -2.839705906453486,
-      "idahopress.com": -2.6427729254669847,
-      "vnexpress.net": -3.1147335200724426,
-      "cochranetimes.com": -2.981455953718651,
-      "ledevoir.com": -2.859053041326653,
-      "philstar.com": -2.32491503355653,
-      "thefrontierpost.com": -2.8576345782083035,
-      "asiaone.com": -2.672657224406548,
-      "setn.com": -2.8052419830284223
+      "cambodiantimes.com": -2.543190366325231,
+      "nepalnational.com": -2.543190366325231,
+      "asia.nikkei.com": -2.5374934971688927,
+      "kevesko.vn": -2.6850390018572545,
+      "antaranews.com": -2.386938629632893,
+      "nbcnews.com": -2.506467573285826,
+      "lecourrier.vn": -2.4362163958917913,
+      "tienphong.vn": -2.4586550350968976,
+      "voh.com.vn": -2.7872987898926405,
+      "divyabhaskar.co.in": -2.53481224448764,
+      "munhwa.com": -2.591780936476043,
+      "zazoom.it": -2.585094914633324,
+      "clickondetroit.com": -2.536449909393203,
+      "ilmessaggero.it": -2.6026352143316998,
+      "index.hr": -2.5807136896428164,
+      "ksat.com": -2.536449909393203,
+      "latimes.com": -2.536449909393203,
+      "mercurynews.com": -2.543190366325231,
+      "reporterherald.com": -2.543190366325231,
+      "tanjug.rs": -2.486743188686625,
+      "the-messenger.com": -2.536449909393203,
+      "thestar.com.my": -2.5800695216180287,
+      "thetimes-tribune.com": -2.543190366325231,
+      "winnipegfreepress.com": -2.3257349923834254,
+      "zaobao.com.sg": -2.520036830776056,
+      "idahopress.com": -2.3231038497895544,
+      "vnexpress.net": -2.7950644443950123,
+      "cochranetimes.com": -2.661786878041221,
+      "ledevoir.com": -2.5393839656492228,
+      "philstar.com": -2.0052459578791,
+      "thefrontierpost.com": -2.5379655025308736,
+      "asiaone.com": -2.352988148729118,
+      "setn.com": -2.4855729073509925,
+      "myanmarnews.net": -2.8244947841701795,
+      "baomoi.com": -2.8934443979139823
     },
-    "positive_share": 17.24137931034483,
+    "positive_share": 20.689655172413794,
     "languages": {
+      "eng": 20,
       "vie": 5,
-      "kor": 2,
-      "eng": 19,
       "ind": 1,
       "fra": 2,
       "guj": 1,
+      "kor": 1,
       "ita": 2,
       "hrv": 2,
       "srp": 1,
       "zho": 2
     },
     "publishers": {
-      "baotintuc.vn": 1,
-      "ohmynews.com": 1,
       "cambodiantimes.com": 1,
       "nepalnational.com": 1,
       "asia.nikkei.com": 1,
@@ -117,40 +115,56 @@
       "philstar.com": 1,
       "thefrontierpost.com": 1,
       "asiaone.com": 1,
-      "setn.com": 1
+      "setn.com": 1,
+      "myanmarnews.net": 1,
+      "baomoi.com": 1
     },
     "excluded": {},
     "unverified_urls": 34,
     "largest_publisher": "index.hr",
     "largest_publisher_share": 5.405405405405405,
-    "tone_without_largest_publisher": -2.9003827653202463,
+    "tone_without_largest_publisher": -2.5807136896428164,
     "topics": [
       {
         "label": "Tourism",
-        "urls": 15
+        "urls": 14
       },
       {
         "label": "Government",
-        "urls": 12
-      },
-      {
-        "label": "Education",
-        "urls": 8
+        "urls": 10
       },
       {
         "label": "Conflict & violence",
-        "urls": 8
+        "urls": 9
       },
       {
-        "label": "Economy & trade",
-        "urls": 6
+        "label": "Education",
+        "urls": 7
       },
       {
         "label": "Borders",
         "urls": 5
+      },
+      {
+        "label": "Economy & trade",
+        "urls": 4
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-08",
+        "title": "Thanh niên Việt Nam - Campuchia - Lào kiến tạo tương lai quan hệ ba nước",
+        "url": "https://baomoi.com/thanh-nien-viet-nam-campuchia-lao-kien-tao-tuong-lai-quan-he-ba-nuoc-c56461845.epi",
+        "host": "baomoi.com",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-08",
+        "title": "CAMBODIA-SIEM REAP-WORLD CHILDREN'S DAY CELEBRATION-FUN RUN",
+        "url": "http://www.myanmarnews.net/news/279420188/cambodia-siem-reap-world-childrens-day-celebration-fun-run",
+        "host": "myanmarnews.net",
+        "language": "eng"
+      },
       {
         "day": "2026-11-06",
         "title": "運動鞋底挖空藏海洛因！柬埔寨返台男「步伐沉重」露餡機場遭逮 | 社會 | 三立新聞網  SETN.COM",
@@ -220,20 +234,6 @@
         "url": "https://www.zaobao.com.sg/news/sea/story20261104-9948458",
         "host": "zaobao.com.sg",
         "language": "zho"
-      },
-      {
-        "day": "2026-11-04",
-        "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers – Winnipeg Free Press",
-        "url": "https://www.winnipegfreepress.com/world/2026/11/04/stranded-cruise-ship-odyssey-leaves-cambodia-with-no-passengers",
-        "host": "winnipegfreepress.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-04",
-        "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
-        "url": "https://www.thetimes-tribune.com/2026/11/04/cruise-ship-odyssey-leaves-cambodia/",
-        "host": "thetimes-tribune.com",
-        "language": "eng"
       }
     ]
   },
@@ -2173,6 +2173,75 @@
         "tone_without_largest_publisher": null,
         "topics": [],
         "headlines": []
+      }
+    },
+    {
+      "day": "2026-11-08",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 16547,
+      "rejected": 5,
+      "missing_titles": 49,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": 6.298627925746571,
+        "urls": 2,
+        "groups": 2,
+        "content_review": {
+          "pending": 2
+        },
+        "publisher_types": {
+          "unreviewed": 2
+        },
+        "tone_without_each_language": {
+          "eng": 7.26392251815981,
+          "vie": 5.33333333333333
+        },
+        "tone_without_each_publisher": {
+          "myanmarnews.net": 7.26392251815981,
+          "baomoi.com": 5.33333333333333
+        },
+        "positive_share": 100.0,
+        "languages": {
+          "eng": 1,
+          "vie": 1
+        },
+        "publishers": {
+          "myanmarnews.net": 1,
+          "baomoi.com": 1
+        },
+        "excluded": {},
+        "unverified_urls": 2,
+        "largest_publisher": "myanmarnews.net",
+        "largest_publisher_share": 50.0,
+        "tone_without_largest_publisher": 7.26392251815981,
+        "topics": [
+          {
+            "label": "Borders",
+            "urls": 1
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-08",
+            "title": "Thanh niên Việt Nam - Campuchia - Lào kiến tạo tương lai quan hệ ba nước",
+            "url": "https://baomoi.com/thanh-nien-viet-nam-campuchia-lao-kien-tao-tuong-lai-quan-he-ba-nuoc-c56461845.epi",
+            "host": "baomoi.com",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-08",
+            "title": "CAMBODIA-SIEM REAP-WORLD CHILDREN'S DAY CELEBRATION-FUN RUN",
+            "url": "http://www.myanmarnews.net/news/279420188/cambodia-siem-reap-world-childrens-day-celebration-fun-run",
+            "host": "myanmarnews.net",
+            "language": "eng"
+          }
+        ]
       }
     }
   ],

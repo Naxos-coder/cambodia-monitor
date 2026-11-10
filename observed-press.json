@@ -1,94 +1,89 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-09T20:20:51.398523+00:00",
+  "generated_at": "2026-11-10T20:20:54.874331+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-08",
+  "latest_complete_day": "2026-11-09",
   "age_days": 1,
-  "window_start": "2026-11-02",
-  "window_end": "2026-11-08",
+  "window_start": "2026-11-03",
+  "window_end": "2026-11-09",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": -2.543190366325231,
-    "urls": 37,
-    "groups": 29,
+    "tone": -1.3272492009544221,
+    "urls": 35,
+    "groups": 28,
     "content_review": {
-      "pending": 37
+      "pending": 35
     },
     "publisher_types": {
-      "unreviewed": 35,
+      "unreviewed": 32,
       "newspaper": 1,
-      "online_news": 1
+      "online_news": 1,
+      "broadcaster_news_portal": 1
     },
     "tone_without_each_language": {
-      "eng": -1.3560170966806389,
-      "vie": -3.597331843443136,
-      "ind": -2.386938629632893,
-      "fra": -2.428307018508026,
-      "guj": -2.53481224448764,
-      "kor": -2.591780936476043,
-      "ita": -2.6482934439847763,
-      "hrv": -2.5807136896428164,
-      "srp": -2.486743188686625,
-      "zho": -2.4594278534861354
+      "fra": -1.1144133270388008,
+      "vie": -2.807861179907476,
+      "guj": -1.2735259203313347,
+      "kor": -1.3326045638748636,
+      "ita": -1.3428607688800414,
+      "eng": 0.4512014298819691,
+      "hrv": -1.321127419010777,
+      "srp": -1.2236765291302825,
+      "zho": -1.146731117208376,
+      "rus": -1.7685634415126452,
+      "spa": -1.3869584411712632
     },
     "tone_without_each_publisher": {
-      "cambodiantimes.com": -2.543190366325231,
-      "nepalnational.com": -2.543190366325231,
-      "asia.nikkei.com": -2.5374934971688927,
-      "kevesko.vn": -2.6850390018572545,
-      "antaranews.com": -2.386938629632893,
-      "nbcnews.com": -2.506467573285826,
-      "lecourrier.vn": -2.4362163958917913,
-      "tienphong.vn": -2.4586550350968976,
-      "voh.com.vn": -2.7872987898926405,
-      "divyabhaskar.co.in": -2.53481224448764,
-      "munhwa.com": -2.591780936476043,
-      "zazoom.it": -2.585094914633324,
-      "clickondetroit.com": -2.536449909393203,
-      "ilmessaggero.it": -2.6026352143316998,
-      "index.hr": -2.5807136896428164,
-      "ksat.com": -2.536449909393203,
-      "latimes.com": -2.536449909393203,
-      "mercurynews.com": -2.543190366325231,
-      "reporterherald.com": -2.543190366325231,
-      "tanjug.rs": -2.486743188686625,
-      "the-messenger.com": -2.536449909393203,
-      "thestar.com.my": -2.5800695216180287,
-      "thetimes-tribune.com": -2.543190366325231,
-      "winnipegfreepress.com": -2.3257349923834254,
-      "zaobao.com.sg": -2.520036830776056,
-      "idahopress.com": -2.3231038497895544,
-      "vnexpress.net": -2.7950644443950123,
-      "cochranetimes.com": -2.661786878041221,
-      "ledevoir.com": -2.5393839656492228,
-      "philstar.com": -2.0052459578791,
-      "thefrontierpost.com": -2.5379655025308736,
-      "asiaone.com": -2.352988148729118,
-      "setn.com": -2.4855729073509925,
-      "myanmarnews.net": -2.8244947841701795,
-      "baomoi.com": -2.8934443979139823
+      "lecourrier.vn": -1.1712783736393437,
+      "tienphong.vn": -1.1945480735557503,
+      "voh.com.vn": -1.5353638192698535,
+      "divyabhaskar.co.in": -1.2735259203313347,
+      "munhwa.com": -1.3326045638748636,
+      "zazoom.it": -1.3256709115935255,
+      "clickondetroit.com": -1.3202680134176792,
+      "ilmessaggero.it": -1.3438608520214705,
+      "index.hr": -1.321127419010777,
+      "ksat.com": -1.3202680134176792,
+      "latimes.com": -1.3202680134176792,
+      "mercurynews.com": -1.3272492009544221,
+      "reporterherald.com": -1.3272492009544221,
+      "tanjug.rs": -1.2236765291302825,
+      "the-messenger.com": -1.3202680134176792,
+      "thestar.com.my": -1.3204593929109973,
+      "thetimes-tribune.com": -1.3272492009544221,
+      "winnipegfreepress.com": -1.007896222986331,
+      "zaobao.com.sg": -1.2582032690748775,
+      "idahopress.com": -1.0539764739777648,
+      "vnexpress.net": -1.543417090605647,
+      "cochranetimes.com": -1.405203318090604,
+      "ledevoir.com": -1.2782669644989022,
+      "philstar.com": -0.7243460675521081,
+      "thefrontierpost.com": -1.276795965709503,
+      "asiaone.com": -1.0849675988039789,
+      "setn.com": -1.222462904041478,
+      "myanmarnews.net": -1.5739374429650796,
+      "baomoi.com": -1.645440746106801,
+      "vov.vn": -1.4418430399637274,
+      "baotintuc.vn": -1.8093070116679821,
+      "caravan.kz": -1.7685634415126452,
+      "prensa-latina.cu": -1.3869584411712632
     },
-    "positive_share": 20.689655172413794,
+    "positive_share": 32.142857142857146,
     "languages": {
-      "eng": 20,
-      "vie": 5,
-      "ind": 1,
       "fra": 2,
+      "vie": 6,
       "guj": 1,
       "kor": 1,
       "ita": 2,
+      "eng": 16,
       "hrv": 2,
       "srp": 1,
-      "zho": 2
+      "zho": 2,
+      "rus": 1,
+      "spa": 1
     },
     "publishers": {
-      "cambodiantimes.com": 1,
-      "nepalnational.com": 1,
-      "asia.nikkei.com": 1,
-      "kevesko.vn": 1,
-      "antaranews.com": 1,
-      "nbcnews.com": 1,
       "lecourrier.vn": 1,
       "tienphong.vn": 1,
       "voh.com.vn": 1,
@@ -117,13 +112,17 @@
       "asiaone.com": 1,
       "setn.com": 1,
       "myanmarnews.net": 1,
-      "baomoi.com": 1
+      "baomoi.com": 1,
+      "vov.vn": 1,
+      "baotintuc.vn": 1,
+      "caravan.kz": 1,
+      "prensa-latina.cu": 1
     },
     "excluded": {},
-    "unverified_urls": 34,
+    "unverified_urls": 31,
     "largest_publisher": "index.hr",
-    "largest_publisher_share": 5.405405405405405,
-    "tone_without_largest_publisher": -2.5807136896428164,
+    "largest_publisher_share": 5.714285714285714,
+    "tone_without_largest_publisher": -1.321127419010777,
     "topics": [
       {
         "label": "Tourism",
@@ -131,26 +130,54 @@
       },
       {
         "label": "Government",
-        "urls": 10
-      },
-      {
-        "label": "Conflict & violence",
-        "urls": 9
+        "urls": 12
       },
       {
         "label": "Education",
+        "urls": 8
+      },
+      {
+        "label": "Conflict & violence",
         "urls": 7
       },
       {
         "label": "Borders",
-        "urls": 5
+        "urls": 4
       },
       {
         "label": "Economy & trade",
-        "urls": 4
+        "urls": 3
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-09",
+        "title": "Experto defiende papel de Camboya en francofonía - Noticias Prensa Latina",
+        "url": "https://www.prensa-latina.cu/2026/11/09/experto-defiende-papel-de-camboya-en-francofonia/",
+        "host": "prensa-latina.cu",
+        "language": "spa"
+      },
+      {
+        "day": "2026-11-09",
+        "title": "Токаев поздравил премьер-министра Камбоджи",
+        "url": "https://www.caravan.kz/news/tokaev-pozdravil-premer-ministra-kambodzhi/",
+        "host": "caravan.kz",
+        "language": "rus"
+      },
+      {
+        "day": "2026-11-09",
+        "title": "Lãnh đạo Đảng, Nhà nước Việt Nam chúc mừng 73 năm Quốc khánh Vương quốc Campuchia",
+        "url": "https://baotintuc.vn/lanh-dao-dang-nha-nuoc-viet-nam-chuc-mung-73-nam-quoc-khanh-campuchia-post1401206.html",
+        "host": "baotintuc.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-09",
+        "title": "Campuchia long trọng kỷ niệm 73 năm Ngày Quốc khánh",
+        "url": "http://vov.vn/the-gioi/campuchia-long-trong-ky-niem-73-nam-ngay-quoc-khanh-post1348541.vov",
+        "host": "vov.vn",
+        "language": "vie"
+      },
       {
         "day": "2026-11-08",
         "title": "Thanh niên Việt Nam - Campuchia - Lào kiến tạo tương lai quan hệ ba nước",
@@ -206,34 +233,6 @@
         "url": "https://www.ledevoir.com/opinion/chroniques/1022405/rendez-vous-phnom-penh",
         "host": "ledevoir.com",
         "language": "fra"
-      },
-      {
-        "day": "2026-11-05",
-        "title": "Chanthy Yen's Touk: Vancouver's contemporary Cambodian restaurant",
-        "url": "https://www.cochranetimes.com:443/life/chanthy-yen-touk-vancouver",
-        "host": "cochranetimes.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-05",
-        "title": "Tổng Bí thư, Chủ tịch nước dự ngày hội Đại đoàn kết tại chùa Khmer hơn 400 năm",
-        "url": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-du-ngay-hoi-dai-doan-ket-tai-chua-khmer-hon-400-nam-5141124.html",
-        "host": "vnexpress.net",
-        "language": "vie"
-      },
-      {
-        "day": "2026-11-05",
-        "title": "Takeaways from AP's report on stranded workers after Cambodia's crackdown on illegal scam operations",
-        "url": "http://www.idahopress.com/news/world/takeaways-from-aps-report-on-stranded-workers-after-cambodias-crackdown-on-illegal-scam-operations/article_0fa56079-be7f-5c3a-bf0e-5983bafec150.html",
-        "host": "idahopress.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-04",
-        "title": "奥德赛号游轮抛下乘客离开柬埔寨，疑驶向新加坡",
-        "url": "https://www.zaobao.com.sg/news/sea/story20261104-9948458",
-        "host": "zaobao.com.sg",
-        "language": "zho"
       }
     ]
   },
@@ -2240,6 +2239,104 @@
             "url": "http://www.myanmarnews.net/news/279420188/cambodia-siem-reap-world-childrens-day-celebration-fun-run",
             "host": "myanmarnews.net",
             "language": "eng"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-11-09",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 24738,
+      "rejected": 24,
+      "missing_titles": 29,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": 6.082057929906601,
+        "urls": 4,
+        "groups": 4,
+        "content_review": {
+          "pending": 4
+        },
+        "publisher_types": {
+          "broadcaster_news_portal": 1,
+          "unreviewed": 3
+        },
+        "tone_without_each_language": {
+          "vie": 5.436567789508943,
+          "rus": 4.579998808502935,
+          "spa": 8.014443811575374
+        },
+        "tone_without_each_publisher": {
+          "vov.vn": 7.520482422443195,
+          "baotintuc.vn": 4.213306677104902,
+          "caravan.kz": 4.579998808502935,
+          "prensa-latina.cu": 8.014443811575374
+        },
+        "positive_share": 100.0,
+        "languages": {
+          "vie": 2,
+          "rus": 1,
+          "spa": 1
+        },
+        "publishers": {
+          "vov.vn": 1,
+          "baotintuc.vn": 1,
+          "caravan.kz": 1,
+          "prensa-latina.cu": 1
+        },
+        "excluded": {},
+        "unverified_urls": 3,
+        "largest_publisher": "vov.vn",
+        "largest_publisher_share": 25.0,
+        "tone_without_largest_publisher": 7.520482422443195,
+        "topics": [
+          {
+            "label": "Government",
+            "urls": 3
+          },
+          {
+            "label": "Economy & trade",
+            "urls": 1
+          },
+          {
+            "label": "Borders",
+            "urls": 1
+          },
+          {
+            "label": "Education",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-09",
+            "title": "Experto defiende papel de Camboya en francofonía - Noticias Prensa Latina",
+            "url": "https://www.prensa-latina.cu/2026/11/09/experto-defiende-papel-de-camboya-en-francofonia/",
+            "host": "prensa-latina.cu",
+            "language": "spa"
+          },
+          {
+            "day": "2026-11-09",
+            "title": "Токаев поздравил премьер-министра Камбоджи",
+            "url": "https://www.caravan.kz/news/tokaev-pozdravil-premer-ministra-kambodzhi/",
+            "host": "caravan.kz",
+            "language": "rus"
+          },
+          {
+            "day": "2026-11-09",
+            "title": "Lãnh đạo Đảng, Nhà nước Việt Nam chúc mừng 73 năm Quốc khánh Vương quốc Campuchia",
+            "url": "https://baotintuc.vn/lanh-dao-dang-nha-nuoc-viet-nam-chuc-mung-73-nam-quoc-khanh-campuchia-post1401206.html",
+            "host": "baotintuc.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-09",
+            "title": "Campuchia long trọng kỷ niệm 73 năm Ngày Quốc khánh",
+            "url": "http://vov.vn/the-gioi/campuchia-long-trong-ky-niem-73-nam-ngay-quoc-khanh-post1348541.vov",
+            "host": "vov.vn",
+            "language": "vie"
           }
         ]
       }

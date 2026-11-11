@@ -1,95 +1,85 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-10T20:20:54.874331+00:00",
+  "generated_at": "2026-11-11T20:20:58.894543+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-09",
+  "latest_complete_day": "2026-11-10",
   "age_days": 1,
-  "window_start": "2026-11-03",
-  "window_end": "2026-11-09",
+  "window_start": "2026-11-04",
+  "window_end": "2026-11-10",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": -1.3272492009544221,
-    "urls": 35,
-    "groups": 28,
+    "tone": -1.8051003253012081,
+    "urls": 34,
+    "groups": 26,
     "content_review": {
-      "pending": 35
+      "pending": 34
     },
     "publisher_types": {
-      "unreviewed": 32,
-      "newspaper": 1,
+      "unreviewed": 30,
+      "newspaper": 2,
       "online_news": 1,
       "broadcaster_news_portal": 1
     },
     "tone_without_each_language": {
-      "fra": -1.1144133270388008,
-      "vie": -2.807861179907476,
-      "guj": -1.2735259203313347,
-      "kor": -1.3326045638748636,
-      "ita": -1.3428607688800414,
-      "eng": 0.4512014298819691,
-      "hrv": -1.321127419010777,
-      "srp": -1.2236765291302825,
-      "zho": -1.146731117208376,
-      "rus": -1.7685634415126452,
-      "spa": -1.3869584411712632
+      "eng": 1.1095024178374642,
+      "ita": -1.842154953427492,
+      "hrv": -1.8176028457759428,
+      "srp": -1.7123558847050087,
+      "zho": -1.6493599949385571,
+      "vie": -3.2800414061921996,
+      "fra": -1.771313554903118,
+      "rus": -2.3008337500779605,
+      "spa": -1.8887003497092678,
+      "hin": -1.6698969309058487
     },
     "tone_without_each_publisher": {
-      "lecourrier.vn": -1.1712783736393437,
-      "tienphong.vn": -1.1945480735557503,
-      "voh.com.vn": -1.5353638192698535,
-      "divyabhaskar.co.in": -1.2735259203313347,
-      "munhwa.com": -1.3326045638748636,
-      "zazoom.it": -1.3256709115935255,
-      "clickondetroit.com": -1.3202680134176792,
-      "ilmessaggero.it": -1.3438608520214705,
-      "index.hr": -1.321127419010777,
-      "ksat.com": -1.3202680134176792,
-      "latimes.com": -1.3202680134176792,
-      "mercurynews.com": -1.3272492009544221,
-      "reporterherald.com": -1.3272492009544221,
-      "tanjug.rs": -1.2236765291302825,
-      "the-messenger.com": -1.3202680134176792,
-      "thestar.com.my": -1.3204593929109973,
-      "thetimes-tribune.com": -1.3272492009544221,
-      "winnipegfreepress.com": -1.007896222986331,
-      "zaobao.com.sg": -1.2582032690748775,
-      "idahopress.com": -1.0539764739777648,
-      "vnexpress.net": -1.543417090605647,
-      "cochranetimes.com": -1.405203318090604,
-      "ledevoir.com": -1.2782669644989022,
-      "philstar.com": -0.7243460675521081,
-      "thefrontierpost.com": -1.276795965709503,
-      "asiaone.com": -1.0849675988039789,
-      "setn.com": -1.222462904041478,
-      "myanmarnews.net": -1.5739374429650796,
-      "baomoi.com": -1.645440746106801,
-      "vov.vn": -1.4418430399637274,
-      "baotintuc.vn": -1.8093070116679821,
-      "caravan.kz": -1.7685634415126452,
-      "prensa-latina.cu": -1.3869584411712632
+      "clickondetroit.com": -1.7975821233385616,
+      "ilmessaggero.it": -1.842154953427492,
+      "index.hr": -1.8176028457759428,
+      "ksat.com": -1.7975821233385616,
+      "latimes.com": -1.7975821233385616,
+      "mercurynews.com": -1.8051003253012081,
+      "reporterherald.com": -1.8051003253012081,
+      "tanjug.rs": -1.7123558847050087,
+      "the-messenger.com": -1.7975821233385616,
+      "thestar.com.my": -1.3984608366970883,
+      "thetimes-tribune.com": -1.8051003253012081,
+      "winnipegfreepress.com": -1.4989555261980083,
+      "zaobao.com.sg": -1.749644763845171,
+      "idahopress.com": -1.5290798251402895,
+      "vnexpress.net": -2.057675691098402,
+      "cochranetimes.com": -1.908404816782156,
+      "ledevoir.com": -1.771313554903118,
+      "philstar.com": -1.1730789862005804,
+      "thefrontierpost.com": -1.7697248762105668,
+      "asiaone.com": -1.5625502399526008,
+      "setn.com": -1.7110451696091,
+      "myanmarnews.net": -2.0906376716465895,
+      "baomoi.com": -2.167861239039649,
+      "vov.vn": -1.9479757164051292,
+      "baotintuc.vn": -2.3448368058457243,
+      "caravan.kz": -2.3008337500779605,
+      "prensa-latina.cu": -1.8887003497092678,
+      "malaysiasun.com": -1.8051003253012081,
+      "nepalnational.com": -1.8051003253012081,
+      "ibtimes.co.uk": -1.6301133270773012,
+      "jagran.com": -1.6698969309058487
     },
-    "positive_share": 32.142857142857146,
+    "positive_share": 34.61538461538461,
     "languages": {
-      "fra": 2,
-      "vie": 6,
-      "guj": 1,
-      "kor": 1,
-      "ita": 2,
-      "eng": 16,
+      "eng": 20,
+      "ita": 1,
       "hrv": 2,
       "srp": 1,
       "zho": 2,
+      "vie": 4,
+      "fra": 1,
       "rus": 1,
-      "spa": 1
+      "spa": 1,
+      "hin": 1
     },
     "publishers": {
-      "lecourrier.vn": 1,
-      "tienphong.vn": 1,
-      "voh.com.vn": 1,
-      "divyabhaskar.co.in": 1,
-      "munhwa.com": 1,
-      "zazoom.it": 1,
       "clickondetroit.com": 1,
       "ilmessaggero.it": 1,
       "index.hr": 2,
@@ -99,7 +89,7 @@
       "reporterherald.com": 1,
       "tanjug.rs": 1,
       "the-messenger.com": 1,
-      "thestar.com.my": 1,
+      "thestar.com.my": 2,
       "thetimes-tribune.com": 1,
       "winnipegfreepress.com": 2,
       "zaobao.com.sg": 1,
@@ -116,13 +106,17 @@
       "vov.vn": 1,
       "baotintuc.vn": 1,
       "caravan.kz": 1,
-      "prensa-latina.cu": 1
+      "prensa-latina.cu": 1,
+      "malaysiasun.com": 1,
+      "nepalnational.com": 1,
+      "ibtimes.co.uk": 1,
+      "jagran.com": 1
     },
     "excluded": {},
-    "unverified_urls": 31,
+    "unverified_urls": 30,
     "largest_publisher": "index.hr",
-    "largest_publisher_share": 5.714285714285714,
-    "tone_without_largest_publisher": -1.321127419010777,
+    "largest_publisher_share": 5.882352941176471,
+    "tone_without_largest_publisher": -1.8176028457759428,
     "topics": [
       {
         "label": "Tourism",
@@ -130,11 +124,11 @@
       },
       {
         "label": "Government",
-        "urls": 12
+        "urls": 13
       },
       {
         "label": "Education",
-        "urls": 8
+        "urls": 9
       },
       {
         "label": "Conflict & violence",
@@ -150,6 +144,41 @@
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-10",
+        "title": "Seventh man linked to Cambodia-based scam syndicate targeting Singaporeans charged",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/seventh-man-linked-to-cambodia-based-scam-syndicate-targeting-singaporeans-charged",
+        "host": "thestar.com.my",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-10",
+        "title": "कंबोडिया में बड़ा हादसा, तालाब में गिरी बस; पांच स्कूली छात्राओं की मौत - five schoolgirls die after bus plunges into a pond in cambodia",
+        "url": "https://www.jagran.com/world/other-five-schoolgirls-die-after-bus-plunges-into-a-pond-in-cambodia-40432988.html",
+        "host": "jagran.com",
+        "language": "hin"
+      },
+      {
+        "day": "2026-11-10",
+        "title": "Five Schoolgirls Drown in Cambodia After Their Bus Plunges Into a Pond, Leaving Three Fighting for Survival",
+        "url": "https://www.ibtimes.co.uk/five-schoolgirls-drown-cambodia-school-vehicle-crash-1831454",
+        "host": "ibtimes.co.uk",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-10",
+        "title": "Jaishankar extends national day greetings to Cambodia, hails strong civilisational ties",
+        "url": "http://www.nepalnational.com/news/279423158/jaishankar-extends-national-day-greetings-to-cambodia-hails-strong-civilisational-ties",
+        "host": "nepalnational.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-10",
+        "title": "Jaishankar extends national day greetings to Cambodia, hails strong civilisational ties",
+        "url": "http://www.malaysiasun.com/news/279423158/jaishankar-extends-national-day-greetings-to-cambodia-hails-strong-civilisational-ties",
+        "host": "malaysiasun.com",
+        "language": "eng"
+      },
       {
         "day": "2026-11-09",
         "title": "Experto defiende papel de Camboya en francofonía - Noticias Prensa Latina",
@@ -198,41 +227,6 @@
         "url": "https://www.setn.com/news/1934751",
         "host": "setn.com",
         "language": "zho"
-      },
-      {
-        "day": "2026-11-06",
-        "title": "Singaporean deported from Vietnam arrested upon arrival for suspected role in Cambodian scam syndicate",
-        "url": "https://www.asiaone.com:443/singapore/wanted-singaporean-lam-yong-yan-charged-cambodian-scam-ring",
-        "host": "asiaone.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-06",
-        "title": "US slaps more sanctions on Cambodia's alleged scam group affiliates – The Frontier Post",
-        "url": "https://thefrontierpost.com/us-slaps-more-sanctions-on-cambodias-alleged-scam-group-affiliates/",
-        "host": "thefrontierpost.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-05",
-        "title": "Takeaways from AP's report on stranded workers after Cambodia's crackdown on illegal scam operations – Winnipeg Free Press",
-        "url": "https://www.winnipegfreepress.com/world/2026/11/05/takeaways-from-aps-report-on-stranded-workers-after-cambodias-crackdown-on-illegal-scam-operations",
-        "host": "winnipegfreepress.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-05",
-        "title": "28 Pinoys in Cambodia face felony charges",
-        "url": "https://www.philstar.com/nation/2026/11/06/2568238/28-pinoys-cambodia-face-felony-charges",
-        "host": "philstar.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-05",
-        "title": "Chronique de Michel David | Rendez-vous à Phnom Penh",
-        "url": "https://www.ledevoir.com/opinion/chroniques/1022405/rendez-vous-phnom-penh",
-        "host": "ledevoir.com",
-        "language": "fra"
       }
     ]
   },
@@ -2337,6 +2331,103 @@
             "url": "http://vov.vn/the-gioi/campuchia-long-trong-ky-niem-73-nam-ngay-quoc-khanh-post1348541.vov",
             "host": "vov.vn",
             "language": "vie"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-11-10",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 28776,
+      "rejected": 19,
+      "missing_titles": 46,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": -5.314180427576092,
+        "urls": 5,
+        "groups": 4,
+        "content_review": {
+          "pending": 5
+        },
+        "publisher_types": {
+          "unreviewed": 4,
+          "newspaper": 1
+        },
+        "tone_without_each_language": {
+          "eng": -5.18518518518519,
+          "hin": -5.357178841706394
+        },
+        "tone_without_each_publisher": {
+          "malaysiasun.com": -5.314180427576092,
+          "nepalnational.com": -5.314180427576092,
+          "ibtimes.co.uk": -5.0256488098018295,
+          "jagran.com": -5.357178841706394,
+          "thestar.com.my": -3.1325824504433233
+        },
+        "positive_share": 25.0,
+        "languages": {
+          "eng": 4,
+          "hin": 1
+        },
+        "publishers": {
+          "malaysiasun.com": 1,
+          "nepalnational.com": 1,
+          "ibtimes.co.uk": 1,
+          "jagran.com": 1,
+          "thestar.com.my": 1
+        },
+        "excluded": {},
+        "unverified_urls": 4,
+        "largest_publisher": "malaysiasun.com",
+        "largest_publisher_share": 20.0,
+        "tone_without_largest_publisher": -5.314180427576092,
+        "topics": [
+          {
+            "label": "Government",
+            "urls": 3
+          },
+          {
+            "label": "Education",
+            "urls": 2
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-10",
+            "title": "Seventh man linked to Cambodia-based scam syndicate targeting Singaporeans charged",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/seventh-man-linked-to-cambodia-based-scam-syndicate-targeting-singaporeans-charged",
+            "host": "thestar.com.my",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-10",
+            "title": "कंबोडिया में बड़ा हादसा, तालाब में गिरी बस; पांच स्कूली छात्राओं की मौत - five schoolgirls die after bus plunges into a pond in cambodia",
+            "url": "https://www.jagran.com/world/other-five-schoolgirls-die-after-bus-plunges-into-a-pond-in-cambodia-40432988.html",
+            "host": "jagran.com",
+            "language": "hin"
+          },
+          {
+            "day": "2026-11-10",
+            "title": "Five Schoolgirls Drown in Cambodia After Their Bus Plunges Into a Pond, Leaving Three Fighting for Survival",
+            "url": "https://www.ibtimes.co.uk/five-schoolgirls-drown-cambodia-school-vehicle-crash-1831454",
+            "host": "ibtimes.co.uk",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-10",
+            "title": "Jaishankar extends national day greetings to Cambodia, hails strong civilisational ties",
+            "url": "http://www.nepalnational.com/news/279423158/jaishankar-extends-national-day-greetings-to-cambodia-hails-strong-civilisational-ties",
+            "host": "nepalnational.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-10",
+            "title": "Jaishankar extends national day greetings to Cambodia, hails strong civilisational ties",
+            "url": "http://www.malaysiasun.com/news/279423158/jaishankar-extends-national-day-greetings-to-cambodia-hails-strong-civilisational-ties",
+            "host": "malaysiasun.com",
+            "language": "eng"
           }
         ]
       }

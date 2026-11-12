@@ -1,103 +1,86 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-11T20:20:58.894543+00:00",
+  "generated_at": "2026-11-12T20:21:03.883922+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-10",
+  "latest_complete_day": "2026-11-11",
   "age_days": 1,
-  "window_start": "2026-11-04",
-  "window_end": "2026-11-10",
+  "window_start": "2026-11-05",
+  "window_end": "2026-11-11",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": -1.8051003253012081,
-    "urls": 34,
+    "tone": -0.8871083222766933,
+    "urls": 28,
     "groups": 26,
     "content_review": {
-      "pending": 34
+      "pending": 28
     },
     "publisher_types": {
-      "unreviewed": 30,
-      "newspaper": 2,
+      "unreviewed": 23,
       "online_news": 1,
-      "broadcaster_news_portal": 1
+      "broadcaster_news_portal": 1,
+      "newspaper": 1,
+      "news_agency_portal": 2
     },
     "tone_without_each_language": {
-      "eng": 1.1095024178374642,
-      "ita": -1.842154953427492,
-      "hrv": -1.8176028457759428,
-      "srp": -1.7123558847050087,
-      "zho": -1.6493599949385571,
-      "vie": -3.2800414061921996,
-      "fra": -1.771313554903118,
-      "rus": -2.3008337500779605,
-      "spa": -1.8887003497092678,
-      "hin": -1.6698969309058487
+      "eng": 1.692616597001715,
+      "vie": -2.1951417662541366,
+      "fra": -0.8616401656065544,
+      "zho": -0.7563334864636047,
+      "rus": -1.3715732314860236,
+      "spa": -0.9339886665637724,
+      "hin": -0.7151852477603535,
+      "ind": -0.9867637781624135,
+      "jpn": -0.7930210773203211
     },
     "tone_without_each_publisher": {
-      "clickondetroit.com": -1.7975821233385616,
-      "ilmessaggero.it": -1.842154953427492,
-      "index.hr": -1.8176028457759428,
-      "ksat.com": -1.7975821233385616,
-      "latimes.com": -1.7975821233385616,
-      "mercurynews.com": -1.8051003253012081,
-      "reporterherald.com": -1.8051003253012081,
-      "tanjug.rs": -1.7123558847050087,
-      "the-messenger.com": -1.7975821233385616,
-      "thestar.com.my": -1.3984608366970883,
-      "thetimes-tribune.com": -1.8051003253012081,
-      "winnipegfreepress.com": -1.4989555261980083,
-      "zaobao.com.sg": -1.749644763845171,
-      "idahopress.com": -1.5290798251402895,
-      "vnexpress.net": -2.057675691098402,
-      "cochranetimes.com": -1.908404816782156,
-      "ledevoir.com": -1.771313554903118,
-      "philstar.com": -1.1730789862005804,
-      "thefrontierpost.com": -1.7697248762105668,
-      "asiaone.com": -1.5625502399526008,
-      "setn.com": -1.7110451696091,
-      "myanmarnews.net": -2.0906376716465895,
-      "baomoi.com": -2.167861239039649,
-      "vov.vn": -1.9479757164051292,
-      "baotintuc.vn": -2.3448368058457243,
-      "caravan.kz": -2.3008337500779605,
-      "prensa-latina.cu": -1.8887003497092678,
-      "malaysiasun.com": -1.8051003253012081,
-      "nepalnational.com": -1.8051003253012081,
-      "ibtimes.co.uk": -1.6301133270773012,
-      "jagran.com": -1.6698969309058487
+      "idahopress.com": -0.5743681419947942,
+      "vnexpress.net": -1.102964007952907,
+      "cochranetimes.com": -0.9536931336366606,
+      "ledevoir.com": -0.8166018717576227,
+      "philstar.com": -0.21836730305508506,
+      "winnipegfreepress.com": -0.5755403748563038,
+      "thefrontierpost.com": -0.8150131930650715,
+      "asiaone.com": -0.6078385568071055,
+      "setn.com": -0.7563334864636047,
+      "myanmarnews.net": -1.1359259885010944,
+      "baomoi.com": -1.2131495558941534,
+      "vov.vn": -0.9932640332596339,
+      "baotintuc.vn": -1.3901251227002291,
+      "caravan.kz": -1.3461220669324652,
+      "prensa-latina.cu": -0.9339886665637724,
+      "malaysiasun.com": -0.8871083222766933,
+      "nepalnational.com": -0.8871083222766933,
+      "ibtimes.co.uk": -0.6754016439318059,
+      "jagran.com": -0.7151852477603535,
+      "thestar.com.my": -0.44823368080878506,
+      "bola.okezone.com": -0.9867637781624135,
+      "english.news.cn": -1.0448633975258395,
+      "rapsinews.ru": -0.8931808904618787,
+      "lechodemaskinonge.com": -0.9331653423924307,
+      "manilatimes.net": -1.0778319824640095,
+      "morungexpress.com": -1.0625926551677611,
+      "sankei.com": -0.7930210773203211
     },
-    "positive_share": 34.61538461538461,
+    "positive_share": 53.84615384615385,
     "languages": {
-      "eng": 20,
-      "ita": 1,
-      "hrv": 2,
-      "srp": 1,
-      "zho": 2,
+      "eng": 15,
       "vie": 4,
-      "fra": 1,
-      "rus": 1,
+      "fra": 2,
+      "zho": 1,
+      "rus": 2,
       "spa": 1,
-      "hin": 1
+      "hin": 1,
+      "ind": 1,
+      "jpn": 1
     },
     "publishers": {
-      "clickondetroit.com": 1,
-      "ilmessaggero.it": 1,
-      "index.hr": 2,
-      "ksat.com": 1,
-      "latimes.com": 1,
-      "mercurynews.com": 1,
-      "reporterherald.com": 1,
-      "tanjug.rs": 1,
-      "the-messenger.com": 1,
-      "thestar.com.my": 2,
-      "thetimes-tribune.com": 1,
-      "winnipegfreepress.com": 2,
-      "zaobao.com.sg": 1,
       "idahopress.com": 1,
       "vnexpress.net": 1,
       "cochranetimes.com": 1,
       "ledevoir.com": 1,
       "philstar.com": 1,
+      "winnipegfreepress.com": 1,
       "thefrontierpost.com": 1,
       "asiaone.com": 1,
       "setn.com": 1,
@@ -110,40 +93,100 @@
       "malaysiasun.com": 1,
       "nepalnational.com": 1,
       "ibtimes.co.uk": 1,
-      "jagran.com": 1
+      "jagran.com": 1,
+      "thestar.com.my": 1,
+      "bola.okezone.com": 1,
+      "english.news.cn": 2,
+      "rapsinews.ru": 1,
+      "lechodemaskinonge.com": 1,
+      "manilatimes.net": 1,
+      "morungexpress.com": 1,
+      "sankei.com": 1
     },
     "excluded": {},
-    "unverified_urls": 30,
-    "largest_publisher": "index.hr",
-    "largest_publisher_share": 5.882352941176471,
-    "tone_without_largest_publisher": -1.8176028457759428,
+    "unverified_urls": 23,
+    "largest_publisher": "english.news.cn",
+    "largest_publisher_share": 7.142857142857143,
+    "tone_without_largest_publisher": -1.0448633975258395,
     "topics": [
       {
-        "label": "Tourism",
+        "label": "Government",
         "urls": 14
       },
       {
-        "label": "Government",
-        "urls": 13
-      },
-      {
         "label": "Education",
-        "urls": 9
-      },
-      {
-        "label": "Conflict & violence",
-        "urls": 7
-      },
-      {
-        "label": "Borders",
-        "urls": 4
+        "urls": 10
       },
       {
         "label": "Economy & trade",
-        "urls": 3
+        "urls": 6
+      },
+      {
+        "label": "Conflict & violence",
+        "urls": 6
+      },
+      {
+        "label": "Borders",
+        "urls": 5
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-11",
+        "title": "「中国がカンボジアを支配しようとしている」野党指導者、母国の民主化へ日本の関与に期待",
+        "url": "https://www.sankei.com/article/20261111-SPA5XIAWDRCPBPFONF45SP47UE/",
+        "host": "sankei.com",
+        "language": "jpn"
+      },
+      {
+        "day": "2026-11-11",
+        "title": "Cambodia launches nationwide HPV campaign to protect girls from cervical cancer",
+        "url": "https://www.morungexpress.com/cambodia-launches-nationwide-hpv-campaign-to-protect-girls-from-cervical-cancer",
+        "host": "morungexpress.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-11",
+        "title": "Beyond Medical Group and Tamarind Health Advance Regional Expansion Through Strategic Partnership in Cambodia",
+        "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/pr-newswire/beyond-medical-group-and-tamarind-health-advance-regional-expansion-through-strategic-partnership-in-cambodia/2467227",
+        "host": "manilatimes.net",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-11",
+        "title": "Carney s'envole pour des sommets en Irlande, aux Philippines, au Cambodge et en Chine",
+        "url": "https://www.lechodemaskinonge.com/nouvelles-nationales/carney-senvole-pour-des-sommets-en-irlande-aux-philippines-au-cambodge-et-en-chine/",
+        "host": "lechodemaskinonge.com",
+        "language": "fra"
+      },
+      {
+        "day": "2026-11-11",
+        "title": "ГД одобрила ратификацию соглашений с Зимбабве и Камбоджей по передаче осужденных",
+        "url": "https://rapsinews.ru/international_news/20261111/312360049.html",
+        "host": "rapsinews.ru",
+        "language": "rus"
+      },
+      {
+        "day": "2026-11-11",
+        "title": "Cambodia's garment, shoe, travel goods exports hit 14.4 bln USD in Jan.-Oct.-Xinhua",
+        "url": "https://english.news.cn/asiapacific/20261111/e8d02faa416b434c9a36c5e6c5e071a8/c.html",
+        "host": "english.news.cn",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-11",
+        "title": "Cambodia's garment, shoe, travel goods exports hit 14.4 bln USD in Jan.-Oct.-Xinhua",
+        "url": "https://english.news.cn/20261111/b2d4e2825ec9476abdd772313bbfc843/c.html",
+        "host": "english.news.cn",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-11",
+        "title": "Hasil Timnas Afghanistan U-17 vs Kamboja di Kualifikasi Piala Asia U-17 2027: The Lions of Khorasan Menang Telak : Okezone Bola",
+        "url": "https://bola.okezone.com/read/2026/11/11/51/3253479/hasil-timnas-afghanistan-u-17-vs-kamboja-di-kualifikasi-piala-asia-u-17-2027-the-lions-of-khorasan-menang-telak",
+        "host": "bola.okezone.com",
+        "language": "ind"
+      },
       {
         "day": "2026-11-10",
         "title": "Seventh man linked to Cambodia-based scam syndicate targeting Singaporeans charged",
@@ -171,62 +214,6 @@
         "url": "http://www.nepalnational.com/news/279423158/jaishankar-extends-national-day-greetings-to-cambodia-hails-strong-civilisational-ties",
         "host": "nepalnational.com",
         "language": "eng"
-      },
-      {
-        "day": "2026-11-10",
-        "title": "Jaishankar extends national day greetings to Cambodia, hails strong civilisational ties",
-        "url": "http://www.malaysiasun.com/news/279423158/jaishankar-extends-national-day-greetings-to-cambodia-hails-strong-civilisational-ties",
-        "host": "malaysiasun.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-09",
-        "title": "Experto defiende papel de Camboya en francofonía - Noticias Prensa Latina",
-        "url": "https://www.prensa-latina.cu/2026/11/09/experto-defiende-papel-de-camboya-en-francofonia/",
-        "host": "prensa-latina.cu",
-        "language": "spa"
-      },
-      {
-        "day": "2026-11-09",
-        "title": "Токаев поздравил премьер-министра Камбоджи",
-        "url": "https://www.caravan.kz/news/tokaev-pozdravil-premer-ministra-kambodzhi/",
-        "host": "caravan.kz",
-        "language": "rus"
-      },
-      {
-        "day": "2026-11-09",
-        "title": "Lãnh đạo Đảng, Nhà nước Việt Nam chúc mừng 73 năm Quốc khánh Vương quốc Campuchia",
-        "url": "https://baotintuc.vn/lanh-dao-dang-nha-nuoc-viet-nam-chuc-mung-73-nam-quoc-khanh-campuchia-post1401206.html",
-        "host": "baotintuc.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-11-09",
-        "title": "Campuchia long trọng kỷ niệm 73 năm Ngày Quốc khánh",
-        "url": "http://vov.vn/the-gioi/campuchia-long-trong-ky-niem-73-nam-ngay-quoc-khanh-post1348541.vov",
-        "host": "vov.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-11-08",
-        "title": "Thanh niên Việt Nam - Campuchia - Lào kiến tạo tương lai quan hệ ba nước",
-        "url": "https://baomoi.com/thanh-nien-viet-nam-campuchia-lao-kien-tao-tuong-lai-quan-he-ba-nuoc-c56461845.epi",
-        "host": "baomoi.com",
-        "language": "vie"
-      },
-      {
-        "day": "2026-11-08",
-        "title": "CAMBODIA-SIEM REAP-WORLD CHILDREN'S DAY CELEBRATION-FUN RUN",
-        "url": "http://www.myanmarnews.net/news/279420188/cambodia-siem-reap-world-childrens-day-celebration-fun-run",
-        "host": "myanmarnews.net",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-06",
-        "title": "運動鞋底挖空藏海洛因！柬埔寨返台男「步伐沉重」露餡機場遭逮 | 社會 | 三立新聞網  SETN.COM",
-        "url": "https://www.setn.com/news/1934751",
-        "host": "setn.com",
-        "language": "zho"
       }
     ]
   },
@@ -2428,6 +2415,146 @@
             "url": "http://www.malaysiasun.com/news/279423158/jaishankar-extends-national-day-greetings-to-cambodia-hails-strong-civilisational-ties",
             "host": "malaysiasun.com",
             "language": "eng"
+          }
+        ]
+      }
+    },
+    {
+      "day": "2026-11-11",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 28279,
+      "rejected": 10,
+      "missing_titles": 63,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": 1.1902519190011658,
+        "urls": 8,
+        "groups": 7,
+        "content_review": {
+          "pending": 8
+        },
+        "publisher_types": {
+          "unreviewed": 6,
+          "news_agency_portal": 2
+        },
+        "tone_without_each_language": {
+          "ind": 1.1212475596903084,
+          "eng": -0.5264970770875025,
+          "rus": 1.5111762584425368,
+          "fra": 1.3445743753985702,
+          "jpn": 1.9285088131990267
+        },
+        "tone_without_each_publisher": {
+          "bola.okezone.com": 1.1212475596903084,
+          "english.news.cn": 0.8791658123427,
+          "rapsinews.ru": 1.5111762584425368,
+          "lechodemaskinonge.com": 1.3445743753985702,
+          "manilatimes.net": 0.7417967084336583,
+          "morungexpress.com": 0.80529390550136,
+          "sankei.com": 1.9285088131990267
+        },
+        "positive_share": 71.42857142857143,
+        "languages": {
+          "ind": 1,
+          "eng": 4,
+          "rus": 1,
+          "fra": 1,
+          "jpn": 1
+        },
+        "publishers": {
+          "bola.okezone.com": 1,
+          "english.news.cn": 2,
+          "rapsinews.ru": 1,
+          "lechodemaskinonge.com": 1,
+          "manilatimes.net": 1,
+          "morungexpress.com": 1,
+          "sankei.com": 1
+        },
+        "excluded": {},
+        "unverified_urls": 6,
+        "largest_publisher": "english.news.cn",
+        "largest_publisher_share": 25.0,
+        "tone_without_largest_publisher": 0.8791658123427,
+        "topics": [
+          {
+            "label": "Education",
+            "urls": 5
+          },
+          {
+            "label": "Economy & trade",
+            "urls": 4
+          },
+          {
+            "label": "Government",
+            "urls": 3
+          },
+          {
+            "label": "Borders",
+            "urls": 1
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-11",
+            "title": "「中国がカンボジアを支配しようとしている」野党指導者、母国の民主化へ日本の関与に期待",
+            "url": "https://www.sankei.com/article/20261111-SPA5XIAWDRCPBPFONF45SP47UE/",
+            "host": "sankei.com",
+            "language": "jpn"
+          },
+          {
+            "day": "2026-11-11",
+            "title": "Cambodia launches nationwide HPV campaign to protect girls from cervical cancer",
+            "url": "https://www.morungexpress.com/cambodia-launches-nationwide-hpv-campaign-to-protect-girls-from-cervical-cancer",
+            "host": "morungexpress.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-11",
+            "title": "Beyond Medical Group and Tamarind Health Advance Regional Expansion Through Strategic Partnership in Cambodia",
+            "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/pr-newswire/beyond-medical-group-and-tamarind-health-advance-regional-expansion-through-strategic-partnership-in-cambodia/2467227",
+            "host": "manilatimes.net",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-11",
+            "title": "Carney s'envole pour des sommets en Irlande, aux Philippines, au Cambodge et en Chine",
+            "url": "https://www.lechodemaskinonge.com/nouvelles-nationales/carney-senvole-pour-des-sommets-en-irlande-aux-philippines-au-cambodge-et-en-chine/",
+            "host": "lechodemaskinonge.com",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-11",
+            "title": "ГД одобрила ратификацию соглашений с Зимбабве и Камбоджей по передаче осужденных",
+            "url": "https://rapsinews.ru/international_news/20261111/312360049.html",
+            "host": "rapsinews.ru",
+            "language": "rus"
+          },
+          {
+            "day": "2026-11-11",
+            "title": "Cambodia's garment, shoe, travel goods exports hit 14.4 bln USD in Jan.-Oct.-Xinhua",
+            "url": "https://english.news.cn/asiapacific/20261111/e8d02faa416b434c9a36c5e6c5e071a8/c.html",
+            "host": "english.news.cn",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-11",
+            "title": "Cambodia's garment, shoe, travel goods exports hit 14.4 bln USD in Jan.-Oct.-Xinhua",
+            "url": "https://english.news.cn/20261111/b2d4e2825ec9476abdd772313bbfc843/c.html",
+            "host": "english.news.cn",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-11",
+            "title": "Hasil Timnas Afghanistan U-17 vs Kamboja di Kualifikasi Piala Asia U-17 2027: The Lions of Khorasan Menang Telak : Okezone Bola",
+            "url": "https://bola.okezone.com/read/2026/11/11/51/3253479/hasil-timnas-afghanistan-u-17-vs-kamboja-di-kualifikasi-piala-asia-u-17-2027-the-lions-of-khorasan-menang-telak",
+            "host": "bola.okezone.com",
+            "language": "ind"
           }
         ]
       }

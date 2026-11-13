@@ -1,86 +1,84 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-12T20:21:03.883922+00:00",
+  "generated_at": "2026-11-13T20:21:08.564731+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-11",
+  "latest_complete_day": "2026-11-12",
   "age_days": 1,
-  "window_start": "2026-11-05",
-  "window_end": "2026-11-11",
+  "window_start": "2026-11-06",
+  "window_end": "2026-11-12",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": -0.8871083222766933,
-    "urls": 28,
-    "groups": 26,
+    "tone": -0.13100501856153082,
+    "urls": 31,
+    "groups": 29,
     "content_review": {
-      "pending": 28
+      "pending": 31
     },
     "publisher_types": {
-      "unreviewed": 23,
-      "online_news": 1,
+      "unreviewed": 27,
       "broadcaster_news_portal": 1,
       "newspaper": 1,
       "news_agency_portal": 2
     },
     "tone_without_each_language": {
-      "eng": 1.692616597001715,
-      "vie": -2.1951417662541366,
-      "fra": -0.8616401656065544,
-      "zho": -0.7563334864636047,
-      "rus": -1.3715732314860236,
-      "spa": -0.9339886665637724,
-      "hin": -0.7151852477603535,
-      "ind": -0.9867637781624135,
-      "jpn": -0.7930210773203211
+      "eng": 1.4563677853049621,
+      "zho": 0.012761917118554138,
+      "vie": -0.803735417439631,
+      "rus": -0.6999054330849802,
+      "spa": -0.14585877939945283,
+      "hin": 0.049501415960742694,
+      "ind": -0.1929794147553823,
+      "fra": -0.22350136670904286,
+      "jpn": -0.019994860432085506,
+      "kor": -0.181724284878218
     },
     "tone_without_each_publisher": {
-      "idahopress.com": -0.5743681419947942,
-      "vnexpress.net": -1.102964007952907,
-      "cochranetimes.com": -0.9536931336366606,
-      "ledevoir.com": -0.8166018717576227,
-      "philstar.com": -0.21836730305508506,
-      "winnipegfreepress.com": -0.5755403748563038,
-      "thefrontierpost.com": -0.8150131930650715,
-      "asiaone.com": -0.6078385568071055,
-      "setn.com": -0.7563334864636047,
-      "myanmarnews.net": -1.1359259885010944,
-      "baomoi.com": -1.2131495558941534,
-      "vov.vn": -0.9932640332596339,
-      "baotintuc.vn": -1.3901251227002291,
-      "caravan.kz": -1.3461220669324652,
-      "prensa-latina.cu": -0.9339886665637724,
-      "malaysiasun.com": -0.8871083222766933,
-      "nepalnational.com": -0.8871083222766933,
-      "ibtimes.co.uk": -0.6754016439318059,
-      "jagran.com": -0.7151852477603535,
-      "thestar.com.my": -0.44823368080878506,
-      "bola.okezone.com": -0.9867637781624135,
-      "english.news.cn": -1.0448633975258395,
-      "rapsinews.ru": -0.8931808904618787,
-      "lechodemaskinonge.com": -0.9331653423924307,
-      "manilatimes.net": -1.0778319824640095,
-      "morungexpress.com": -1.0625926551677611,
-      "sankei.com": -0.7930210773203211
+      "thefrontierpost.com": -0.03963067806132693,
+      "asiaone.com": 0.14534667574042842,
+      "setn.com": 0.012761917118554138,
+      "myanmarnews.net": -0.326159959700633,
+      "baomoi.com": -0.39510957344443587,
+      "vov.vn": -0.19878321394932907,
+      "baotintuc.vn": -0.553123472378432,
+      "caravan.kz": -0.5138350297286427,
+      "prensa-latina.cu": -0.14585877939945283,
+      "malaysiasun.com": -0.13100501856153082,
+      "nepalnational.com": -0.13100501856153082,
+      "ibtimes.co.uk": 0.08502249080766022,
+      "jagran.com": 0.049501415960742694,
+      "thestar.com.my": 0.2878510293103574,
+      "bola.okezone.com": -0.1929794147553823,
+      "english.news.cn": -0.24485407490129837,
+      "rapsinews.ru": -0.10942326502276194,
+      "lechodemaskinonge.com": -0.14512366853218336,
+      "manilatimes.net": -0.27429031145323585,
+      "morungexpress.com": -0.26068376922444264,
+      "sankei.com": -0.019994860432085506,
+      "asia.nikkei.com": -0.07515108157311086,
+      "mymotherlode.com": 0.02509893466170949,
+      "theshillongtimes.com": 0.04288765934698592,
+      "tienphong.vn": 0.022344043670627003,
+      "courrierfrontenac.qc.ca": -0.19809708406494195,
+      "edaily.co.kr": -0.181724284878218,
+      "journal-news.net": 0.044509397850662005,
+      "sb.by": -0.29802143156210514,
+      "telerama.fr": -0.13568376922444264
     },
-    "positive_share": 53.84615384615385,
+    "positive_share": 51.724137931034484,
     "languages": {
       "eng": 15,
-      "vie": 4,
-      "fra": 2,
       "zho": 1,
-      "rus": 2,
+      "vie": 4,
+      "rus": 3,
       "spa": 1,
       "hin": 1,
       "ind": 1,
-      "jpn": 1
+      "fra": 3,
+      "jpn": 1,
+      "kor": 1
     },
     "publishers": {
-      "idahopress.com": 1,
-      "vnexpress.net": 1,
-      "cochranetimes.com": 1,
-      "ledevoir.com": 1,
-      "philstar.com": 1,
-      "winnipegfreepress.com": 1,
       "thefrontierpost.com": 1,
       "asiaone.com": 1,
       "setn.com": 1,
@@ -101,36 +99,108 @@
       "lechodemaskinonge.com": 1,
       "manilatimes.net": 1,
       "morungexpress.com": 1,
-      "sankei.com": 1
+      "sankei.com": 1,
+      "asia.nikkei.com": 1,
+      "mymotherlode.com": 1,
+      "theshillongtimes.com": 1,
+      "tienphong.vn": 1,
+      "courrierfrontenac.qc.ca": 1,
+      "edaily.co.kr": 1,
+      "journal-news.net": 1,
+      "sb.by": 1,
+      "telerama.fr": 1
     },
     "excluded": {},
-    "unverified_urls": 23,
+    "unverified_urls": 26,
     "largest_publisher": "english.news.cn",
-    "largest_publisher_share": 7.142857142857143,
-    "tone_without_largest_publisher": -1.0448633975258395,
+    "largest_publisher_share": 6.451612903225806,
+    "tone_without_largest_publisher": -0.24485407490129837,
     "topics": [
       {
         "label": "Government",
-        "urls": 14
+        "urls": 13
       },
       {
         "label": "Education",
-        "urls": 10
+        "urls": 11
       },
       {
         "label": "Economy & trade",
-        "urls": 6
+        "urls": 10
+      },
+      {
+        "label": "Borders",
+        "urls": 8
       },
       {
         "label": "Conflict & violence",
         "urls": 6
-      },
-      {
-        "label": "Borders",
-        "urls": 5
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-12",
+        "title": "\"France-Cambodge, si loin, si proche\" : un film de propagande colonialiste",
+        "url": "https://www.telerama.fr/television/france-cambodge-si-loin-si-proche-un-film-de-propagande-colonialiste_cri-7046808.php",
+        "host": "telerama.fr",
+        "language": "fra"
+      },
+      {
+        "day": "2026-11-12",
+        "title": "Беларусь стремится к расширению сотрудничества с Камбоджой на всех направлениях — депутат Маркевич",
+        "url": "https://www.sb.by/articles/belarus-stremitsya-k-rasshireniyu-sotrudnichestva-s-kambodzhoy-na-vsekh-napravleniyakh-deputat-marke.html",
+        "host": "sb.by",
+        "language": "rus"
+      },
+      {
+        "day": "2026-11-12",
+        "title": "A way of life is disappearing on Cambodia's Tonle Sap as El Niño pressures lake communities | Weather",
+        "url": "https://www.journal-news.net/news/weather/a-way-of-life-is-disappearing-on-cambodia-s-tonle-sap-as-el-ni-o/article_5f53dd72-6f9a-5a11-abda-6126f4d087dd.html",
+        "host": "journal-news.net",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-12",
+        "title": "캄보디아와의 30년, 미래 상생 발전을 위한 동행[공관에서 온 편지]",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=01262806645645392&mediaCodeNo=257",
+        "host": "edaily.co.kr",
+        "language": "kor"
+      },
+      {
+        "day": "2026-11-12",
+        "title": "Des entreprises québécoises s'en vont brasser des affaires en français au Cambodge",
+        "url": "https://www.courrierfrontenac.qc.ca/nouvelles-nationales/des-entreprises-quebecoises-sen-vont-brasser-des-affaires-en-francais-au-cambodge/",
+        "host": "courrierfrontenac.qc.ca",
+        "language": "fra"
+      },
+      {
+        "day": "2026-11-12",
+        "title": "TPHCM trục xuất 115 công dân Campuchia, khởi tố 6 bị can",
+        "url": "https://tienphong.vn/tphcm-truc-xuat-115-cong-dan-campuchia-khoi-to-6-bi-can-post1893592.tpo",
+        "host": "tienphong.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-12",
+        "title": "Cambodia launches HPV campaign | The Shillong Times",
+        "url": "https://theshillongtimes.com/2026/11/12/cambodia-launches-hpv-campaign/",
+        "host": "theshillongtimes.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-12",
+        "title": "A way of life is disappearing on Cambodia's Tonle Sap as El Niño pressures lake communities",
+        "url": "https://mymotherlode.com/news/world/11302325/a-way-of-life-is-disappearing-on-cambodias-tonle-sap-as-el-nino-pressures-lake-communities.html",
+        "host": "mymotherlode.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-12",
+        "title": "Cambodia's military recruitment drive tops target by 50%",
+        "url": "https://asia.nikkei.com/politics/international-relations/cambodia-s-military-recruitment-drive-tops-target-by-50",
+        "host": "asia.nikkei.com",
+        "language": "eng"
+      },
       {
         "day": "2026-11-11",
         "title": "「中国がカンボジアを支配しようとしている」野党指導者、母国の民主化へ日本の関与に期待",
@@ -150,69 +220,6 @@
         "title": "Beyond Medical Group and Tamarind Health Advance Regional Expansion Through Strategic Partnership in Cambodia",
         "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/pr-newswire/beyond-medical-group-and-tamarind-health-advance-regional-expansion-through-strategic-partnership-in-cambodia/2467227",
         "host": "manilatimes.net",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-11",
-        "title": "Carney s'envole pour des sommets en Irlande, aux Philippines, au Cambodge et en Chine",
-        "url": "https://www.lechodemaskinonge.com/nouvelles-nationales/carney-senvole-pour-des-sommets-en-irlande-aux-philippines-au-cambodge-et-en-chine/",
-        "host": "lechodemaskinonge.com",
-        "language": "fra"
-      },
-      {
-        "day": "2026-11-11",
-        "title": "ГД одобрила ратификацию соглашений с Зимбабве и Камбоджей по передаче осужденных",
-        "url": "https://rapsinews.ru/international_news/20261111/312360049.html",
-        "host": "rapsinews.ru",
-        "language": "rus"
-      },
-      {
-        "day": "2026-11-11",
-        "title": "Cambodia's garment, shoe, travel goods exports hit 14.4 bln USD in Jan.-Oct.-Xinhua",
-        "url": "https://english.news.cn/asiapacific/20261111/e8d02faa416b434c9a36c5e6c5e071a8/c.html",
-        "host": "english.news.cn",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-11",
-        "title": "Cambodia's garment, shoe, travel goods exports hit 14.4 bln USD in Jan.-Oct.-Xinhua",
-        "url": "https://english.news.cn/20261111/b2d4e2825ec9476abdd772313bbfc843/c.html",
-        "host": "english.news.cn",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-11",
-        "title": "Hasil Timnas Afghanistan U-17 vs Kamboja di Kualifikasi Piala Asia U-17 2027: The Lions of Khorasan Menang Telak : Okezone Bola",
-        "url": "https://bola.okezone.com/read/2026/11/11/51/3253479/hasil-timnas-afghanistan-u-17-vs-kamboja-di-kualifikasi-piala-asia-u-17-2027-the-lions-of-khorasan-menang-telak",
-        "host": "bola.okezone.com",
-        "language": "ind"
-      },
-      {
-        "day": "2026-11-10",
-        "title": "Seventh man linked to Cambodia-based scam syndicate targeting Singaporeans charged",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/10/seventh-man-linked-to-cambodia-based-scam-syndicate-targeting-singaporeans-charged",
-        "host": "thestar.com.my",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-10",
-        "title": "कंबोडिया में बड़ा हादसा, तालाब में गिरी बस; पांच स्कूली छात्राओं की मौत - five schoolgirls die after bus plunges into a pond in cambodia",
-        "url": "https://www.jagran.com/world/other-five-schoolgirls-die-after-bus-plunges-into-a-pond-in-cambodia-40432988.html",
-        "host": "jagran.com",
-        "language": "hin"
-      },
-      {
-        "day": "2026-11-10",
-        "title": "Five Schoolgirls Drown in Cambodia After Their Bus Plunges Into a Pond, Leaving Three Fighting for Survival",
-        "url": "https://www.ibtimes.co.uk/five-schoolgirls-drown-cambodia-school-vehicle-crash-1831454",
-        "host": "ibtimes.co.uk",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-10",
-        "title": "Jaishankar extends national day greetings to Cambodia, hails strong civilisational ties",
-        "url": "http://www.nepalnational.com/news/279423158/jaishankar-extends-national-day-greetings-to-cambodia-hails-strong-civilisational-ties",
-        "host": "nepalnational.com",
         "language": "eng"
       }
     ]
@@ -2558,6 +2565,156 @@
           }
         ]
       }
+    },
+    {
+      "day": "2026-11-12",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 28563,
+      "rejected": 43,
+      "missing_titles": 92,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": -1.4538729558800212,
+        "urls": 9,
+        "groups": 9,
+        "content_review": {
+          "pending": 9
+        },
+        "publisher_types": {
+          "unreviewed": 9
+        },
+        "tone_without_each_language": {
+          "eng": 0.631476607646458,
+          "vie": -1.08250973023228,
+          "fra": -2.118918488350596,
+          "kor": -1.7967488801532374,
+          "rus": -2.2037888935468426
+        },
+        "tone_without_each_publisher": {
+          "asia.nikkei.com": -1.4237426685853625,
+          "mymotherlode.com": -1.0728676117634912,
+          "theshillongtimes.com": -1.0106070753650238,
+          "tienphong.vn": -1.08250973023228,
+          "courrierfrontenac.qc.ca": -1.8540536773067713,
+          "edaily.co.kr": -1.7967488801532374,
+          "journal-news.net": -1.0049309906021575,
+          "sb.by": -2.2037888935468426,
+          "telerama.fr": -1.6356070753650238
+        },
+        "positive_share": 33.333333333333336,
+        "languages": {
+          "eng": 4,
+          "vie": 1,
+          "fra": 2,
+          "kor": 1,
+          "rus": 1
+        },
+        "publishers": {
+          "asia.nikkei.com": 1,
+          "mymotherlode.com": 1,
+          "theshillongtimes.com": 1,
+          "tienphong.vn": 1,
+          "courrierfrontenac.qc.ca": 1,
+          "edaily.co.kr": 1,
+          "journal-news.net": 1,
+          "sb.by": 1,
+          "telerama.fr": 1
+        },
+        "excluded": {},
+        "unverified_urls": 8,
+        "largest_publisher": "asia.nikkei.com",
+        "largest_publisher_share": 11.11111111111111,
+        "tone_without_largest_publisher": -1.4237426685853625,
+        "topics": [
+          {
+            "label": "Economy & trade",
+            "urls": 5
+          },
+          {
+            "label": "Borders",
+            "urls": 5
+          },
+          {
+            "label": "Government",
+            "urls": 3
+          },
+          {
+            "label": "Education",
+            "urls": 3
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 3
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-12",
+            "title": "\"France-Cambodge, si loin, si proche\" : un film de propagande colonialiste",
+            "url": "https://www.telerama.fr/television/france-cambodge-si-loin-si-proche-un-film-de-propagande-colonialiste_cri-7046808.php",
+            "host": "telerama.fr",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-12",
+            "title": "Беларусь стремится к расширению сотрудничества с Камбоджой на всех направлениях — депутат Маркевич",
+            "url": "https://www.sb.by/articles/belarus-stremitsya-k-rasshireniyu-sotrudnichestva-s-kambodzhoy-na-vsekh-napravleniyakh-deputat-marke.html",
+            "host": "sb.by",
+            "language": "rus"
+          },
+          {
+            "day": "2026-11-12",
+            "title": "A way of life is disappearing on Cambodia's Tonle Sap as El Niño pressures lake communities | Weather",
+            "url": "https://www.journal-news.net/news/weather/a-way-of-life-is-disappearing-on-cambodia-s-tonle-sap-as-el-ni-o/article_5f53dd72-6f9a-5a11-abda-6126f4d087dd.html",
+            "host": "journal-news.net",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-12",
+            "title": "캄보디아와의 30년, 미래 상생 발전을 위한 동행[공관에서 온 편지]",
+            "url": "https://www.edaily.co.kr/News/Read?newsId=01262806645645392&mediaCodeNo=257",
+            "host": "edaily.co.kr",
+            "language": "kor"
+          },
+          {
+            "day": "2026-11-12",
+            "title": "Des entreprises québécoises s'en vont brasser des affaires en français au Cambodge",
+            "url": "https://www.courrierfrontenac.qc.ca/nouvelles-nationales/des-entreprises-quebecoises-sen-vont-brasser-des-affaires-en-francais-au-cambodge/",
+            "host": "courrierfrontenac.qc.ca",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-12",
+            "title": "TPHCM trục xuất 115 công dân Campuchia, khởi tố 6 bị can",
+            "url": "https://tienphong.vn/tphcm-truc-xuat-115-cong-dan-campuchia-khoi-to-6-bi-can-post1893592.tpo",
+            "host": "tienphong.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-12",
+            "title": "Cambodia launches HPV campaign | The Shillong Times",
+            "url": "https://theshillongtimes.com/2026/11/12/cambodia-launches-hpv-campaign/",
+            "host": "theshillongtimes.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-12",
+            "title": "A way of life is disappearing on Cambodia's Tonle Sap as El Niño pressures lake communities",
+            "url": "https://mymotherlode.com/news/world/11302325/a-way-of-life-is-disappearing-on-cambodias-tonle-sap-as-el-nino-pressures-lake-communities.html",
+            "host": "mymotherlode.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-12",
+            "title": "Cambodia's military recruitment drive tops target by 50%",
+            "url": "https://asia.nikkei.com/politics/international-relations/cambodia-s-military-recruitment-drive-tops-target-by-50",
+            "host": "asia.nikkei.com",
+            "language": "eng"
+          }
+        ]
+      }
     }
   ],
   "stop_reason": null,
@@ -2602,37 +2759,37 @@
       {
         "dimension": "language",
         "name": "eng",
-        "tone_without": 1.692616597001715,
-        "absolute_change": 2.5797249192784086,
+        "tone_without": 1.4563677853049621,
+        "absolute_change": 1.587372803866493,
         "sign_reversal": true
       },
       {
         "dimension": "language",
         "name": "vie",
-        "tone_without": -2.1951417662541366,
-        "absolute_change": 1.3080334439774433,
-        "sign_reversal": false
-      },
-      {
-        "dimension": "publisher",
-        "name": "philstar.com",
-        "tone_without": -0.21836730305508506,
-        "absolute_change": 0.6687410192216083,
-        "sign_reversal": false
-      },
-      {
-        "dimension": "publisher",
-        "name": "baotintuc.vn",
-        "tone_without": -1.3901251227002291,
-        "absolute_change": 0.5030168004235358,
+        "tone_without": -0.803735417439631,
+        "absolute_change": 0.6727303988781002,
         "sign_reversal": false
       },
       {
         "dimension": "language",
         "name": "rus",
-        "tone_without": -1.3715732314860236,
-        "absolute_change": 0.4844649092093303,
+        "tone_without": -0.6999054330849802,
+        "absolute_change": 0.5689004145234494,
         "sign_reversal": false
+      },
+      {
+        "dimension": "publisher",
+        "name": "baotintuc.vn",
+        "tone_without": -0.553123472378432,
+        "absolute_change": 0.42211845381690116,
+        "sign_reversal": false
+      },
+      {
+        "dimension": "publisher",
+        "name": "thestar.com.my",
+        "tone_without": 0.2878510293103574,
+        "absolute_change": 0.41885604787188824,
+        "sign_reversal": true
       }
     ],
     "effect": "review_priority_only; never suppresses or adjusts the indicator",

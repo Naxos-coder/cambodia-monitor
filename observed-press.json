@@ -2574,5 +2574,68 @@
     "No validated bridge to historical DOC or the October 7–12 pilot. Series remain separate.",
     "Source-composition control and independent relevance validation remain pending."
   ],
-  "historical_bridge": "insufficient_evidence"
+  "historical_bridge": "insufficient_evidence",
+  "reading_policy": {
+    "version": "associative-media-reading-v1",
+    "effective_date": "2026-11-13",
+    "weak_associations": "retained_in_observed_document_tone",
+    "audience_reaction": "not_measured; may differ between readers",
+    "review_exclusions": false,
+    "background_framing": "retained; recurrent wording flagged for review, not automatically discounted",
+    "review_dimensions": [
+      "direct_evaluation",
+      "economic_sector",
+      "institution",
+      "indirect_association",
+      "background_framing",
+      "audience_dependent_interpretation"
+    ],
+    "formulaic_background_requires": "repeated original passages; one occurrence is only a candidate",
+    "numerical_method_changed": false
+  },
+  "quality_watch": {
+    "version": "press-quality-watch-v1",
+    "review_triggers": [
+      "composition_sign_reversal"
+    ],
+    "largest_composition_changes": [
+      {
+        "dimension": "language",
+        "name": "eng",
+        "tone_without": 1.692616597001715,
+        "absolute_change": 2.5797249192784086,
+        "sign_reversal": true
+      },
+      {
+        "dimension": "language",
+        "name": "vie",
+        "tone_without": -2.1951417662541366,
+        "absolute_change": 1.3080334439774433,
+        "sign_reversal": false
+      },
+      {
+        "dimension": "publisher",
+        "name": "philstar.com",
+        "tone_without": -0.21836730305508506,
+        "absolute_change": 0.6687410192216083,
+        "sign_reversal": false
+      },
+      {
+        "dimension": "publisher",
+        "name": "baotintuc.vn",
+        "tone_without": -1.3901251227002291,
+        "absolute_change": 0.5030168004235358,
+        "sign_reversal": false
+      },
+      {
+        "dimension": "language",
+        "name": "rus",
+        "tone_without": -1.3715732314860236,
+        "absolute_change": 0.4844649092093303,
+        "sign_reversal": false
+      }
+    ],
+    "effect": "review_priority_only; never suppresses or adjusts the indicator",
+    "semantic_review": "periodic_sample; not continuous full-text verification"
+  }
 }

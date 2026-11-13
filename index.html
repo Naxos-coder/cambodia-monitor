@@ -263,12 +263,12 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
       <h1 class="crm-title crm-serif">Cambodia Reputation Monitor</h1>
       <p class="crm-subtitle">Tracking coverage of Cambodia — experimental press tone, historical trends and economic context. Not a public-opinion poll.</p>
     </div>
-    <div class="crm-updated">Page generated<br><strong>Nov 13, 2026, 07:18</strong></div>
+    <div class="crm-updated">Page generated<br><strong>Nov 13, 2026, 07:30</strong></div>
   </div>
   <div class="crm-wrap">
 
     <section class="crm-card" id="observed-media-tone" data-last-day="2026-11-11" style="padding:28px;margin-bottom:24px;border-top:4px solid var(--blue)">
-    <div class="crm-hero-label">Experimental · rolling 7-day sampled coverage</div><h2 class="crm-h2 crm-serif">Observed media tone</h2>
+    <div class="crm-hero-label"></div><h2 class="crm-h2 crm-serif">Observed media tone</h2>
     <div class="crm-hero-figure" data-current-tone style="color:var(--blue)">-0.9</div>
     <p>Document tone: −100 to +100. Zero means lexical balance. This is not a reputation score out of 100.</p>
     <aside id="media-reading-policy" style="margin:20px 0;padding:18px;border-left:3px solid var(--blue);background:var(--bg)">
@@ -304,34 +304,7 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
     if(!day || (Date.now()-Date.parse(day+'T00:00:00Z'))/86400000>=3){
       el.querySelector('[data-current-tone]').textContent='—';
       el.querySelector('.crm-hero-label').textContent='Current indicator unavailable · observations are stale';
-    } })();</script><details class="crm-card" style="padding:20px;margin-bottom:24px"><summary>Archived pilot · 7–12 October 2026</summary><section class="crm-card" id="press-tone-snapshot" aria-labelledby="press-tone-title" style="padding:28px;margin-bottom:24px;border-top:4px solid var(--blue)">
-      <div class="crm-hero-label">Experimental · fixed snapshot · collection paused</div>
-      <h2 id="press-tone-title" class="crm-h2 crm-serif">Archived share of positive title groups</h2>
-      <div class="crm-hero-figure" style="color:var(--blue)">84<sup>%</sup></div>
-      <p><strong>2026-10-07 to 2026-10-12 UTC</strong> · 6 observed days · 778 selected URLs · 593 title groups</p>
-      <div style="display:flex;gap:32px;flex-wrap:wrap;margin:18px 0">
-        <div><strong>Share of positive title groups</strong><br>83.6% of title groups</div>
-        <div><strong>Volume observed</strong><br>778 URLs · 129.7/day over this period</div>
-      </div>
-      <p>496 positive · 84 negative · 13 zero-tone groups.</p>
-      <p><strong>Meaning:</strong> 83.6% of the selected title groups have positive document tone.
-      50 means half the groups are positive, not “neutral reputation”. This is not a public-opinion poll or the legacy reputation index.</p>
-      <p><strong>Limits:</strong> Automated title selection, approximate duplicate grouping and incomplete publisher verification.
-      Document tone may concern subjects other than Cambodia. This dated snapshot is not live coverage.</p>
-      <details><summary>Method, coverage and limitations</summary>
-        <p>GDELT GKG, English and translated streams. Known domestic publishers and .kh domains are excluded.
-        Remaining publishers may still be domestic: 768 of 778 selected URLs have unverified publisher locations.</p>
-        <p>Selection: a Cambodia-related title signal or a substantive-content review; reviewed peripheral/context-only articles are excluded.
-        Each normalized-title group receives one vote over the whole period. Generic publisher titles never merge distinct URLs.
-        Each group’s tone is the median of its available document tones.</p>
-        <p>Score = 100 × groups with median tone greater than zero ÷ all scored groups.
-        Exact zero remains in the denominator. Tone intensity is not measured by this score.
-        Without title grouping, the positive share is 84.7%; this is a sensitivity check, not a confidence interval.</p>
-        <p>No weighting for population, language or media market. Precision, completeness and comparability with the legacy index are unvalidated.
-        The historical series and its calibration are unchanged. Method: press-positive-share-v1.</p>
-        <p><a download="press-tone-snapshot.json" href="/press-tone-snapshot.json">Download the statistic and group-level audit data</a></p>
-      </details>
-    </section></details>
+    } })();</script>
     <details class="crm-card" style="padding:20px;margin-bottom:24px"><summary>Collection status and last successful refreshes (UTC)</summary><p>Errors preserve the previous dated observations. A successful check is not a new statistical release. Economic sources are checked weekly; press, Wikipedia and Reddit daily. See the dates on each chart.</p><div style="overflow:auto"><table><thead><tr><th>Source</th><th>Last attempt</th><th>Last success</th></tr></thead><tbody><tr><th style="padding:8px;text-align:left">Wikipedia</th><td style="padding:8px">ok</td><td style="padding:8px">2026-11-12T20:21:04.781553+00:00</td></tr><tr><th style="padding:8px;text-align:left">Reddit (r/cambodia)</th><td style="padding:8px">ok</td><td style="padding:8px">2026-11-12T20:27:26.306240+00:00</td></tr><tr><th style="padding:8px;text-align:left">World Bank FDI (annual)</th><td style="padding:8px">error</td><td style="padding:8px">2026-11-04T20:21:04.954010+00:00</td></tr><tr><th style="padding:8px;text-align:left">NBC FDI (quarterly)</th><td style="padding:8px">error</td><td style="padding:8px">No successful refresh recorded</td></tr><tr><th style="padding:8px;text-align:left">NBC Worker Remittances (quarterly)</th><td style="padding:8px">error</td><td style="padding:8px">No successful refresh recorded</td></tr><tr><th style="padding:8px;text-align:left">MEF Trade (China monthly, NBC goods account, SEZ, US tariffs)</th><td style="padding:8px">ok</td><td style="padding:8px">2026-11-12T20:27:14.621597+00:00</td></tr><tr><th style="padding:8px;text-align:left">Backup local</th><td style="padding:8px">ok</td><td style="padding:8px">2026-11-12T20:20:01.294102+00:00</td></tr><tr><th style="padding:8px;text-align:left">MEF Export Composition (Textiles/Manufactured/Agricultural)</th><td style="padding:8px">ok</td><td style="padding:8px">2026-11-12T20:27:24.342834+00:00</td></tr><tr><th style="padding:8px;text-align:left">Observed press (GKG fixed sample)</th><td style="padding:8px">ok</td><td style="padding:8px">2026-11-12T20:21:03.943121+00:00</td></tr><tr><th style="padding:8px;text-align:left">MOT Tourism</th><td style="padding:8px">ok</td><td style="padding:8px">2026-11-12T20:23:28.227433+00:00</td></tr><tr><th style="padding:8px;text-align:left">World Bank Tourism (annual, pre-2021 fallback)</th><td style="padding:8px">ok</td><td style="padding:8px">2026-11-06T20:21:02.583102+00:00</td></tr><tr><th style="padding:8px;text-align:left">MEF Tourism (monthly 2019-2020 gap-fill + sector indicators)</th><td style="padding:8px">ok</td><td style="padding:8px">2026-11-12T20:24:09.006507+00:00</td></tr><tr><th style="padding:8px;text-align:left">MEF Top Source Markets</th><td style="padding:8px">ok</td><td style="padding:8px">2026-11-12T20:24:19.473952+00:00</td></tr><tr><th style="padding:8px;text-align:left">Friction ratio (GDELT scam/safety/border/crime vs tourism/culture/investment)</th><td style="padding:8px">ok</td><td style="padding:8px">2026-11-12T20:27:26.409100+00:00</td></tr><tr><th style="padding:8px;text-align:left">YouTube (weekly sample)</th><td style="padding:8px">ok</td><td style="padding:8px">2026-11-08T20:40:03.252960+00:00</td></tr><tr><th style="padding:8px;text-align:left">X (weekly sample)</th><td style="padding:8px">ok</td><td style="padding:8px">2026-11-08T20:40:04.699719+00:00</td></tr><tr><th style="padding:8px;text-align:left">Google questions (weekly sample)</th><td style="padding:8px">ok</td><td style="padding:8px">2026-11-08T20:40:08.084107+00:00</td></tr></tbody></table></div></details>
     <div class="crm-hero fade-up d1">
       <div class="crm-card crm-hero-main">
@@ -688,7 +661,7 @@ svg [data-slug].series-hidden { opacity:0 !important; pointer-events:none; }
 
     <div class="crm-footer">
       <span>Sources: GDELT GKG (dated systematic sample) · GDELT DOC 2.0 (legacy) · Wikipedia Pageviews · Ministry of Tourism · World Bank Open Data · NBC · Reddit · YouTube (SerpApi)</span>
-      <span>Page generated Nov 13, 2026, 07:18 from real collected data</span>
+      <span>Page generated Nov 13, 2026, 07:30 from real collected data</span>
       <span><a href="#" id="crm-contact-open" class="crm-contact-link">Contact</a></span>
     </div>
   </div>

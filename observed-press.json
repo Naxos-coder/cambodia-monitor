@@ -1,86 +1,104 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-14T20:21:07.158164+00:00",
+  "generated_at": "2026-11-15T20:21:00.497246+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-13",
+  "latest_complete_day": "2026-11-14",
   "age_days": 1,
-  "window_start": "2026-11-07",
-  "window_end": "2026-11-13",
+  "window_start": "2026-11-08",
+  "window_end": "2026-11-14",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": 0.7998792394083741,
-    "urls": 35,
-    "groups": 33,
+    "tone": 1.5761720590433046,
+    "urls": 56,
+    "groups": 51,
     "content_review": {
-      "pending": 35
+      "pending": 56
     },
     "publisher_types": {
-      "unreviewed": 31,
+      "unreviewed": 52,
       "broadcaster_news_portal": 1,
       "newspaper": 1,
       "news_agency_portal": 2
     },
     "tone_without_each_language": {
-      "eng": 1.7851067872061313,
-      "vie": 0.20858612022879736,
-      "rus": 0.39992063928504185,
-      "spa": 0.8159723317367519,
-      "hin": 0.986912502676923,
-      "ind": 0.7747417758003137,
-      "fra": 0.7846814068865364,
-      "jpn": 0.9261032608331983,
-      "kor": 0.7845900144428324
+      "eng": 2.5958576541485905,
+      "vie": 0.5886846005254827,
+      "rus": 1.374716235193405,
+      "spa": 1.601997494526165,
+      "hin": 1.7113992039278745,
+      "ind": 1.4336449635955242,
+      "fra": 1.6903401351783822,
+      "jpn": 1.6724812891478906,
+      "kor": 1.5819128114580565,
+      "bos": 1.5984362409649113,
+      "ron": 1.531937924466595,
+      "bul": 1.5997273727341308
     },
     "tone_without_each_publisher": {
-      "myanmarnews.net": 0.6582087989732193,
-      "baomoi.com": 0.5978778869473917,
-      "vov.vn": 0.7696634515056102,
-      "baotintuc.vn": 0.3369786959935808,
-      "caravan.kz": 0.4939931126987108,
-      "prensa-latina.cu": 0.8159723317367519,
-      "malaysiasun.com": 0.7998792394083741,
-      "nepalnational.com": 0.7998792394083741,
-      "ibtimes.co.uk": 1.0179934431679758,
-      "jagran.com": 0.986912502676923,
-      "thestar.com.my": 1.1954684143578358,
-      "bola.okezone.com": 0.7747417758003137,
-      "english.news.cn": 0.7293514481726371,
-      "rapsinews.ru": 0.8478534068163565,
-      "lechodemaskinonge.com": 0.8166155537456127,
-      "manilatimes.net": 0.7035947411896918,
-      "morungexpress.com": 0.7155004656398858,
-      "sankei.com": 0.9261032608331983,
-      "asia.nikkei.com": 0.8778415673348011,
-      "mymotherlode.com": 0.965560331540269,
-      "theshillongtimes.com": 0.9811254656398858,
-      "tienphong.vn": 0.9631498019230718,
-      "courrierfrontenac.qc.ca": 0.770263815154449,
-      "edaily.co.kr": 0.7845900144428324,
-      "journal-news.net": 0.9825444868306024,
-      "sb.by": 0.6828300110944311,
-      "telerama.fr": 0.8248754656398858,
-      "rnanews.com": 0.6180466016949182,
-      "fr.allafrica.com": 0.7898941223563036,
-      "lesoleil.sn": 0.7886785544429745,
-      "ledevoir.com": 0.809028609656113,
-      "sudouest.fr": 0.787450315939287
+      "myanmarnews.net": 1.5010288335575042,
+      "baomoi.com": 1.2839351202716744,
+      "vov.vn": 1.5723598111782342,
+      "baotintuc.vn": 1.3150020344190447,
+      "caravan.kz": 1.3959307943418187,
+      "prensa-latina.cu": 1.601997494526165,
+      "malaysiasun.com": 1.5761720590433046,
+      "nepalnational.com": 1.5761720590433046,
+      "ibtimes.co.uk": 1.7312910058421482,
+      "jagran.com": 1.7113992039278745,
+      "thestar.com.my": 1.8448749874036587,
+      "bola.okezone.com": 1.5756099387268445,
+      "english.news.cn": 1.5465601290451314,
+      "rapsinews.ru": 1.6224013825771118,
+      "lechodemaskinonge.com": 1.602409156611836,
+      "manilatimes.net": 1.5300758365760465,
+      "morungexpress.com": 1.5376955002241706,
+      "sankei.com": 1.6724812891478906,
+      "asia.nikkei.com": 1.6415938053089165,
+      "mymotherlode.com": 1.697733814400416,
+      "theshillongtimes.com": 1.7076955002241707,
+      "tienphong.vn": 1.8447614309683296,
+      "courrierfrontenac.qc.ca": 1.572744043913491,
+      "edaily.co.kr": 1.5819128114580565,
+      "journal-news.net": 1.7086036737862293,
+      "sb.by": 1.5167864093150796,
+      "telerama.fr": 1.6076955002241706,
+      "rnanews.com": 1.4928205053729522,
+      "fr.allafrica.com": 1.5853074405226781,
+      "lesoleil.sn": 1.5845294770581475,
+      "ledevoir.com": 1.5975535123945561,
+      "sudouest.fr": 1.5867706841270364,
+      "thegazette.com": 1.6398843414258875,
+      "baodautu.vn": 1.3024613038410997,
+      "baophapluat.vn": 1.5529706006696795,
+      "libe.ma": 1.568479813949661,
+      "vtv.vn": 1.5753335689961814,
+      "antaranews.com": 1.5243621668908374,
+      "clickorlando.com": 1.6507062529123426,
+      "federalna.ba": 1.5984362409649113,
+      "liputan6.com": 1.4941377722276477,
+      "moldpres.md": 1.531937924466595,
+      "sggp.org.vn": 1.572856286229214,
+      "vesti.bg": 1.5997273727341308
     },
-    "positive_share": 66.66666666666667,
+    "positive_share": 72.54901960784314,
     "languages": {
-      "eng": 15,
-      "vie": 5,
+      "eng": 17,
+      "vie": 15,
       "rus": 3,
       "spa": 1,
       "hin": 1,
-      "ind": 1,
-      "fra": 7,
+      "ind": 5,
+      "fra": 9,
       "jpn": 1,
-      "kor": 1
+      "kor": 1,
+      "bos": 1,
+      "ron": 1,
+      "bul": 1
     },
     "publishers": {
       "myanmarnews.net": 1,
-      "baomoi.com": 1,
+      "baomoi.com": 3,
       "vov.vn": 1,
       "baotintuc.vn": 2,
       "caravan.kz": 1,
@@ -100,7 +118,7 @@
       "asia.nikkei.com": 1,
       "mymotherlode.com": 1,
       "theshillongtimes.com": 1,
-      "tienphong.vn": 1,
+      "tienphong.vn": 2,
       "courrierfrontenac.qc.ca": 1,
       "edaily.co.kr": 1,
       "journal-news.net": 1,
@@ -110,123 +128,135 @@
       "fr.allafrica.com": 1,
       "lesoleil.sn": 1,
       "ledevoir.com": 1,
-      "sudouest.fr": 1
+      "sudouest.fr": 2,
+      "thegazette.com": 1,
+      "baodautu.vn": 2,
+      "baophapluat.vn": 2,
+      "libe.ma": 1,
+      "vtv.vn": 1,
+      "antaranews.com": 1,
+      "clickorlando.com": 1,
+      "federalna.ba": 1,
+      "liputan6.com": 3,
+      "moldpres.md": 1,
+      "sggp.org.vn": 2,
+      "vesti.bg": 1
     },
     "excluded": {},
-    "unverified_urls": 30,
-    "largest_publisher": "baotintuc.vn",
-    "largest_publisher_share": 5.714285714285714,
-    "tone_without_largest_publisher": 0.3369786959935808,
+    "unverified_urls": 50,
+    "largest_publisher": "baomoi.com",
+    "largest_publisher_share": 5.357142857142857,
+    "tone_without_largest_publisher": 1.2839351202716744,
     "topics": [
       {
         "label": "Government",
-        "urls": 18
+        "urls": 29
       },
       {
         "label": "Education",
-        "urls": 14
+        "urls": 20
       },
       {
         "label": "Economy & trade",
-        "urls": 13
+        "urls": 19
       },
       {
         "label": "Borders",
-        "urls": 8
+        "urls": 12
       },
       {
         "label": "Conflict & violence",
-        "urls": 7
+        "urls": 9
       },
       {
         "label": "Tourism",
-        "urls": 1
+        "urls": 4
       }
     ],
     "headlines": [
       {
-        "day": "2026-11-13",
-        "title": "Francophonie, défense, terres rares… Quels sont les enjeux de la visite d'Emmanuel Macron au Cambodge et en Malaisie dès samedi ?",
-        "url": "https://www.sudouest.fr:443/politique/emmanuel-macron/francophonie-defense-terres-rares-quels-sont-les-enjeux-de-la-visite-d-emmanuel-macron-au-cambodge-et-en-malaisie-des-samedi-31510366.php",
+        "day": "2026-11-14",
+        "title": "Историческа визита: Еманюел Макрон пристигна в Камбоджа",
+        "url": "https://www.vesti.bg/sviat/istoricheska-vizita-emaniuel-makron-pristigna-v-kambodzha-6276249",
+        "host": "vesti.bg",
+        "language": "bul"
+      },
+      {
+        "day": "2026-11-14",
+        "title": "Emmanuel Macron est arrivé au Cambodge pour le sommet de la Francophonie",
+        "url": "https://www.sudouest.fr:443/politique/emmanuel-macron/emmanuel-macron-est-arrive-au-cambodge-pour-le-sommet-de-la-francophonie-31521364.php",
         "host": "sudouest.fr",
         "language": "fra"
       },
       {
-        "day": "2026-11-13",
-        "title": "Pourquoi tenir le Sommet de la Francophonie au Cambodge et qu'y reste-t-il de la langue française ?",
-        "url": "https://www.ledevoir.com/monde/asie/1024844/pourquoi-tenir-sommet-francophonie-cambodge",
-        "host": "ledevoir.com",
-        "language": "fra"
-      },
-      {
-        "day": "2026-11-13",
-        "title": "Sommet de la Francophonie : Bassirou Diomaye Faye à Phnom Penh pour porter la voix du Sénégal",
-        "url": "https://lesoleil.sn/actualites/arts-et-culture/sommet-de-la-francophonie-bassirou-diomaye-faye-a-phnom-penh-pour-porter-la-voix-du-senegal/",
-        "host": "lesoleil.sn",
-        "language": "fra"
-      },
-      {
-        "day": "2026-11-13",
-        "title": "Sénégal: Sommet de la Francophonie - Bassirou Diomaye Faye à Phnom Penh pour porter la voix du pays",
-        "url": "https://fr.allafrica.com/stories/202611130563.html",
-        "host": "fr.allafrica.com",
-        "language": "fra"
-      },
-      {
-        "day": "2026-11-13",
-        "title": "Học giả Campuchia kỳ vọng vào chuyến công tác của Tổng Bí thư, Chủ tịch nước Tô Lâm",
-        "url": "https://baotintuc.vn/hoc-gia-campuchia-dat-nhieu-ky-vong-vao-chuyen-cong-tac-cua-tong-bi-thu-chu-tich-nuoc-to-lam-post1402363.html",
-        "host": "baotintuc.vn",
+        "day": "2026-11-14",
+        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường tham dự Hội nghị cấp cao Pháp ngữ lần thứ 20 tại Campuchia",
+        "url": "https://www.sggp.org.vn/tong-bi-thu-chu-tich-nuoc-to-lam-len-duong-tham-du-hoi-nghi-cap-cao-phap-ngu-lan-thu-20-tai-campuchia-post881738.html",
+        "host": "sggp.org.vn",
         "language": "vie"
       },
       {
-        "day": "2026-11-13",
-        "title": "President Kagame meets Cambodia's National Assembly President – RNA NEWS",
-        "url": "http://www.rnanews.com/president-kagame-meets-cambodias-national-assembly-president/",
-        "host": "rnanews.com",
+        "day": "2026-11-14",
+        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Quốc vương Campuchia Norodom Sihamoni",
+        "url": "https://www.sggp.org.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-quoc-vuong-campuchia-norodom-sihamoni-post881807.html",
+        "host": "sggp.org.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-14",
+        "title": "Prim-ministrul Vasile Tofan va participa la Summitul Francofoniei din Phnom Penh",
+        "url": "https://www.moldpres.md/rom/oficial/primministrul-vasile-tofan-va-participa-la-summitul-francofoniei-din-phnom-penh",
+        "host": "moldpres.md",
+        "language": "ron"
+      },
+      {
+        "day": "2026-11-14",
+        "title": "Kualifikasi Piala Asia U-17: Kamboja Bertahan Rapat, Timnas Indonesia U-17 Siapkan Diri untuk Afghanistan",
+        "url": "https://www.liputan6.com/bola/read/8335370/kualifikasi-piala-asia-u-17-kamboja-bertahan-rapat-timnas-indonesia-u-17-siapkan-diri-untuk-afghanistan",
+        "host": "liputan6.com",
+        "language": "ind"
+      },
+      {
+        "day": "2026-11-14",
+        "title": "Klasemen Kualifikasi Piala Asia U-17 2027 usai Timnas Indonesia Sikat Kamboja",
+        "url": "https://www.liputan6.com/bola/read/8335315/klasemen-kualifikasi-piala-asia-u-17-2027-usai-timnas-indonesia-sikat-kamboja",
+        "host": "liputan6.com",
+        "language": "ind"
+      },
+      {
+        "day": "2026-11-14",
+        "title": "Kualifikasi Piala Asia U-17 2027: Timnas Indonesia U-17 Bekuk Kamboja, Persaingan Grup A Makin Panas",
+        "url": "https://www.liputan6.com/bola/read/8335311/kualifikasi-piala-asia-u-17-2027-timnas-indonesia-u-17-bekuk-kamboja-persaingan-grup-a-makin-panas",
+        "host": "liputan6.com",
+        "language": "ind"
+      },
+      {
+        "day": "2026-11-14",
+        "title": "Francuski predsjednik stigao u Kambodžu, slijede samit Frankofonije i posjeta Maleziji",
+        "url": "https://www.federalna.ba/macron-doputovao-u-kambodzu-na-samit-frankofonije-slijedi-posjeta-maleziji-dotru",
+        "host": "federalna.ba",
+        "language": "bos"
+      },
+      {
+        "day": "2026-11-14",
+        "title": "French-speaking nations hold a summit in Cambodia but an African conflict threatens a rift",
+        "url": "https://www.clickorlando.com/news/world/2026/11/14/french-speaking-nations-hold-a-summit-in-cambodia-but-an-african-conflict-threatens-a-rift/",
+        "host": "clickorlando.com",
         "language": "eng"
       },
       {
-        "day": "2026-11-13",
-        "title": "President Kagame and Prime Minister of Cambodia hold bilateral talks",
-        "url": "http://www.rnanews.com/president-kagame-and-prime-minister-of-cambodia-hold-bilateral-talks/",
-        "host": "rnanews.com",
-        "language": "eng"
+        "day": "2026-11-14",
+        "title": "Susunan Pemain Indonesia vs Kamboja: Dhamar Tri jadi ujung tombak",
+        "url": "https://www.antaranews.com/berita/5854003/susunan-pemain-indonesia-vs-kamboja-dhamar-tri-jadi-ujung-tombak",
+        "host": "antaranews.com",
+        "language": "ind"
       },
       {
-        "day": "2026-11-12",
-        "title": "\"France-Cambodge, si loin, si proche\" : un film de propagande colonialiste",
-        "url": "https://www.telerama.fr/television/france-cambodge-si-loin-si-proche-un-film-de-propagande-colonialiste_cri-7046808.php",
-        "host": "telerama.fr",
-        "language": "fra"
-      },
-      {
-        "day": "2026-11-12",
-        "title": "Беларусь стремится к расширению сотрудничества с Камбоджой на всех направлениях — депутат Маркевич",
-        "url": "https://www.sb.by/articles/belarus-stremitsya-k-rasshireniyu-sotrudnichestva-s-kambodzhoy-na-vsekh-napravleniyakh-deputat-marke.html",
-        "host": "sb.by",
-        "language": "rus"
-      },
-      {
-        "day": "2026-11-12",
-        "title": "A way of life is disappearing on Cambodia's Tonle Sap as El Niño pressures lake communities | Weather",
-        "url": "https://www.journal-news.net/news/weather/a-way-of-life-is-disappearing-on-cambodia-s-tonle-sap-as-el-ni-o/article_5f53dd72-6f9a-5a11-abda-6126f4d087dd.html",
-        "host": "journal-news.net",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-12",
-        "title": "캄보디아와의 30년, 미래 상생 발전을 위한 동행[공관에서 온 편지]",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=01262806645645392&mediaCodeNo=257",
-        "host": "edaily.co.kr",
-        "language": "kor"
-      },
-      {
-        "day": "2026-11-12",
-        "title": "Des entreprises québécoises s'en vont brasser des affaires en français au Cambodge",
-        "url": "https://www.courrierfrontenac.qc.ca/nouvelles-nationales/des-entreprises-quebecoises-sen-vont-brasser-des-affaires-en-francais-au-cambodge/",
-        "host": "courrierfrontenac.qc.ca",
-        "language": "fra"
+        "day": "2026-11-14",
+        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Quốc vương Campuchia Norodom Sihamoni",
+        "url": "https://vtv.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-quoc-vuong-campuchia-norodom-sihamoni-100261114211945555.htm",
+        "host": "vtv.vn",
+        "language": "vie"
       }
     ]
   },
@@ -2847,6 +2877,197 @@
           }
         ]
       }
+    },
+    {
+      "day": "2026-11-14",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 18011,
+      "rejected": 34,
+      "missing_titles": 43,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": 2.999375561707344,
+        "urls": 21,
+        "groups": 18,
+        "content_review": {
+          "pending": 21
+        },
+        "publisher_types": {
+          "unreviewed": 21
+        },
+        "tone_without_each_language": {
+          "eng": 3.609296237826664,
+          "vie": 1.5562080049170453,
+          "fra": 3.1620355686526316,
+          "ind": 2.9397093928417197,
+          "bos": 3.1485763028099543,
+          "ron": 2.9529930189913762,
+          "bul": 3.1523737491900117
+        },
+        "tone_without_each_publisher": {
+          "thegazette.com": 3.2704824806363546,
+          "baodautu.vn": 2.339036811733596,
+          "baomoi.com": 2.5753369712350302,
+          "baophapluat.vn": 3.01485383135339,
+          "libe.ma": 3.0604691645298057,
+          "tienphong.vn": 3.5042656738770503,
+          "vtv.vn": 2.9969998399071613,
+          "antaranews.com": 2.9307113790626773,
+          "clickorlando.com": 3.3023116320671053,
+          "federalna.ba": 3.1485763028099543,
+          "liputan6.com": 3.0215065444300495,
+          "moldpres.md": 2.9529930189913762,
+          "sggp.org.vn": 2.98998087206742,
+          "sudouest.fr": 3.0913737301275055,
+          "vesti.bg": 3.1523737491900117
+        },
+        "positive_share": 83.33333333333333,
+        "languages": {
+          "eng": 2,
+          "vie": 10,
+          "fra": 2,
+          "ind": 4,
+          "bos": 1,
+          "ron": 1,
+          "bul": 1
+        },
+        "publishers": {
+          "thegazette.com": 1,
+          "baodautu.vn": 2,
+          "baomoi.com": 2,
+          "baophapluat.vn": 2,
+          "libe.ma": 1,
+          "tienphong.vn": 1,
+          "vtv.vn": 1,
+          "antaranews.com": 1,
+          "clickorlando.com": 1,
+          "federalna.ba": 1,
+          "liputan6.com": 3,
+          "moldpres.md": 1,
+          "sggp.org.vn": 2,
+          "sudouest.fr": 1,
+          "vesti.bg": 1
+        },
+        "excluded": {},
+        "unverified_urls": 20,
+        "largest_publisher": "liputan6.com",
+        "largest_publisher_share": 14.285714285714286,
+        "tone_without_largest_publisher": 3.0215065444300495,
+        "topics": [
+          {
+            "label": "Government",
+            "urls": 11
+          },
+          {
+            "label": "Economy & trade",
+            "urls": 6
+          },
+          {
+            "label": "Education",
+            "urls": 6
+          },
+          {
+            "label": "Borders",
+            "urls": 4
+          },
+          {
+            "label": "Tourism",
+            "urls": 3
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 2
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-14",
+            "title": "Историческа визита: Еманюел Макрон пристигна в Камбоджа",
+            "url": "https://www.vesti.bg/sviat/istoricheska-vizita-emaniuel-makron-pristigna-v-kambodzha-6276249",
+            "host": "vesti.bg",
+            "language": "bul"
+          },
+          {
+            "day": "2026-11-14",
+            "title": "Emmanuel Macron est arrivé au Cambodge pour le sommet de la Francophonie",
+            "url": "https://www.sudouest.fr:443/politique/emmanuel-macron/emmanuel-macron-est-arrive-au-cambodge-pour-le-sommet-de-la-francophonie-31521364.php",
+            "host": "sudouest.fr",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-14",
+            "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường tham dự Hội nghị cấp cao Pháp ngữ lần thứ 20 tại Campuchia",
+            "url": "https://www.sggp.org.vn/tong-bi-thu-chu-tich-nuoc-to-lam-len-duong-tham-du-hoi-nghi-cap-cao-phap-ngu-lan-thu-20-tai-campuchia-post881738.html",
+            "host": "sggp.org.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-14",
+            "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Quốc vương Campuchia Norodom Sihamoni",
+            "url": "https://www.sggp.org.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-quoc-vuong-campuchia-norodom-sihamoni-post881807.html",
+            "host": "sggp.org.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-14",
+            "title": "Prim-ministrul Vasile Tofan va participa la Summitul Francofoniei din Phnom Penh",
+            "url": "https://www.moldpres.md/rom/oficial/primministrul-vasile-tofan-va-participa-la-summitul-francofoniei-din-phnom-penh",
+            "host": "moldpres.md",
+            "language": "ron"
+          },
+          {
+            "day": "2026-11-14",
+            "title": "Kualifikasi Piala Asia U-17: Kamboja Bertahan Rapat, Timnas Indonesia U-17 Siapkan Diri untuk Afghanistan",
+            "url": "https://www.liputan6.com/bola/read/8335370/kualifikasi-piala-asia-u-17-kamboja-bertahan-rapat-timnas-indonesia-u-17-siapkan-diri-untuk-afghanistan",
+            "host": "liputan6.com",
+            "language": "ind"
+          },
+          {
+            "day": "2026-11-14",
+            "title": "Klasemen Kualifikasi Piala Asia U-17 2027 usai Timnas Indonesia Sikat Kamboja",
+            "url": "https://www.liputan6.com/bola/read/8335315/klasemen-kualifikasi-piala-asia-u-17-2027-usai-timnas-indonesia-sikat-kamboja",
+            "host": "liputan6.com",
+            "language": "ind"
+          },
+          {
+            "day": "2026-11-14",
+            "title": "Kualifikasi Piala Asia U-17 2027: Timnas Indonesia U-17 Bekuk Kamboja, Persaingan Grup A Makin Panas",
+            "url": "https://www.liputan6.com/bola/read/8335311/kualifikasi-piala-asia-u-17-2027-timnas-indonesia-u-17-bekuk-kamboja-persaingan-grup-a-makin-panas",
+            "host": "liputan6.com",
+            "language": "ind"
+          },
+          {
+            "day": "2026-11-14",
+            "title": "Francuski predsjednik stigao u Kambodžu, slijede samit Frankofonije i posjeta Maleziji",
+            "url": "https://www.federalna.ba/macron-doputovao-u-kambodzu-na-samit-frankofonije-slijedi-posjeta-maleziji-dotru",
+            "host": "federalna.ba",
+            "language": "bos"
+          },
+          {
+            "day": "2026-11-14",
+            "title": "French-speaking nations hold a summit in Cambodia but an African conflict threatens a rift",
+            "url": "https://www.clickorlando.com/news/world/2026/11/14/french-speaking-nations-hold-a-summit-in-cambodia-but-an-african-conflict-threatens-a-rift/",
+            "host": "clickorlando.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-14",
+            "title": "Susunan Pemain Indonesia vs Kamboja: Dhamar Tri jadi ujung tombak",
+            "url": "https://www.antaranews.com/berita/5854003/susunan-pemain-indonesia-vs-kamboja-dhamar-tri-jadi-ujung-tombak",
+            "host": "antaranews.com",
+            "language": "ind"
+          },
+          {
+            "day": "2026-11-14",
+            "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Quốc vương Campuchia Norodom Sihamoni",
+            "url": "https://vtv.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-quoc-vuong-campuchia-norodom-sihamoni-100261114211945555.htm",
+            "host": "vtv.vn",
+            "language": "vie"
+          }
+        ]
+      }
     }
   ],
   "stop_reason": null,
@@ -2889,36 +3110,36 @@
       {
         "dimension": "language",
         "name": "eng",
-        "tone_without": 1.7851067872061313,
-        "absolute_change": 0.9852275477977571,
+        "tone_without": 2.5958576541485905,
+        "absolute_change": 1.019685595105286,
         "sign_reversal": false
       },
       {
         "dimension": "language",
         "name": "vie",
-        "tone_without": 0.20858612022879736,
-        "absolute_change": 0.5912931191795767,
+        "tone_without": 0.5886846005254827,
+        "absolute_change": 0.9874874585178219,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
-        "name": "baotintuc.vn",
-        "tone_without": 0.3369786959935808,
-        "absolute_change": 0.4629005434147933,
+        "name": "baomoi.com",
+        "tone_without": 1.2839351202716744,
+        "absolute_change": 0.29223693877163015,
         "sign_reversal": false
       },
       {
-        "dimension": "language",
-        "name": "rus",
-        "tone_without": 0.39992063928504185,
-        "absolute_change": 0.3999586001233323,
+        "dimension": "publisher",
+        "name": "baodautu.vn",
+        "tone_without": 1.3024613038410997,
+        "absolute_change": 0.2737107552022049,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "thestar.com.my",
-        "tone_without": 1.1954684143578358,
-        "absolute_change": 0.39558917494946166,
+        "tone_without": 1.8448749874036587,
+        "absolute_change": 0.26870292836035414,
         "sign_reversal": false
       }
     ],

@@ -1,108 +1,121 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-15T20:21:00.497246+00:00",
+  "generated_at": "2026-11-16T20:21:01.348955+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-14",
+  "latest_complete_day": "2026-11-15",
   "age_days": 1,
-  "window_start": "2026-11-08",
-  "window_end": "2026-11-14",
+  "window_start": "2026-11-09",
+  "window_end": "2026-11-15",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": 1.5761720590433046,
-    "urls": 56,
-    "groups": 51,
+    "tone": 1.48742873903131,
+    "urls": 70,
+    "groups": 65,
     "content_review": {
-      "pending": 56
+      "pending": 70
     },
     "publisher_types": {
-      "unreviewed": 52,
       "broadcaster_news_portal": 1,
+      "unreviewed": 66,
       "newspaper": 1,
       "news_agency_portal": 2
     },
     "tone_without_each_language": {
-      "eng": 2.5958576541485905,
-      "vie": 0.5886846005254827,
-      "rus": 1.374716235193405,
-      "spa": 1.601997494526165,
-      "hin": 1.7113992039278745,
-      "ind": 1.4336449635955242,
-      "fra": 1.6903401351783822,
-      "jpn": 1.6724812891478906,
-      "kor": 1.5819128114580565,
-      "bos": 1.5984362409649113,
-      "ron": 1.531937924466595,
-      "bul": 1.5997273727341308
+      "vie": 0.6115678369193863,
+      "rus": 1.3271689083082265,
+      "spa": 1.5487984462038937,
+      "eng": 2.3576834964999214,
+      "hin": 1.5916883315971926,
+      "ind": 1.370762689187012,
+      "fra": 1.5732259343602106,
+      "jpn": 1.5612837106753303,
+      "kor": 1.4905270874801473,
+      "bos": 1.5034360167823777,
+      "ron": 1.4392502702687957,
+      "bul": 1.5044447134770804,
+      "zho": 1.50087357483416
     },
     "tone_without_each_publisher": {
-      "myanmarnews.net": 1.5010288335575042,
-      "baomoi.com": 1.2839351202716744,
-      "vov.vn": 1.5723598111782342,
-      "baotintuc.vn": 1.3150020344190447,
-      "caravan.kz": 1.3959307943418187,
-      "prensa-latina.cu": 1.601997494526165,
-      "malaysiasun.com": 1.5761720590433046,
-      "nepalnational.com": 1.5761720590433046,
-      "ibtimes.co.uk": 1.7312910058421482,
-      "jagran.com": 1.7113992039278745,
-      "thestar.com.my": 1.8448749874036587,
-      "bola.okezone.com": 1.5756099387268445,
-      "english.news.cn": 1.5465601290451314,
-      "rapsinews.ru": 1.6224013825771118,
-      "lechodemaskinonge.com": 1.602409156611836,
-      "manilatimes.net": 1.5300758365760465,
-      "morungexpress.com": 1.5376955002241706,
-      "sankei.com": 1.6724812891478906,
-      "asia.nikkei.com": 1.6415938053089165,
-      "mymotherlode.com": 1.697733814400416,
-      "theshillongtimes.com": 1.7076955002241707,
-      "tienphong.vn": 1.8447614309683296,
-      "courrierfrontenac.qc.ca": 1.572744043913491,
-      "edaily.co.kr": 1.5819128114580565,
-      "journal-news.net": 1.7086036737862293,
-      "sb.by": 1.5167864093150796,
-      "telerama.fr": 1.6076955002241706,
-      "rnanews.com": 1.4928205053729522,
-      "fr.allafrica.com": 1.5853074405226781,
-      "lesoleil.sn": 1.5845294770581475,
-      "ledevoir.com": 1.5975535123945561,
-      "sudouest.fr": 1.5867706841270364,
-      "thegazette.com": 1.6398843414258875,
-      "baodautu.vn": 1.3024613038410997,
-      "baophapluat.vn": 1.5529706006696795,
-      "libe.ma": 1.568479813949661,
-      "vtv.vn": 1.5753335689961814,
-      "antaranews.com": 1.5243621668908374,
-      "clickorlando.com": 1.6507062529123426,
-      "federalna.ba": 1.5984362409649113,
-      "liputan6.com": 1.4941377722276477,
-      "moldpres.md": 1.531937924466595,
-      "sggp.org.vn": 1.572856286229214,
-      "vesti.bg": 1.5997273727341308
+      "vov.vn": 1.4830638060115362,
+      "baotintuc.vn": 1.2187999184999463,
+      "caravan.kz": 1.3452286366080866,
+      "prensa-latina.cu": 1.514834549449735,
+      "malaysiasun.com": 1.48742873903131,
+      "nepalnational.com": 1.48742873903131,
+      "ibtimes.co.uk": 1.607228801842719,
+      "jagran.com": 1.5916883315971926,
+      "thestar.com.my": 1.695966287437649,
+      "bola.okezone.com": 1.4856029681588878,
+      "english.news.cn": 1.4629078043450496,
+      "rapsinews.ru": 1.5221587836669093,
+      "lechodemaskinonge.com": 1.5065398571315374,
+      "manilatimes.net": 1.450029450853577,
+      "morungexpress.com": 1.455982313078674,
+      "sankei.com": 1.5612837106753303,
+      "asia.nikkei.com": 1.5371528639261316,
+      "mymotherlode.com": 1.5810122460288656,
+      "theshillongtimes.com": 1.588794813078674,
+      "tienphong.vn": 1.6935143356075357,
+      "courrierfrontenac.qc.ca": 1.4833639878359555,
+      "edaily.co.kr": 1.4905270874801473,
+      "journal-news.net": 1.5895043236740323,
+      "sb.by": 1.4396470858059467,
+      "telerama.fr": 1.510669813078674,
+      "rnanews.com": 1.4197825045889088,
+      "fr.allafrica.com": 1.493179141436883,
+      "lesoleil.sn": 1.4925713574802184,
+      "ledevoir.com": 1.5027463850867877,
+      "sudouest.fr": 1.4928548658420855,
+      "thegazette.com": 1.5358173452675152,
+      "baodautu.vn": 1.2717253478419124,
+      "baomoi.com": 1.3511693193327885,
+      "baophapluat.vn": 1.4679159853017278,
+      "libe.ma": 1.4800325581767133,
+      "vtv.vn": 1.48677084684049,
+      "antaranews.com": 1.4455656464120072,
+      "clickorlando.com": 1.5442719636163085,
+      "federalna.ba": 1.5034360167823777,
+      "liputan6.com": 1.419624291818608,
+      "moldpres.md": 1.451484207018068,
+      "sggp.org.vn": 1.4848271326694849,
+      "vesti.bg": 1.5044447134770804,
+      "diariodelsur.com.co": 1.5411576179567228,
+      "bongda24h.vn": 1.4822607221695832,
+      "cedarnews.net": 1.4759475908564519,
+      "kevesko.vn": 1.3991976244450586,
+      "news.china.com": 1.50087357483416,
+      "northafricapost.com": 1.4672670353008963,
+      "vietnam.vnanet.vn": 1.4652152676241286,
+      "vovgiaothong.vn": 1.4821960089784463,
+      "aol.co.uk": 1.5220087100307784,
+      "bfmtv.com": 1.453966184046416,
+      "brandonsun.com": 1.4868926391656305,
+      "latribune.fr": 1.5528995428084036,
+      "leral.net": 1.464028022033898,
+      "thailand-business-news.com": 1.4997737182390645
     },
-    "positive_share": 72.54901960784314,
+    "positive_share": 73.84615384615384,
     "languages": {
-      "eng": 17,
-      "vie": 15,
+      "vie": 18,
       "rus": 3,
-      "spa": 1,
+      "spa": 4,
+      "eng": 20,
       "hin": 1,
       "ind": 5,
-      "fra": 9,
+      "fra": 12,
       "jpn": 1,
       "kor": 1,
       "bos": 1,
-      "ron": 1,
-      "bul": 1
+      "ron": 2,
+      "bul": 1,
+      "zho": 1
     },
     "publishers": {
-      "myanmarnews.net": 1,
-      "baomoi.com": 3,
       "vov.vn": 1,
-      "baotintuc.vn": 2,
+      "baotintuc.vn": 3,
       "caravan.kz": 1,
-      "prensa-latina.cu": 1,
+      "prensa-latina.cu": 2,
       "malaysiasun.com": 1,
       "nepalnational.com": 1,
       "ibtimes.co.uk": 1,
@@ -131,6 +144,7 @@
       "sudouest.fr": 2,
       "thegazette.com": 1,
       "baodautu.vn": 2,
+      "baomoi.com": 2,
       "baophapluat.vn": 2,
       "libe.ma": 1,
       "vtv.vn": 1,
@@ -140,122 +154,136 @@
       "liputan6.com": 3,
       "moldpres.md": 1,
       "sggp.org.vn": 2,
-      "vesti.bg": 1
+      "vesti.bg": 1,
+      "diariodelsur.com.co": 1,
+      "bongda24h.vn": 1,
+      "cedarnews.net": 1,
+      "kevesko.vn": 1,
+      "news.china.com": 1,
+      "northafricapost.com": 1,
+      "vietnam.vnanet.vn": 1,
+      "vovgiaothong.vn": 1,
+      "aol.co.uk": 1,
+      "bfmtv.com": 1,
+      "brandonsun.com": 1,
+      "latribune.fr": 1,
+      "leral.net": 1,
+      "thailand-business-news.com": 1
     },
     "excluded": {},
-    "unverified_urls": 50,
-    "largest_publisher": "baomoi.com",
-    "largest_publisher_share": 5.357142857142857,
-    "tone_without_largest_publisher": 1.2839351202716744,
+    "unverified_urls": 64,
+    "largest_publisher": "baotintuc.vn",
+    "largest_publisher_share": 4.285714285714286,
+    "tone_without_largest_publisher": 1.2187999184999463,
     "topics": [
       {
         "label": "Government",
-        "urls": 29
-      },
-      {
-        "label": "Education",
-        "urls": 20
+        "urls": 37
       },
       {
         "label": "Economy & trade",
-        "urls": 19
+        "urls": 27
+      },
+      {
+        "label": "Education",
+        "urls": 24
       },
       {
         "label": "Borders",
-        "urls": 12
+        "urls": 14
       },
       {
         "label": "Conflict & violence",
-        "urls": 9
+        "urls": 12
       },
       {
         "label": "Tourism",
-        "urls": 4
+        "urls": 5
       }
     ],
     "headlines": [
       {
-        "day": "2026-11-14",
-        "title": "Историческа визита: Еманюел Макрон пристигна в Камбоджа",
-        "url": "https://www.vesti.bg/sviat/istoricheska-vizita-emaniuel-makron-pristigna-v-kambodzha-6276249",
-        "host": "vesti.bg",
-        "language": "bul"
-      },
-      {
-        "day": "2026-11-14",
-        "title": "Emmanuel Macron est arrivé au Cambodge pour le sommet de la Francophonie",
-        "url": "https://www.sudouest.fr:443/politique/emmanuel-macron/emmanuel-macron-est-arrive-au-cambodge-pour-le-sommet-de-la-francophonie-31521364.php",
-        "host": "sudouest.fr",
-        "language": "fra"
-      },
-      {
-        "day": "2026-11-14",
-        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường tham dự Hội nghị cấp cao Pháp ngữ lần thứ 20 tại Campuchia",
-        "url": "https://www.sggp.org.vn/tong-bi-thu-chu-tich-nuoc-to-lam-len-duong-tham-du-hoi-nghi-cap-cao-phap-ngu-lan-thu-20-tai-campuchia-post881738.html",
-        "host": "sggp.org.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-11-14",
-        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Quốc vương Campuchia Norodom Sihamoni",
-        "url": "https://www.sggp.org.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-quoc-vuong-campuchia-norodom-sihamoni-post881807.html",
-        "host": "sggp.org.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-11-14",
-        "title": "Prim-ministrul Vasile Tofan va participa la Summitul Francofoniei din Phnom Penh",
-        "url": "https://www.moldpres.md/rom/oficial/primministrul-vasile-tofan-va-participa-la-summitul-francofoniei-din-phnom-penh",
-        "host": "moldpres.md",
-        "language": "ron"
-      },
-      {
-        "day": "2026-11-14",
-        "title": "Kualifikasi Piala Asia U-17: Kamboja Bertahan Rapat, Timnas Indonesia U-17 Siapkan Diri untuk Afghanistan",
-        "url": "https://www.liputan6.com/bola/read/8335370/kualifikasi-piala-asia-u-17-kamboja-bertahan-rapat-timnas-indonesia-u-17-siapkan-diri-untuk-afghanistan",
-        "host": "liputan6.com",
-        "language": "ind"
-      },
-      {
-        "day": "2026-11-14",
-        "title": "Klasemen Kualifikasi Piala Asia U-17 2027 usai Timnas Indonesia Sikat Kamboja",
-        "url": "https://www.liputan6.com/bola/read/8335315/klasemen-kualifikasi-piala-asia-u-17-2027-usai-timnas-indonesia-sikat-kamboja",
-        "host": "liputan6.com",
-        "language": "ind"
-      },
-      {
-        "day": "2026-11-14",
-        "title": "Kualifikasi Piala Asia U-17 2027: Timnas Indonesia U-17 Bekuk Kamboja, Persaingan Grup A Makin Panas",
-        "url": "https://www.liputan6.com/bola/read/8335311/kualifikasi-piala-asia-u-17-2027-timnas-indonesia-u-17-bekuk-kamboja-persaingan-grup-a-makin-panas",
-        "host": "liputan6.com",
-        "language": "ind"
-      },
-      {
-        "day": "2026-11-14",
-        "title": "Francuski predsjednik stigao u Kambodžu, slijede samit Frankofonije i posjeta Maleziji",
-        "url": "https://www.federalna.ba/macron-doputovao-u-kambodzu-na-samit-frankofonije-slijedi-posjeta-maleziji-dotru",
-        "host": "federalna.ba",
-        "language": "bos"
-      },
-      {
-        "day": "2026-11-14",
-        "title": "French-speaking nations hold a summit in Cambodia but an African conflict threatens a rift",
-        "url": "https://www.clickorlando.com/news/world/2026/11/14/french-speaking-nations-hold-a-summit-in-cambodia-but-an-african-conflict-threatens-a-rift/",
-        "host": "clickorlando.com",
+        "day": "2026-11-15",
+        "title": "Cambodia Takes Bakong Global, Connecting ASEAN with Japan and Africa – Thailand Business News",
+        "url": "https://www.thailand-business-news.com/pr-news/cambodia-takes-bakong-global-connecting-asean-with-japan-and-africa",
+        "host": "thailand-business-news.com",
         "language": "eng"
       },
       {
-        "day": "2026-11-14",
-        "title": "Susunan Pemain Indonesia vs Kamboja: Dhamar Tri jadi ujung tombak",
-        "url": "https://www.antaranews.com/berita/5854003/susunan-pemain-indonesia-vs-kamboja-dhamar-tri-jadi-ujung-tombak",
-        "host": "antaranews.com",
-        "language": "ind"
+        "day": "2026-11-15",
+        "title": "Camboya defiende paz y derecho internacional en Cumbre de Francofonía",
+        "url": "https://www.prensa-latina.cu/2026/11/15/camboya-defiende-paz-y-derecho-internacional-en-cumbre-de-francofonia/",
+        "host": "prensa-latina.cu",
+        "language": "spa"
       },
       {
-        "day": "2026-11-14",
-        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Quốc vương Campuchia Norodom Sihamoni",
-        "url": "https://vtv.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-quoc-vuong-campuchia-norodom-sihamoni-100261114211945555.htm",
-        "host": "vtv.vn",
+        "day": "2026-11-15",
+        "title": "Diplomatie : à Phnom Penh, Diomaye Faye renforce les partenariats du Sénégal avec le Vietnam et le Québec",
+        "url": "https://www.leral.net/Diplomatie-a-Phnom-Penh-Diomaye-Faye-renforce-les-partenariats-du-Senegal-avec-le-Vietnam-et-le-Quebec_a411272.html",
+        "host": "leral.net",
+        "language": "fra"
+      },
+      {
+        "day": "2026-11-15",
+        "title": "Organisation internationale de la francophonie : un parfum de crise flotte à Phnom Penh",
+        "url": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/33501689346431/organisation-internationale-de-la-francophonie-un-parfum-de-crise-flotte-a-phnom-penh",
+        "host": "latribune.fr",
+        "language": "fra"
+      },
+      {
+        "day": "2026-11-15",
+        "title": "PM Carney in Cambodia for Francophonie summit, will meet Quebec premier Plamondon – Brandon Sun",
+        "url": "https://www.brandonsun.com/national/2026/11/15/pm-carney-in-cambodia-for-francophonie-summit-will-meet-quebec-premier-plamondon",
+        "host": "brandonsun.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-15",
+        "title": "Energie, agroalimentaire, défense... France et Cambodge scellent leur \"partenariat renouvelé\" avec 29 accords",
+        "url": "https://www.bfmtv.com/economie/entreprises/energie-agroalimentaire-defense-france-et-cambodge-scellent-leur-partenariat-renouvele-avec-29-accords_AD-202611150285.html",
+        "host": "bfmtv.com",
+        "language": "fra"
+      },
+      {
+        "day": "2026-11-15",
+        "title": "Tensions and economic turbulence in Cambodia, as it hosts Francophonie summit",
+        "url": "https://www.aol.co.uk/articles/tensions-economic-turbulence-cambodia-hosts-083313000.html",
+        "host": "aol.co.uk",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-15",
+        "title": "Để văn hoá Khmer mãi vang xa",
+        "url": "https://vovgiaothong.vn/podcast/de-van-hoa-khmer-mai-vang-xa-d56766.html",
+        "host": "vovgiaothong.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-15",
+        "title": "Líder vietnamita asiste a la apertura de la XX Cumbre de la Francofonía en Camboya",
+        "url": "https://vietnam.vnanet.vn/spanish/tin-van/lider-vietnamita-asiste-a-la-apertura-de-la-xx-cumbre-de-la-francofonia-en-camboya-477324.html",
+        "host": "vietnam.vnanet.vn",
+        "language": "spa"
+      },
+      {
+        "day": "2026-11-15",
+        "title": "Morocco's King Represented at 20th Francophonie Summit in Phnom Penh – The North Africa Post",
+        "url": "https://northafricapost.com/101581-moroccos-king-represented-at-20th-francophonie-summit-in-phnom-penh.html",
+        "host": "northafricapost.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-15",
+        "title": "第20届法语国家组织峰会在柬埔寨举办 投票桌上的较量_新闻频道_中华网",
+        "url": "https://news.china.com/socialgd/10000169/20261115/49873899.html",
+        "host": "news.china.com",
+        "language": "zho"
+      },
+      {
+        "day": "2026-11-15",
+        "title": "Ông Tô Lâm và Hun Sen nhất trí không để lãnh thổ Việt Nam-Campuchia bị lợi dụng",
+        "url": "https://kevesko.vn/20261115/ong-to-lam-va-hun-sen-nhat-tri-khong-de-lanh-tho-viet-nam-campuchia-bi-loi-dung-44980433.html",
+        "host": "kevesko.vn",
         "language": "vie"
       }
     ]
@@ -3068,6 +3096,197 @@
           }
         ]
       }
+    },
+    {
+      "day": "2026-11-15",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 15501,
+      "rejected": 15,
+      "missing_titles": 25,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": 1.805959304832484,
+        "urls": 16,
+        "groups": 16,
+        "content_review": {
+          "pending": 16
+        },
+        "publisher_types": {
+          "unreviewed": 16
+        },
+        "tone_without_each_language": {
+          "spa": 2.0749297187401856,
+          "vie": 1.0794188132340687,
+          "ron": 1.7782084436731682,
+          "zho": 1.8845593086447228,
+          "eng": 2.0520142753589052,
+          "fra": 1.921841899622481
+        },
+        "tone_without_each_publisher": {
+          "diariodelsur.com.co": 2.056437892634324,
+          "baotintuc.vn": 1.5818500741304409,
+          "bongda24h.vn": 1.805144470609195,
+          "cedarnews.net": 1.7782084436731682,
+          "kevesko.vn": 1.4507419203178902,
+          "news.china.com": 1.8845593086447228,
+          "northafricapost.com": 1.741171406636131,
+          "vietnam.vnanet.vn": 1.7324171978819223,
+          "vovgiaothong.vn": 1.8048683609936775,
+          "aol.co.uk": 1.9747358854836288,
+          "bfmtv.com": 1.6844211079503482,
+          "brandonsun.com": 1.8249073164589975,
+          "latribune.fr": 2.1065367720014962,
+          "leral.net": 1.7273516166969383,
+          "prensa-latina.cu": 1.8621305160345467,
+          "thailand-business-news.com": 1.8798665871723157
+        },
+        "positive_share": 81.25,
+        "languages": {
+          "spa": 3,
+          "vie": 4,
+          "ron": 1,
+          "zho": 1,
+          "eng": 4,
+          "fra": 3
+        },
+        "publishers": {
+          "diariodelsur.com.co": 1,
+          "baotintuc.vn": 1,
+          "bongda24h.vn": 1,
+          "cedarnews.net": 1,
+          "kevesko.vn": 1,
+          "news.china.com": 1,
+          "northafricapost.com": 1,
+          "vietnam.vnanet.vn": 1,
+          "vovgiaothong.vn": 1,
+          "aol.co.uk": 1,
+          "bfmtv.com": 1,
+          "brandonsun.com": 1,
+          "latribune.fr": 1,
+          "leral.net": 1,
+          "prensa-latina.cu": 1,
+          "thailand-business-news.com": 1
+        },
+        "excluded": {},
+        "unverified_urls": 16,
+        "largest_publisher": "diariodelsur.com.co",
+        "largest_publisher_share": 6.25,
+        "tone_without_largest_publisher": 2.056437892634324,
+        "topics": [
+          {
+            "label": "Economy & trade",
+            "urls": 8
+          },
+          {
+            "label": "Government",
+            "urls": 8
+          },
+          {
+            "label": "Education",
+            "urls": 4
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 4
+          },
+          {
+            "label": "Borders",
+            "urls": 3
+          },
+          {
+            "label": "Tourism",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-15",
+            "title": "Cambodia Takes Bakong Global, Connecting ASEAN with Japan and Africa – Thailand Business News",
+            "url": "https://www.thailand-business-news.com/pr-news/cambodia-takes-bakong-global-connecting-asean-with-japan-and-africa",
+            "host": "thailand-business-news.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-15",
+            "title": "Camboya defiende paz y derecho internacional en Cumbre de Francofonía",
+            "url": "https://www.prensa-latina.cu/2026/11/15/camboya-defiende-paz-y-derecho-internacional-en-cumbre-de-francofonia/",
+            "host": "prensa-latina.cu",
+            "language": "spa"
+          },
+          {
+            "day": "2026-11-15",
+            "title": "Diplomatie : à Phnom Penh, Diomaye Faye renforce les partenariats du Sénégal avec le Vietnam et le Québec",
+            "url": "https://www.leral.net/Diplomatie-a-Phnom-Penh-Diomaye-Faye-renforce-les-partenariats-du-Senegal-avec-le-Vietnam-et-le-Quebec_a411272.html",
+            "host": "leral.net",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-15",
+            "title": "Organisation internationale de la francophonie : un parfum de crise flotte à Phnom Penh",
+            "url": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/33501689346431/organisation-internationale-de-la-francophonie-un-parfum-de-crise-flotte-a-phnom-penh",
+            "host": "latribune.fr",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-15",
+            "title": "PM Carney in Cambodia for Francophonie summit, will meet Quebec premier Plamondon – Brandon Sun",
+            "url": "https://www.brandonsun.com/national/2026/11/15/pm-carney-in-cambodia-for-francophonie-summit-will-meet-quebec-premier-plamondon",
+            "host": "brandonsun.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-15",
+            "title": "Energie, agroalimentaire, défense... France et Cambodge scellent leur \"partenariat renouvelé\" avec 29 accords",
+            "url": "https://www.bfmtv.com/economie/entreprises/energie-agroalimentaire-defense-france-et-cambodge-scellent-leur-partenariat-renouvele-avec-29-accords_AD-202611150285.html",
+            "host": "bfmtv.com",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-15",
+            "title": "Tensions and economic turbulence in Cambodia, as it hosts Francophonie summit",
+            "url": "https://www.aol.co.uk/articles/tensions-economic-turbulence-cambodia-hosts-083313000.html",
+            "host": "aol.co.uk",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-15",
+            "title": "Để văn hoá Khmer mãi vang xa",
+            "url": "https://vovgiaothong.vn/podcast/de-van-hoa-khmer-mai-vang-xa-d56766.html",
+            "host": "vovgiaothong.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-15",
+            "title": "Líder vietnamita asiste a la apertura de la XX Cumbre de la Francofonía en Camboya",
+            "url": "https://vietnam.vnanet.vn/spanish/tin-van/lider-vietnamita-asiste-a-la-apertura-de-la-xx-cumbre-de-la-francofonia-en-camboya-477324.html",
+            "host": "vietnam.vnanet.vn",
+            "language": "spa"
+          },
+          {
+            "day": "2026-11-15",
+            "title": "Morocco's King Represented at 20th Francophonie Summit in Phnom Penh – The North Africa Post",
+            "url": "https://northafricapost.com/101581-moroccos-king-represented-at-20th-francophonie-summit-in-phnom-penh.html",
+            "host": "northafricapost.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-15",
+            "title": "第20届法语国家组织峰会在柬埔寨举办 投票桌上的较量_新闻频道_中华网",
+            "url": "https://news.china.com/socialgd/10000169/20261115/49873899.html",
+            "host": "news.china.com",
+            "language": "zho"
+          },
+          {
+            "day": "2026-11-15",
+            "title": "Ông Tô Lâm và Hun Sen nhất trí không để lãnh thổ Việt Nam-Campuchia bị lợi dụng",
+            "url": "https://kevesko.vn/20261115/ong-to-lam-va-hun-sen-nhat-tri-khong-de-lanh-tho-viet-nam-campuchia-bi-loi-dung-44980433.html",
+            "host": "kevesko.vn",
+            "language": "vie"
+          }
+        ]
+      }
     }
   ],
   "stop_reason": null,
@@ -3109,37 +3328,37 @@
     "largest_composition_changes": [
       {
         "dimension": "language",
-        "name": "eng",
-        "tone_without": 2.5958576541485905,
-        "absolute_change": 1.019685595105286,
+        "name": "vie",
+        "tone_without": 0.6115678369193863,
+        "absolute_change": 0.8758609021119236,
         "sign_reversal": false
       },
       {
         "dimension": "language",
-        "name": "vie",
-        "tone_without": 0.5886846005254827,
-        "absolute_change": 0.9874874585178219,
+        "name": "eng",
+        "tone_without": 2.3576834964999214,
+        "absolute_change": 0.8702547574686115,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
-        "name": "baomoi.com",
-        "tone_without": 1.2839351202716744,
-        "absolute_change": 0.29223693877163015,
+        "name": "baotintuc.vn",
+        "tone_without": 1.2187999184999463,
+        "absolute_change": 0.2686288205313636,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "baodautu.vn",
-        "tone_without": 1.3024613038410997,
-        "absolute_change": 0.2737107552022049,
+        "tone_without": 1.2717253478419124,
+        "absolute_change": 0.21570339118939752,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "thestar.com.my",
-        "tone_without": 1.8448749874036587,
-        "absolute_change": 0.26870292836035414,
+        "tone_without": 1.695966287437649,
+        "absolute_change": 0.2085375484063392,
         "sign_reversal": false
       }
     ],

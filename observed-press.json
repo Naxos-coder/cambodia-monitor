@@ -1,121 +1,129 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-16T20:21:01.348955+00:00",
+  "generated_at": "2026-11-17T20:21:03.043700+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-15",
+  "latest_complete_day": "2026-11-16",
   "age_days": 1,
-  "window_start": "2026-11-09",
-  "window_end": "2026-11-15",
+  "window_start": "2026-11-10",
+  "window_end": "2026-11-16",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": 1.48742873903131,
-    "urls": 70,
-    "groups": 65,
+    "tone": 1.3295440565117764,
+    "urls": 82,
+    "groups": 74,
     "content_review": {
-      "pending": 70
+      "pending": 82
     },
     "publisher_types": {
-      "broadcaster_news_portal": 1,
-      "unreviewed": 66,
+      "unreviewed": 79,
       "newspaper": 1,
       "news_agency_portal": 2
     },
     "tone_without_each_language": {
-      "vie": 0.6115678369193863,
-      "rus": 1.3271689083082265,
-      "spa": 1.5487984462038937,
-      "eng": 2.3576834964999214,
-      "hin": 1.5916883315971926,
-      "ind": 1.370762689187012,
-      "fra": 1.5732259343602106,
-      "jpn": 1.5612837106753303,
-      "kor": 1.4905270874801473,
-      "bos": 1.5034360167823777,
-      "ron": 1.4392502702687957,
-      "bul": 1.5044447134770804,
-      "zho": 1.50087357483416
+      "eng": 1.9477326349717528,
+      "hin": 1.4187869228363925,
+      "ind": 1.2166543984935803,
+      "rus": 1.320967579989589,
+      "fra": 1.325079299364135,
+      "jpn": 1.392130816822705,
+      "vie": 0.49021009164715146,
+      "kor": 1.3300976129255582,
+      "bos": 1.3414150303960068,
+      "ron": 1.283002210719034,
+      "bul": 1.33935346753183,
+      "spa": 1.3586619387066778,
+      "zho": 1.3391685059482543,
+      "deu": 1.46028145063229
     },
     "tone_without_each_publisher": {
-      "vov.vn": 1.4830638060115362,
-      "baotintuc.vn": 1.2187999184999463,
-      "caravan.kz": 1.3452286366080866,
-      "prensa-latina.cu": 1.514834549449735,
-      "malaysiasun.com": 1.48742873903131,
-      "nepalnational.com": 1.48742873903131,
-      "ibtimes.co.uk": 1.607228801842719,
-      "jagran.com": 1.5916883315971926,
-      "thestar.com.my": 1.695966287437649,
-      "bola.okezone.com": 1.4856029681588878,
-      "english.news.cn": 1.4629078043450496,
-      "rapsinews.ru": 1.5221587836669093,
-      "lechodemaskinonge.com": 1.5065398571315374,
-      "manilatimes.net": 1.450029450853577,
-      "morungexpress.com": 1.455982313078674,
-      "sankei.com": 1.5612837106753303,
-      "asia.nikkei.com": 1.5371528639261316,
-      "mymotherlode.com": 1.5810122460288656,
-      "theshillongtimes.com": 1.588794813078674,
-      "tienphong.vn": 1.6935143356075357,
-      "courrierfrontenac.qc.ca": 1.4833639878359555,
-      "edaily.co.kr": 1.4905270874801473,
-      "journal-news.net": 1.5895043236740323,
-      "sb.by": 1.4396470858059467,
-      "telerama.fr": 1.510669813078674,
-      "rnanews.com": 1.4197825045889088,
-      "fr.allafrica.com": 1.493179141436883,
-      "lesoleil.sn": 1.4925713574802184,
-      "ledevoir.com": 1.5027463850867877,
-      "sudouest.fr": 1.4928548658420855,
-      "thegazette.com": 1.5358173452675152,
-      "baodautu.vn": 1.2717253478419124,
-      "baomoi.com": 1.3511693193327885,
-      "baophapluat.vn": 1.4679159853017278,
-      "libe.ma": 1.4800325581767133,
-      "vtv.vn": 1.48677084684049,
-      "antaranews.com": 1.4455656464120072,
-      "clickorlando.com": 1.5442719636163085,
-      "federalna.ba": 1.5034360167823777,
-      "liputan6.com": 1.419624291818608,
-      "moldpres.md": 1.451484207018068,
-      "sggp.org.vn": 1.4848271326694849,
-      "vesti.bg": 1.5044447134770804,
-      "diariodelsur.com.co": 1.5411576179567228,
-      "bongda24h.vn": 1.4822607221695832,
-      "cedarnews.net": 1.4759475908564519,
-      "kevesko.vn": 1.3991976244450586,
-      "news.china.com": 1.50087357483416,
-      "northafricapost.com": 1.4672670353008963,
-      "vietnam.vnanet.vn": 1.4652152676241286,
-      "vovgiaothong.vn": 1.4821960089784463,
-      "aol.co.uk": 1.5220087100307784,
-      "bfmtv.com": 1.453966184046416,
-      "brandonsun.com": 1.4868926391656305,
-      "latribune.fr": 1.5528995428084036,
-      "leral.net": 1.464028022033898,
-      "thailand-business-news.com": 1.4997737182390645
+      "malaysiasun.com": 1.3295440565117764,
+      "nepalnational.com": 1.3295440565117764,
+      "ibtimes.co.uk": 1.432411444695484,
+      "jagran.com": 1.4187869228363925,
+      "thestar.com.my": 1.5102086923403542,
+      "bola.okezone.com": 1.3257805768082898,
+      "english.news.cn": 1.3058834468893081,
+      "rapsinews.ru": 1.3578295109523084,
+      "lechodemaskinonge.com": 1.34413620549664,
+      "manilatimes.net": 1.294592835609113,
+      "morungexpress.com": 1.2998117833133076,
+      "sankei.com": 1.392130816822705,
+      "asia.nikkei.com": 1.3709750059740924,
+      "mymotherlode.com": 1.4094270669956674,
+      "theshillongtimes.com": 1.4162501394776912,
+      "tienphong.vn": 1.5068952041427934,
+      "courrierfrontenac.qc.ca": 1.323817635155308,
+      "edaily.co.kr": 1.3300976129255582,
+      "journal-news.net": 1.4168721761640328,
+      "sb.by": 1.2854904881700946,
+      "telerama.fr": 1.3477569887927596,
+      "rnanews.com": 1.265967915749133,
+      "baotintuc.vn": 1.2355180386131206,
+      "fr.allafrica.com": 1.3099449656203566,
+      "lesoleil.sn": 1.3318898496379492,
+      "ledevoir.com": 1.3408104217861745,
+      "sudouest.fr": 1.3299062318456627,
+      "thegazette.com": 1.369804140300785,
+      "baodautu.vn": 1.1364179035955113,
+      "baomoi.com": 1.1272317322567453,
+      "baophapluat.vn": 1.3102741808787248,
+      "libe.ma": 1.3208969297006297,
+      "vtv.vn": 1.3289661782360565,
+      "antaranews.com": 1.2906793632219835,
+      "clickorlando.com": 1.3772164084421925,
+      "federalna.ba": 1.3414150303960068,
+      "liputan6.com": 1.2636633554590144,
+      "moldpres.md": 1.2958682382738722,
+      "sggp.org.vn": 1.3272588617344978,
+      "vesti.bg": 1.3422993672242394,
+      "diariodelsur.com.co": 1.3744860232063916,
+      "bongda24h.vn": 1.3228503885436937,
+      "cedarnews.net": 1.3173155884883458,
+      "kevesko.vn": 1.2500279467030146,
+      "news.china.com": 1.3391685059482543,
+      "northafricapost.com": 1.3097052384122423,
+      "vietnam.vnanet.vn": 1.307906428394254,
+      "vovgiaothong.vn": 1.3227936536911902,
+      "aol.co.uk": 1.3576979395452897,
+      "bfmtv.com": 1.2980442181343417,
+      "brandonsun.com": 1.3269112472799545,
+      "latribune.fr": 1.3847803134873173,
+      "leral.net": 1.3068655555480244,
+      "prensa-latina.cu": 1.3345598499324647,
+      "thailand-business-news.com": 1.3382042481114582,
+      "hna.de": 1.3295440565117764,
+      "baochinhphu.vn": 1.2500299841254527,
+      "duma.bg": 1.3264637813259417,
+      "genk.vn": 1.3281702806986677,
+      "giadinh.suckhoedoisong.vn": 1.4322615253520907,
+      "golosarmenii.am": 1.336970665850251,
+      "lnt.ma": 1.302203349382354,
+      "vietbao.vn": 1.2330040661792618,
+      "elysee.fr": 1.3011431899429553,
+      "laprovence.com": 1.3676100759478123,
+      "merkur.de": 1.3295440565117764,
+      "owensoundsuntimes.com": 1.3295440565117764,
+      "recorder.ca": 1.3295440565117764
     },
-    "positive_share": 73.84615384615384,
+    "positive_share": 72.97297297297297,
     "languages": {
-      "vie": 18,
-      "rus": 3,
-      "spa": 4,
-      "eng": 20,
+      "eng": 22,
       "hin": 1,
       "ind": 5,
-      "fra": 12,
+      "rus": 3,
+      "fra": 16,
       "jpn": 1,
+      "vie": 22,
       "kor": 1,
       "bos": 1,
       "ron": 2,
-      "bul": 1,
-      "zho": 1
+      "bul": 2,
+      "spa": 3,
+      "zho": 1,
+      "deu": 2
     },
     "publishers": {
-      "vov.vn": 1,
-      "baotintuc.vn": 3,
-      "caravan.kz": 1,
-      "prensa-latina.cu": 2,
       "malaysiasun.com": 1,
       "nepalnational.com": 1,
       "ibtimes.co.uk": 1,
@@ -131,20 +139,21 @@
       "asia.nikkei.com": 1,
       "mymotherlode.com": 1,
       "theshillongtimes.com": 1,
-      "tienphong.vn": 2,
+      "tienphong.vn": 3,
       "courrierfrontenac.qc.ca": 1,
       "edaily.co.kr": 1,
       "journal-news.net": 1,
       "sb.by": 1,
       "telerama.fr": 1,
       "rnanews.com": 2,
-      "fr.allafrica.com": 1,
+      "baotintuc.vn": 2,
+      "fr.allafrica.com": 2,
       "lesoleil.sn": 1,
       "ledevoir.com": 1,
       "sudouest.fr": 2,
       "thegazette.com": 1,
       "baodautu.vn": 2,
-      "baomoi.com": 2,
+      "baomoi.com": 3,
       "baophapluat.vn": 2,
       "libe.ma": 1,
       "vtv.vn": 1,
@@ -168,123 +177,137 @@
       "brandonsun.com": 1,
       "latribune.fr": 1,
       "leral.net": 1,
-      "thailand-business-news.com": 1
+      "prensa-latina.cu": 1,
+      "thailand-business-news.com": 1,
+      "hna.de": 1,
+      "baochinhphu.vn": 1,
+      "duma.bg": 1,
+      "genk.vn": 1,
+      "giadinh.suckhoedoisong.vn": 1,
+      "golosarmenii.am": 1,
+      "lnt.ma": 1,
+      "vietbao.vn": 1,
+      "elysee.fr": 1,
+      "laprovence.com": 1,
+      "merkur.de": 1,
+      "owensoundsuntimes.com": 1,
+      "recorder.ca": 1
     },
     "excluded": {},
-    "unverified_urls": 64,
-    "largest_publisher": "baotintuc.vn",
-    "largest_publisher_share": 4.285714285714286,
-    "tone_without_largest_publisher": 1.2187999184999463,
+    "unverified_urls": 76,
+    "largest_publisher": "tienphong.vn",
+    "largest_publisher_share": 3.658536585365854,
+    "tone_without_largest_publisher": 1.5068952041427934,
     "topics": [
       {
         "label": "Government",
-        "urls": 37
+        "urls": 39
       },
       {
         "label": "Economy & trade",
-        "urls": 27
+        "urls": 37
       },
       {
         "label": "Education",
-        "urls": 24
+        "urls": 29
       },
       {
         "label": "Borders",
-        "urls": 14
+        "urls": 15
       },
       {
         "label": "Conflict & violence",
-        "urls": 12
+        "urls": 15
       },
       {
         "label": "Tourism",
-        "urls": 5
+        "urls": 6
       }
     ],
     "headlines": [
       {
-        "day": "2026-11-15",
-        "title": "Cambodia Takes Bakong Global, Connecting ASEAN with Japan and Africa – Thailand Business News",
-        "url": "https://www.thailand-business-news.com/pr-news/cambodia-takes-bakong-global-connecting-asean-with-japan-and-africa",
-        "host": "thailand-business-news.com",
+        "day": "2026-11-16",
+        "title": "Prime Minister Carney meets with Prime Minister of Cambodia Hun Manet",
+        "url": "https://www.recorder.ca/press-releases/pr-newswire/prime-minister-carney-meets-with-prime-minister-of-cambodia-hun-manet/",
+        "host": "recorder.ca",
         "language": "eng"
       },
       {
-        "day": "2026-11-15",
-        "title": "Camboya defiende paz y derecho internacional en Cumbre de Francofonía",
-        "url": "https://www.prensa-latina.cu/2026/11/15/camboya-defiende-paz-y-derecho-internacional-en-cumbre-de-francofonia/",
-        "host": "prensa-latina.cu",
-        "language": "spa"
-      },
-      {
-        "day": "2026-11-15",
-        "title": "Diplomatie : à Phnom Penh, Diomaye Faye renforce les partenariats du Sénégal avec le Vietnam et le Québec",
-        "url": "https://www.leral.net/Diplomatie-a-Phnom-Penh-Diomaye-Faye-renforce-les-partenariats-du-Senegal-avec-le-Vietnam-et-le-Quebec_a411272.html",
-        "host": "leral.net",
-        "language": "fra"
-      },
-      {
-        "day": "2026-11-15",
-        "title": "Organisation internationale de la francophonie : un parfum de crise flotte à Phnom Penh",
-        "url": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/33501689346431/organisation-internationale-de-la-francophonie-un-parfum-de-crise-flotte-a-phnom-penh",
-        "host": "latribune.fr",
-        "language": "fra"
-      },
-      {
-        "day": "2026-11-15",
-        "title": "PM Carney in Cambodia for Francophonie summit, will meet Quebec premier Plamondon – Brandon Sun",
-        "url": "https://www.brandonsun.com/national/2026/11/15/pm-carney-in-cambodia-for-francophonie-summit-will-meet-quebec-premier-plamondon",
-        "host": "brandonsun.com",
+        "day": "2026-11-16",
+        "title": "Prime Minister Carney meets with Prime Minister of Cambodia Hun Manet",
+        "url": "https://www.owensoundsuntimes.com/press-releases/pr-newswire/prime-minister-carney-meets-with-prime-minister-of-cambodia-hun-manet/",
+        "host": "owensoundsuntimes.com",
         "language": "eng"
       },
       {
-        "day": "2026-11-15",
-        "title": "Energie, agroalimentaire, défense... France et Cambodge scellent leur \"partenariat renouvelé\" avec 29 accords",
-        "url": "https://www.bfmtv.com/economie/entreprises/energie-agroalimentaire-defense-france-et-cambodge-scellent-leur-partenariat-renouvele-avec-29-accords_AD-202611150285.html",
-        "host": "bfmtv.com",
+        "day": "2026-11-16",
+        "title": "Entführung in Kambodscha: Taiwanisches Paar ausgeraubt und erpresst",
+        "url": "https://www.merkur.de/welt/entfuehrung-in-kambodscha-taiwanisches-paar-ausgeraubt-und-erpresst-zr-94593375.html",
+        "host": "merkur.de",
+        "language": "deu"
+      },
+      {
+        "day": "2026-11-16",
+        "title": "Emmanuel Macron inaugure à Angkor un temple restauré, \"référence\" de la coopération France-Cambodge",
+        "url": "https://www.laprovence.com/article/france-monde/16385301356342/emmanuel-macron-inaugure-a-angkor-un-temple-restaure-reference-de-la-cooperation-france-cambodge",
+        "host": "laprovence.com",
         "language": "fra"
       },
       {
-        "day": "2026-11-15",
-        "title": "Tensions and economic turbulence in Cambodia, as it hosts Francophonie summit",
-        "url": "https://www.aol.co.uk/articles/tensions-economic-turbulence-cambodia-hosts-083313000.html",
-        "host": "aol.co.uk",
-        "language": "eng"
+        "day": "2026-11-16",
+        "title": "Déclaration conjointe entre la France et le Cambodge à l'occ",
+        "url": "https://www.elysee.fr/emmanuel-macron/2026/11/16/declaration-conjointe-entre-la-france-et-le-cambodge-a-loccasion-de-la-visite-detat-du-president-emmanuel-macron-au-cambodge",
+        "host": "elysee.fr",
+        "language": "fra"
       },
       {
-        "day": "2026-11-15",
-        "title": "Để văn hoá Khmer mãi vang xa",
-        "url": "https://vovgiaothong.vn/podcast/de-van-hoa-khmer-mai-vang-xa-d56766.html",
-        "host": "vovgiaothong.vn",
+        "day": "2026-11-16",
+        "title": "Người đứng đầu 3 đảng Việt Nam - Lào - Campuchia ăn sáng và làm việc",
+        "url": "https://vietbao.vn/nguoi-dung-dau-3-dang-viet-nam-lao-campuchia-an-sang-va-lam-viec-615976.html",
+        "host": "vietbao.vn",
         "language": "vie"
       },
       {
-        "day": "2026-11-15",
-        "title": "Líder vietnamita asiste a la apertura de la XX Cumbre de la Francofonía en Camboya",
-        "url": "https://vietnam.vnanet.vn/spanish/tin-van/lider-vietnamita-asiste-a-la-apertura-de-la-xx-cumbre-de-la-francofonia-en-camboya-477324.html",
-        "host": "vietnam.vnanet.vn",
-        "language": "spa"
-      },
-      {
-        "day": "2026-11-15",
-        "title": "Morocco's King Represented at 20th Francophonie Summit in Phnom Penh – The North Africa Post",
-        "url": "https://northafricapost.com/101581-moroccos-king-represented-at-20th-francophonie-summit-in-phnom-penh.html",
-        "host": "northafricapost.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-15",
-        "title": "第20届法语国家组织峰会在柬埔寨举办 投票桌上的较量_新闻频道_中华网",
-        "url": "https://news.china.com/socialgd/10000169/20261115/49873899.html",
-        "host": "news.china.com",
-        "language": "zho"
-      },
-      {
-        "day": "2026-11-15",
-        "title": "Ông Tô Lâm và Hun Sen nhất trí không để lãnh thổ Việt Nam-Campuchia bị lợi dụng",
-        "url": "https://kevesko.vn/20261115/ong-to-lam-va-hun-sen-nhat-tri-khong-de-lanh-tho-viet-nam-campuchia-bi-loi-dung-44980433.html",
-        "host": "kevesko.vn",
+        "day": "2026-11-16",
+        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm cùng lãnh đạo Pháp, Campuchia thăm gian hàng Viettel Campuchia tại FrancoTech 2026",
+        "url": "https://tienphong.vn/tong-bi-thu-chu-tich-nuoc-to-lam-cung-lanh-dao-phap-campuchia-tham-gian-hang-viettel-campuchia-tai-francotech-2026-post1894635.tpo",
+        "host": "tienphong.vn",
         "language": "vie"
+      },
+      {
+        "day": "2026-11-16",
+        "title": "FrancoTech 2026 : le Maroc met en avant son écosystème technologique à Phnom Penh",
+        "url": "https://lnt.ma/francotech-2026-le-maroc-met-en-avant-son-ecosysteme-technologique-a-phnom-penh/",
+        "host": "lnt.ma",
+        "language": "fra"
+      },
+      {
+        "day": "2026-11-16",
+        "title": "Состоялась встреча премьер-министров Армении и Камбоджи",
+        "url": "https://golosarmenii.am/sostoyalas-vstrecha-premer-ministro/",
+        "host": "golosarmenii.am",
+        "language": "rus"
+      },
+      {
+        "day": "2026-11-16",
+        "title": "Chạy đua cứu sống sản phụ Campuchia vừa bị nhau tiền đạo vừa thuyên tắc phổi",
+        "url": "https://giadinh.suckhoedoisong.vn/chay-dua-cuu-song-san-phu-campuchia-vua-bi-nhau-tien-dao-vua-thuyen-tac-phoi-17226111616031867.htm",
+        "host": "giadinh.suckhoedoisong.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-16",
+        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm cùng lãnh đạo Pháp, Campuchia thăm gian hàng Viettel Campuchia tại FrancoTech 2026",
+        "url": "https://genk.vn/tong-bi-thu-chu-tich-nuoc-to-lam-cung-lanh-dao-phap-campuchia-tham-gian-hang-viettel-campuchia-tai-francotech-2026-165261116082450343.chn",
+        "host": "genk.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-16",
+        "title": "Sénégal: A Phnom Penh, Bassirou Diomaye Faye discute de partenariats avec le vice-président de la Confédération suisse",
+        "url": "https://fr.allafrica.com/stories/202611160015.html",
+        "host": "fr.allafrica.com",
+        "language": "fra"
       }
     ]
   },
@@ -3287,6 +3310,197 @@
           }
         ]
       }
+    },
+    {
+      "day": "2026-11-16",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 24938,
+      "rejected": 4,
+      "missing_titles": 80,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": 2.0024326049586714,
+        "urls": 16,
+        "groups": 13,
+        "content_review": {
+          "pending": 16
+        },
+        "publisher_types": {
+          "unreviewed": 16
+        },
+        "tone_without_each_language": {
+          "deu": 2.8538257982290367,
+          "vie": 0.9683136081611312,
+          "bul": 2.0397683099487507,
+          "fra": 1.9779840624061187,
+          "rus": 2.1036851908049647,
+          "eng": 1.7202001922980417
+        },
+        "tone_without_each_publisher": {
+          "hna.de": 2.0024326049586714,
+          "baochinhphu.vn": 1.5747960436457766,
+          "baomoi.com": 1.5845066670678007,
+          "duma.bg": 2.0397683099487507,
+          "fr.allafrica.com": 1.923400349360965,
+          "genk.vn": 1.9946126503302062,
+          "giadinh.suckhoedoisong.vn": 2.6833712527744917,
+          "golosarmenii.am": 2.1036851908049647,
+          "lnt.ma": 1.8921840156252592,
+          "tienphong.vn": 2.010252559587137,
+          "vietbao.vn": 1.4712217094731157,
+          "elysee.fr": 1.8857347123689165,
+          "laprovence.com": 2.290074935565131,
+          "merkur.de": 2.0024326049586714,
+          "owensoundsuntimes.com": 2.0024326049586714,
+          "recorder.ca": 2.0024326049586714
+        },
+        "positive_share": 76.92307692307692,
+        "languages": {
+          "deu": 2,
+          "vie": 6,
+          "bul": 1,
+          "fra": 4,
+          "rus": 1,
+          "eng": 2
+        },
+        "publishers": {
+          "hna.de": 1,
+          "baochinhphu.vn": 1,
+          "baomoi.com": 1,
+          "duma.bg": 1,
+          "fr.allafrica.com": 1,
+          "genk.vn": 1,
+          "giadinh.suckhoedoisong.vn": 1,
+          "golosarmenii.am": 1,
+          "lnt.ma": 1,
+          "tienphong.vn": 1,
+          "vietbao.vn": 1,
+          "elysee.fr": 1,
+          "laprovence.com": 1,
+          "merkur.de": 1,
+          "owensoundsuntimes.com": 1,
+          "recorder.ca": 1
+        },
+        "excluded": {},
+        "unverified_urls": 15,
+        "largest_publisher": "hna.de",
+        "largest_publisher_share": 6.25,
+        "tone_without_largest_publisher": 2.0024326049586714,
+        "topics": [
+          {
+            "label": "Economy & trade",
+            "urls": 11
+          },
+          {
+            "label": "Education",
+            "urls": 6
+          },
+          {
+            "label": "Government",
+            "urls": 5
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 3
+          },
+          {
+            "label": "Borders",
+            "urls": 2
+          },
+          {
+            "label": "Tourism",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-16",
+            "title": "Prime Minister Carney meets with Prime Minister of Cambodia Hun Manet",
+            "url": "https://www.recorder.ca/press-releases/pr-newswire/prime-minister-carney-meets-with-prime-minister-of-cambodia-hun-manet/",
+            "host": "recorder.ca",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-16",
+            "title": "Prime Minister Carney meets with Prime Minister of Cambodia Hun Manet",
+            "url": "https://www.owensoundsuntimes.com/press-releases/pr-newswire/prime-minister-carney-meets-with-prime-minister-of-cambodia-hun-manet/",
+            "host": "owensoundsuntimes.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-16",
+            "title": "Entführung in Kambodscha: Taiwanisches Paar ausgeraubt und erpresst",
+            "url": "https://www.merkur.de/welt/entfuehrung-in-kambodscha-taiwanisches-paar-ausgeraubt-und-erpresst-zr-94593375.html",
+            "host": "merkur.de",
+            "language": "deu"
+          },
+          {
+            "day": "2026-11-16",
+            "title": "Emmanuel Macron inaugure à Angkor un temple restauré, \"référence\" de la coopération France-Cambodge",
+            "url": "https://www.laprovence.com/article/france-monde/16385301356342/emmanuel-macron-inaugure-a-angkor-un-temple-restaure-reference-de-la-cooperation-france-cambodge",
+            "host": "laprovence.com",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-16",
+            "title": "Déclaration conjointe entre la France et le Cambodge à l'occ",
+            "url": "https://www.elysee.fr/emmanuel-macron/2026/11/16/declaration-conjointe-entre-la-france-et-le-cambodge-a-loccasion-de-la-visite-detat-du-president-emmanuel-macron-au-cambodge",
+            "host": "elysee.fr",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-16",
+            "title": "Người đứng đầu 3 đảng Việt Nam - Lào - Campuchia ăn sáng và làm việc",
+            "url": "https://vietbao.vn/nguoi-dung-dau-3-dang-viet-nam-lao-campuchia-an-sang-va-lam-viec-615976.html",
+            "host": "vietbao.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-16",
+            "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm cùng lãnh đạo Pháp, Campuchia thăm gian hàng Viettel Campuchia tại FrancoTech 2026",
+            "url": "https://tienphong.vn/tong-bi-thu-chu-tich-nuoc-to-lam-cung-lanh-dao-phap-campuchia-tham-gian-hang-viettel-campuchia-tai-francotech-2026-post1894635.tpo",
+            "host": "tienphong.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-16",
+            "title": "FrancoTech 2026 : le Maroc met en avant son écosystème technologique à Phnom Penh",
+            "url": "https://lnt.ma/francotech-2026-le-maroc-met-en-avant-son-ecosysteme-technologique-a-phnom-penh/",
+            "host": "lnt.ma",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-16",
+            "title": "Состоялась встреча премьер-министров Армении и Камбоджи",
+            "url": "https://golosarmenii.am/sostoyalas-vstrecha-premer-ministro/",
+            "host": "golosarmenii.am",
+            "language": "rus"
+          },
+          {
+            "day": "2026-11-16",
+            "title": "Chạy đua cứu sống sản phụ Campuchia vừa bị nhau tiền đạo vừa thuyên tắc phổi",
+            "url": "https://giadinh.suckhoedoisong.vn/chay-dua-cuu-song-san-phu-campuchia-vua-bi-nhau-tien-dao-vua-thuyen-tac-phoi-17226111616031867.htm",
+            "host": "giadinh.suckhoedoisong.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-16",
+            "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm cùng lãnh đạo Pháp, Campuchia thăm gian hàng Viettel Campuchia tại FrancoTech 2026",
+            "url": "https://genk.vn/tong-bi-thu-chu-tich-nuoc-to-lam-cung-lanh-dao-phap-campuchia-tham-gian-hang-viettel-campuchia-tai-francotech-2026-165261116082450343.chn",
+            "host": "genk.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-16",
+            "title": "Sénégal: A Phnom Penh, Bassirou Diomaye Faye discute de partenariats avec le vice-président de la Confédération suisse",
+            "url": "https://fr.allafrica.com/stories/202611160015.html",
+            "host": "fr.allafrica.com",
+            "language": "fra"
+          }
+        ]
+      }
     }
   ],
   "stop_reason": null,
@@ -3329,36 +3543,36 @@
       {
         "dimension": "language",
         "name": "vie",
-        "tone_without": 0.6115678369193863,
-        "absolute_change": 0.8758609021119236,
+        "tone_without": 0.49021009164715146,
+        "absolute_change": 0.839333964864625,
         "sign_reversal": false
       },
       {
         "dimension": "language",
         "name": "eng",
-        "tone_without": 2.3576834964999214,
-        "absolute_change": 0.8702547574686115,
+        "tone_without": 1.9477326349717528,
+        "absolute_change": 0.6181885784599763,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
-        "name": "baotintuc.vn",
-        "tone_without": 1.2187999184999463,
-        "absolute_change": 0.2686288205313636,
+        "name": "baomoi.com",
+        "tone_without": 1.1272317322567453,
+        "absolute_change": 0.2023123242550311,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "baodautu.vn",
-        "tone_without": 1.2717253478419124,
-        "absolute_change": 0.21570339118939752,
+        "tone_without": 1.1364179035955113,
+        "absolute_change": 0.19312615291626511,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "thestar.com.my",
-        "tone_without": 1.695966287437649,
-        "absolute_change": 0.2085375484063392,
+        "tone_without": 1.5102086923403542,
+        "absolute_change": 0.18066463582857772,
         "sign_reversal": false
       }
     ],

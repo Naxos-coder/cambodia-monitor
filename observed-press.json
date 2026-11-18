@@ -1,118 +1,115 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-17T20:21:03.043700+00:00",
+  "generated_at": "2026-11-18T20:21:22.940614+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-16",
+  "latest_complete_day": "2026-11-17",
   "age_days": 1,
-  "window_start": "2026-11-10",
-  "window_end": "2026-11-16",
+  "window_start": "2026-11-11",
+  "window_end": "2026-11-17",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": 1.3295440565117764,
-    "urls": 82,
-    "groups": 74,
+    "tone": 1.6633852171397254,
+    "urls": 80,
+    "groups": 73,
     "content_review": {
-      "pending": 82
+      "pending": 80
     },
     "publisher_types": {
-      "unreviewed": 79,
-      "newspaper": 1,
-      "news_agency_portal": 2
+      "unreviewed": 77,
+      "news_agency_portal": 2,
+      "newspaper": 1
     },
     "tone_without_each_language": {
-      "eng": 1.9477326349717528,
-      "hin": 1.4187869228363925,
-      "ind": 1.2166543984935803,
-      "rus": 1.320967579989589,
-      "fra": 1.325079299364135,
-      "jpn": 1.392130816822705,
-      "vie": 0.49021009164715146,
-      "kor": 1.3300976129255582,
-      "bos": 1.3414150303960068,
-      "ron": 1.283002210719034,
-      "bul": 1.33935346753183,
-      "spa": 1.3586619387066778,
-      "zho": 1.3391685059482543,
-      "deu": 1.46028145063229
+      "ind": 1.5733825612556696,
+      "eng": 2.0374039119224236,
+      "rus": 1.6689936978369901,
+      "fra": 1.7645633290274443,
+      "jpn": 1.7314779207970272,
+      "vie": 0.9180477418467087,
+      "kor": 1.6685831446235313,
+      "bos": 1.680057748447736,
+      "ron": 1.6255918287478726,
+      "bul": 1.6827367652340879,
+      "spa": 1.7072265473928947,
+      "zho": 1.6777800222715424,
+      "deu": 1.8005750911873009,
+      "tha": 1.6767068819317679
     },
     "tone_without_each_publisher": {
-      "malaysiasun.com": 1.3295440565117764,
-      "nepalnational.com": 1.3295440565117764,
-      "ibtimes.co.uk": 1.432411444695484,
-      "jagran.com": 1.4187869228363925,
-      "thestar.com.my": 1.5102086923403542,
-      "bola.okezone.com": 1.3257805768082898,
-      "english.news.cn": 1.3058834468893081,
-      "rapsinews.ru": 1.3578295109523084,
-      "lechodemaskinonge.com": 1.34413620549664,
-      "manilatimes.net": 1.294592835609113,
-      "morungexpress.com": 1.2998117833133076,
-      "sankei.com": 1.392130816822705,
-      "asia.nikkei.com": 1.3709750059740924,
-      "mymotherlode.com": 1.4094270669956674,
-      "theshillongtimes.com": 1.4162501394776912,
-      "tienphong.vn": 1.5068952041427934,
-      "courrierfrontenac.qc.ca": 1.323817635155308,
-      "edaily.co.kr": 1.3300976129255582,
-      "journal-news.net": 1.4168721761640328,
-      "sb.by": 1.2854904881700946,
-      "telerama.fr": 1.3477569887927596,
-      "rnanews.com": 1.265967915749133,
-      "baotintuc.vn": 1.2355180386131206,
-      "fr.allafrica.com": 1.3099449656203566,
-      "lesoleil.sn": 1.3318898496379492,
-      "ledevoir.com": 1.3408104217861745,
-      "sudouest.fr": 1.3299062318456627,
-      "thegazette.com": 1.369804140300785,
-      "baodautu.vn": 1.1364179035955113,
-      "baomoi.com": 1.1272317322567453,
-      "baophapluat.vn": 1.3102741808787248,
-      "libe.ma": 1.3208969297006297,
-      "vtv.vn": 1.3289661782360565,
-      "antaranews.com": 1.2906793632219835,
-      "clickorlando.com": 1.3772164084421925,
-      "federalna.ba": 1.3414150303960068,
-      "liputan6.com": 1.2636633554590144,
-      "moldpres.md": 1.2958682382738722,
-      "sggp.org.vn": 1.3272588617344978,
-      "vesti.bg": 1.3422993672242394,
-      "diariodelsur.com.co": 1.3744860232063916,
-      "bongda24h.vn": 1.3228503885436937,
-      "cedarnews.net": 1.3173155884883458,
-      "kevesko.vn": 1.2500279467030146,
-      "news.china.com": 1.3391685059482543,
-      "northafricapost.com": 1.3097052384122423,
-      "vietnam.vnanet.vn": 1.307906428394254,
-      "vovgiaothong.vn": 1.3227936536911902,
-      "aol.co.uk": 1.3576979395452897,
-      "bfmtv.com": 1.2980442181343417,
-      "brandonsun.com": 1.3269112472799545,
-      "latribune.fr": 1.3847803134873173,
-      "leral.net": 1.3068655555480244,
-      "prensa-latina.cu": 1.3345598499324647,
-      "thailand-business-news.com": 1.3382042481114582,
-      "hna.de": 1.3295440565117764,
-      "baochinhphu.vn": 1.2500299841254527,
-      "duma.bg": 1.3264637813259417,
-      "genk.vn": 1.3281702806986677,
-      "giadinh.suckhoedoisong.vn": 1.4322615253520907,
-      "golosarmenii.am": 1.336970665850251,
-      "lnt.ma": 1.302203349382354,
-      "vietbao.vn": 1.2330040661792618,
-      "elysee.fr": 1.3011431899429553,
-      "laprovence.com": 1.3676100759478123,
-      "merkur.de": 1.3295440565117764,
-      "owensoundsuntimes.com": 1.3295440565117764,
-      "recorder.ca": 1.3295440565117764
+      "bola.okezone.com": 1.6642061496713005,
+      "english.news.cn": 1.6440326707256667,
+      "rapsinews.ru": 1.696700207900653,
+      "lechodemaskinonge.com": 1.682816717646989,
+      "manilatimes.net": 1.6325852453999132,
+      "morungexpress.com": 1.6378766784888883,
+      "sankei.com": 1.7314779207970272,
+      "asia.nikkei.com": 1.710028279242184,
+      "mymotherlode.com": 1.7490143966668363,
+      "theshillongtimes.com": 1.7559322340444439,
+      "tienphong.vn": 1.85263824461422,
+      "courrierfrontenac.qc.ca": 1.6622159449398053,
+      "edaily.co.kr": 1.6685831446235313,
+      "journal-news.net": 1.7565629101292068,
+      "sb.by": 1.6233564764686863,
+      "telerama.fr": 1.6864877895999995,
+      "rnanews.com": 1.6083176141305082,
+      "baotintuc.vn": 1.5774388654855378,
+      "fr.allafrica.com": 1.6529140590703406,
+      "lesoleil.sn": 1.6704002735124832,
+      "ledevoir.com": 1.6794447424961003,
+      "sudouest.fr": 1.6731564698903691,
+      "thegazette.com": 1.708841151545636,
+      "baodautu.vn": 1.4769429539183847,
+      "baomoi.com": 1.4676273998847065,
+      "baophapluat.vn": 1.6484843871316028,
+      "libe.ma": 1.65925467413159,
+      "vtv.vn": 1.662799422723242,
+      "antaranews.com": 1.628617419229629,
+      "clickorlando.com": 1.7163563678556744,
+      "federalna.ba": 1.680057748447736,
+      "liputan6.com": 1.6108708415274073,
+      "moldpres.md": 1.6338783619905717,
+      "sggp.org.vn": 1.6610687183244017,
+      "vesti.bg": 1.680954367731916,
+      "diariodelsur.com.co": 1.7135880606027094,
+      "bongda24h.vn": 1.6612352643474741,
+      "cedarnews.net": 1.6556235920691351,
+      "kevesko.vn": 1.5874013997034524,
+      "news.china.com": 1.6777800222715424,
+      "northafricapost.com": 1.6479075426864191,
+      "vietnam.vnanet.vn": 1.646083749195959,
+      "vovgiaothong.vn": 1.661177741510908,
+      "aol.co.uk": 1.696566809112981,
+      "bfmtv.com": 1.6360845637935477,
+      "brandonsun.com": 1.6653525238995164,
+      "latribune.fr": 1.724025327137537,
+      "leral.net": 1.6450284197824205,
+      "prensa-latina.cu": 1.6731073571444224,
+      "thailand-business-news.com": 1.6768023719647909,
+      "hna.de": 1.6633852171397254,
+      "baochinhphu.vn": 1.5874034654234244,
+      "duma.bg": 1.6648988431405867,
+      "genk.vn": 1.6619926224798618,
+      "giadinh.suckhoedoisong.vn": 1.77216600027821,
+      "golosarmenii.am": 1.6755516566166224,
+      "lnt.ma": 1.640301460753338,
+      "vietbao.vn": 1.5701410763946475,
+      "elysee.fr": 1.639226576877281,
+      "laprovence.com": 1.7066166140766499,
+      "merkur.de": 1.6633852171397254,
+      "owensoundsuntimes.com": 1.6633852171397254,
+      "recorder.ca": 1.6633852171397254,
+      "cambodiantimes.com": 1.6864877895999995,
+      "dailynews.co.th": 1.6767068819317679,
+      "voici.fr": 1.671488989504007
     },
-    "positive_share": 72.97297297297297,
+    "positive_share": 75.34246575342466,
     "languages": {
-      "eng": 22,
-      "hin": 1,
       "ind": 5,
+      "eng": 19,
       "rus": 3,
-      "fra": 16,
+      "fra": 17,
       "jpn": 1,
       "vie": 22,
       "kor": 1,
@@ -121,14 +118,10 @@
       "bul": 2,
       "spa": 3,
       "zho": 1,
-      "deu": 2
+      "deu": 2,
+      "tha": 1
     },
     "publishers": {
-      "malaysiasun.com": 1,
-      "nepalnational.com": 1,
-      "ibtimes.co.uk": 1,
-      "jagran.com": 1,
-      "thestar.com.my": 1,
       "bola.okezone.com": 1,
       "english.news.cn": 2,
       "rapsinews.ru": 1,
@@ -191,25 +184,28 @@
       "laprovence.com": 1,
       "merkur.de": 1,
       "owensoundsuntimes.com": 1,
-      "recorder.ca": 1
+      "recorder.ca": 1,
+      "cambodiantimes.com": 1,
+      "dailynews.co.th": 1,
+      "voici.fr": 1
     },
     "excluded": {},
-    "unverified_urls": 76,
+    "unverified_urls": 74,
     "largest_publisher": "tienphong.vn",
-    "largest_publisher_share": 3.658536585365854,
-    "tone_without_largest_publisher": 1.5068952041427934,
+    "largest_publisher_share": 3.75,
+    "tone_without_largest_publisher": 1.85263824461422,
     "topics": [
-      {
-        "label": "Government",
-        "urls": 39
-      },
       {
         "label": "Economy & trade",
         "urls": 37
       },
       {
+        "label": "Government",
+        "urls": 37
+      },
+      {
         "label": "Education",
-        "urls": 29
+        "urls": 27
       },
       {
         "label": "Borders",
@@ -225,6 +221,27 @@
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-17",
+        "title": "Emmanuel et Brigitte Macron posent avec Miss Cambodge : le selfie retouché par IA provoque l'hilarité des internautes",
+        "url": "https://www.voici.fr/celebrites/emmanuel-et-brigitte-macron-posent-avec-miss-cambodge-le-selfie-retouche-par-ia-provoque-l-hilarite-des-internautes-831580",
+        "host": "voici.fr",
+        "language": "fra"
+      },
+      {
+        "day": "2026-11-17",
+        "title": "เปิดเบื้องหลัง! 'โสภณ' กับ 2 นาทีมีค่า โต้ตอบ 'รองนายกฯ' ของกัมพูชา",
+        "url": "https://www.dailynews.co.th/news/6367514/",
+        "host": "dailynews.co.th",
+        "language": "tha"
+      },
+      {
+        "day": "2026-11-17",
+        "title": "1,000-yr-old Cambodian temple restored at Angkor complex",
+        "url": "http://www.cambodiantimes.com/news/279437893/1000-yr-old-cambodian-temple-restored-at-angkor-complex",
+        "host": "cambodiantimes.com",
+        "language": "eng"
+      },
       {
         "day": "2026-11-16",
         "title": "Prime Minister Carney meets with Prime Minister of Cambodia Hun Manet",
@@ -287,27 +304,6 @@
         "url": "https://golosarmenii.am/sostoyalas-vstrecha-premer-ministro/",
         "host": "golosarmenii.am",
         "language": "rus"
-      },
-      {
-        "day": "2026-11-16",
-        "title": "Chạy đua cứu sống sản phụ Campuchia vừa bị nhau tiền đạo vừa thuyên tắc phổi",
-        "url": "https://giadinh.suckhoedoisong.vn/chay-dua-cuu-song-san-phu-campuchia-vua-bi-nhau-tien-dao-vua-thuyen-tac-phoi-17226111616031867.htm",
-        "host": "giadinh.suckhoedoisong.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-11-16",
-        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm cùng lãnh đạo Pháp, Campuchia thăm gian hàng Viettel Campuchia tại FrancoTech 2026",
-        "url": "https://genk.vn/tong-bi-thu-chu-tich-nuoc-to-lam-cung-lanh-dao-phap-campuchia-tham-gian-hang-viettel-campuchia-tai-francotech-2026-165261116082450343.chn",
-        "host": "genk.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-11-16",
-        "title": "Sénégal: A Phnom Penh, Bassirou Diomaye Faye discute de partenariats avec le vice-président de la Confédération suisse",
-        "url": "https://fr.allafrica.com/stories/202611160015.html",
-        "host": "fr.allafrica.com",
-        "language": "fra"
       }
     ]
   },
@@ -3501,6 +3497,83 @@
           }
         ]
       }
+    },
+    {
+      "day": "2026-11-17",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 28379,
+      "rejected": 2,
+      "missing_titles": 37,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": 0.5947129863413754,
+        "urls": 3,
+        "groups": 3,
+        "content_review": {
+          "pending": 3
+        },
+        "publisher_types": {
+          "unreviewed": 2,
+          "newspaper": 1
+        },
+        "tone_without_each_language": {
+          "eng": 0.8920694795120631,
+          "tha": 0.539956803455725,
+          "fra": 0.352112676056338
+        },
+        "tone_without_each_publisher": {
+          "cambodiantimes.com": 0.8920694795120631,
+          "dailynews.co.th": 0.539956803455725,
+          "voici.fr": 0.352112676056338
+        },
+        "positive_share": 66.66666666666667,
+        "languages": {
+          "eng": 1,
+          "tha": 1,
+          "fra": 1
+        },
+        "publishers": {
+          "cambodiantimes.com": 1,
+          "dailynews.co.th": 1,
+          "voici.fr": 1
+        },
+        "excluded": {},
+        "unverified_urls": 2,
+        "largest_publisher": "cambodiantimes.com",
+        "largest_publisher_share": 33.333333333333336,
+        "tone_without_largest_publisher": 0.8920694795120631,
+        "topics": [
+          {
+            "label": "Government",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-17",
+            "title": "Emmanuel et Brigitte Macron posent avec Miss Cambodge : le selfie retouché par IA provoque l'hilarité des internautes",
+            "url": "https://www.voici.fr/celebrites/emmanuel-et-brigitte-macron-posent-avec-miss-cambodge-le-selfie-retouche-par-ia-provoque-l-hilarite-des-internautes-831580",
+            "host": "voici.fr",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-17",
+            "title": "เปิดเบื้องหลัง! 'โสภณ' กับ 2 นาทีมีค่า โต้ตอบ 'รองนายกฯ' ของกัมพูชา",
+            "url": "https://www.dailynews.co.th/news/6367514/",
+            "host": "dailynews.co.th",
+            "language": "tha"
+          },
+          {
+            "day": "2026-11-17",
+            "title": "1,000-yr-old Cambodian temple restored at Angkor complex",
+            "url": "http://www.cambodiantimes.com/news/279437893/1000-yr-old-cambodian-temple-restored-at-angkor-complex",
+            "host": "cambodiantimes.com",
+            "language": "eng"
+          }
+        ]
+      }
     }
   ],
   "stop_reason": null,
@@ -3543,36 +3616,36 @@
       {
         "dimension": "language",
         "name": "vie",
-        "tone_without": 0.49021009164715146,
-        "absolute_change": 0.839333964864625,
+        "tone_without": 0.9180477418467087,
+        "absolute_change": 0.7453374752930167,
         "sign_reversal": false
       },
       {
         "dimension": "language",
         "name": "eng",
-        "tone_without": 1.9477326349717528,
-        "absolute_change": 0.6181885784599763,
+        "tone_without": 2.0374039119224236,
+        "absolute_change": 0.3740186947826982,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "baomoi.com",
-        "tone_without": 1.1272317322567453,
-        "absolute_change": 0.2023123242550311,
+        "tone_without": 1.4676273998847065,
+        "absolute_change": 0.19575781725501895,
+        "sign_reversal": false
+      },
+      {
+        "dimension": "publisher",
+        "name": "tienphong.vn",
+        "tone_without": 1.85263824461422,
+        "absolute_change": 0.18925302747449457,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "baodautu.vn",
-        "tone_without": 1.1364179035955113,
-        "absolute_change": 0.19312615291626511,
-        "sign_reversal": false
-      },
-      {
-        "dimension": "publisher",
-        "name": "thestar.com.my",
-        "tone_without": 1.5102086923403542,
-        "absolute_change": 0.18066463582857772,
+        "tone_without": 1.4769429539183847,
+        "absolute_change": 0.18644226322134072,
         "sign_reversal": false
       }
     ],

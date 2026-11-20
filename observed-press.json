@@ -1,110 +1,103 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-19T20:21:04.519940+00:00",
+  "generated_at": "2026-11-20T20:21:00.086873+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-18",
+  "latest_complete_day": "2026-11-19",
   "age_days": 1,
-  "window_start": "2026-11-12",
-  "window_end": "2026-11-18",
+  "window_start": "2026-11-13",
+  "window_end": "2026-11-19",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": 1.5997122149603415,
-    "urls": 77,
-    "groups": 71,
+    "tone": 2.2079822507974964,
+    "urls": 72,
+    "groups": 66,
     "content_review": {
-      "pending": 77
+      "pending": 72
     },
     "publisher_types": {
-      "unreviewed": 74,
+      "unreviewed": 69,
       "newspaper": 3
     },
     "tone_without_each_language": {
-      "eng": 2.234627064923187,
-      "vie": 0.804624004010439,
-      "fra": 1.658769273038871,
-      "kor": 1.604149040341122,
-      "rus": 1.5687929151003848,
-      "ind": 1.5036826664363603,
-      "bos": 1.6159514899888754,
-      "ron": 1.5589777717693223,
-      "bul": 1.6177790832261527,
-      "spa": 1.6420338930659841,
-      "zho": 1.6136086859219334,
-      "deu": 1.7399121853781423,
-      "tha": 1.612504884429594
+      "eng": 2.590306451476544,
+      "vie": 1.2430817271085666,
+      "fra": 2.4198599688007194,
+      "ind": 2.143451611962688,
+      "bos": 2.2348287013795662,
+      "ron": 2.18307386785209,
+      "bul": 2.2464690317664853,
+      "spa": 2.2826280320466257,
+      "zho": 2.232305681615167,
+      "deu": 2.3683248348756996,
+      "rus": 2.229837338120486,
+      "tha": 2.2311169723157245,
+      "ita": 2.15879112534199
     },
     "tone_without_each_publisher": {
-      "asia.nikkei.com": 1.6467783216631648,
-      "mymotherlode.com": 1.686878328157093,
-      "theshillongtimes.com": 1.6939938180312035,
-      "tienphong.vn": 1.7926052431680277,
-      "courrierfrontenac.qc.ca": 1.5975999206664324,
-      "edaily.co.kr": 1.604149040341122,
-      "journal-news.net": 1.694642513432674,
-      "sb.by": 1.557630181667567,
-      "telerama.fr": 1.6225652466026321,
-      "rnanews.com": 1.541202855278991,
-      "baotintuc.vn": 1.5094290704414126,
-      "fr.allafrica.com": 1.5870919507967893,
-      "lesoleil.sn": 1.6060180871983298,
-      "ledevoir.com": 1.6153209695814787,
-      "sudouest.fr": 1.607921098162326,
-      "thegazette.com": 1.6455572760324297,
-      "baodautu.vn": 1.4060202339012986,
-      "baomoi.com": 1.3964346638086733,
-      "baophapluat.vn": 1.5834760326351385,
-      "libe.ma": 1.5945540421208393,
-      "vtv.vn": 1.5991099192926896,
-      "antaranews.com": 1.5630414370788226,
-      "clickorlando.com": 1.6532872128084692,
-      "federalna.ba": 1.6159514899888754,
-      "liputan6.com": 1.5428441958515118,
-      "moldpres.md": 1.568452692490078,
-      "sggp.org.vn": 1.5973304626572622,
-      "vesti.bg": 1.6168737269668894,
-      "diariodelsur.com.co": 1.6504398110625624,
-      "bongda24h.vn": 1.5965912206286061,
-      "cedarnews.net": 1.5908192148566003,
-      "kevesko.vn": 1.520647816994755,
-      "news.china.com": 1.6136086859219334,
-      "northafricapost.com": 1.5828827069200924,
-      "vietnam.vnanet.vn": 1.5810068050441906,
-      "vovgiaothong.vn": 1.5965320542824237,
-      "aol.co.uk": 1.632932238101699,
-      "bfmtv.com": 1.5707219286302818,
-      "brandonsun.com": 1.6008261161678494,
-      "latribune.fr": 1.6611752852126707,
-      "leral.net": 1.579921323361694,
-      "prensa-latina.cu": 1.6088025160768957,
-      "thailand-business-news.com": 1.6126031027492749,
-      "hna.de": 1.5997122149603415,
-      "baochinhphu.vn": 1.5206499417352977,
-      "duma.bg": 1.6003594731015218,
-      "genk.vn": 1.59828039228189,
-      "giadinh.suckhoedoisong.vn": 1.710691406157363,
-      "golosarmenii.am": 1.6113166526768727,
-      "lnt.ma": 1.575059308360352,
-      "vietbao.vn": 1.5028943415914129,
-      "elysee.fr": 1.5739537135164074,
-      "laprovence.com": 1.643269180350044,
-      "merkur.de": 1.5997122149603415,
-      "owensoundsuntimes.com": 1.5997122149603415,
-      "recorder.ca": 1.5997122149603415,
-      "cambodiantimes.com": 1.684219510283372,
-      "dailynews.co.th": 1.612504884429594,
-      "voici.fr": 1.6071379093610398,
-      "rexburgstandardjournal.com": 1.5797081037454892,
-      "lbc.co.uk": 1.689262935450158,
-      "thestar.com.my": 1.5767382645144428
+      "rnanews.com": 2.1639102860109514,
+      "baotintuc.vn": 2.1296541742329373,
+      "fr.allafrica.com": 2.213384467116078,
+      "lesoleil.sn": 2.2241311906820553,
+      "ledevoir.com": 2.23414967940237,
+      "sudouest.fr": 2.235840891619547,
+      "thegazette.com": 2.2667118555803167,
+      "baodautu.vn": 2.018166522338127,
+      "baomoi.com": 1.985734176083317,
+      "baophapluat.vn": 2.1998551319216952,
+      "libe.ma": 2.2117852959832196,
+      "tienphong.vn": 2.3294191431997304,
+      "vtv.vn": 2.207334326670174,
+      "antaranews.com": 2.177848644399509,
+      "clickorlando.com": 2.27503640287759,
+      "federalna.ba": 2.2348287013795662,
+      "liputan6.com": 2.175566136640529,
+      "moldpres.md": 2.183676150227015,
+      "sggp.org.vn": 2.205420062713881,
+      "vesti.bg": 2.235821879663581,
+      "diariodelsur.com.co": 2.271969970228152,
+      "bongda24h.vn": 2.2139791805300453,
+      "cedarnews.net": 2.207763174314039,
+      "kevesko.vn": 2.132193976616667,
+      "news.china.com": 2.232305681615167,
+      "northafricapost.com": 2.1992161657670306,
+      "vietnam.vnanet.vn": 2.1971959637468284,
+      "vovgiaothong.vn": 2.2139154629264644,
+      "aol.co.uk": 2.2531156608856837,
+      "bfmtv.com": 2.1861199429933884,
+      "brandonsun.com": 2.2185398372646152,
+      "latribune.fr": 2.2835312500821145,
+      "leral.net": 2.1960269834733706,
+      "prensa-latina.cu": 2.2271298063974343,
+      "thailand-business-news.com": 2.2312227458907654,
+      "hna.de": 2.2079822507974964,
+      "baochinhphu.vn": 2.13219626479879,
+      "duma.bg": 2.2180372985778005,
+      "genk.vn": 2.2064419567040106,
+      "giadinh.suckhoedoisong.vn": 2.3368563034071683,
+      "golosarmenii.am": 2.229837338120486,
+      "lnt.ma": 2.190790967318079,
+      "vietbao.vn": 2.1130748492592217,
+      "elysee.fr": 2.189600326716908,
+      "laprovence.com": 2.264247752537748,
+      "merkur.de": 2.2079822507974964,
+      "owensoundsuntimes.com": 2.2079822507974964,
+      "recorder.ca": 2.2079822507974964,
+      "cambodiantimes.com": 2.3181001171875497,
+      "dailynews.co.th": 2.2311169723157245,
+      "voici.fr": 2.225337153011128,
+      "rexburgstandardjournal.com": 2.195797362348227,
+      "lbc.co.uk": 2.3137794887994088,
+      "thestar.com.my": 2.202221899092923,
+      "eva.vn": 2.1105248459199317,
+      "la1ere.franceinfo.fr": 2.215577582128447,
+      "opinione.it": 2.15879112534199
     },
-    "positive_share": 73.2394366197183,
+    "positive_share": 80.3030303030303,
     "languages": {
-      "eng": 20,
-      "vie": 22,
-      "fra": 16,
-      "kor": 1,
-      "rus": 2,
+      "eng": 16,
+      "vie": 23,
+      "fra": 15,
       "ind": 4,
       "bos": 1,
       "ron": 2,
@@ -112,18 +105,11 @@
       "spa": 3,
       "zho": 1,
       "deu": 2,
-      "tha": 1
+      "rus": 1,
+      "tha": 1,
+      "ita": 1
     },
     "publishers": {
-      "asia.nikkei.com": 1,
-      "mymotherlode.com": 1,
-      "theshillongtimes.com": 1,
-      "tienphong.vn": 3,
-      "courrierfrontenac.qc.ca": 1,
-      "edaily.co.kr": 1,
-      "journal-news.net": 1,
-      "sb.by": 1,
-      "telerama.fr": 1,
       "rnanews.com": 2,
       "baotintuc.vn": 2,
       "fr.allafrica.com": 2,
@@ -132,9 +118,10 @@
       "sudouest.fr": 2,
       "thegazette.com": 1,
       "baodautu.vn": 2,
-      "baomoi.com": 3,
+      "baomoi.com": 4,
       "baophapluat.vn": 2,
       "libe.ma": 1,
+      "tienphong.vn": 2,
       "vtv.vn": 1,
       "antaranews.com": 1,
       "clickorlando.com": 1,
@@ -176,13 +163,16 @@
       "voici.fr": 1,
       "rexburgstandardjournal.com": 1,
       "lbc.co.uk": 1,
-      "thestar.com.my": 2
+      "thestar.com.my": 2,
+      "eva.vn": 1,
+      "la1ere.franceinfo.fr": 1,
+      "opinione.it": 1
     },
     "excluded": {},
-    "unverified_urls": 71,
-    "largest_publisher": "tienphong.vn",
-    "largest_publisher_share": 3.896103896103896,
-    "tone_without_largest_publisher": 1.7926052431680277,
+    "unverified_urls": 67,
+    "largest_publisher": "baomoi.com",
+    "largest_publisher_share": 5.555555555555555,
+    "tone_without_largest_publisher": 1.985734176083317,
     "topics": [
       {
         "label": "Government",
@@ -190,26 +180,54 @@
       },
       {
         "label": "Economy & trade",
-        "urls": 34
+        "urls": 30
       },
       {
         "label": "Education",
-        "urls": 24
+        "urls": 23
       },
       {
         "label": "Conflict & violence",
-        "urls": 16
-      },
-      {
-        "label": "Borders",
         "urls": 15
       },
       {
+        "label": "Borders",
+        "urls": 10
+      },
+      {
         "label": "Tourism",
-        "urls": 6
+        "urls": 7
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-19",
+        "title": "Cambogia, la rivoluzione agricola passa dai dati",
+        "url": "https://opinione.it/hi-tech/2026/11/19/domenico-letizia-cambogia-rivoluzione-agricola-digitale/",
+        "host": "opinione.it",
+        "language": "ita"
+      },
+      {
+        "day": "2026-11-19",
+        "title": "Demande de statut, vitrine au Cambodge, partenariats : que ramène la Calédonie du Sommet de la francophonie ?",
+        "url": "https://la1ere.franceinfo.fr/nouvellecaledonie/demande-de-statut-vitrine-au-cambodge-partenariats-que-ramene-la-caledonie-du-sommet-de-la-francophonie-1759218.html",
+        "host": "la1ere.franceinfo.fr",
+        "language": "fra"
+      },
+      {
+        "day": "2026-11-19",
+        "title": "Hoa hậu Phan Thị Mơ quảng bá văn hóa Khmer trước lễ hội ở Cần Thơ",
+        "url": "https://eva.vn/sao-viet/hoa-hau-phan-thi-mo-quang-ba-van-hoa-khmer-truoc-le-hoi-o-can-tho-c337a689568.html",
+        "host": "eva.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-19",
+        "title": "Stung Treng khởi công xây dựng loạt công trình biểu tượng của tình hữu nghị Việt Nam-Campuchia",
+        "url": "https://baomoi.com/stung-treng-khoi-cong-xay-dung-loat-cong-trinh-bieu-tuong-cua-tinh-huu-nghi-viet-nam-campuchia-c56555640.epi",
+        "host": "baomoi.com",
+        "language": "vie"
+      },
       {
         "day": "2026-11-18",
         "title": "Anwar highlights Thailand, Cambodia's commitment to dialogue towards lasting peace",
@@ -265,34 +283,6 @@
         "url": "http://www.cambodiantimes.com/news/279437893/1000-yr-old-cambodian-temple-restored-at-angkor-complex",
         "host": "cambodiantimes.com",
         "language": "eng"
-      },
-      {
-        "day": "2026-11-16",
-        "title": "Prime Minister Carney meets with Prime Minister of Cambodia Hun Manet",
-        "url": "https://www.recorder.ca/press-releases/pr-newswire/prime-minister-carney-meets-with-prime-minister-of-cambodia-hun-manet/",
-        "host": "recorder.ca",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-16",
-        "title": "Prime Minister Carney meets with Prime Minister of Cambodia Hun Manet",
-        "url": "https://www.owensoundsuntimes.com/press-releases/pr-newswire/prime-minister-carney-meets-with-prime-minister-of-cambodia-hun-manet/",
-        "host": "owensoundsuntimes.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-16",
-        "title": "Entführung in Kambodscha: Taiwanisches Paar ausgeraubt und erpresst",
-        "url": "https://www.merkur.de/welt/entfuehrung-in-kambodscha-taiwanisches-paar-ausgeraubt-und-erpresst-zr-94593375.html",
-        "host": "merkur.de",
-        "language": "deu"
-      },
-      {
-        "day": "2026-11-16",
-        "title": "Emmanuel Macron inaugure à Angkor un temple restauré, \"référence\" de la coopération France-Cambodge",
-        "url": "https://www.laprovence.com/article/france-monde/16385301356342/emmanuel-macron-inaugure-a-angkor-un-temple-restaure-reference-de-la-cooperation-france-cambodge",
-        "host": "laprovence.com",
-        "language": "fra"
       }
     ]
   },
@@ -3668,6 +3658,107 @@
           }
         ]
       }
+    },
+    {
+      "day": "2026-11-19",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 29351,
+      "rejected": 6,
+      "missing_titles": 65,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": 4.76560117188258,
+        "urls": 4,
+        "groups": 4,
+        "content_review": {
+          "pending": 4
+        },
+        "publisher_types": {
+          "unreviewed": 4
+        },
+        "tone_without_each_language": {
+          "vie": 3.55984555984556,
+          "fra": 5.78270632441487,
+          "ita": 4.552333094041637
+        },
+        "tone_without_each_publisher": {
+          "baomoi.com": 5.220801562510107,
+          "eva.vn": 3.5065637065637065,
+          "la1ere.franceinfo.fr": 5.78270632441487,
+          "opinione.it": 4.552333094041637
+        },
+        "positive_share": 100.0,
+        "languages": {
+          "vie": 2,
+          "fra": 1,
+          "ita": 1
+        },
+        "publishers": {
+          "baomoi.com": 1,
+          "eva.vn": 1,
+          "la1ere.franceinfo.fr": 1,
+          "opinione.it": 1
+        },
+        "excluded": {},
+        "unverified_urls": 4,
+        "largest_publisher": "baomoi.com",
+        "largest_publisher_share": 25.0,
+        "tone_without_largest_publisher": 5.220801562510107,
+        "topics": [
+          {
+            "label": "Government",
+            "urls": 3
+          },
+          {
+            "label": "Education",
+            "urls": 2
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 2
+          },
+          {
+            "label": "Economy & trade",
+            "urls": 1
+          },
+          {
+            "label": "Tourism",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-19",
+            "title": "Cambogia, la rivoluzione agricola passa dai dati",
+            "url": "https://opinione.it/hi-tech/2026/11/19/domenico-letizia-cambogia-rivoluzione-agricola-digitale/",
+            "host": "opinione.it",
+            "language": "ita"
+          },
+          {
+            "day": "2026-11-19",
+            "title": "Demande de statut, vitrine au Cambodge, partenariats : que ramène la Calédonie du Sommet de la francophonie ?",
+            "url": "https://la1ere.franceinfo.fr/nouvellecaledonie/demande-de-statut-vitrine-au-cambodge-partenariats-que-ramene-la-caledonie-du-sommet-de-la-francophonie-1759218.html",
+            "host": "la1ere.franceinfo.fr",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-19",
+            "title": "Hoa hậu Phan Thị Mơ quảng bá văn hóa Khmer trước lễ hội ở Cần Thơ",
+            "url": "https://eva.vn/sao-viet/hoa-hau-phan-thi-mo-quang-ba-van-hoa-khmer-truoc-le-hoi-o-can-tho-c337a689568.html",
+            "host": "eva.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-19",
+            "title": "Stung Treng khởi công xây dựng loạt công trình biểu tượng của tình hữu nghị Việt Nam-Campuchia",
+            "url": "https://baomoi.com/stung-treng-khoi-cong-xay-dung-loat-cong-trinh-bieu-tuong-cua-tinh-huu-nghi-viet-nam-campuchia-c56555640.epi",
+            "host": "baomoi.com",
+            "language": "vie"
+          }
+        ]
+      }
     }
   ],
   "stop_reason": null,
@@ -3710,36 +3801,36 @@
       {
         "dimension": "language",
         "name": "vie",
-        "tone_without": 0.804624004010439,
-        "absolute_change": 0.7950882109499026,
+        "tone_without": 1.2430817271085666,
+        "absolute_change": 0.9649005236889299,
         "sign_reversal": false
       },
       {
         "dimension": "language",
         "name": "eng",
-        "tone_without": 2.234627064923187,
-        "absolute_change": 0.6349148499628454,
+        "tone_without": 2.590306451476544,
+        "absolute_change": 0.3823242006790477,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "baomoi.com",
-        "tone_without": 1.3964346638086733,
-        "absolute_change": 0.20327755115166823,
+        "tone_without": 1.985734176083317,
+        "absolute_change": 0.2222480747141795,
+        "sign_reversal": false
+      },
+      {
+        "dimension": "language",
+        "name": "fra",
+        "tone_without": 2.4198599688007194,
+        "absolute_change": 0.21187771800322297,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "baodautu.vn",
-        "tone_without": 1.4060202339012986,
-        "absolute_change": 0.19369198105904295,
-        "sign_reversal": false
-      },
-      {
-        "dimension": "publisher",
-        "name": "tienphong.vn",
-        "tone_without": 1.7926052431680277,
-        "absolute_change": 0.19289302820768617,
+        "tone_without": 2.018166522338127,
+        "absolute_change": 0.18981572845936956,
         "sign_reversal": false
       }
     ],

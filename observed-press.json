@@ -1,103 +1,104 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-20T20:21:00.086873+00:00",
+  "generated_at": "2026-11-21T20:20:56.798121+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-19",
+  "latest_complete_day": "2026-11-20",
   "age_days": 1,
-  "window_start": "2026-11-13",
-  "window_end": "2026-11-19",
+  "window_start": "2026-11-14",
+  "window_end": "2026-11-20",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": 2.2079822507974964,
+    "tone": 1.9526079588588614,
     "urls": 72,
     "groups": 66,
     "content_review": {
       "pending": 72
     },
     "publisher_types": {
-      "unreviewed": 69,
-      "newspaper": 3
+      "unreviewed": 68,
+      "newspaper": 4
     },
     "tone_without_each_language": {
-      "eng": 2.590306451476544,
-      "vie": 1.2430817271085666,
-      "fra": 2.4198599688007194,
-      "ind": 2.143451611962688,
-      "bos": 2.2348287013795662,
-      "ron": 2.18307386785209,
-      "bul": 2.2464690317664853,
-      "spa": 2.2826280320466257,
-      "zho": 2.232305681615167,
-      "deu": 2.3683248348756996,
-      "rus": 2.229837338120486,
-      "tha": 2.2311169723157245,
-      "ita": 2.15879112534199
+      "eng": 2.44773041857169,
+      "vie": 0.8327670580508504,
+      "fra": 2.047047471595601,
+      "ind": 1.8716015592538182,
+      "bos": 1.9755255741803366,
+      "ron": 1.9197191292903724,
+      "bul": 1.9831142932047678,
+      "spa": 2.0150930595394843,
+      "zho": 1.9730025544159375,
+      "deu": 2.10902170767647,
+      "rus": 2.012228593609972,
+      "tha": 2.119324681259718,
+      "ita": 1.8994879981427606
     },
     "tone_without_each_publisher": {
-      "rnanews.com": 2.1639102860109514,
-      "baotintuc.vn": 2.1296541742329373,
-      "fr.allafrica.com": 2.213384467116078,
-      "lesoleil.sn": 2.2241311906820553,
-      "ledevoir.com": 2.23414967940237,
-      "sudouest.fr": 2.235840891619547,
-      "thegazette.com": 2.2667118555803167,
-      "baodautu.vn": 2.018166522338127,
-      "baomoi.com": 1.985734176083317,
-      "baophapluat.vn": 2.1998551319216952,
-      "libe.ma": 2.2117852959832196,
-      "tienphong.vn": 2.3294191431997304,
-      "vtv.vn": 2.207334326670174,
-      "antaranews.com": 2.177848644399509,
-      "clickorlando.com": 2.27503640287759,
-      "federalna.ba": 2.2348287013795662,
-      "liputan6.com": 2.175566136640529,
-      "moldpres.md": 2.183676150227015,
-      "sggp.org.vn": 2.205420062713881,
-      "vesti.bg": 2.235821879663581,
-      "diariodelsur.com.co": 2.271969970228152,
-      "bongda24h.vn": 2.2139791805300453,
-      "cedarnews.net": 2.207763174314039,
-      "kevesko.vn": 2.132193976616667,
-      "news.china.com": 2.232305681615167,
-      "northafricapost.com": 2.1992161657670306,
-      "vietnam.vnanet.vn": 2.1971959637468284,
-      "vovgiaothong.vn": 2.2139154629264644,
-      "aol.co.uk": 2.2531156608856837,
-      "bfmtv.com": 2.1861199429933884,
-      "brandonsun.com": 2.2185398372646152,
-      "latribune.fr": 2.2835312500821145,
-      "leral.net": 2.1960269834733706,
-      "prensa-latina.cu": 2.2271298063974343,
-      "thailand-business-news.com": 2.2312227458907654,
-      "hna.de": 2.2079822507974964,
-      "baochinhphu.vn": 2.13219626479879,
-      "duma.bg": 2.2180372985778005,
-      "genk.vn": 2.2064419567040106,
-      "giadinh.suckhoedoisong.vn": 2.3368563034071683,
-      "golosarmenii.am": 2.229837338120486,
-      "lnt.ma": 2.190790967318079,
-      "vietbao.vn": 2.1130748492592217,
-      "elysee.fr": 2.189600326716908,
-      "laprovence.com": 2.264247752537748,
-      "merkur.de": 2.2079822507974964,
-      "owensoundsuntimes.com": 2.2079822507974964,
-      "recorder.ca": 2.2079822507974964,
-      "cambodiantimes.com": 2.3181001171875497,
-      "dailynews.co.th": 2.2311169723157245,
-      "voici.fr": 2.225337153011128,
-      "rexburgstandardjournal.com": 2.195797362348227,
-      "lbc.co.uk": 2.3137794887994088,
-      "thestar.com.my": 2.202221899092923,
-      "eva.vn": 2.1105248459199317,
-      "la1ere.franceinfo.fr": 2.215577582128447,
-      "opinione.it": 2.15879112534199
+      "thegazette.com": 2.0074087283810873,
+      "baodautu.vn": 1.7548117837764092,
+      "baomoi.com": 1.637985484051172,
+      "baophapluat.vn": 1.940552004722466,
+      "libe.ma": 1.9524821687839902,
+      "tienphong.vn": 2.070116016000501,
+      "vtv.vn": 1.951960034731539,
+      "antaranews.com": 1.9185455172002797,
+      "clickorlando.com": 2.0157332756783606,
+      "federalna.ba": 1.9755255741803366,
+      "liputan6.com": 1.9080311641333874,
+      "moldpres.md": 1.9243730230277856,
+      "sggp.org.vn": 1.9500457707752459,
+      "sudouest.fr": 1.9605649013249271,
+      "vesti.bg": 1.9765187524643517,
+      "diariodelsur.com.co": 2.0126668430289225,
+      "baotintuc.vn": 1.9031465772203342,
+      "bongda24h.vn": 1.9546760533308158,
+      "cedarnews.net": 1.9484600471148097,
+      "kevesko.vn": 1.8728908494174379,
+      "news.china.com": 1.9730025544159375,
+      "northafricapost.com": 1.939913038567801,
+      "vietnam.vnanet.vn": 1.9378928365475991,
+      "vovgiaothong.vn": 1.954612335727235,
+      "aol.co.uk": 1.9938125336864543,
+      "bfmtv.com": 1.926816815794159,
+      "brandonsun.com": 1.9592367100653856,
+      "latribune.fr": 2.0242281228828856,
+      "leral.net": 1.9367238562741411,
+      "prensa-latina.cu": 1.9678266791982046,
+      "thailand-business-news.com": 1.971919618691536,
+      "hna.de": 1.9526079588588614,
+      "baochinhphu.vn": 1.8728931375995606,
+      "duma.bg": 1.958734171378571,
+      "fr.allafrica.com": 1.9372508555777492,
+      "genk.vn": 1.9510676647653757,
+      "giadinh.suckhoedoisong.vn": 2.077553176207939,
+      "golosarmenii.am": 1.970534210921257,
+      "lnt.ma": 1.9314878401188496,
+      "vietbao.vn": 1.8537717220599925,
+      "elysee.fr": 1.9302971995176788,
+      "laprovence.com": 2.0049446253385184,
+      "merkur.de": 1.9526079588588614,
+      "owensoundsuntimes.com": 1.9526079588588614,
+      "recorder.ca": 1.9526079588588614,
+      "cambodiantimes.com": 1.9925345755242427,
+      "dailynews.co.th": 2.119324681259718,
+      "voici.fr": 1.9660340258118985,
+      "rexburgstandardjournal.com": 1.9364942351489975,
+      "lbc.co.uk": 2.0544763616001793,
+      "thestar.com.my": 1.9388671605312056,
+      "eva.vn": 1.8512217187207023,
+      "la1ere.franceinfo.fr": 1.9562744549292175,
+      "opinione.it": 1.8994879981427606,
+      "vietnamtribune.com": 2.1021402396299536,
+      "argumenti.ru": 1.9933851010129442,
+      "ledevoir.com": 1.9826480813028438,
+      "travelwires.com": 1.9535105521653147
     },
-    "positive_share": 80.3030303030303,
+    "positive_share": 74.24242424242425,
     "languages": {
-      "eng": 16,
+      "eng": 17,
       "vie": 23,
-      "fra": 15,
+      "fra": 12,
       "ind": 4,
       "bos": 1,
       "ron": 2,
@@ -105,20 +106,14 @@
       "spa": 3,
       "zho": 1,
       "deu": 2,
-      "rus": 1,
-      "tha": 1,
+      "rus": 2,
+      "tha": 2,
       "ita": 1
     },
     "publishers": {
-      "rnanews.com": 2,
-      "baotintuc.vn": 2,
-      "fr.allafrica.com": 2,
-      "lesoleil.sn": 1,
-      "ledevoir.com": 1,
-      "sudouest.fr": 2,
       "thegazette.com": 1,
       "baodautu.vn": 2,
-      "baomoi.com": 4,
+      "baomoi.com": 5,
       "baophapluat.vn": 2,
       "libe.ma": 1,
       "tienphong.vn": 2,
@@ -129,8 +124,10 @@
       "liputan6.com": 3,
       "moldpres.md": 1,
       "sggp.org.vn": 2,
+      "sudouest.fr": 1,
       "vesti.bg": 1,
       "diariodelsur.com.co": 1,
+      "baotintuc.vn": 1,
       "bongda24h.vn": 1,
       "cedarnews.net": 1,
       "kevesko.vn": 1,
@@ -148,6 +145,7 @@
       "hna.de": 1,
       "baochinhphu.vn": 1,
       "duma.bg": 1,
+      "fr.allafrica.com": 1,
       "genk.vn": 1,
       "giadinh.suckhoedoisong.vn": 1,
       "golosarmenii.am": 1,
@@ -158,41 +156,47 @@
       "merkur.de": 1,
       "owensoundsuntimes.com": 1,
       "recorder.ca": 1,
-      "cambodiantimes.com": 2,
-      "dailynews.co.th": 1,
+      "cambodiantimes.com": 3,
+      "dailynews.co.th": 2,
       "voici.fr": 1,
       "rexburgstandardjournal.com": 1,
       "lbc.co.uk": 1,
       "thestar.com.my": 2,
       "eva.vn": 1,
       "la1ere.franceinfo.fr": 1,
-      "opinione.it": 1
+      "opinione.it": 1,
+      "vietnamtribune.com": 1,
+      "argumenti.ru": 1,
+      "ledevoir.com": 1,
+      "travelwires.com": 1
     },
-    "excluded": {},
-    "unverified_urls": 67,
+    "excluded": {
+      "known_domestic": 4
+    },
+    "unverified_urls": 66,
     "largest_publisher": "baomoi.com",
-    "largest_publisher_share": 5.555555555555555,
-    "tone_without_largest_publisher": 1.985734176083317,
+    "largest_publisher_share": 6.944444444444445,
+    "tone_without_largest_publisher": 1.637985484051172,
     "topics": [
       {
         "label": "Government",
-        "urls": 36
+        "urls": 31
       },
       {
         "label": "Economy & trade",
-        "urls": 30
+        "urls": 27
       },
       {
         "label": "Education",
-        "urls": 23
+        "urls": 21
       },
       {
         "label": "Conflict & violence",
-        "urls": 15
+        "urls": 14
       },
       {
         "label": "Borders",
-        "urls": 10
+        "urls": 12
       },
       {
         "label": "Tourism",
@@ -200,6 +204,55 @@
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-20",
+        "title": "Emirates Gives Cambodian Kids Bags Made From Plane Cabins",
+        "url": "https://www.travelwires.com/emirates-gives-cambodian-kids-bags-made-from-plane-cabins/",
+        "host": "travelwires.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-20",
+        "title": "Québecor veut acheter Telus, PSPP et Carney au Cambodge et Robert Pattinson le nouveau James Bond: le Défi de l'info du 20 novembre 2026",
+        "url": "https://www.ledevoir.com/actualites/1026569/quebecor-sommet-francophonie-james-bond-defi-info-20-novembre",
+        "host": "ledevoir.com",
+        "language": "fra"
+      },
+      {
+        "day": "2026-11-20",
+        "title": "สั่งชะลอนำเข้า \"โค-กระบือ\" จากกัมพูชา สกัดโรคลัมปีสกินระบาด หวั่นกระทบปศุสัตว์ไทย",
+        "url": "https://www.dailynews.co.th/news/6375464/",
+        "host": "dailynews.co.th",
+        "language": "tha"
+      },
+      {
+        "day": "2026-11-20",
+        "title": "Lan tỏa hương vị phở Việt Nam, gắn kết tình hữu nghị Việt Nam - Campuchia tại Sihanoukville",
+        "url": "https://baomoi.com/lan-toa-huong-vi-pho-viet-nam-gan-ket-tinh-huu-nghi-viet-nam-campuchia-tai-sihanoukville-c56563121.epi",
+        "host": "baomoi.com",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-20",
+        "title": "Бетонный призрак бухты Муравьиной: как менеджмент камбоджийской NagaCorp отмыл сотни миллионов долларов на своем проекте в Приморье",
+        "url": "https://argumenti.ru/economics/betonnyy-prizrak-buhty-muravinoy-kak-menedzhment-kambodzhiyskoy-nagacorp-otmyl-1015306",
+        "host": "argumenti.ru",
+        "language": "rus"
+      },
+      {
+        "day": "2026-11-20",
+        "title": "US sanctions Cambodia, Myanmar scam enablers",
+        "url": "http://www.vietnamtribune.com/news/279444500/us-sanctions-cambodia-myanmar-scam-enablers",
+        "host": "vietnamtribune.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-20",
+        "title": "Cambodia, EU launch clean energy push for garment, footwear, travel goods industry",
+        "url": "http://www.cambodiantimes.com/news/279444956/cambodia-eu-launch-clean-energy-push-for-garment-footwear-travel-goods-industry",
+        "host": "cambodiantimes.com",
+        "language": "eng"
+      },
       {
         "day": "2026-11-19",
         "title": "Cambogia, la rivoluzione agricola passa dai dati",
@@ -233,55 +286,6 @@
         "title": "Anwar highlights Thailand, Cambodia's commitment to dialogue towards lasting peace",
         "url": "https://www.thestar.com.my/news/nation/2026/11/18/anwar-highlights-thailand-cambodias-commitment-to-dialogue-towards-lasting-peace",
         "host": "thestar.com.my",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-18",
-        "title": "Cambodia's Interior ministry finds more than 2,200 duplicate personnel",
-        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/18/cambodia039s-interior-ministry-finds-more-than-2200-duplicate-personnel",
-        "host": "thestar.com.my",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-18",
-        "title": "Mother's desperate plea for help after autistic son detained in Cambodian jail",
-        "url": "https://www.lbc.co.uk/article/mothers-plea-help-cambodia-jail-5HjdnDg_2/",
-        "host": "lbc.co.uk",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-18",
-        "title": "Mark and Vicki Nye to serve in Cambodia Phnom Penh Mission",
-        "url": "http://www.rexburgstandardjournal.com/lifestyles/announcements/mark-and-vicki-nye-to-serve-in-cambodia-phnom-penh-mission/article_c80c2ca4-ca2b-4112-8edc-7d84b3c649d8.html",
-        "host": "rexburgstandardjournal.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-18",
-        "title": "Cambodia's fuel imports surge 62 pct in 1st 10 months of 2026",
-        "url": "http://www.cambodiantimes.com/news/279440296/cambodia-fuel-imports-surge-62-pct-in-1st-10-months-of-2026",
-        "host": "cambodiantimes.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-17",
-        "title": "Emmanuel et Brigitte Macron posent avec Miss Cambodge : le selfie retouché par IA provoque l'hilarité des internautes",
-        "url": "https://www.voici.fr/celebrites/emmanuel-et-brigitte-macron-posent-avec-miss-cambodge-le-selfie-retouche-par-ia-provoque-l-hilarite-des-internautes-831580",
-        "host": "voici.fr",
-        "language": "fra"
-      },
-      {
-        "day": "2026-11-17",
-        "title": "เปิดเบื้องหลัง! 'โสภณ' กับ 2 นาทีมีค่า โต้ตอบ 'รองนายกฯ' ของกัมพูชา",
-        "url": "https://www.dailynews.co.th/news/6367514/",
-        "host": "dailynews.co.th",
-        "language": "tha"
-      },
-      {
-        "day": "2026-11-17",
-        "title": "1,000-yr-old Cambodian temple restored at Angkor complex",
-        "url": "http://www.cambodiantimes.com/news/279437893/1000-yr-old-cambodian-temple-restored-at-angkor-complex",
-        "host": "cambodiantimes.com",
         "language": "eng"
       }
     ]
@@ -3759,6 +3763,141 @@
           }
         ]
       }
+    },
+    {
+      "day": "2026-11-20",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 27244,
+      "rejected": 126,
+      "missing_titles": 68,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": -0.19633729405381564,
+        "urls": 7,
+        "groups": 7,
+        "content_review": {
+          "pending": 7
+        },
+        "publisher_types": {
+          "unreviewed": 6,
+          "newspaper": 1
+        },
+        "tone_without_each_language": {
+          "eng": -0.36883403376998253,
+          "rus": -0.11274246287002991,
+          "vie": -1.34430181208385,
+          "tha": 1.0157531016121801,
+          "fra": -0.22906017639611823
+        },
+        "tone_without_each_publisher": {
+          "cambodiantimes.com": -1.2247311720671132,
+          "vietnamtribune.com": 1.065438205480905,
+          "argumenti.ru": -0.11274246287002991,
+          "baomoi.com": -1.34430181208385,
+          "dailynews.co.th": 1.0157531016121801,
+          "ledevoir.com": -0.22906017639611823,
+          "travelwires.com": -0.5447167420526833
+        },
+        "positive_share": 42.857142857142854,
+        "languages": {
+          "eng": 3,
+          "rus": 1,
+          "vie": 1,
+          "tha": 1,
+          "fra": 1
+        },
+        "publishers": {
+          "cambodiantimes.com": 1,
+          "vietnamtribune.com": 1,
+          "argumenti.ru": 1,
+          "baomoi.com": 1,
+          "dailynews.co.th": 1,
+          "ledevoir.com": 1,
+          "travelwires.com": 1
+        },
+        "excluded": {
+          "known_domestic": 4
+        },
+        "unverified_urls": 6,
+        "largest_publisher": "cambodiantimes.com",
+        "largest_publisher_share": 14.285714285714286,
+        "tone_without_largest_publisher": -1.2247311720671132,
+        "topics": [
+          {
+            "label": "Borders",
+            "urls": 2
+          },
+          {
+            "label": "Government",
+            "urls": 1
+          },
+          {
+            "label": "Tourism",
+            "urls": 1
+          },
+          {
+            "label": "Education",
+            "urls": 1
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-20",
+            "title": "Emirates Gives Cambodian Kids Bags Made From Plane Cabins",
+            "url": "https://www.travelwires.com/emirates-gives-cambodian-kids-bags-made-from-plane-cabins/",
+            "host": "travelwires.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-20",
+            "title": "Québecor veut acheter Telus, PSPP et Carney au Cambodge et Robert Pattinson le nouveau James Bond: le Défi de l'info du 20 novembre 2026",
+            "url": "https://www.ledevoir.com/actualites/1026569/quebecor-sommet-francophonie-james-bond-defi-info-20-novembre",
+            "host": "ledevoir.com",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-20",
+            "title": "สั่งชะลอนำเข้า \"โค-กระบือ\" จากกัมพูชา สกัดโรคลัมปีสกินระบาด หวั่นกระทบปศุสัตว์ไทย",
+            "url": "https://www.dailynews.co.th/news/6375464/",
+            "host": "dailynews.co.th",
+            "language": "tha"
+          },
+          {
+            "day": "2026-11-20",
+            "title": "Lan tỏa hương vị phở Việt Nam, gắn kết tình hữu nghị Việt Nam - Campuchia tại Sihanoukville",
+            "url": "https://baomoi.com/lan-toa-huong-vi-pho-viet-nam-gan-ket-tinh-huu-nghi-viet-nam-campuchia-tai-sihanoukville-c56563121.epi",
+            "host": "baomoi.com",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-20",
+            "title": "Бетонный призрак бухты Муравьиной: как менеджмент камбоджийской NagaCorp отмыл сотни миллионов долларов на своем проекте в Приморье",
+            "url": "https://argumenti.ru/economics/betonnyy-prizrak-buhty-muravinoy-kak-menedzhment-kambodzhiyskoy-nagacorp-otmyl-1015306",
+            "host": "argumenti.ru",
+            "language": "rus"
+          },
+          {
+            "day": "2026-11-20",
+            "title": "US sanctions Cambodia, Myanmar scam enablers",
+            "url": "http://www.vietnamtribune.com/news/279444500/us-sanctions-cambodia-myanmar-scam-enablers",
+            "host": "vietnamtribune.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-20",
+            "title": "Cambodia, EU launch clean energy push for garment, footwear, travel goods industry",
+            "url": "http://www.cambodiantimes.com/news/279444956/cambodia-eu-launch-clean-energy-push-for-garment-footwear-travel-goods-industry",
+            "host": "cambodiantimes.com",
+            "language": "eng"
+          }
+        ]
+      }
     }
   ],
   "stop_reason": null,
@@ -3801,36 +3940,36 @@
       {
         "dimension": "language",
         "name": "vie",
-        "tone_without": 1.2430817271085666,
-        "absolute_change": 0.9649005236889299,
+        "tone_without": 0.8327670580508504,
+        "absolute_change": 1.119840900808011,
         "sign_reversal": false
       },
       {
         "dimension": "language",
         "name": "eng",
-        "tone_without": 2.590306451476544,
-        "absolute_change": 0.3823242006790477,
+        "tone_without": 2.44773041857169,
+        "absolute_change": 0.49512245971282876,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "baomoi.com",
-        "tone_without": 1.985734176083317,
-        "absolute_change": 0.2222480747141795,
-        "sign_reversal": false
-      },
-      {
-        "dimension": "language",
-        "name": "fra",
-        "tone_without": 2.4198599688007194,
-        "absolute_change": 0.21187771800322297,
+        "tone_without": 1.637985484051172,
+        "absolute_change": 0.31462247480768935,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "baodautu.vn",
-        "tone_without": 2.018166522338127,
-        "absolute_change": 0.18981572845936956,
+        "tone_without": 1.7548117837764092,
+        "absolute_change": 0.19779617508245217,
+        "sign_reversal": false
+      },
+      {
+        "dimension": "language",
+        "name": "tha",
+        "tone_without": 2.119324681259718,
+        "absolute_change": 0.16671672240085678,
         "sign_reversal": false
       }
     ],

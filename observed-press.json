@@ -1,104 +1,74 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-23T20:20:50.252993+00:00",
+  "generated_at": "2026-11-24T20:20:55.729195+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-22",
+  "latest_complete_day": "2026-11-23",
   "age_days": 1,
-  "window_start": "2026-11-16",
-  "window_end": "2026-11-22",
+  "window_start": "2026-11-17",
+  "window_end": "2026-11-23",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": 1.3525928142805512,
-    "urls": 39,
-    "groups": 36,
+    "tone": 0.8326200626683129,
+    "urls": 27,
+    "groups": 27,
     "content_review": {
-      "pending": 39
+      "pending": 27
     },
     "publisher_types": {
-      "unreviewed": 34,
+      "unreviewed": 20,
       "newspaper": 4,
-      "news_agency_portal": 1
+      "news_agency_portal": 2,
+      "broadcaster_news_portal": 1
     },
     "tone_without_each_language": {
-      "deu": 1.625932200811016,
-      "vie": 0.06026552793097333,
-      "bul": 1.346826776257775,
-      "fra": 1.298943954830863,
-      "rus": 1.4295248829545066,
-      "eng": 2.0925320427419285,
-      "tha": 1.631117518530499,
-      "ita": 1.236798168819841
+      "eng": 3.0350948812467746,
+      "tha": 1.1698158403192624,
+      "fra": 0.8202725987853037,
+      "vie": -1.1741388103762231,
+      "ita": 0.6567437033322707,
+      "rus": 0.89148646050773
     },
     "tone_without_each_publisher": {
-      "hna.de": 1.3525928142805512,
-      "baochinhphu.vn": 1.1874077135253267,
-      "baomoi.com": 0.957101443646192,
-      "duma.bg": 1.346826776257775,
-      "fr.allafrica.com": 1.3069291897705342,
-      "genk.vn": 1.3497689417758276,
-      "giadinh.suckhoedoisong.vn": 1.5674906423694577,
-      "golosarmenii.am": 1.368741135408477,
-      "lnt.ma": 1.296226446775435,
-      "tienphong.vn": 1.3554166867852748,
-      "vietbao.vn": 1.1518965132375574,
-      "elysee.fr": 1.2940152570875463,
-      "laprovence.com": 1.4326461907548196,
-      "merkur.de": 1.3525928142805512,
-      "owensoundsuntimes.com": 1.3525928142805512,
-      "recorder.ca": 1.3525928142805512,
-      "cambodiantimes.com": 1.3742695238618878,
-      "dailynews.co.th": 1.631117518530499,
-      "voici.fr": 1.3603836487768113,
-      "rexburgstandardjournal.com": 1.3055240375457098,
-      "lbc.co.uk": 1.5246337009550477,
-      "thestar.com.my": 1.2914327736297693,
-      "eva.vn": 1.1471607927503042,
-      "la1ere.franceinfo.fr": 1.342258731423261,
-      "opinione.it": 1.236798168819841,
-      "vietnamtribune.com": 1.613152331581771,
-      "argumenti.ru": 1.4111785027216108,
-      "ledevoir.com": 1.3912383232599956,
-      "travelwires.com": 1.3371257691474416,
-      "bignewsnetwork.com": 1.4824237335943422,
-      "baotintuc.vn": 1.251208701609262,
-      "cafebiz.vn": 1.2396348247177216,
-      "english.news.cn": 1.5143910326196015
+      "cambodiantimes.com": 0.7974289443911208,
+      "dailynews.co.th": 1.1698158403192624,
+      "voici.fr": 0.8231087725051154,
+      "rexburgstandardjournal.com": 0.7492592958478634,
+      "lbc.co.uk": 1.044214611975818,
+      "thestar.com.my": 0.7078445872542704,
+      "baomoi.com": 0.4955716751167224,
+      "eva.vn": 0.536078004777125,
+      "la1ere.franceinfo.fr": 0.798709845298413,
+      "opinione.it": 0.6567437033322707,
+      "vietnamtribune.com": 1.1633743070502534,
+      "argumenti.ru": 0.89148646050773,
+      "ledevoir.com": 0.8646439112324789,
+      "travelwires.com": 0.7918000883886561,
+      "bignewsnetwork.com": 0.9873935020671761,
+      "baotintuc.vn": 0.6761424974718757,
+      "cafebiz.vn": 0.6605622785794176,
+      "english.news.cn": 1.7168047511078064,
+      "vov.vn": 0.7438223244423058,
+      "vietstock.vn": 0.686271558947083,
+      "vtv.vn": 0.5504510618283619
     },
-    "positive_share": 63.888888888888886,
+    "positive_share": 59.25925925925926,
     "languages": {
-      "deu": 2,
-      "vie": 11,
-      "bul": 1,
-      "fra": 7,
-      "rus": 2,
-      "eng": 13,
+      "eng": 12,
       "tha": 2,
-      "ita": 1
+      "fra": 3,
+      "vie": 8,
+      "ita": 1,
+      "rus": 1
     },
     "publishers": {
-      "hna.de": 1,
-      "baochinhphu.vn": 1,
-      "baomoi.com": 3,
-      "duma.bg": 1,
-      "fr.allafrica.com": 1,
-      "genk.vn": 1,
-      "giadinh.suckhoedoisong.vn": 1,
-      "golosarmenii.am": 1,
-      "lnt.ma": 1,
-      "tienphong.vn": 1,
-      "vietbao.vn": 1,
-      "elysee.fr": 1,
-      "laprovence.com": 1,
-      "merkur.de": 1,
-      "owensoundsuntimes.com": 1,
-      "recorder.ca": 1,
       "cambodiantimes.com": 3,
       "dailynews.co.th": 2,
       "voici.fr": 1,
       "rexburgstandardjournal.com": 1,
       "lbc.co.uk": 1,
       "thestar.com.my": 2,
+      "baomoi.com": 2,
       "eva.vn": 1,
       "la1ere.franceinfo.fr": 1,
       "opinione.it": 1,
@@ -109,42 +79,73 @@
       "bignewsnetwork.com": 1,
       "baotintuc.vn": 1,
       "cafebiz.vn": 1,
-      "english.news.cn": 1
+      "english.news.cn": 2,
+      "vov.vn": 1,
+      "vietstock.vn": 1,
+      "vtv.vn": 1
     },
     "excluded": {
-      "known_domestic": 6
+      "known_domestic": 7
     },
-    "unverified_urls": 33,
-    "largest_publisher": "baomoi.com",
-    "largest_publisher_share": 7.6923076923076925,
-    "tone_without_largest_publisher": 0.957101443646192,
+    "unverified_urls": 20,
+    "largest_publisher": "cambodiantimes.com",
+    "largest_publisher_share": 11.11111111111111,
+    "tone_without_largest_publisher": 0.7974289443911208,
     "topics": [
       {
-        "label": "Economy & trade",
-        "urls": 13
-      },
-      {
         "label": "Government",
-        "urls": 12
-      },
-      {
-        "label": "Education",
-        "urls": 12
+        "urls": 9
       },
       {
         "label": "Conflict & violence",
-        "urls": 9
+        "urls": 7
+      },
+      {
+        "label": "Education",
+        "urls": 6
       },
       {
         "label": "Borders",
         "urls": 5
       },
       {
+        "label": "Economy & trade",
+        "urls": 4
+      },
+      {
         "label": "Tourism",
-        "urls": 3
+        "urls": 2
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-23",
+        "title": "Sắc màu văn hóa Khmer tại Giải đua ghe ngo Cần Thơ",
+        "url": "https://vtv.vn/sac-mau-van-hoa-khmer-tai-giai-dua-ghe-ngo-can-tho-100261123132141828.htm",
+        "host": "vtv.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-23",
+        "title": "Campuchia thúc đẩy số hóa thương mại và hội nhập kinh tế khu vực",
+        "url": "https://vietstock.vn/2026/11/campuchia-thuc-day-so-hoa-thuong-mai-va-hoi-nhap-kinh-te-khu-vuc-1329-1516868.htm",
+        "host": "vietstock.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-23",
+        "title": "Cambodia charges provincial deputy police chief, 6 accomplices in 874 kg drug bust-Xinhua",
+        "url": "https://english.news.cn/20261123/36849a3852c24860833ab13752dd8f06/c.html",
+        "host": "english.news.cn",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-23",
+        "title": "Campuchia đặt mục tiêu hàng nội địa chiếm 80% thị phần",
+        "url": "http://vov.vn/kinh-te/campuchia-dat-muc-tieu-hang-noi-dia-chiem-80-thi-phan-post1352499.vov",
+        "host": "vov.vn",
+        "language": "vie"
+      },
       {
         "day": "2026-11-22",
         "title": "Cambodia confirms 1st new mpox case after 30-month absence-Xinhua",
@@ -200,34 +201,6 @@
         "url": "https://baomoi.com/lan-toa-huong-vi-pho-viet-nam-gan-ket-tinh-huu-nghi-viet-nam-campuchia-tai-sihanoukville-c56563121.epi",
         "host": "baomoi.com",
         "language": "vie"
-      },
-      {
-        "day": "2026-11-20",
-        "title": "Бетонный призрак бухты Муравьиной: как менеджмент камбоджийской NagaCorp отмыл сотни миллионов долларов на своем проекте в Приморье",
-        "url": "https://argumenti.ru/economics/betonnyy-prizrak-buhty-muravinoy-kak-menedzhment-kambodzhiyskoy-nagacorp-otmyl-1015306",
-        "host": "argumenti.ru",
-        "language": "rus"
-      },
-      {
-        "day": "2026-11-20",
-        "title": "US sanctions Cambodia, Myanmar scam enablers",
-        "url": "http://www.vietnamtribune.com/news/279444500/us-sanctions-cambodia-myanmar-scam-enablers",
-        "host": "vietnamtribune.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-20",
-        "title": "Cambodia, EU launch clean energy push for garment, footwear, travel goods industry",
-        "url": "http://www.cambodiantimes.com/news/279444956/cambodia-eu-launch-clean-energy-push-for-garment-footwear-travel-goods-industry",
-        "host": "cambodiantimes.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-19",
-        "title": "Cambogia, la rivoluzione agricola passa dai dati",
-        "url": "https://opinione.it/hi-tech/2026/11/19/domenico-letizia-cambogia-rivoluzione-agricola-digitale/",
-        "host": "opinione.it",
-        "language": "ita"
       }
     ]
   },
@@ -3970,6 +3943,105 @@
           }
         ]
       }
+    },
+    {
+      "day": "2026-11-23",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 25115,
+      "rejected": 0,
+      "missing_titles": 48,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": -0.045243939398166955,
+        "urls": 4,
+        "groups": 4,
+        "content_review": {
+          "pending": 4
+        },
+        "publisher_types": {
+          "broadcaster_news_portal": 1,
+          "news_agency_portal": 1,
+          "unreviewed": 2
+        },
+        "tone_without_each_language": {
+          "vie": -16.1290322580645,
+          "eng": 5.31601883349061
+        },
+        "tone_without_each_publisher": {
+          "vov.vn": -1.107445671379056,
+          "english.news.cn": 5.31601883349061,
+          "vietstock.vn": -1.6062189723376525,
+          "vtv.vn": -2.7833299473665694
+        },
+        "positive_share": 75.0,
+        "languages": {
+          "vie": 3,
+          "eng": 1
+        },
+        "publishers": {
+          "vov.vn": 1,
+          "english.news.cn": 1,
+          "vietstock.vn": 1,
+          "vtv.vn": 1
+        },
+        "excluded": {
+          "known_domestic": 1
+        },
+        "unverified_urls": 2,
+        "largest_publisher": "vov.vn",
+        "largest_publisher_share": 25.0,
+        "tone_without_largest_publisher": -1.107445671379056,
+        "topics": [
+          {
+            "label": "Economy & trade",
+            "urls": 2
+          },
+          {
+            "label": "Government",
+            "urls": 2
+          },
+          {
+            "label": "Borders",
+            "urls": 2
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-23",
+            "title": "Sắc màu văn hóa Khmer tại Giải đua ghe ngo Cần Thơ",
+            "url": "https://vtv.vn/sac-mau-van-hoa-khmer-tai-giai-dua-ghe-ngo-can-tho-100261123132141828.htm",
+            "host": "vtv.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-23",
+            "title": "Campuchia thúc đẩy số hóa thương mại và hội nhập kinh tế khu vực",
+            "url": "https://vietstock.vn/2026/11/campuchia-thuc-day-so-hoa-thuong-mai-va-hoi-nhap-kinh-te-khu-vuc-1329-1516868.htm",
+            "host": "vietstock.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-23",
+            "title": "Cambodia charges provincial deputy police chief, 6 accomplices in 874 kg drug bust-Xinhua",
+            "url": "https://english.news.cn/20261123/36849a3852c24860833ab13752dd8f06/c.html",
+            "host": "english.news.cn",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-23",
+            "title": "Campuchia đặt mục tiêu hàng nội địa chiếm 80% thị phần",
+            "url": "http://vov.vn/kinh-te/campuchia-dat-muc-tieu-hang-noi-dia-chiem-80-thi-phan-post1352499.vov",
+            "host": "vov.vn",
+            "language": "vie"
+          }
+        ]
+      }
     }
   ],
   "stop_reason": null,
@@ -4007,41 +4079,43 @@
   },
   "quality_watch": {
     "version": "press-quality-watch-v1",
-    "review_triggers": [],
+    "review_triggers": [
+      "composition_sign_reversal"
+    ],
     "largest_composition_changes": [
       {
         "dimension": "language",
-        "name": "vie",
-        "tone_without": 0.06026552793097333,
-        "absolute_change": 1.2923272863495778,
+        "name": "eng",
+        "tone_without": 3.0350948812467746,
+        "absolute_change": 2.2024748185784615,
         "sign_reversal": false
       },
       {
         "dimension": "language",
-        "name": "eng",
-        "tone_without": 2.0925320427419285,
-        "absolute_change": 0.7399392284613773,
-        "sign_reversal": false
+        "name": "vie",
+        "tone_without": -1.1741388103762231,
+        "absolute_change": 2.006758873044536,
+        "sign_reversal": true
       },
       {
         "dimension": "publisher",
-        "name": "baomoi.com",
-        "tone_without": 0.957101443646192,
-        "absolute_change": 0.39549137063435924,
+        "name": "english.news.cn",
+        "tone_without": 1.7168047511078064,
+        "absolute_change": 0.8841846884394935,
         "sign_reversal": false
       },
       {
         "dimension": "language",
         "name": "tha",
-        "tone_without": 1.631117518530499,
-        "absolute_change": 0.2785247042499477,
+        "tone_without": 1.1698158403192624,
+        "absolute_change": 0.33719577765094955,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "dailynews.co.th",
-        "tone_without": 1.631117518530499,
-        "absolute_change": 0.2785247042499477,
+        "tone_without": 1.1698158403192624,
+        "absolute_change": 0.33719577765094955,
         "sign_reversal": false
       }
     ],

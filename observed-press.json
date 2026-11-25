@@ -1,79 +1,83 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-24T20:20:55.729195+00:00",
+  "generated_at": "2026-11-25T20:20:59.198444+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-23",
+  "latest_complete_day": "2026-11-24",
   "age_days": 1,
-  "window_start": "2026-11-17",
-  "window_end": "2026-11-23",
+  "window_start": "2026-11-18",
+  "window_end": "2026-11-24",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": 0.8326200626683129,
-    "urls": 27,
-    "groups": 27,
+    "tone": 2.1734877135835053,
+    "urls": 35,
+    "groups": 33,
     "content_review": {
-      "pending": 27
+      "pending": 35
     },
     "publisher_types": {
-      "unreviewed": 20,
+      "unreviewed": 28,
       "newspaper": 4,
       "news_agency_portal": 2,
       "broadcaster_news_portal": 1
     },
     "tone_without_each_language": {
-      "eng": 3.0350948812467746,
-      "tha": 1.1698158403192624,
-      "fra": 0.8202725987853037,
-      "vie": -1.1741388103762231,
-      "ita": 0.6567437033322707,
-      "rus": 0.89148646050773
+      "eng": 4.358431349408392,
+      "vie": -0.4646813656982332,
+      "fra": 2.254564053120463,
+      "ita": 2.072490285714071,
+      "rus": 2.2632187759191313,
+      "tha": 2.554644329558241
     },
     "tone_without_each_publisher": {
-      "cambodiantimes.com": 0.7974289443911208,
-      "dailynews.co.th": 1.1698158403192624,
-      "voici.fr": 0.8231087725051154,
-      "rexburgstandardjournal.com": 0.7492592958478634,
-      "lbc.co.uk": 1.044214611975818,
-      "thestar.com.my": 0.7078445872542704,
-      "baomoi.com": 0.4955716751167224,
-      "eva.vn": 0.536078004777125,
-      "la1ere.franceinfo.fr": 0.798709845298413,
-      "opinione.it": 0.6567437033322707,
-      "vietnamtribune.com": 1.1633743070502534,
-      "argumenti.ru": 0.89148646050773,
-      "ledevoir.com": 0.8646439112324789,
-      "travelwires.com": 0.7918000883886561,
-      "bignewsnetwork.com": 0.9873935020671761,
-      "baotintuc.vn": 0.6761424974718757,
-      "cafebiz.vn": 0.6605622785794176,
-      "english.news.cn": 1.7168047511078064,
-      "vov.vn": 0.7438223244423058,
-      "vietstock.vn": 0.686271558947083,
-      "vtv.vn": 0.5504510618283619
+      "cambodiantimes.com": 2.205891855535423,
+      "rexburgstandardjournal.com": 2.1476592046329896,
+      "lbc.co.uk": 2.387310398986953,
+      "thestar.com.my": 2.159369920566709,
+      "baomoi.com": 1.0635117954579554,
+      "eva.vn": 1.9744494056380146,
+      "la1ere.franceinfo.fr": 2.1878377760615613,
+      "opinione.it": 2.072490285714071,
+      "vietnamtribune.com": 2.4841276512349317,
+      "argumenti.ru": 2.2632187759191313,
+      "dailynews.co.th": 2.554644329558241,
+      "ledevoir.com": 2.2414092046329896,
+      "travelwires.com": 2.1822235985723837,
+      "bignewsnetwork.com": 2.3411432471861815,
+      "baotintuc.vn": 2.0882518059525,
+      "cafebiz.vn": 2.075592878102378,
+      "english.news.cn": 2.9730474720614963,
+      "vov.vn": 2.143241665365974,
+      "vietstock.vn": 2.096481668401106,
+      "vtv.vn": 1.9861275144921446,
+      "japanherald.com": 2.1734877135835053,
+      "southeastasiapost.com": 2.1734877135835053,
+      "serbian.cri.cn": 2.1336505839433344,
+      "vietnamnet.vn": 2.090199527213635,
+      "leral.net": 2.167225228371862,
+      "parisstaronline.com": 2.1298673673012165
     },
-    "positive_share": 59.25925925925926,
+    "positive_share": 66.66666666666667,
     "languages": {
-      "eng": 12,
-      "tha": 2,
+      "eng": 16,
+      "vie": 12,
       "fra": 3,
-      "vie": 8,
       "ita": 1,
-      "rus": 1
+      "rus": 1,
+      "tha": 2
     },
     "publishers": {
       "cambodiantimes.com": 3,
-      "dailynews.co.th": 2,
-      "voici.fr": 1,
       "rexburgstandardjournal.com": 1,
       "lbc.co.uk": 1,
       "thestar.com.my": 2,
-      "baomoi.com": 2,
+      "baomoi.com": 5,
       "eva.vn": 1,
       "la1ere.franceinfo.fr": 1,
       "opinione.it": 1,
       "vietnamtribune.com": 1,
       "argumenti.ru": 1,
+      "dailynews.co.th": 2,
       "ledevoir.com": 1,
       "travelwires.com": 1,
       "bignewsnetwork.com": 1,
@@ -82,124 +86,130 @@
       "english.news.cn": 2,
       "vov.vn": 1,
       "vietstock.vn": 1,
-      "vtv.vn": 1
+      "vtv.vn": 1,
+      "japanherald.com": 1,
+      "southeastasiapost.com": 1,
+      "serbian.cri.cn": 1,
+      "vietnamnet.vn": 1,
+      "leral.net": 1,
+      "parisstaronline.com": 1
     },
     "excluded": {
-      "known_domestic": 7
+      "known_domestic": 8
     },
-    "unverified_urls": 20,
-    "largest_publisher": "cambodiantimes.com",
-    "largest_publisher_share": 11.11111111111111,
-    "tone_without_largest_publisher": 0.7974289443911208,
+    "unverified_urls": 28,
+    "largest_publisher": "baomoi.com",
+    "largest_publisher_share": 14.285714285714286,
+    "tone_without_largest_publisher": 1.0635117954579554,
     "topics": [
       {
-        "label": "Government",
+        "label": "Education",
+        "urls": 11
+      },
+      {
+        "label": "Economy & trade",
         "urls": 9
+      },
+      {
+        "label": "Government",
+        "urls": 8
       },
       {
         "label": "Conflict & violence",
         "urls": 7
       },
       {
-        "label": "Education",
-        "urls": 6
-      },
-      {
         "label": "Borders",
         "urls": 5
       },
       {
-        "label": "Economy & trade",
-        "urls": 4
-      },
-      {
         "label": "Tourism",
-        "urls": 2
+        "urls": 3
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-24",
+        "title": "Meet the women driving change in Cambodia, one tuk-tuk tour at a time",
+        "url": "https://www.parisstaronline.com:443/travel/tuk-tuk-lady-with-g-adventures-cambodia",
+        "host": "parisstaronline.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-24",
+        "title": "FrancoTech 2026 : l'UN-CHK porte la voix du Sénégal numérique à Phnom Penh",
+        "url": "https://www.leral.net/FrancoTech-2026-l-UN-CHK-porte-la-voix-du-Senegal-numerique-a-Phnom-Penh_a411831.html",
+        "host": "leral.net",
+        "language": "fra"
+      },
+      {
+        "day": "2026-11-24",
+        "title": "ด่วน! CPALL เตรียมยุติ 7-Elevenในกัมพูชา มีผล 25 ธ.ค.นี้",
+        "url": "https://www.dailynews.co.th/news/6386968/",
+        "host": "dailynews.co.th",
+        "language": "tha"
+      },
+      {
+        "day": "2026-11-24",
+        "title": "Đồng bào Khmer tạ ơn thần Mặt Trăng trong lễ Oóc Om Bóc",
+        "url": "https://vietnamnet.vn/dong-bao-khmer-ta-on-than-mat-trang-trong-le-ooc-om-boc-2578028.html",
+        "host": "vietnamnet.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-24",
+        "title": "Kina i Kambodža će izvesti zajedničku vojnu vežbu",
+        "url": "https://serbian.cri.cn/2026/11/24/ARTI1795509436583837",
+        "host": "serbian.cri.cn",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-24",
+        "title": "Vĩnh Long xác lập kỷ lục Việt Nam về trình diễn nhạc Ngũ âm Khmer",
+        "url": "https://baomoi.com/vinh-long-xac-lap-ky-luc-viet-nam-ve-trinh-dien-nhac-ngu-am-khmer-c56587319.epi",
+        "host": "baomoi.com",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-24",
+        "title": "Tin tức Khmer - Hình ảnh và video clip nóng mới nhất",
+        "url": "https://baomoi.com/khmer-t49879788.epi",
+        "host": "baomoi.com",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-24",
+        "title": "An Giang lan tỏa giá trị nghệ thuật truyền thống Khmer Nam Bộ",
+        "url": "https://baomoi.com/an-giang-lan-toa-gia-tri-nghe-thuat-truyen-thong-khmer-nam-bo-c56588782.epi",
+        "host": "baomoi.com",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-24",
+        "title": "Xi's APEC proposals chart course for regional stability, shared development: Cambodian expert",
+        "url": "http://www.southeastasiapost.com/news/279451748/xi-apec-proposals-chart-course-for-regional-stability-shared-development-cambodian-expert",
+        "host": "southeastasiapost.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-24",
+        "title": "Xi's APEC proposals chart course for regional stability, shared development: Cambodian expert",
+        "url": "http://www.japanherald.com/news/279451748/xi-apec-proposals-chart-course-for-regional-stability-shared-development-cambodian-expert",
+        "host": "japanherald.com",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-24",
+        "title": "Xi's APEC proposals chart course for regional stability, shared development: Cambodian expert",
+        "url": "http://www.cambodiantimes.com/news/279451748/xi-apec-proposals-chart-course-for-regional-stability-shared-development-cambodian-expert",
+        "host": "cambodiantimes.com",
+        "language": "eng"
+      },
       {
         "day": "2026-11-23",
         "title": "Sắc màu văn hóa Khmer tại Giải đua ghe ngo Cần Thơ",
         "url": "https://vtv.vn/sac-mau-van-hoa-khmer-tai-giai-dua-ghe-ngo-can-tho-100261123132141828.htm",
         "host": "vtv.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-11-23",
-        "title": "Campuchia thúc đẩy số hóa thương mại và hội nhập kinh tế khu vực",
-        "url": "https://vietstock.vn/2026/11/campuchia-thuc-day-so-hoa-thuong-mai-va-hoi-nhap-kinh-te-khu-vuc-1329-1516868.htm",
-        "host": "vietstock.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-11-23",
-        "title": "Cambodia charges provincial deputy police chief, 6 accomplices in 874 kg drug bust-Xinhua",
-        "url": "https://english.news.cn/20261123/36849a3852c24860833ab13752dd8f06/c.html",
-        "host": "english.news.cn",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-23",
-        "title": "Campuchia đặt mục tiêu hàng nội địa chiếm 80% thị phần",
-        "url": "http://vov.vn/kinh-te/campuchia-dat-muc-tieu-hang-noi-dia-chiem-80-thi-phan-post1352499.vov",
-        "host": "vov.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-11-22",
-        "title": "Cambodia confirms 1st new mpox case after 30-month absence-Xinhua",
-        "url": "https://english.news.cn/asiapacific/20261122/d493e7bb8bc74473b5e18879db87c237/c.html",
-        "host": "english.news.cn",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-21",
-        "title": "Di sản văn hóa Khmer Nam bộ qua ba thế hệ trong một gia đình",
-        "url": "https://cafebiz.vn/ba-the-he-trong-mot-gia-dinh-gin-giu-di-san-van-hoa-khmer-nam-bo-176261121133825109.chn",
-        "host": "cafebiz.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-11-21",
-        "title": "Sức nóng trên bến dưới thuyền trước ngày hội lớn của đồng bào Khmer Nam Bộ",
-        "url": "https://baotintuc.vn/suc-nong-tren-ben-duoi-thuyen-truoc-le-hoi-ok-om-bok-post1404790.html",
-        "host": "baotintuc.vn",
-        "language": "vie"
-      },
-      {
-        "day": "2026-11-21",
-        "title": "Cambodia fuel prices fall further amid easing global oil prices",
-        "url": "http://www.bignewsnetwork.com/news/279446797/cambodia-fuel-prices-fall-further-amid-easing-global-oil-prices",
-        "host": "bignewsnetwork.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-20",
-        "title": "Emirates Gives Cambodian Kids Bags Made From Plane Cabins",
-        "url": "https://www.travelwires.com/emirates-gives-cambodian-kids-bags-made-from-plane-cabins/",
-        "host": "travelwires.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-20",
-        "title": "Québecor veut acheter Telus, PSPP et Carney au Cambodge et Robert Pattinson le nouveau James Bond: le Défi de l'info du 20 novembre 2026",
-        "url": "https://www.ledevoir.com/actualites/1026569/quebecor-sommet-francophonie-james-bond-defi-info-20-novembre",
-        "host": "ledevoir.com",
-        "language": "fra"
-      },
-      {
-        "day": "2026-11-20",
-        "title": "สั่งชะลอนำเข้า \"โค-กระบือ\" จากกัมพูชา สกัดโรคลัมปีสกินระบาด หวั่นกระทบปศุสัตว์ไทย",
-        "url": "https://www.dailynews.co.th/news/6375464/",
-        "host": "dailynews.co.th",
-        "language": "tha"
-      },
-      {
-        "day": "2026-11-20",
-        "title": "Lan tỏa hương vị phở Việt Nam, gắn kết tình hữu nghị Việt Nam - Campuchia tại Sihanoukville",
-        "url": "https://baomoi.com/lan-toa-huong-vi-pho-viet-nam-gan-ket-tinh-huu-nghi-viet-nam-campuchia-tai-sihanoukville-c56563121.epi",
-        "host": "baomoi.com",
         "language": "vie"
       }
     ]
@@ -4042,6 +4052,163 @@
           }
         ]
       }
+    },
+    {
+      "day": "2026-11-24",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 27286,
+      "rejected": 8,
+      "missing_titles": 71,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": 5.669832423915039,
+        "urls": 11,
+        "groups": 9,
+        "content_review": {
+          "pending": 11
+        },
+        "publisher_types": {
+          "unreviewed": 10,
+          "newspaper": 1
+        },
+        "tone_without_each_language": {
+          "eng": 6.5113185631803265,
+          "vie": 2.866893535301894,
+          "tha": 6.3785614769044185,
+          "fra": 6.081825571859909
+        },
+        "tone_without_each_publisher": {
+          "cambodiantimes.com": 5.669832423915039,
+          "japanherald.com": 5.669832423915039,
+          "southeastasiapost.com": 5.669832423915039,
+          "baomoi.com": 3.1955295589881367,
+          "serbian.cri.cn": 5.9475269941457976,
+          "vietnamnet.vn": 5.7737227672269995,
+          "dailynews.co.th": 6.3785614769044185,
+          "leral.net": 6.081825571859909,
+          "parisstaronline.com": 5.932394127577326
+        },
+        "positive_share": 88.88888888888889,
+        "languages": {
+          "eng": 5,
+          "vie": 4,
+          "tha": 1,
+          "fra": 1
+        },
+        "publishers": {
+          "cambodiantimes.com": 1,
+          "japanherald.com": 1,
+          "southeastasiapost.com": 1,
+          "baomoi.com": 3,
+          "serbian.cri.cn": 1,
+          "vietnamnet.vn": 1,
+          "dailynews.co.th": 1,
+          "leral.net": 1,
+          "parisstaronline.com": 1
+        },
+        "excluded": {
+          "known_domestic": 1
+        },
+        "unverified_urls": 10,
+        "largest_publisher": "baomoi.com",
+        "largest_publisher_share": 27.272727272727273,
+        "tone_without_largest_publisher": 3.1955295589881367,
+        "topics": [
+          {
+            "label": "Economy & trade",
+            "urls": 5
+          },
+          {
+            "label": "Education",
+            "urls": 5
+          },
+          {
+            "label": "Tourism",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-24",
+            "title": "Meet the women driving change in Cambodia, one tuk-tuk tour at a time",
+            "url": "https://www.parisstaronline.com:443/travel/tuk-tuk-lady-with-g-adventures-cambodia",
+            "host": "parisstaronline.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-24",
+            "title": "FrancoTech 2026 : l'UN-CHK porte la voix du Sénégal numérique à Phnom Penh",
+            "url": "https://www.leral.net/FrancoTech-2026-l-UN-CHK-porte-la-voix-du-Senegal-numerique-a-Phnom-Penh_a411831.html",
+            "host": "leral.net",
+            "language": "fra"
+          },
+          {
+            "day": "2026-11-24",
+            "title": "ด่วน! CPALL เตรียมยุติ 7-Elevenในกัมพูชา มีผล 25 ธ.ค.นี้",
+            "url": "https://www.dailynews.co.th/news/6386968/",
+            "host": "dailynews.co.th",
+            "language": "tha"
+          },
+          {
+            "day": "2026-11-24",
+            "title": "Đồng bào Khmer tạ ơn thần Mặt Trăng trong lễ Oóc Om Bóc",
+            "url": "https://vietnamnet.vn/dong-bao-khmer-ta-on-than-mat-trang-trong-le-ooc-om-boc-2578028.html",
+            "host": "vietnamnet.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-24",
+            "title": "Kina i Kambodža će izvesti zajedničku vojnu vežbu",
+            "url": "https://serbian.cri.cn/2026/11/24/ARTI1795509436583837",
+            "host": "serbian.cri.cn",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-24",
+            "title": "Vĩnh Long xác lập kỷ lục Việt Nam về trình diễn nhạc Ngũ âm Khmer",
+            "url": "https://baomoi.com/vinh-long-xac-lap-ky-luc-viet-nam-ve-trinh-dien-nhac-ngu-am-khmer-c56587319.epi",
+            "host": "baomoi.com",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-24",
+            "title": "Tin tức Khmer - Hình ảnh và video clip nóng mới nhất",
+            "url": "https://baomoi.com/khmer-t49879788.epi",
+            "host": "baomoi.com",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-24",
+            "title": "An Giang lan tỏa giá trị nghệ thuật truyền thống Khmer Nam Bộ",
+            "url": "https://baomoi.com/an-giang-lan-toa-gia-tri-nghe-thuat-truyen-thong-khmer-nam-bo-c56588782.epi",
+            "host": "baomoi.com",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-24",
+            "title": "Xi's APEC proposals chart course for regional stability, shared development: Cambodian expert",
+            "url": "http://www.southeastasiapost.com/news/279451748/xi-apec-proposals-chart-course-for-regional-stability-shared-development-cambodian-expert",
+            "host": "southeastasiapost.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-24",
+            "title": "Xi's APEC proposals chart course for regional stability, shared development: Cambodian expert",
+            "url": "http://www.japanherald.com/news/279451748/xi-apec-proposals-chart-course-for-regional-stability-shared-development-cambodian-expert",
+            "host": "japanherald.com",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-24",
+            "title": "Xi's APEC proposals chart course for regional stability, shared development: Cambodian expert",
+            "url": "http://www.cambodiantimes.com/news/279451748/xi-apec-proposals-chart-course-for-regional-stability-shared-development-cambodian-expert",
+            "host": "cambodiantimes.com",
+            "language": "eng"
+          }
+        ]
+      }
     }
   ],
   "stop_reason": null,
@@ -4085,37 +4252,37 @@
     "largest_composition_changes": [
       {
         "dimension": "language",
-        "name": "eng",
-        "tone_without": 3.0350948812467746,
-        "absolute_change": 2.2024748185784615,
-        "sign_reversal": false
+        "name": "vie",
+        "tone_without": -0.4646813656982332,
+        "absolute_change": 2.6381690792817385,
+        "sign_reversal": true
       },
       {
         "dimension": "language",
-        "name": "vie",
-        "tone_without": -1.1741388103762231,
-        "absolute_change": 2.006758873044536,
-        "sign_reversal": true
+        "name": "eng",
+        "tone_without": 4.358431349408392,
+        "absolute_change": 2.184943635824887,
+        "sign_reversal": false
+      },
+      {
+        "dimension": "publisher",
+        "name": "baomoi.com",
+        "tone_without": 1.0635117954579554,
+        "absolute_change": 1.10997591812555,
+        "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "english.news.cn",
-        "tone_without": 1.7168047511078064,
-        "absolute_change": 0.8841846884394935,
+        "tone_without": 2.9730474720614963,
+        "absolute_change": 0.799559758477991,
         "sign_reversal": false
       },
       {
         "dimension": "language",
         "name": "tha",
-        "tone_without": 1.1698158403192624,
-        "absolute_change": 0.33719577765094955,
-        "sign_reversal": false
-      },
-      {
-        "dimension": "publisher",
-        "name": "dailynews.co.th",
-        "tone_without": 1.1698158403192624,
-        "absolute_change": 0.33719577765094955,
+        "tone_without": 2.554644329558241,
+        "absolute_change": 0.3811566159747355,
         "sign_reversal": false
       }
     ],

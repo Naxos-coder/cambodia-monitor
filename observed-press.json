@@ -1,92 +1,94 @@
 {
   "method": "gkg-fixed-slots-title-language-day-v1",
-  "generated_at": "2026-11-26T20:21:02.080571+00:00",
+  "generated_at": "2026-11-27T20:20:55.605333+00:00",
   "status": "current",
-  "latest_complete_day": "2026-11-25",
+  "latest_complete_day": "2026-11-26",
   "age_days": 1,
-  "window_start": "2026-11-19",
-  "window_end": "2026-11-25",
+  "window_start": "2026-11-20",
+  "window_end": "2026-11-26",
   "window_complete_days": 7,
   "expected_window_days": 7,
   "summary": {
-    "tone": 2.3706519376567248,
-    "urls": 39,
-    "groups": 36,
+    "tone": 1.7149724308064282,
+    "urls": 41,
+    "groups": 38,
     "content_review": {
-      "pending": 39
+      "pending": 41
     },
     "publisher_types": {
-      "unreviewed": 34,
+      "unreviewed": 35,
       "newspaper": 2,
-      "news_agency_portal": 2,
+      "news_agency_portal": 3,
       "broadcaster_news_portal": 1
     },
     "tone_without_each_language": {
-      "vie": 0.1608361053218131,
-      "fra": 2.4622817212424333,
-      "ita": 2.3925983660338432,
-      "eng": 3.925300748817357,
-      "rus": 2.4583250296228174,
-      "tha": 2.729774983049761,
-      "deu": 2.3651247769011294
+      "eng": 3.002259802087835,
+      "rus": 1.7801853689675893,
+      "vie": -0.21951461802917058,
+      "tha": 2.017717556630391,
+      "fra": 1.7443073647302276,
+      "deu": 1.6920229677443706,
+      "ita": 1.782962058320123,
+      "spa": 1.7908377311457173,
+      "zho": 1.8015418272632302
     },
     "tone_without_each_publisher": {
-      "baomoi.com": 1.3998937251680377,
-      "eva.vn": 2.194307319651511,
-      "la1ere.franceinfo.fr": 2.389405258324468,
-      "opinione.it": 2.283944695721048,
-      "cambodiantimes.com": 2.2676983937604605,
-      "vietnamtribune.com": 2.6602988584829776,
-      "argumenti.ru": 2.4583250296228174,
-      "dailynews.co.th": 2.729774983049761,
-      "ledevoir.com": 2.4383848501612024,
-      "travelwires.com": 2.3842722960486484,
-      "bignewsnetwork.com": 2.529570260495549,
-      "baotintuc.vn": 2.2983552285104687,
-      "cafebiz.vn": 2.2867813516189286,
-      "english.news.cn": 3.111260201214494,
-      "vov.vn": 2.348631671402788,
-      "vietstock.vn": 2.3058796741777656,
-      "vtv.vn": 2.2049844477467158,
-      "japanherald.com": 2.3706519376567248,
-      "southeastasiapost.com": 2.3706519376567248,
-      "serbian.cri.cn": 2.3398626826735174,
-      "vietnamnet.vn": 2.300136002234935,
-      "leral.net": 2.370559500436743,
-      "parisstaronline.com": 2.3364037417435815,
-      "eng.chinamil.com.cn": 2.4048980829075046,
-      "laosnews.net": 2.3706519376567248,
-      "nypost.com": 2.3725520654344083,
-      "unternehmen-heute.de": 2.3651247769011294,
-      "freemalaysiatoday.com": 2.3969769826663785,
-      "ilfattoquotidiano.it": 2.3990921193164088,
-      "zazoom.it": 2.4496113446882863
+      "cambodiantimes.com": 1.5998628755842785,
+      "vietnamtribune.com": 1.9712416935650383,
+      "argumenti.ru": 1.7801853689675893,
+      "baomoi.com": 0.756804025314812,
+      "dailynews.co.th": 2.017717556630391,
+      "ledevoir.com": 1.76132303704444,
+      "travelwires.com": 1.7101354858568887,
+      "bignewsnetwork.com": 1.8475795062796325,
+      "baotintuc.vn": 1.6288625841315836,
+      "cafebiz.vn": 1.6179143222071537,
+      "english.news.cn": 2.542655566883153,
+      "vov.vn": 1.676421381462156,
+      "vietstock.vn": 1.6359803030060536,
+      "vtv.vn": 1.5405388725983036,
+      "japanherald.com": 1.7149724308064282,
+      "southeastasiapost.com": 1.7149724308064282,
+      "serbian.cri.cn": 1.6681263921236569,
+      "vietnamnet.vn": 1.6305470998168898,
+      "leral.net": 1.6971639224402215,
+      "parisstaronline.com": 1.664854420973717,
+      "eng.chinamil.com.cn": 1.710889373162704,
+      "laosnews.net": 1.7149724308064282,
+      "nypost.com": 1.699048781221797,
+      "unternehmen-heute.de": 1.6920229677443706,
+      "freemalaysiatoday.com": 1.7221534326574441,
+      "ilfattoquotidiano.it": 1.724154237596662,
+      "zazoom.it": 1.7719426940295193,
+      "agroinformacion.com": 1.7908377311457173,
+      "en.people.cn": 1.6662690146750598,
+      "soha.vn": 1.769755806787662,
+      "orientaldaily.com.my": 1.8015418272632302
     },
-    "positive_share": 75.0,
+    "positive_share": 65.78947368421052,
     "languages": {
-      "vie": 12,
-      "fra": 3,
-      "ita": 3,
-      "eng": 17,
+      "eng": 19,
       "rus": 1,
+      "vie": 12,
       "tha": 2,
-      "deu": 1
+      "fra": 2,
+      "deu": 1,
+      "ita": 2,
+      "spa": 1,
+      "zho": 1
     },
     "publishers": {
-      "baomoi.com": 5,
-      "eva.vn": 1,
-      "la1ere.franceinfo.fr": 1,
-      "opinione.it": 1,
       "cambodiantimes.com": 2,
       "vietnamtribune.com": 1,
       "argumenti.ru": 1,
+      "baomoi.com": 5,
       "dailynews.co.th": 2,
       "ledevoir.com": 1,
       "travelwires.com": 1,
       "bignewsnetwork.com": 2,
       "baotintuc.vn": 1,
       "cafebiz.vn": 1,
-      "english.news.cn": 2,
+      "english.news.cn": 3,
       "vov.vn": 1,
       "vietstock.vn": 1,
       "vtv.vn": 1,
@@ -102,42 +104,88 @@
       "unternehmen-heute.de": 1,
       "freemalaysiatoday.com": 1,
       "ilfattoquotidiano.it": 1,
-      "zazoom.it": 1
+      "zazoom.it": 1,
+      "agroinformacion.com": 1,
+      "en.people.cn": 1,
+      "soha.vn": 1,
+      "orientaldaily.com.my": 1
     },
     "excluded": {
-      "known_domestic": 8
+      "known_domestic": 11
     },
-    "unverified_urls": 34,
+    "unverified_urls": 35,
     "largest_publisher": "baomoi.com",
-    "largest_publisher_share": 12.820512820512821,
-    "tone_without_largest_publisher": 1.3998937251680377,
+    "largest_publisher_share": 12.195121951219512,
+    "tone_without_largest_publisher": 0.756804025314812,
     "topics": [
       {
         "label": "Economy & trade",
-        "urls": 10
+        "urls": 12
       },
       {
         "label": "Education",
-        "urls": 9
+        "urls": 8
       },
       {
-        "label": "Government",
-        "urls": 6
+        "label": "Borders",
+        "urls": 5
       },
       {
         "label": "Conflict & violence",
         "urls": 5
       },
       {
-        "label": "Borders",
+        "label": "Government",
         "urls": 4
       },
       {
         "label": "Tourism",
-        "urls": 3
+        "urls": 2
       }
     ],
     "headlines": [
+      {
+        "day": "2026-11-26",
+        "title": "疑与国人杯葛泰国货有关！　7-11将从柬埔寨\"消失\" | 国际 | 東方網 馬來西亞東方日報",
+        "url": "https://www.orientaldaily.com.my/news/international/2026/11/26/865854",
+        "host": "orientaldaily.com.my",
+        "language": "zho"
+      },
+      {
+        "day": "2026-11-26",
+        "title": "Xe tăng chiến đấu chủ lực Trung Quốc lần đầu xuất hiện ở Campuchia: Tập trận chung có gì đáng chú ý?",
+        "url": "https://soha.vn/xe-tang-chien-dau-chu-luc-trung-quoc-lan-dau-xuat-hien-o-campuchia-tap-tran-chung-co-gi-dang-chu-y-198261126105214106.htm",
+        "host": "soha.vn",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-26",
+        "title": "Proposed U.S. tariffs could raise costs, hinder global trade: Cambodian experts-Xinhua",
+        "url": "https://english.news.cn/20261126/4954f2cf3d8748658ac83aa8ec25af74/c.html",
+        "host": "english.news.cn",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-26",
+        "title": "China, Cambodia conduct joint military exercise - People's Daily Online",
+        "url": "https://en.people.cn/n3/2026/1126/c90000-20523222.html",
+        "host": "en.people.cn",
+        "language": "eng"
+      },
+      {
+        "day": "2026-11-26",
+        "title": "Trưởng ấp người Khmer gõ cửa từng nhà, đưa chính sách đến với đồng bào",
+        "url": "https://baomoi.com/truong-ap-nguoi-khmer-go-cua-tung-nha-dua-chinh-sach-den-voi-dong-bao-c56607974.epi",
+        "host": "baomoi.com",
+        "language": "vie"
+      },
+      {
+        "day": "2026-11-26",
+        "title": "Denuncian que la UE importa este año más de 821.000 toneladas de arroz de Mercosur, Myanmar y Camboya un 22% inferiores a los de 2025",
+        "url": "https://agroinformacion.com/denuncian-que-la-ue-importa-este-ano-mas-de-821-000-toneladas-de-arroz-de-mercosur-myanmar-y-camboya-un-22-inferiores-a-los-de-2025/",
+        "host": "agroinformacion.com",
+        "language": "spa"
+      },
       {
         "day": "2026-11-25",
         "title": "Tremila militari e un'esercitazione senza precedenti insieme alla Cambogia | la Cina mostra di nuovo i muscoli fuori dai suoi confini",
@@ -179,48 +227,6 @@
         "url": "http://www.laosnews.net/news/279454078/cambodia-sihanoukville-china-joint-exercise",
         "host": "laosnews.net",
         "language": "eng"
-      },
-      {
-        "day": "2026-11-25",
-        "title": "CAMBODIA-SIHANOUKVILLE-CHINA-JOINT EXERCISE",
-        "url": "http://www.bignewsnetwork.com/news/279454078/cambodia-sihanoukville-china-joint-exercise",
-        "host": "bignewsnetwork.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-25",
-        "title": "Chinese participating troops arrive in Cambodia for exercise Golden Dragon-2026",
-        "url": "http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16501984.html",
-        "host": "eng.chinamil.com.cn",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-25",
-        "title": "Type 96A tanks make rare appearance as China-Cambodia 'Golden Dragon' drills kick off at joint training center in Port Ream",
-        "url": "http://eng.chinamil.com.cn/2025xb/C_251453/F_251462/16502013.html",
-        "host": "eng.chinamil.com.cn",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-24",
-        "title": "Meet the women driving change in Cambodia, one tuk-tuk tour at a time",
-        "url": "https://www.parisstaronline.com:443/travel/tuk-tuk-lady-with-g-adventures-cambodia",
-        "host": "parisstaronline.com",
-        "language": "eng"
-      },
-      {
-        "day": "2026-11-24",
-        "title": "FrancoTech 2026 : l'UN-CHK porte la voix du Sénégal numérique à Phnom Penh",
-        "url": "https://www.leral.net/FrancoTech-2026-l-UN-CHK-porte-la-voix-du-Senegal-numerique-a-Phnom-Penh_a411831.html",
-        "host": "leral.net",
-        "language": "fra"
-      },
-      {
-        "day": "2026-11-24",
-        "title": "ด่วน! CPALL เตรียมยุติ 7-Elevenในกัมพูชา มีผล 25 ธ.ค.นี้",
-        "url": "https://www.dailynews.co.th/news/6386968/",
-        "host": "dailynews.co.th",
-        "language": "tha"
       }
     ]
   },
@@ -4347,6 +4353,130 @@
           }
         ]
       }
+    },
+    {
+      "day": "2026-11-26",
+      "files_ok": 16,
+      "errors": 0,
+      "rows": 27144,
+      "rejected": 5,
+      "missing_titles": 48,
+      "complete_sample": true,
+      "expected_files": 16,
+      "metrics": {
+        "tone": -0.1853521162445817,
+        "urls": 6,
+        "groups": 6,
+        "content_review": {
+          "pending": 6
+        },
+        "publisher_types": {
+          "unreviewed": 5,
+          "news_agency_portal": 1
+        },
+        "tone_without_each_language": {
+          "spa": -0.004013803144044037,
+          "vie": -0.6119388691977076,
+          "eng": -0.3111240351297925,
+          "zho": 0.07519650812554993
+        },
+        "tone_without_each_publisher": {
+          "agroinformacion.com": -0.004013803144044037,
+          "baomoi.com": -0.55195359145801,
+          "en.people.cn": -0.92582230502691,
+          "english.news.cn": 0.45450053742957797,
+          "soha.vn": -0.16002004339365405,
+          "orientaldaily.com.my": 0.07519650812554993
+        },
+        "positive_share": 33.333333333333336,
+        "languages": {
+          "spa": 1,
+          "vie": 2,
+          "eng": 2,
+          "zho": 1
+        },
+        "publishers": {
+          "agroinformacion.com": 1,
+          "baomoi.com": 1,
+          "en.people.cn": 1,
+          "english.news.cn": 1,
+          "soha.vn": 1,
+          "orientaldaily.com.my": 1
+        },
+        "excluded": {
+          "known_domestic": 3
+        },
+        "unverified_urls": 5,
+        "largest_publisher": "agroinformacion.com",
+        "largest_publisher_share": 16.666666666666668,
+        "tone_without_largest_publisher": -0.004013803144044037,
+        "topics": [
+          {
+            "label": "Economy & trade",
+            "urls": 3
+          },
+          {
+            "label": "Conflict & violence",
+            "urls": 2
+          },
+          {
+            "label": "Government",
+            "urls": 1
+          },
+          {
+            "label": "Borders",
+            "urls": 1
+          },
+          {
+            "label": "Education",
+            "urls": 1
+          }
+        ],
+        "headlines": [
+          {
+            "day": "2026-11-26",
+            "title": "疑与国人杯葛泰国货有关！　7-11将从柬埔寨\"消失\" | 国际 | 東方網 馬來西亞東方日報",
+            "url": "https://www.orientaldaily.com.my/news/international/2026/11/26/865854",
+            "host": "orientaldaily.com.my",
+            "language": "zho"
+          },
+          {
+            "day": "2026-11-26",
+            "title": "Xe tăng chiến đấu chủ lực Trung Quốc lần đầu xuất hiện ở Campuchia: Tập trận chung có gì đáng chú ý?",
+            "url": "https://soha.vn/xe-tang-chien-dau-chu-luc-trung-quoc-lan-dau-xuat-hien-o-campuchia-tap-tran-chung-co-gi-dang-chu-y-198261126105214106.htm",
+            "host": "soha.vn",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-26",
+            "title": "Proposed U.S. tariffs could raise costs, hinder global trade: Cambodian experts-Xinhua",
+            "url": "https://english.news.cn/20261126/4954f2cf3d8748658ac83aa8ec25af74/c.html",
+            "host": "english.news.cn",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-26",
+            "title": "China, Cambodia conduct joint military exercise - People's Daily Online",
+            "url": "https://en.people.cn/n3/2026/1126/c90000-20523222.html",
+            "host": "en.people.cn",
+            "language": "eng"
+          },
+          {
+            "day": "2026-11-26",
+            "title": "Trưởng ấp người Khmer gõ cửa từng nhà, đưa chính sách đến với đồng bào",
+            "url": "https://baomoi.com/truong-ap-nguoi-khmer-go-cua-tung-nha-dua-chinh-sach-den-voi-dong-bao-c56607974.epi",
+            "host": "baomoi.com",
+            "language": "vie"
+          },
+          {
+            "day": "2026-11-26",
+            "title": "Denuncian que la UE importa este año más de 821.000 toneladas de arroz de Mercosur, Myanmar y Camboya un 22% inferiores a los de 2025",
+            "url": "https://agroinformacion.com/denuncian-que-la-ue-importa-este-ano-mas-de-821-000-toneladas-de-arroz-de-mercosur-myanmar-y-camboya-un-22-inferiores-a-los-de-2025/",
+            "host": "agroinformacion.com",
+            "language": "spa"
+          }
+        ]
+      }
     }
   ],
   "stop_reason": null,
@@ -4384,41 +4514,43 @@
   },
   "quality_watch": {
     "version": "press-quality-watch-v1",
-    "review_triggers": [],
+    "review_triggers": [
+      "composition_sign_reversal"
+    ],
     "largest_composition_changes": [
       {
         "dimension": "language",
         "name": "vie",
-        "tone_without": 0.1608361053218131,
-        "absolute_change": 2.2098158323349115,
-        "sign_reversal": false
+        "tone_without": -0.21951461802917058,
+        "absolute_change": 1.9344870488355987,
+        "sign_reversal": true
       },
       {
         "dimension": "language",
         "name": "eng",
-        "tone_without": 3.925300748817357,
-        "absolute_change": 1.5546488111606322,
+        "tone_without": 3.002259802087835,
+        "absolute_change": 1.2872873712814066,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "baomoi.com",
-        "tone_without": 1.3998937251680377,
-        "absolute_change": 0.9707582124886871,
+        "tone_without": 0.756804025314812,
+        "absolute_change": 0.9581684054916163,
         "sign_reversal": false
       },
       {
         "dimension": "publisher",
         "name": "english.news.cn",
-        "tone_without": 3.111260201214494,
-        "absolute_change": 0.7406082635577693,
+        "tone_without": 2.542655566883153,
+        "absolute_change": 0.827683136076725,
         "sign_reversal": false
       },
       {
         "dimension": "language",
         "name": "tha",
-        "tone_without": 2.729774983049761,
-        "absolute_change": 0.3591230453930363,
+        "tone_without": 2.017717556630391,
+        "absolute_change": 0.3027451258239626,
         "sign_reversal": false
       }
     ],
